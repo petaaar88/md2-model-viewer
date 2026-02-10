@@ -1,0 +1,430 @@
+
+QUAKE2 PLUG-IN PLAYER MODEL	     	The Crow                   2-28-1998
+
+Author:		Tim "The Crow" Ivers
+
+E-Mail:		I_am_The_Crow@HoTMaiL.com (Notice a bit of a theme here?)
+
+Homepage:	<clan> www.geocities.com/TimesSquare/Battlefield/4893
+			Future updates will probably be here.
+
+Files:		Thecrow.pcx -	The skin
+		Thecrow_i.pcx - (or Thecro~1.pcx for all you funky dos users)
+				The Identifying picture thingie
+		tris.md2 - 	The "The Crow" player model, nothing new,
+				just a copy of the male model
+		weapon.md2 - 	The weapon, the Super Shotgun
+		weapon.pcx -	the weapon's skin
+		crowpic.pcx -	A picture. Yes it's been doctored.
+		A whole bunch of .wav's - Because of the 3.12 patch, now each new model
+				can have sounds! This is why the zip is so large now.
+		Thecrow.txt -	(Your reading it, you llama.)
+		
+Instructions:	Just unzip all these files to your "quake2/baseq2/players/" 
+		directory.
+
+Important: 	I am not responsible if you stuff this up, your actions are
+	   	your own and I take no responsability. How could you screw up
+		a PNPM install? Go figure.
+
+Other:  	This is dedicated to the late, great Brandon Lee. (especially
+		since I used HIS face for the skin, and HIS voice for some of the sounds.)
+
+		If someone logs onto your server as "The Crow [MFH]", please
+		change your skin to something else. I worked hard on this
+		skin, and I want all to see me in my full glory before I send
+		them home in a box.
+
+		I know there is another Crow skin out and I don't mean to insult him/her,
+		but basicly, it's all wrong.  I should know.  Ive only watched the movie like
+		9 million times.  
+		
+		The MFH on my skin's arm stands for "Maniacs From Hell", 
+		which is the nick name for my clan, DysfunkshunaL.
+		
+		If you're intrested in joining DysfunkshunaL, email me.
+		(THAT MEANS YOU SHADOW!!!!!)
+
+		No, we are not named after the band 'Dysfunkshunal'. 
+		
+		Thanks to the Tsunami guy, I got the model from there.
+
+		Thanks to the LoknLode skin, I used it's armor.	
+
+KNOWN BUGS:	On some computers, once you install the plug-in correctly,
+		you still won't be able to select it. This is a problem with
+		all plug-in's, not just mine. To correct this, goto the 
+		console and type "skin thecrow/thecrow".  You should see the 
+		icon in deathmatch, and you will be wearing my skin.
+
+		THERE IS NOW A REMEDY FOR THIS!!! Just delete anything in the /players dir,
+		so that there is just folders. It should work.
+		Example:
+
+		/players
+			/male
+			/female
+			/kenny
+			/eric_c
+			/thecrow
+			/fuel
+			/etc....
+
+DISCLAIMER:	Skin authors MAY NOT use this skin as a base for other skins
+		UNLESS I get an email saying what you wanna do, and a copy of
+		the finished product. This skin is available for free 
+		distribution via BBS, FTP, and other free electronic means. 
+		This skin MAY be included in any CD-ROM or other product 
+		whose sales earn profit for their publishers, as long as I 
+		get a copy.
+
+PS: 		I used Gateway's layout for this text file. His email address
+		is:
+			gateway@mobsters.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you read this far down, you need a hobbie.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go away now, go frag someone.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Don't you listen?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alright. Lets play a game.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Do you like scary movies?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you're still here, you're an ABSOLUT dipshit. GO DOWNLOAD THE MODEL,
+STOP READING THE DAMN README FILE!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GO AWAY!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LLAMA!
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POSER!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRENDY!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JOHN TESH!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SPICE GIRL!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YOU WORSHIP HANSON!!!!

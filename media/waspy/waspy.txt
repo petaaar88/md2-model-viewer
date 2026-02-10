@@ -1,0 +1,44 @@
+12/21/99
+================================================================
+Model Name              : Waspinator
+installation directory  : quake2/baseq2/players/Waspy
+Author                  : DJ "Rattrap" Kehoe
+Skin Author : Some skinning done by Transmetal_Waspinator (guess which ones?)
+Email Address           : Rattraptm@hotmail.com
+
+Model description       : Waspinator, everyone's favorite predicon from Beast Wars Transformers that got blown to scrap in just about every ep of the show.  But now he's got a new biker-bot body and is happy as a vehicon in Beast Machines.
+
+Other info              : I never claimed to be a good skinner.
+
+Additional Credits to   : id Software, Hasbro, Mainframe entertainment
+
+Thanks to               : Pallinor(WindRazor) 
+================================================================
+* Play Information *
+
+New Sounds              : YES
+CTF Skins               : YES
+VWEP Support            : NO
+
+
+* Construction *
+Poly Count              : He's big 1337 polys
+Vert Count              : 908
+Skin Count              : 8
+Base                    : New model
+Editor used             : mdl
+Known Bugs              : may cause lagg on slower computers(biig on polys)
+Build/Animation time    : about 2 months of nonstop work
+
+
+* How to use this model *
+
+well becasue it is two files you have to extract them both into your quake2\baseq2\players\waspy folder
+
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Waspy is owned by Hasbro and mainframe and I think Takara 
+

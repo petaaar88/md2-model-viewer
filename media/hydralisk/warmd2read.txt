@@ -1,0 +1,9 @@
+Name: Hydralisk
+Disc: its the hydralisk from StarCraft.. original? no.
+Stuff: To install this model simply unzip it into the quake2/baseq2/players/hydralisk directory.
+
+other: Ok, i'd just like to say THANK GOD I'M DONE, and that this model truly sucks, not cause its not good.. (even though it prolly isn't) but becuase all the crap it put me through.. ewww.  i think i shoulda started with a humanoid ppm.. but here she is, in all her glory.. Hydralisk.
+
+Http://www.smithco.net/~warlord/
+warlord@smithco.net
+-----------------------------------------------------------------------

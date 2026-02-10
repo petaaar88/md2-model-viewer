@@ -1,0 +1,23 @@
+Volatile
+--------
+
+Skin for the Guard model.
+
+Installation
+------------
+Extract the archive into the baseq2/players/guard/ directory.
+
+About
+-----
+The skin looks really wierd in OpenGL, I dont know why...
+
+Author
+------
+Skin was made by Chill. Contact me at:
+
+Email	chill@mail.bip.net
+ICQ	9665030
+Adress	Robert Halvarsson
+	Järnvägsgatan 17
+	360 30  Lammhult
+	Sweden

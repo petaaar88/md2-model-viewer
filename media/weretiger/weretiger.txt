@@ -1,0 +1,16 @@
+STriker RedWolf's WereTiger
+A Quake 2 PPM First Attempt
+
+Well, Brian Yee's Werewolf was lonely...
+
+WereTiger is a done-in-all-QME 3.1 production, streching over a few years as I found time to work on him.  You'll see *alot* of things wrong with him.  I know.  I'm planning on a WereTiger 2, named WereFeline, and a RedWolf with actual tail.  Oh, yeah, and Tux too.
+
+You'll find a skin there called Tygris.  It's a hand-drawn and scanned-in skin.  
+
+You'll also see a crouch that's really a crawl.  Think Duke Nukem 3d.
+
+The directory you should put this in is "weretiger".
+
+STriker RedWolf (RL name Kelly Price)
+http://www.furnation.com/striker
+tygris@yahoo.com

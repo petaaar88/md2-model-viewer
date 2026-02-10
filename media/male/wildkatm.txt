@@ -1,0 +1,32 @@
+
+QUAKE		QUAKE2 MALE SKIN   2/16/98
+-----   	----------------   -------	
+
+
+Artist:		Andy "Artist" Smith
+
+E-Mail:		smitac13@oneonta.edu
+
+HomePage: 	http://www.oneonta.edu/~smitac13/index.html  (when I get it back up)
+		
+Files:		wildcatm.pcx
+		wildcatm_i.pcx
+		quake.txt		
+
+Do This:	Just unzip all these files to your 
+		quake2/baseq2/players/male directory.
+		Then select the skin in multiplayer mode.
+
+Important:	I took the time to do these skins so I would like
+		it if you didn't touch them. That means no cut and
+		paste, make your own skins, don't steal other peoples.
+		Authors may not use these skins as a base for other skins.
+
+Disclamer: 	I am not to blame if you stuff this up, your 
+		actions are your own and I take no responsability.
+
+Usage:		My skins are for your "personal" usage, they are not clan skins. These
+		skins may be distributed only via the internet from sites ect where people
+		can download them. If you wish to distibute them in any other way my prior
+		consent must be obtained. This text file must be included with my skins.
+			

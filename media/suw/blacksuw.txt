@@ -1,0 +1,10 @@
+just unzip this files onto your SUW dir and you're ready to go
+
+this just, basically, a grayscale version of the original skin
+with some red.
+
+
+
+(if only i could change skins on the model without quake2 hangin :(,
+if u know how plz email me)
+leonlord@mindless.com

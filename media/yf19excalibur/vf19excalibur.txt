@@ -1,0 +1,78 @@
+11/3/98
+================================================================
+Model Name              : YF-19 Excalibur 
+installation directory  : quake2/baseq2/players/YF19_Excalibur 
+
+Author                  : Tom "Vermilion" Dunne
+
+Skin Author             : Edward Ramona
+
+Email Address           : dunnetg@email.uc.edu
+                          edward_ramona@hotmail.com
+
+Model description       : This is the YF-19 prototype for the
+                          VF-19 Excalibur variable fighter from
+                          the animated series Macross Plus.
+
+Other info              : Just a straight up adaptation of the
+		          YF-19 battroid, with a Studio HalfEye
+                          1/100 scale resin model used for 
+                          reference.  I tried to keep it as 
+                          accurate as possible, but there's only 
+                          so much curvature you can imply inside 
+                          800 polys.
+
+Additional Credits to   : Muchos nachos to id Softtware for 
+                          giving me reason to live and Kawamori
+                          Shoji for the entire Macross series. 
+
+Thanks to               : Thanks a ton to rogue13 and the guys 
+                          at the Q2PMP site for lotsa help with
+                          my first model.
+
+                          Extra special thanks to Dan Bickell,
+                          who really helped me big time with all
+                          my modeling woes. 
+                          
+                          Finally, thanks to my friend Aaron 
+                          "Mighty Bert" Rucker, who got me 
+                          hooked on Quake2, 3DS MAX, and
+                          Japanese animation - I'd never have 
+                          gotten started without ya...
+       
+================================================================
+* Play Information *
+
+New Sounds              : Nope. Mecha sounds bug the hell out of
+                          me in game.
+
+CTF Skins               : Nope. I didn't wanna ask Ed for too 
+                          much ;) 
+
+VWEP Support            : Nope. The YF-19 uses the GU-15 gunpod 
+                          exclusively.
+
+* Construction *
+
+Poly Count              : 746 polys
+Vert Count              : 476 Verts
+Skin Count              : 1
+
+Base                    : New model - all home cookin', baby.
+Editor used             : 3DS MAX 1.2, Q2 Modeller 0.9, NST 0.9b
+                          and Photoshop 4.0
+
+Known Bugs              : None.
+Build/Animation time    : Too long.  3+ months of random effort.
+
+
+* How to use this model *
+
+Unzip everything into quake2\baseq2\players\yf19_excalibur, select
+as usual in Quake2. 
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Play with it, have fun - just don't try to pass it off as your work
+or I'll have to get Biblical on your ass.  

@@ -1,0 +1,79 @@
+From: Tanner Owen [thetanman@home.com]
+Sent: Wednesday, November 10, 1999 8:03 PM
+To: q2pmp@planetquake.com
+Subject: Protoss Zealot contained within! FINALLY!
+
+November 10, 1999
+================================================================
+Model Name              : Protoss Zealot
+installation directory  : quake2/baseq2/players/zealot
+Author                  : Tanner Owen
+Skin Author :   : Abhoth, Mapped by Whisp
+Email Address           : thetanman@home.com
+
+Model description       : The infamous Protoss Zealot warrior.
+   : He has come to show that yes, the
+   : calculated blows of the Protoss are
+   : superior to the lesser species of the
+   : universe.
+
+Other info              : Special thanks to Wrath for helping me
+   : with optimizing the model.  I'll do
+   : better next time, I promise.  He took
+   : around 100 polys off the count with no
+   : noticeable decrease in quality.
+   : I also promise to skin my next model
+   : myself ;)  Thanks Whisp and Abhoth.
+
+Additional Credits to   : id Software and Blizzard Entertainment
+
+Thanks to               : Wrath (optimizing), Whisp (mapping),
+   : Abhoth (skins)
+================================================================
+* Play Information *
+
+New Sounds              : No, but who's gonna stop you from use
+   : of Bliz's free sound extractor for
+   : StarCraft and makin' your own?
+CTF Skins               : Yes
+VWEP Support            : No
+
+
+* Construction *
+Poly Count              : 816 faces
+Vert Count              : 545 vertices
+Skin Count              : 2 skins
+Base                    : New Model
+Editor used             : 3D Studio MAX 2.5, Q2Modeller, NST
+Known Bugs              : None.
+Build/Animation time    : too long
+
+
+* How to use this model *
+Unzip it to x:\quake2 directory and it will do rest.  To use it,
+modify your multiplayer settings and pick the model, then pick
+the skin you want to use.
+
+<INSTALLATION INFO>: Consult above. Final directory should be in
+quake2/baseq2/players/zealot
+
+This mesh is copyright 1999 to Tanner Owen, so CONTACT ME BEFORE
+MODIFYING, USING IN CONVERSIONS, OR ANYTHING ELSE.  You are free
+to make new skins and release them whenever you want.  This model
+may not be sold anywhere, anytime.
+
+StarCraft(R) and BroodWar(R) are registered trademarks of Blizzard
+Entertainment.  I'm pretty sure Protoss is, too.
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+It is illegal to say negative things about this model, cause you know
+it's helluva cool to frag with a Zealot.
+
+
+
+Tanner Owen
+thetanman@home.com
+
+
+ 

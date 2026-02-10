@@ -1,0 +1,29 @@
+Name of skin : Babe, Female skin
+Date         : January 29, 1998
+Author       : Ian Bagley
+E-mail       : Bige@Nildram.co.uk
+
+
+Files included
+-----------
+Babe.pcx
+Babe_i.pcx
+Babe.txt
+Babe.gif
+
+
+About skin
+------
+Edited this skin basing it on an existing skin. If you like this skin I have several more male and female skins that I have created using existing skins and a bit of imagination.
+The Gif file was made using an openGL md2 viewer and is included to show how the skin will look in a game.
+
+INSTALLATION
+------------
+Winzip or Pkunzip into your c:\quake2\baseq2\players\Female Dir.
+
+
+NOTES
+-----
+Please distrubute this skin throught the web..
+
+Feel free to use skin as it is. If you wish to amend the skin please have the courtesy to E Mail me first.

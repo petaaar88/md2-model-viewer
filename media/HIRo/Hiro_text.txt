@@ -1,0 +1,80 @@
+July 18, 1999
+================================================================
+Model Name             : HIRo
+installation directory  : quake2/baseq2/players
+Author                       : Knight_Errant
+Skin Author               : Knight_Errant
+Email Address           : mentoplat@hotmail.com
+
+Model description       : After seeing Turret, I wanted to make a
+                                      robot model for Quake 2.  So I created HIRo.
+
+		A <H>uman <I>nfantry <Ro>bot.  The model is
+		fully vweap'd.  It comes with a normal skin a camo
+		skin and the capture the flag skins.  
+
+		Before the counterstrike on Stroggos, Hyperdyne
+		systems in the Northern California province
+		had just completed assembly of the most advanced
+		military robot ever created.  Its human-like
+		appendages allow manipulation of any modern
+		infantry weapon, which it uses with great skill.
+		The HIRo is equipped with advanced heuristic
+		algorithms so it can learn and "think" in
+		dynamic situations.  Every HIRo is programmed
+		to follow the chain of command as well as any
+		modern soldier.  Though not meant as a replacement
+		to our hard fighting troops, the HIRo will make
+		a grand addition to our military arsenal.
+
+		The military bought 5000 and sent them to Stroggos
+		with the invasion force.  They have performed
+		superbly.  Now you can have one in your platoon
+		as well.
+
+		><---------------field addendum--------------><
+
+		Field modification report:  Capt. Carl Justice
+		                                           CMDR
+		                                           11th Engineering Battalion
+
+		We've made several modifications to the basic HIRO
+		Unit.  Namely, We've replaced the spot lamp with
+		a more reliable hardened and lighter version.
+		In addition, we removed a great deal of the heavier
+		internal armor and replaced the external plating
+		with a lighter plasma steel alloy.
+
+Other info              : The second version of my my first official Q2 player model.  I've done
+                                 some in game models for Q2 enhancements I programmed.
+
+Additional Credits to   : 
+
+Thanks to               : id Software, q2pmp, q2modeler author and Evil Bastard and the makers of NST.
+================================================================
+* Play Information *
+
+New Sounds              : Yes
+CTF Skins                  : Yes
+VWEP Support          : Yes
+
+
+* Construction *
+Poly Count                    : < 900   (previously ~1300)
+Vert Count                    : 
+Skin Count                    : 3
+Base                              : New model
+Editor used                    : q2mdl, NST
+Known Bugs                  : None that I know of
+Build/Animation time    : 1 week for original 1 additional week for second version
+
+
+* How to use this model *
+
+Unpack the zip file into your Quake2/baseq2/players directory.
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Please have some courtesy and don't steal my model.

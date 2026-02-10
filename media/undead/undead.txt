@@ -1,0 +1,49 @@
+1-13-1999
+================================================================
+Model Name              : Undead Warrior
+installation directory  : quake2/baseq2/players/undead
+Author                  : BloodRedJack
+Skin Author 		: Skizot
+Email Address           : delver@execpc.com - BloodRedJack
+			  skizot@hotmail.com - Skizot
+
+Model description       : A Quake 2 warrior back from the dead.
+			  He wants your blood. (No, not your copy
+			  of Blood2, I mean YOUR BLOOD)
+
+Other info              : Um... He is my first Quake 2 player model.
+			  He's not really the best, I made him a while
+			  back... my skills have improved much since...
+			  but oh well.
+
+Additional Credits to   : Skizot, for da skins... and ID Software...
+
+Thanks to               : Skizot... Me... Redhalk...
+================================================================
+* Play Information *
+
+New Sounds              : YES
+CTF Skins               : NOT YET! BUT THERE WILL BE!
+VWEP Support            : MAYBE LATER...
+
+
+* Construction *
+Poly Count              : 782
+Vert Count              : 432
+Skin Count              : 1 so far...
+Base                    : New model from scratch
+Editor used             : QME / QME 2
+Known Bugs              : Uh... mosquitoes, dung beetles, flys...
+Build/Animation time    : About a month.
+
+
+* How to use this model *
+
+Well, unzip it into x:\Quake2\baseq2\players\undead
+Then go into Q2 and open it up.
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+You cannot use this model anywhere else w/out my permission first.
+

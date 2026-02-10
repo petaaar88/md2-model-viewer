@@ -1,0 +1,44 @@
+5/22/99
+===============================================================
+Model Name          :	Uknown    "I really couldn’t think of a better name, as i DO NOT  	    		           know what it is"
+installation directory :	quake2/baseq2/players/ukn
+Author                    : 	"Ebola" Joe Woodrell 
+Skin Author            :	"Ebola" Joe Woodrell
+Email Address        :	Pyro@centuryinter.net 
+
+Model description  : Well im not really sure it is just unknown really
+
+
+Other info              : Took me forever to make this thing. so please mock it openly
+
+Additional Credits to   : ID Software, and myself
+
+Thanks to               : Me Myself I and a few other nameless rabble
+===============================================================
+* Play Information *
+
+New Sounds              : Umm no not this time
+CTF Skins               : YES   ;)
+VWEP Support            : NO not that ambitious
+
+
+* Construction *
+Poly Count              : 1048 (w/o weapon)
+Vert Count              : 588
+Skin Count              : 3  (1 + 2 ctf)
+Base                    :  defanantly new model
+Editor used             : truespace 4, q2mdlr, adobe photoshop 5.0
+Known Bugs              : face count,jump animation, a few of the frames were missing at 			  production time, so i copied the previous frame over the blank 			  space... so it may look like it jumps (think it hapened 2 times 			  maybeeeee 3) but it isn't noticble in game
+Build/Animation time    : too damn long (close to 3 weeks on and off work)
+
+
+* How to use this model *
+
+well im assuming that if you find this model you KNOW how to use it 
+
+------> directory   quake2/baseq2/players/ukn/
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+i give no authorization or permission to use this model as a ase for new ones, but if you ask i will probably say yes but for the time being no "if that makes any sense"
+

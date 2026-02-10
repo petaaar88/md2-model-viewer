@@ -1,0 +1,49 @@
+================================================================
+Qui Gon Jin Quake2 Player
+ by Oscar Fardreamer               email: fardreamer@swipnet.se
+................................................................
+
+================================================================
+Title                   : Qui Gon Jin 
+Author                  : Oscar Fardreamer 
+Email Address           : fardreamer@swipnet.se
+
+Description             : The Star Wars Jedi Qui Gon Jin
+                          
+Build Time              : 5 days 
+			 
+================================================================
+
+DESCRIPTION
+
+   A plugin player model for Quake2.
+
+
+INSTALLATION
+
+   Just unzip the files contained in the archive, to your players folder in a new created QuiGon folder
+   folder
+
+USING Qui-Gon IN QUAKE2
+
+   To use Qui-Gon go to the mutliplayer setup and choose the 
+   QuiGon model instead of the male or female players.
+   
+SKINS (extreamly needed)
+
+   Please feel free to create new skins for Qui-Gon. You can send them
+   to me by email: fardreamr@swipnet.se
+
+COMMENTS
+
+   This Model is a edited version of the sephiroth1 model made by Alex Wright (Strykerwolf)Email Address: alexhuhu@cruzio.com
+   I hope he does not mind... the thing is i really wanted to make a jedi skin but i did not find any fitting model so i took
+   one that was close and started to edit the model it has been changed ALOT since the sephiroth model... the skin im not that 
+   proud of but hey... this is my first atempt att making quake2 models...
+
+THE MAIN REASON I MADE THIS IS SO SOMEONE CAN SEE HOW MUCH A JEDI IS NEEDED...
+Im hoping someone will find this model and think.. damn i have to make a better one ;)
+
+Later
+
+Fardreamer

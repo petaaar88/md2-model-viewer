@@ -1,0 +1,85 @@
+================================================================
+Title                   : Leafs
+Author                  : Pascal "NORDS" Brulotte
+Email Address           : nords@laval.com
+ICQ			: 753314
+
+Made in CANADA
+
+Description             : Toronto Mapple Leafs Quake2 skin
+
+Additional Credits to   : id Software for rocking my life
+                          
+                          
+Build Time              : 2 days  
+Date			: February 7, 1998
+================================================================
+
+INSTALLATION
+
+   Just unzip the files contained in the archive, to your
+   Quake2 male folder. 
+
+   Ex: C:/quake/baseq2/players/male
+
+
+WHAT IS THIS ?
+
+   Its the uniform of the Toronto Mapple Leafs, 
+   the NHL (NATIONAL HOCKEY LEAGUE) ICE HOCKEY CLUB 
+   (for those who did not know :).
+   
+WHY USING THAT SKIN ?
+
+   Fight in group agains other sport(s) teams EX: The Toronto Mapple Leafs 
+   again Montreal Canadien :)
+
+COMMENTS
+
+   Feel free to distribute this skin to everybody. But please :) give 
+   credit to my work .. please please :) hihi Thanks
+
+
+
+
+
+================================================================
+Titre                   : Leafs
+Auteur                  : Pascal "NORDS" Brulotte
+Courier Electronique    : nords@laval.com
+ICQ			: 753314
+
+Fait au CANADA
+
+Description             : skin pour Quake2 des Mapple Leafs de Toronto
+
+Merite additionnel      : a id Software qui me permet de me defouler
+                          
+                          
+Fait en                 : 2 jours
+Date  			: 7 fevrier 1998
+================================================================
+
+INSTALLATION
+
+   Seulement deziper le fichier contenu dans cette archive, vers votre 
+   repertoire male dans Quake2. 
+
+   Ex: C:/quake/baseq2/players/male
+
+
+QU'EST-CE QUE C'EST ?
+
+   C'est l'uniforme des Mapple Leafs Toronto dans la LNH 
+   (LIGUE NATIONALE DE HOCKEY) un club de hockey sur glace 
+   (pour ceux qui ne le sauraient pas :).
+   
+POURQUOI UTILISER CETTE SKIN ?
+
+   Pour combattre d'autres groupes d'equipes de sport(s) EX: 
+   Les Mapple Leafs de Toronto contre le Canadien de Montreal :)
+
+COMMENTAIRE
+
+   Ne vous genez pas de distribuer cette skin a tout le monde. 
+   Mais SVP :) donnez-moi le merite de mon travail ... svp svp :) HAHA Merci

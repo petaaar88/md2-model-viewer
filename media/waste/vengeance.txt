@@ -1,0 +1,23 @@
+The Spirit od Vengeance skin......
+
+This skin is based on the Ghost Rider, the spirit of vengeance.
+
+Email any lavish compliments to me at chilelec@aia.net.au , 
+I would like to know if anyone actually uses it!!
+
+Credits to - Me (My quake2 names are, 'Streetscum' or 'Evil Ernie')
+	     Jawed Karim for his excellent program Jawmd2!!
+	     Nferno for his skin tool
+	     Id software (the skull is from the invulnerability skin)
+             And Jeff Garstecki for the Waste skin and the   	     
+             awesome Waste model
+        
+I am a member of Clan Bloodrose, come visit our web site at
+
+http://isis.aia.net.au/bloodrose/
+
+Challenge us, join us, get fragged by us!!!!
+
+Files included - Vengeance.txt (you are reading it)
+		 Vengeance.pcx (the skin)
+		 Vengeance_i.pcx (the skin tile)

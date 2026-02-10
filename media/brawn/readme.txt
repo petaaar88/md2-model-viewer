@@ -1,0 +1,29 @@
+
+================================================================
+Model Name              : brawn/morbo vwep.
+installation directory  : quake2/baseq2/players/morbo
+                          quake2/baseq2/players/brawn
+Author                  : ElBastardo Tassidar
+Email Address           : mccalla@bell.dialix.com.au
+
+Additional Credits to   : id Software, hentai
+
+Thanks to               : mum, sumaleth, idsoftware, hentai,
+                          planetquake, ghent and the rest of endor
+================================================================
+* Play Information *
+
+New Sounds              : <NO>
+CTF Skins               : <NO>
+VWEP Support            : <YES>
+
+* How to use this model *
+
+Place the .md2 files into your brawn/morbo player model directories and
+then load q2 normally it should if not your a yobbo.
+
+
+* Copyright / Permissions *
+
+I dont give a crap what you do with this just give me credit where credit is due.
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.

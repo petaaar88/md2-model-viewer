@@ -1,0 +1,70 @@
+As of 4/19/2000
+
+I made changes from the original project idea.  This was made as an honorable gesture to Neurobasher, who was very generous in allowing me use of his model after I had already completed this project.  They are as follows:
+
+When I did the skins I was using a Banshee card for video.  I got the color problems when I messed with the helmets, expecially for the red skins.  I recently changed over to a TnT Card.  Besides loving it absurdely, except that it's a little slower, it also seems to have corrected the color bug.  I am leaving the RA2 skins without colored helmets, because this may be a common problem on all 3DFX displays, not just the banshee.  While it's not TOO noticeable, if you compare the Phoenix2 skin to the Phoenix skin 3DFX users might just see the hue change.
+
+I changed the model folder from Doomguy to Doomunls.  That will prevent overwriting of the original Doomguy.  I feel that is only fair to Neuro for being such a nice guy rhat I not "replace" his model.  Took only a little extra work to do, and re-recording the demo, but it's only fair.
+
+If you WANT to see this version of the Doomguy for every Doomguy, then you can make a copy of the files in doomunls into your doomguy folder (which will replace them, I must warn!) if you so choose, but you must leave the doomunls folder intact because the vweaps will skin to the pcx files in THAT folder.  That holds true for the cyborg replacement as well.  Also, my skin names do not necessarily match those of the original since the Doomguy I downloaded had a different skin set, but they are on the same mesh, so they are all portable!  Neat, eh?  I leave this at the player's discretion as to what to do.
+
+Here's the whole development story.
+
+I WAS originally going to make the Doomguy model as an update for the existing one.  Story was, I started all this on a whim.  It began as an effort to get Doomguy into RA2 and Doom rockets and sounds into Quake II.  I redid skins from the model I had downloaded from 3Dbodyshop on telefragged.  A guy named Nefarious had posted it.  I liked the facemask skin from the Greenf skin, and put it in all the skins, and redid them, and added some RA2 skins.
+
+I had made a sound pak for Q2 based on Doom sounds already, then I got into models.  I kept having problems with the rockets skinning red.  That was because I didn't know about the little issue of models being linked to the skin's directory in the pak file.  Once that was solved, I decided to try to repair the skin problem with the chaingun model.  I found that, and fixed it, then I got to thinking...
+
+What about the weapons from Gen?  It would be cool to play Q2 with the Doom-style weapons for the Doomguy.  So I reworked them into Q2 weaps models as best I could.  Turned out rather well!  Then I decided I wanted to play around with the player model.  When I was done, I thought, Why should I keep this to myself?  I would like to share what I had done.  So I contacted Polycount to post this.  I found out I had made a boo-boo in not contacting the original authors first.  Whoops!  Newbie modeler that I am, I learn the hard way.  Well, that of course put the project on hold, and I had to track down all the model authors.
+
+I did not know Neurobasher was the original author.  I had originally downloaded it from 3dBodyshop (when it was up, I can't find it anymore) where it was posted by a guy named Nefarious.  I had assumed this model was just a part of Generations, and since I didn't see the credit page on Planetquake (dumb bird that I am didn't think to look) I was confused.  I had thought that since Gen was dead everything was public domain.  NEVER will I make such an assumption in the future.  But still, who WAS the author?  I got in touch with Lee'Mon, who referred me to Skid, who pointed me to the credits page.  So I got in touch with Neuro to get permission to continue.  He was ok, as long as I gave him credit.  For that I am very grateful!
+
+I was unable to contact Kricket.  I mailed him twice, but got no response, so I mailed Skid again, and he gave the ok.  So, if your reading this, you have it, and I am happy!
+
+*************************************************************
+
+Final note.  This is version 1.0 of Doom Unleashed.  Why give it a verison number?  Well, I am pending another project.  I intend to make 2.0 as a Doom-style Death Match conversion mod by porting the Generations Doom code to be stand alone.  It would basically make the weapons behave like the Gen Doom weaps, but would NOT include the contentious Gen stuff, like level maps and textures that got the project killed.  You COULD play Q2 single player with a Doomguy, but it would still be all the Q2 maps, monsters, etc.  There would other changes as well, of which I'll list a few that I intend here:
+
+* Accurize the pistol to the old Doom pistol specs
+
+* Same with Doom chaingun
+
+* Make weapons frames to use handedness instead of center only (I will use modified versions of my weapons models)
+
+* Default initial bullets to 50, and everyone starts with a pistol.
+
+* Add frames to the machinegun (Doom chaingun) code so it rotates through 6 frames instead of 2.
+
+* Rework ppm's punching frames
+
+* Add some server side variables:
+
+allow_railgun - allows a Q2 railgun, else railgun defaults to another weap, oh say the plasma gun 
+or maybe the BFG, or maybe a random spawn between the two.
+
+allow_quad - self explanatory, else Quad defaults to Berserk pack.  Berserk would last until death, reduce taken damage to half ONLY when using fist (so the rocket jockeys don't off you TOO easily) and not be droppable.
+
+allow_grenades - would enable grenades and launcher support, else weapon defaults to rocket launcher and grenades to rockets
+
+superhealth_countdown - just that, turns it on (like Q2) or off (stays at 200 like Doom)
+
+other options:
+
+Replace power armor with Mega Sphere
+Replace Adrenaline with Invisibility
+Replace minor health packs with blue bottles
+Replace armor shards with helmets
+
+One thing I would do is eliminate Gen's "Doom Use" function.  It was buggy, and crashed on several buttons.  Making the Q2 buttons act like Q2 buttons is best for DM anyway.
+
+More changes I can only guess at.  When should you expect this out?  Not any time soon.  I know nothing about C programming.  I basically hacked my way through the code to get my existing plasma gun gamex86.dll to work.  Also, I will need to check with Id on any potential legal issues before I even start, and then there's the question of time involved.  With so many people going over to Q3A, it will be tough getting fandom, but then the Doom crowd will most likely appreciate this once it's done, if I ever do it.  Any help, or suggestions are welcome.  I am great with models, but I don't know C, so any would-be coders who want to get involved are welcome to email me!
+
+4/26/2000
+
+Well, it appears in all the commotion, a very special individual was missed.  I got word from Dr.Doom that he was a bit upset at not being included in the credits.  Spamfish had made a skin, and Dr.Doom had authored the Doomguy skin that came with Gen after remaking the arms and helmet and redoing the skin map and adding more detail, as well as the original CTF skins. The Gen team had later used it and reworked some colors on it for the other skins that came with Gen.  Being such a large mod, and the confusion I ran into over the model author, etc, I am not surprised that someone got missed in all this.  However, it is unnacceptible that he not be mentioned, and given due credit, so it is great thanks I express to Del 'Dr. Doom' Chafe III for the original doomguy skins that were the basis for what I had downloaded, and later modified myself.
+
+That being said, let me also offer thanks to everyone who has worked on  anything I used in this project and apoligies to those I might have missed.  Everyone be sure to check the Generations credits page as well, for everything I did was based on that, and they are the ones who deserver the real credit here, or I would have no project at all.
+
+Here's what belongs to Dr. Doom, as per his email, and also stated in the phxdul.txt file
+
+Original Doomguy and CTF skins
+plasmagun, pistol, and bfg v_weapon skins

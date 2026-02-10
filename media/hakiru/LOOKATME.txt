@@ -1,0 +1,49 @@
+31-August-99
+================================================================
+Model Name              : Hakiru
+installation directory  : quake2/baseq2/players/Hakiru
+Author                  : Model by Crash and Frankie
+			  Animation by Frankie
+			  Skin and mapping by Frankie
+				
+Webpage                 : Http://www.3dpalette.com/section-9
+
+Model description       : Its your basic action figure, a big guy with 
+		          big shoulder pads and a big gun.
+
+
+Other info              : This model was made for the action quake2 contest.
+
+Additional Credits to   : Id Software, people who made lightwave, photoshop
+			  Nst and q2mdler
+
+================================================================
+* Play Information *
+
+New Sounds              : NO>
+CTF Skins               : NO>
+VWEP Support            : NO>
+
+
+* Construction *
+Poly Count              : <845 polys>
+Vert Count              : <454 Verts>
+Skin Count              : <1 Skins>
+Base                    : <New model>
+Editor used             : <Lightwave>
+Known Bugs              : <A bit of clipping and very small feet>
+Build/Animation time    : <A month, but not solid working>
+
+
+Put in quake2/baseq2/players/Hakiru dir
+
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+This model was created by Crash and Frankie but is probably going to be used in the
+action quake2 mod
+
+
+

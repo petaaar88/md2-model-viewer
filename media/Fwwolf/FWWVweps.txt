@@ -1,0 +1,183 @@
+Female Werewolf Custom Viewable Weapons (Vweps)
+
+02/22/00==================================================================================*
+
+installation directory  : quake2/baseq2/players/fwwolf
+
+Author                  : Scott A. H. Ruggels
+
+Skin Authors 		: Scott A. H. Ruggels,Maxx3D
+
+Email Address           : scott.ruggels@3do.com , edbado@rdwarf.com
+
+
+
+Vweps Readme.
+
+This is the packet of custom weapons for the released fwwolf.md2  these are custom weapons based closely on Warsaw Pact designs from WW2 through the 80's, and matched to their closest Q2 analogue. The BFG is the exception, being a wholly invented weapon.
+
+
+Installation
+Unzip this  to your quake2 directory (or one folder above). The correct path should look like
+
+Quake2\baseq2\players\fwwolf
+
+What's inside:
+
+W_blaster.md2  This is the Mauser  C-96 Pistol, otherwise known as the "Mauser Broom handle" .Very popular with Soviet Officers before WW2, they were often awarded as  tokens of esteem, and good service to early members of the soviet. Hard to manufacture, and done under license for a while, their use was discontinued by the time of WW2, along with the M1895 Mosin Nagant revolver. 
+Cal. 7.63 Mau
+Recoil operated
+5.63in. bbl.
+10 rd integral box magazine
+Muzzle velocity 1575 fps.
+
+W_Shotgun.md2  Lend lease equipped Winchester Model 1896 Pump shotgun. Supplied lend Lease during WW2 along with various other  military supplies, These were used by factory guards, though not widely issued. The Soviets never natively produced a pump shotgun in large numbers. 12 Ga.
+
+W_Sshotgun.md2 As this is the most commonly used weapon, I chose to make it the most commonly Issued weapon. This is the AKM. The stamped metal version of  the AK-47.  It's distinctive banana  shaped magazine, and  blunt fore end, became a graphic symbol of revolutionary movements of the brushfire wars of the mid 20th century and the opening decades of the 21st.  A very reliable, robust, and simple design.
+ Caliber, mm:7.62
+Length overall, mm: 870
+Barrel length, mm: 415 
+Sight radius, mm: 378 
+Magazine capacity, rds: 30
+Cyclic rate of fire, rds/min: 600
+Practical rate of fire, rds/min: 
+single shots: 400 
+bursts: 90-100
+Muzzle velocity, m/s: 700
+Effective range, m: 800
+Maximum range, m:1500
+Weight with empty magazine, g: 4,300
+Weight with loaded magazine, g: 4,876
+
+
+W_machinegun.md2. This is the Soviet PPSh41. The <<Papasha>> was a popular and robust weapon, at first designed to have interchangeable magazines with the then popular "Suomi" sub machine gun from Finland. During the War  The weapon was turned out by the millions. The rumor goes that old Model 1891, and 1891/30 bolt action rifles were sacrificed to make some of these, because  one full length barrel could be cut in two, to produce two of these subguns. After the war, they were given out like candy to Soviet Client States, allies, and Liberation movements all over Asia, and Africa
+Pistolet-Pulemyot Shpagina obr 1941G
+ Caliber: 7.62x25mm Soviet auto
+ Length: 33 in ( 838mm)
+ Weight (unloaded): 8 lb (3.64kg) 
+ Barrel: 10.5 in (266mm), 4 groove, right-hand twist
+ Magazine: 35 round detachable box or 71 round drum
+ Ammunition: Type P1; 86 gr bullet, 8 gr charge (1.35")
+ Type P-41; 74 gr bullet, 8 gr charge , AP/Incdy (1.36")
+ Rate of Fire: 900rpm
+ Muzzle Velocity: 1500 fps P1; 1600 fps P-41
+
+W_ Chaingun.md2 this is an RPK. It is basically an AK, with a longer, heavier barrel, a stock loosely derived from the RPD (W_hyperblaster.md2), and generally larger ammunition carry devices (Drums or extended "Banana" magazines. The RPK entered service in 1959 as a more powerful firearm, developed from the AKM. The RPK differs from the AKM in a number of design improvements:
+the barrel is lengthened to increase muzzle velocity; the capacity of the sector magazine is increased to improve the combat rate of fire; the machine gun isoutfitted with folding bipod to stabilize it during fire; the sight is outfitted with sliding windage mechanism to improve fire accuracy; the machine gun butt isidentical to the Degtyarev RPD 44 machine gun butt. The machine gun intended for airborne troops had a folding butt.
+Caliber, mm: 7.62X39 
+Length overall, mm: 1,040 
+Sight radius:555
+Magazine capacity, rds: 40-75 
+Rate of fire, rds/min: 600 
+Combat rate of fire, rds/min: 
+single shots: 50 
+bursts: 150 
+Muzzle velocity, m/s: 745 
+Effective range, m: 1,500 
+Weight w/empty magazine, kg: 5.6-6.8
+
+
+W_glauncher Lightweight at only 5.8 pounds, the HK69A1 is a
+  break-open action grenade launcher designed to fire a variety
+  of low velocity 40mm ammunition (including CS, HE, AP,
+  nonlethal, and flares) out to ranges of 400 meters with a
+  degree of accuracy not available from competing designs.
+
+  The combination sight has a flip-up dual aperture for short
+  ranges (50 and 100 meters) and a ladder sight for long range
+  targets (100-400 meters).
+
+  The simple break-open action and separate manual hammer
+  allows the HK69A1 to be loaded and unloaded without being
+  cocked. The HK69A1 also uses an ambidextrous safety
+  lever.
+
+  With an adjustable retractable stock, the HK69A1 can be
+  fired as a pistol or from the shoulder and the rifled steel
+  barrel means increased range, accuracy, and durability.
+
+W_Rlauncher      Soviet made, the rocket-propelled grenade launcher fires a
+ rocket out of a tube. The launcher rests on the firer's shoulder.
+ The rocket is percussion fired and the gasses escape the nozzle
+ at a high velocity. This causes the rocket to launch. Just as the
+ rocket emerges from the tube, large fins spring out from the
+ rocket. These fins along with a motor on the rocket allows the
+ missile to travel a great distance. Often used as an anti-tank
+ weapon, the Somalis used an RPG to down the Blackhawk. 
+Calibre: launcher, 40mm
+   Length: launcher, 950mm
+   Weight: launcher with sight, 6.9 kg
+   Muzzle Velocity: 120 m/s
+   Max flight velocity: 300 m/s
+   Range: moving targets, 300 m; stationary target 500m
+   Armour pentration: see text
+
+
+W_Hyperblaster.md2The 7.62 mm Ruchnoy Pulemyot DP (Degtyaryova pakhotnyi) was adopted by the Soviet army in 1928. It is extremely simple, yet remarkably reliable and robust. It remained the standard light gun until the 50's, and large numbers of them were used by the North Korean and Chinese Communists in the Korean war. The secret of the DP was the simple locking device, which makes use of locking flaps on the belt, pushed out by the firing pin. The DP proved resistant to dust and dirt,  and free from any serious vices. However, the DP did have some distinct faults. The return spring weakened withheat from the hot barrel, and the bipod legs bent and broke from rough handling. It was replaced by the DPM
+   Operation: Automatic fire, only 
+   Length: 50.8 in. (1290 mm) 
+   Weight unloaded: 20 lb 8 oz (9.12 kg) 
+   Barrel: 23.8 in. 4 grooves, right hand twist 
+   Magazine: 47 round detachable pan 
+   Cyclic Rate: 500-600 rpm 
+   Muzzle velocity: 2760 fps, 2900 ft-lb 
+   Ammunition: 148 gr bullet, 48 gr charge, Russian Light Ball M'08 
+   Effective Range: Probably about 1000 meters
+
+
+W_railgun  This is the Rumanian version of the Soviet SVD (or Chinese NDM-68) Sniper Rifle. The Dragunov sniper's rifle excels in engaging fleeting, moving, open and masked single targets. The rifle is a self-loading, gas operated weapon, accurate fire is delivered by single shots. This weapon incorporates a gas regulator to change recoil speeds, and provides greater rifle operation reliability. The SVD is a snipers
+weapon and is fitted with optical sights, either the PSO-1M2 or the NSPUM (SVDN2) or NSPU-3 (SVDN3) night sight. Caliber, mm: 7.62
+Muzzle velocity, m/s: 830 
+Effective range, m: 1300 
+Magazine capacity, rnds: 10 
+Weight with optical sight
+and unloaded magazine, kg: 4.3
+Rifle dimensions, mm: 1220LX230HX88W 
+
+W-BFG.md2 This is a limited production of the  Tula made prototype of the Korolev  MPL22. This is a finicky weapon, with a high rate of sterility amongst it's operators. Made for the Strogg war, it was never issued in large numbers, and a large amount of them seemed to have been parted out to clandestine forces, and  it's production was discontinued after eastern bloc forces manufactured under license, the BFG 9000.  Heavily shielded, it's emissions are nearly undetectable, until such time as the petal like chamber guards retract, and it launches a sphere of high energy plasma. Where upon, most radiation indicators will declare a warning.
+
+Skins:
+
+Oksana.pcx  This is a member of pack2. This is  Katerina's muscle Oksana. Taken by the graphics and symbology of some of the soviet Propaganda literature, kept in the boxes of the older weapons, Oksana dyed herself red, and accessorized with yellow paint. She is bold, and ruthless, but not as fearless or as incautious as Ludmilla. (Note: if you want, you can re-name Oksana, to "Ctf_r.pcx, and Katerina to Ctf_B.pcx, for a more "tribal" look to your CTF games.).
+
+Fox.pcx A red fox, because of all the huge amount of requests I got for it. Why? I don't know, but here it is.
+
+Fox2.pcx Another one of a different shade. Pick the one that looks best for your monitor.
+
+Action Quake Suggestions:
+The following  suggestions are for renaming some of the files for Action quake, until such time as a certain gentleman finishes the real packet.
+Aq2 Class          Old name              New name
+
+Pistol:          w_blaster.md2   -->    w_mk23.md2
+Shotgun:         w_shotgun.md2   -->	   w_super90.md2
+Hand Cannon:     W_glauncher.md2   -->   W_cannon.md2
+Knife:            none                   none    (perhaps illegal skin so no weapon shows?)
+Assault rifle:   w_sshotgun   -->        w_m4.md2
+Submachine gun:  w_machinegun.md2 -->    w_mp5.md2
+Sniper rifle:    w_railgin.md2  -->      w_sniper.md2
+Grenade           none                    none.
+Akimbo:          w_blaster.md2   -->    w_akimbo.md2
+		
+
+I do like to play Action quake a lot, and I hope these help that community out. I do await a more "official' implementation. I however do not have time to commit to any further work on this model and accessories. Good luck with it though.
+,
+
+Credits:
+
+Weapon geometry and skins are by Scott A. H. Ruggels, unless otherwise noted. Skins are hand done, or made from reference photos taken by Scott A. H. Ruggels.  The HK69A1 Grenade Launcher is by Maxx3D [maxx3d@unrealuniverse.com]. Special thanks to Gary Cain of  "Wayne's Guns" in San Ramon California, for allowing me to take the reference pictures of  the Soviet weapons used, and to Francis Hamada of FX House Associates Prop Rentals for allowing me to handle and photograph the RPG 7, and PpsH 41.
+
+Please install so that the final directory path looks like:
+ 
+quake2\baseq2\players\fwwolf
+
+If there are problems with weapon visibility (null skin error messages in the top of the view window during game operation in software mode, or an orange and black weapon in GL mode), this means that the skin is not linked correctly, and may need to be linked using NST, and the weapon linking tutorial at the Q2pmp site <http://www.planetquake.com/q2pmp/> and look under "tools" for the application, and "Tutorials" for the skin linking tutorial. "weapon.md2" links to "weapon.pcx". The Model has been tested, and does not seem to have this problem. The second cause of this problem is if the model directory is not exactly as stated above.
+
+if the Model does not appear in the selection list, check the "Player's" Directory for any files that are not specifically directories. Move them or delete them, leaving only a directory for each model you have in your collection. A common error. 
+
+
+* Copyright / Permissions *QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+This model may be used  for non commercial purposes free of charge. For use in commercial properties the author charges 7% of gross sale recipts of the product it is used in. rate and usage is negotiable though before useage. Ask me nicely. Any new skins, skinning modifications, or other animation is welcome provided the author is sent a copy. Thank you
+
+Scott <scott.ruggels@3do.com>
+

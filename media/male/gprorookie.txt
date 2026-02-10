@@ -1,0 +1,40 @@
+GamePro Quake II Skin: The Rookie
+========================================================
+Author:		Dan "Dan Elektro" Amrich
+Email:		damrich@gamepro.com
+Web Page:	http://www.gamepro.com/clangamepro
+Files:		GProRookie.pcx = GamePro Rookie Quake II Skin
+		GProRookie_i.pcx = GamePro "G" logo
+	
+To install the skin:
+Copy the GProRookie.pcx and the GProRookie_i.pcx files into your quake2\baseq2\players\male 
+directory.
+	Example: 	x:\quake2\baseq2\players\male\GProRookie.pcx
+		 	x:\quake2\baseq2\players\male\GProRookie_i.pcx
+
+To select the skin:
+Go to Multiplayer -> Player Setup. Select Male for the gender and scroll through the skins until you find your 
+favorite GamePro editor.  :)
+
+Author's Comments
+	I based this hockey skin on the existing work of Pascal "NORDS" Brulotte (nords@laval.com), who 
+has done a handful of hockey skins for NHL teams.  I have changed a number of elements and swapped 
+the colors and palettes around, but I owe him a hearty thank you for the use of his helmet and his "Habs" 
+jersey (which I inverted to get that textured black-with-streaks-of-gray look instead of the dreadful all-one-
+flat-color wash that many people choose when they make a skin), as well as general ideas. Check out the 
+rest of NORDS’ skins at a skin site near you.
+	The jersey is black and yellow, since The Rookie idolizes the Pittsburgh Penguins' Jaomir Jagr. 
+Most photos you will ever see of The Rookie in real life show him wearing his Jagr jersey.  It's not planned, 
+it just happens that he's wearing that shirt when the cameras come out. Don't ask me why.  The shoes are 
+stolen from Rampage's skin, and the face is borrowed from the skin Rookie used before he had this one--
+Stone Cold Steve Austin (which looks like it's closely based on Rampage as well). I would give credit to 
+that skin artist but I'm afraid I don't know who did it--whoever you are, thanks. 
+	Tools used include Photoshop 4 and the increasingly excellent NPherno's Skin Tool (now up to 
+version 076). Can't recommend it enough. Total time was about 4 hours because I was rushing and 
+already knew what Rookie wanted. 
+	Thanks go to my fellow gamers here at the mag who gave me feedback (especially Hot Rod 
+Todd). Even more thanks go to the artists who have taken the time to write tutorials and supply palettes for 
+budding Quake II skinners like myself--the help was truly invaluable. Hot Rod Todd and I hope to be able 
+to create skins for all the members of Clan GamePro in time; check the Clan GamePro web page for new 
+ones. Meanwhile, read GamePro and enjoy the skin!
+--Dan Elektro

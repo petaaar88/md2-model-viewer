@@ -1,0 +1,25 @@
+
+Quake 2 Skin-StoneCold        				1/14/98
+
+
+Author:		Michael Wojnar
+
+E-Mail:		thewoj@hotmail.com
+
+Homepage: 	http://www.superior.net/~thewoj    	
+
+Files:		stonecold.pcx    stonecold_i.pcx			
+
+Instructions:	Place both of these files into your 
+	        quake2/baseq2/players/male directory
+
+Description: 	Stone Cold Steve Austin, the toughest SOB in the WWF...'cause 
+		Stone Cold said so!
+
+Other:		Paint Shop Pro 4.12 was used to make this skin.
+		
+"You sit there and thump your bible, and say your prayers and it didn't get 
+you anywhere. Talk about your psalms, talk about John 3:16.....Austin 3:16 
+says I just whipped your ass!" 
+-Austin's King of the Ring '96 Coronation Speech. 
+		

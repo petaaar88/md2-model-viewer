@@ -1,0 +1,83 @@
+[PLAYER PLUG-IN MODEL]	: Rei Ayanami sounds
+[FILE NAME]		: rei_s.zip
+[VERSION]		: 1.0
+[DATE CREATED]		: February 28th, 1998
+[DATE RELEASED]		: February 28th, 1998
+[AUTHOR'S E-MAIL]	: orochi36@hotmail.com
+[HOMEPAGE(S)]		: http://www.alphalink.com.au/~ronnie (Not updated)
+			: http://www.yoda.com/~ryuujin
+
+[AUTHOR INFO]		: V.K. (AKA Ryuujin; no relation to Street Fighter)
+			: Leader of Quake 1 and 2 clan; Orochi.
+
+[INSTALLATION]		: Inside this zip are the vocals.
+			  Decompress them in the FREI directory.
+			  Make sure you use a decompressing program that
+			  supports long Windows 95 filenames.
+
+[NOTES]			: This works with version 3.12 onwards.
+			: The voices are mainly from Blair Dame (SFEX)
+			  or higher pitch versions of the Q2 female voices.
+
+[BUGS]			: When playing as Rei in one player mode,
+			  whenever you exit to the next level via the map,
+			  the voices will reset to the Male voices.
+			  This may be fixed in 3.13
+
+[TROUBLESHOOTING]	: Make sure you use a decompressing program that 
+			  supports long Windows 95 filenames.
+
+[UTILITIES USED]	: I used Cool Edit '95 for conversions and editing.
+
+			: You can get the Cool Edit '96 shareware here:
+			  http://www.syntrillium.com 
+
+[COPYRIGHT/PERMISSIONS]	: Blair Dame is copyright Capcom 1997.
+			: Rei Ayanami is copyright Gainax 199x.
+			: Please remember to link to my homepage.
+
+[ALSO BY THE AUTHOR]    : Gouki/Akuma Q2 skin
+                          Vega/M.Bison Q2 skin
+                          Dan Q2 skin
+                          Sephiroth Q2 skin
+                          Iori Yagami Q2 skin
+                          Orochi Iori Q2 skin
+                          Orochi Q2 skin
+                          Sik (MajestiK) Q2 skin
+                          Male Sik Minion Q2 skin
+                          V.K's dad Andrew Q2 skin
+                          Alphalink IRC Barney Q2 skin
+                          Chris Chan Q2 skin
+                          Alphalink IRC Shar^kie Q2 skin
+                          Frank Drebin Q2 skin
+                          Vincent Valentine Q2 skin
+                          Kattera Q2 skin
+			  Empress Q2 skin
+                          Blair Q2 skin
+                          Koala Q2 skin
+                          Aerith Gainsborough Q2 skin
+                          Linn Kurosawa Q2 skin
+                          Female Sik Minion Q2 skin
+                          MegaSik Q2 skin
+                          Undead Tank Commander Q2 skin
+                          Cyber Shin Gouki/Akuma Q2 skin
+			  Insane Sik Q2 skin
+			  Insane SikMinion Q2 skin
+			  Insane Ease Q2 skin
+			  Iron Maiden Empress Q2 skin
+			  Snork Ease Q2 skin
+			  Shambler Ease Q2 skin
+			  Blue Ease Q2 skin
+			  Cyborg Blue's News Q2 skin
+			  Tank Plug-in Player model
+			  Guard Plug-in Player model
+			  Makron Plug-in Player model
+			  Boss Tank Plug-in Player model
+			  Gunner Tank Plug-in Player model
+			  Insane Marine Plug-in Player model
+			  Iron Maiden Plug-in Player model
+			  Rei Ayanami Plug-in Player model
+			  Street Fighter Alpha animated gifs
+			  King of Fighters '96 animated gifs
+
+								 - V.K.

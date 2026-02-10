@@ -1,0 +1,78 @@
+21 janvier 1999
+================================================================
+Nom du modèle :                    : Darth Vader
+Répertoire d'installation :        : quake2/baseq2/players/DarthVader
+Auteur, auteur de la peinture      : Jlbr
+Adresse électronique :             : jlbr43@hotmail.com
+ 
+Description du modèle   : Anciennement le chevalier Jedi Anakin Skywalker, élève d'Obiwan Kenobi.
+                          Séduit par le côté obscur de la Force; il est devenu Dark Vador.  Il cherche 
+                          à exterminer les chevaliers Jedi.  L'Empereur Palpatine lui a ordonné de 
+                          détruire Luke Skywalker, cependant Vador a cherché à sauver son fils.
+
+
+Autres informations     : Darth Vader est mon deuxième modèle.  J'ai créé le modèle au complet, ainsi 
+                          que le sabre-laser, avec le logiciel TrueSpace4. Seulement pour la tête, j'ai 
+                          utilisé 240 polygones, car je voulais qu'il soit le plus ressemblant possible, 
+                          en dépit d'un corps moins détaillé.  Pour le sabre-laser je me suis servi d'un 
+                          bogue du jeu pour donner un aspect de halo autour du sabre : j'ai seulement 
+                          renversé la surface de quelques polygones. Pour les animations j'ai utilisé QME, car 
+                          TrueSpace4 est capricieux côté animations déformables.  J'ai essayé du mieux 
+                          que j'ai pu, avec mon peu d'expérience, de donner un aspect de tissu à la cape,
+                          j'aime bien le résultat.  Pour la peinture j'ai utilisé le logiciel 
+                          CorelPhotoPaint8, et j'ai utilisé des photos des magazines SciFiUniverse de 
+                          novembre 1995 et StarWarsInsider Issue #26, courtoisie de mon grand copain Kaarde, 
+                          que j'ai numérisées pour ensuite placer sur la peinture.  Je trouve que le résultat 
+                          est pas mal, en plus que je souhaitais garder l'aspect authentique du personnage.    
+                          Même chose pour le sabre-laser : j'ai utilisé une photo que j'ai trouvée sur le site 
+                          "StarWars 3D Modeling Alliance" http://www.surfthe.net/swma/archives/archives.html 
+                          J'ai ensuite positionné la peinture à l'aide de NST.   J'avoue que la peinture n'est 
+                          pas super bien positionnée, seulement les morceaux importants de Vador ont été utilisés.  
+                          J'ai également triché car j'ai étiré les 2 polygones du dos dans le seul but d'avoir 
+                          un taux de gaspillage de 0%.  J'ai utilisé Q2Modeler pour régler le problème du 
+                          "NULL skin found".  
+
+
+Crédits additionnels : Darth Vader, Obiwan Kenobi, Anakin et Luke Skywalker sont des propriétés LucasFilm
+                          
+Merci à   :    Crystalshade pour m'avoir aidé a faire les sons...
+               Kaarde, Elmuth, Telephone et Gwar pour leur support moral
+               ViolentBlue pour sa patience envers un apprenti
+               René Le 
+               Ma famille pour m'avoir enduré lorsque, LE MAUDIT! modèle ne marchait pas!
+
+================================================================
+*Informations de jeu*
+Nouveaux sons        : Oui
+Peinture CTF         : Oui
+VWEP Support         : Oui
+poly                    : Model 602
+                          Weapon 28
+Vert                    : Model 320
+                          Weapon 20
+Nombre de peintures     : 3
+Base                    : Nouveau modèle
+Éditeurs utilisés       : TrueSpace4, CorelPhotoPaint, QME, VistaScan, NST, Q2Modeler, PhotoED
+Pépins connus          : Lors des scènes de mort, le personnage se retrouve parfois au travers du plancher.
+Temps de construction/animation     : 3 semaines
+
+Double-cliquez sur "Darthvader.zip" et sélectionnez ensuite "C:\" . Le répertoire se crée automatiquement. 
+
+Copyright / Permissions *QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+Ce modèle n'a pas été créé dans un but lucratif, vous devez me demander la permission pour utiliser des parties de ce modèle dans des modèles futurs...
+
+
+Voici le code de couleurs pour le sabre laser:
+Arme         halo         milieu
+blaster  Jaune-orange      blanc 
+shotgun    "Chrome"        Blanc
+sshotgun   "Chrome"        Rouge
+MachineGun   Bleu          Blanc
+chaingun     Bleu          Rouge
+grenade     "Feu"          Blanc
+Lgrenade    "feu"          Rouge
+Rocket      Rouge          Blanc
+Hyper    Jaune-orange      Rouge
+Railgun  Mauve-Bleu        Blanc
+Bfg         Vert           Blanc
+

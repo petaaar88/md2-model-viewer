@@ -1,0 +1,64 @@
+2-26-99
+
+================================================================
+
+Model Name              : DDZ
+
+installation directory  : quake2/baseq2/players/DDZ
+
+Author                  : Brian "EvilBastard" Collins
+
+Email Address           : Evilb@planetquake.com
+
+Website Address         : http://www.planetquake.com/q2pmp/hostings/EvilB
+
+Model description       : 
+
+	DDZ is a player model for the clan DDZ  
+
+Other info              : 
+	
+Hmmm, not much to say about this one, he pretty much speaks for himself. Big guy with a big gun.
+
+
+Additional Credits to   : 
+	* Idsoftware 
+	* NST!!! Dont try and make a model without it... I even use it for non-quake stuff
+        * Whiplash of DDZ for the great idea.
+
+================================================================
+
+* Play Information *
+
+New Sounds              : NO
+
+CTF Skins               : NO
+
+VWEP Support            : No
+
+
+* Construction *
+
+Poly Count              : 751 tris.md2 / 195 weapon.md2
+
+Vert Count              : 429 tris.md2 / 133 weapon.md2
+
+Skin Count              : 1 DM
+
+Base		        : LinFang
+
+Editor used             : 
+		Modeling - lightwave	
+		Animation- lightwave + puppetmaster
+		Skining  - NST
+		Painting - Photoshop, NST
+		Viewing  - Skin View
+		
+Known Bugs              : None that i know of.
+
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+Feel free to edit my model as you see fit, just be sure to mention me
+in the readme file. This model is not to be distributed as part of any
+commercial product.

@@ -1,0 +1,42 @@
+<27th-October-1998>
+================================================================
+Model Name              : Mobmob - The Alien
+installation directory  : quake2/baseq2/players/mobmob
+Author                  : MrSoft (Matthew Stephen)
+Email Address           : mrsoft@softhome.net
+
+Model description       : An experimental/mental little one eye'd alien chap!
+
+
+Other info              : He has the ability to make his eye pop completely out of his head.
+
+Additional Credits to   : id Software, MDL, NST, MD2 Viewer and Skinview
+
+Thanks to               : coffee & pizza
+================================================================
+* Play Information *
+
+New Sounds              : YES - (Mostly borrowed and slightly modified)
+CTF Skins               : NO
+VWEP Support            : NO
+
+
+* Construction *
+Poly Count              : 644 polys
+Vert Count              : 294 Verts
+Skin Count              : 1 Skins
+Base                    : New model
+Editor used             : Lightwave and MDL
+Known Bugs              : Minor glitch with face/eye animation when viewed at a distance...
+                          Polygons (being layer'd) to close sometimes result in the eye showing
+                          the wrong skin.  (Though this doesnt really matter much anyway!)
+Build/Animation time    : 1 Day
+
+
+* How to use this model *
+
+Simply install in the directory shown at the top of this readme
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.

@@ -1,0 +1,28 @@
+==============================================================================
+FILES         : DGK.PCX, DGK_I.PCX, DGK.GIF, DGK.TXT
+DESCRIPTION   : DoomGuyKiller skin
+VERSION       : QUAKE II
+CREATED (MDY) : 02.03.1998
+AUTHOR        : StrangeFate
+AUTHOR HP     : http://www.swissworld.com/strangefate
+EMAIL ADDRESS : brc@swissworld.com
+ICQ UIN       : 2123290
+CREDITS       : PartyCrasher ...gave a look at yar Ironman boots ;)
+GREETS        : Skinners and such...
+MISC. INFO    : Skin #4 ...learned a lot.
+==============================================================================
+*ART INFO*
+BASE          : Scratch (...fleshed an original id skin, what else)
+EDITORS USED  : Pic.Publisher 6, Logitech FotoTouch.
+TIME TAKEN    : 20h^3*(425432.333/56)-B
+==============================================================================
+To use this skin, unzip the two .PCX's into
+your Quake2/Baseq2/players/MALE directory,
+in the game change your skin to DGK in the 
+Multiplayer/Player Setup menu.
+==============================================================================
+You may NOT use this skin as a base for your skins, to rip or modify without
+written permission of the Author (that's me).
+-Don't touch it, just use it.
+-You may NOT spread the skin without this TXT file.
+==============================================================================

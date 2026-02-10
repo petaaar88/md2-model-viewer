@@ -1,0 +1,81 @@
+04.26.99
+
+================================================================
+Model Name              : Jason Voorhees, v1.0
+installation directory  : quake2/baseq2/players/jasonv
+Author                  : Pestilence
+Email Address           : pestilence@psychosis-studios.com
+Web Address		: www.psychosis-studios.com/psychodm
+
+Model description       : Here for your fragging pleasure is 
+			  Jason Voorhees, the indestructible 
+			  (and extremely soft-spoken) serial 
+			  killing goalie from hell. It's Friday 
+			  the 13th: Jason Takes Stroggos.
+	
+Other info              : Jason's always been my favorite of all
+			  the kooky slasher flick anti-heroes, 
+			  so I figured I'd let him build up his
+			  recently stagnant body count in Q2.
+			  This release is complete, and thus
+			  designated version 1.0, but there are
+			  more skins and a custom sound pack 
+			  planned if/when time allows...
+
+Additional Credits to   : id Software
+
+Thanks to               : id Software, the Q2PMP, and all the 
+			  helpful folks at the Q2PMP boards
+
+================================================================
+
+* Play Information *
+New Sounds              : nope (for now)
+CTF Skins               : yep (red and blue)
+VWEP Support            : yep
+
+* Construction *
+Poly Count              : tris-623
+			  weapon-varied (id VWep)
+Vert Count              : tris-337
+			  weapon-varied (id VWep)
+Skin Count              : 3 (for now)
+
+Base                    : built from scratch (except the hands,
+			  which were adapted from my previous
+			  models)
+
+Editor used             : Modeling:   Lightwave 5.6
+			  Animating:  Lightwave 5.6 + Puppet Master
+			  Compiling:  qME 3.1p2
+			  Skinning:   Npherno's Skin Tool .9b3
+				      Photoshop 4.0.1
+			  Testing:    Skinview 4.3
+
+Known Bugs              : There's a couple problems that arose after
+			  I'd completed the animations, so I didn't
+			  go back and change them: The mask has no
+			  back faces, so it looks like it disappears
+			  when he removes it in the taunt anim. Also,
+			  the pit and claws of hell float above the
+			  ground just a little bit, and they're an
+			  excessive use of polys, I know. Also, his 
+			  face doesn't really look like it does in 
+			  any of the flicks. If you want to call that
+			  a bug. Finally, I'm sure there are the odd
+			  clipping issues here and there as there are
+			  with just about every model.
+
+Build/Animation time    : 2 weeks, roughly
+
+* How to use this model *
+Unzip everything here into your Quake2 directory. (Using WinZip is my
+preferred method.) That's it!
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+Jason Voorhees is (C) New Line Cinema, I think.
+  
+Everyone else, don't try to make money off this thing, or you will meet
+with furious anger and punishment via machete. If you want to use the 
+model otherwise, please let me know.

@@ -1,0 +1,54 @@
+8-31-99
+================================================================
+Model Name              : Namacer
+installation directory  : quake2/baseq2/players/namacer
+Author                  : Jon "shine" Jones <shine@planetquake.com>
+Skin Mapping            : Burnt Kona <burntkona@webtribe.net> 
+Skin Authors            : Burnt Kona <burntkona@webtribe.net> 
+			  Chris Holden <shatter@planetquake.com>   
+Sounds                  : working on it.
+
+Model description       :  Generic helmeted guy. Paintball player \ SWAT team guy \ special forces guy \ badass biker. Basically anything you can think of.
+
+Additional URLs:
+
+Chris Holden and Jon Jones's webpage: http://www.planetquake.com/shattered/
+Burnt Kona's webpage: http://www.webtribe.net/d/darktech
+
+
+Other info              : This model was created for several purposes. One: a Paintball mod for Quake 3. Two: A Quake 2 biker-type mod (coming soon). Three: The Action Quake2 Model Contest. This model's been in production since April. I've been tweaking the model constantly, over and over, until I felt he was ready for animation in mid-August, so I animated him and finished about 4 - 5 days before the Action Q2 Model Contest deadline, then sent him off to Burnt Kona for mapping, and he delivered that and a skin today (8-31), then I did the weapon skinmapping and skin, and after that was over I received Chris Holden's skin, 'Namcer'. 
+
+Additional Credits to   : Chris Holden for giving me ideas and critiques, and 'namcer' skin, and the name of the model itself.
+			  Burnt Kona for doing the much-needed skinmapping and 'menacer' skin inhumanly fast.
+			  Magarnigal, Wrath, Gwot, and Kau for giving me valuable critiques\advice.
+
+Thanks to               : 
+	Chris Holden for being patient, cool, productive, and for buying me a Coke.
+	the following people for their various contributions: Burnt Kona, Frankie, EvilBastard, Wrath, Magarnigal, Gwot, Kau, Brian Yee, Rogue13, da boys at Sunstorm, id, and Newtek.
+	Front Line Assembly for being ALL I listen to anymore while I work.
+================================================================
+* Play Information *
+
+New Sounds              : No.
+CTF Skins               : No.
+VWEP Support            : No, but wouldn't be hard to add.
+
+
+* Construction *
+Poly Count              : tris = 610, weapon = 192
+Vert Count              : Does this matter?
+Skin Count              : 2
+Base                    : Started as a BaronVAC variant but I gradually remodeled the entire thing from scratch.
+Editor used             : Lightwave 3D 5.6, Paint Shop Pro 5.0, NPherno's Skin Tool
+Known Bugs              : There are some funny deformations here and there, and the feet won't stay down in some frames (most noticeably taunt\backflip) but this is my first mostly-seamless human model, and wasn't quite sure what else to do.
+
+
+* How to use this model *
+
+Unzip to your Quake 2 directory with directories recursed. It'll put it in the proper quake2/baseq2/players/namacer/ directory all by itself unless you decide to do it your own way, which is fine, but why exert yourself?
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Don't reproduce the model without permission, don't use it in a TC without permission, and don't use it for anything other than playing Quake 2 and having fun. also, if you use this PPM and you don't advertise how cool it is and who made it every frag you get, we'll send people to your house to kill you and your family and anyone who ever knew you, including your dog, then piss on your grave and pawn off your personal possessions for subscriptions to girly magazines.

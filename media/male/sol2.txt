@@ -1,0 +1,21 @@
+
+Quake II Skin		Sol   v.II
+
+
+
+Name:		Shawn Guzzo
+
+E-Mail:		guzzo@total.net
+
+Homepage:	www.total.net/~guzzo
+
+Player:		Sol 
+
+Files:		Sol_ii.pcx, Sol_ii_i.pcx, Sol2.txt
+
+Info:		This is an all new Sol. After making some cash with the Rogue Marines, 
+		Sol went and got himself some new armour and stuff. Now he's all decked out 
+		in a black armour vest, new pants, knee pads, and boots. 
+
+Legal Trash:    I'm not responsible for anything that happens involving these files, so 
+		leave me alone.

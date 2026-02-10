@@ -1,0 +1,6 @@
+These are Q2 CTF skins for the Quakeguy player
+model. Stick these in your regular quakeguy directory
+and Q2 CTF will automatically assign the proper
+team skin.
+
+judas@buffnet.net

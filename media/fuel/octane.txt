@@ -1,0 +1,9 @@
+OCTANE - by C e p h u s
+``````
+a skin for Stecki's kick-ass Fuel 4.46 model.
+I graciously and gratefully exploited the original skin to create Octane.
+I learned alot about skin making while working on this guy. I hope that you
+enjoy playing with it as much as I did making it.
+
+-Cephus
+clambake@serv.net

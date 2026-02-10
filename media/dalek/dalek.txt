@@ -1,0 +1,32 @@
+The Dalek
+---------
+
+A plug-in player model based on the BBC series 'Doctor Who' which aired
+from 1963 to the late 80's.  
+
+The daleks were the ubiquitous enemy - ruthless, militaristic, emotionless
+and just plain nasty.  This dalek model has an advantage over the ones in 
+the TV series, because it can travel up and down stairs...
+
+TO install:
+
+Make a directory under your Quake2\baseq2\players directory called DALEK.
+Unzip all the contents of this archive into the directory.  
+
+Now when you start Quake, you'll be able to pick the Dalek as your player.
+Of course your friends will need a copy of the model for them to see you as
+a dalek too...
+
+This zip includes various sounds that are dalek-y.  If you don't like them,
+just delete them.
+
+
+Author: Ryan Dobson
+WWW URL: http://www.bluestar.com.au/rss/
+Time: about 15 hours, most of which getting the proportions correct.
+e-mail: ryan@bluestar.com.au
+
+
+OTHER THINGS:
+The RSS skinpack contains 13 skins - 10 male, 2 female and 1 crackwhore.  These
+are used by my Syndicate when we play online and in LAN battles.

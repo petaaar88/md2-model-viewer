@@ -1,0 +1,56 @@
+Eric Cartman model for Quake2!!!
+
+I decided to do my own Cartman model, despite knowing
+there was already one because I had so many great ideas!
+
+Installation:  Unzip the ERIC_C.Zip into your main quake2 directory,
+               and it should unzip everything into its proper directory.
+
+               If you have trouble getting it to show up in the
+               multiplayer menu, make sure you have NO files
+               (besides the directories) in quake2\baseq2\players!
+
+
+Tools used:  LightWave 3D v5.5
+             Adobe Photoshop 4.01
+             NST
+	     Qdata (modified by Ken D. Turner)
+             Paint shop pro
+
+Notes:       To complete this,  I practically LIVED
+             at the computer for 4 straight days,
+             not eating very well, and slacking off on
+             homework.   But to HELL with homework!!
+             I HATE UNIVERSITY!!!!!!!!!!!  ..  :)
+
+             Taking Cartman from 2D to 3D wasn't TOO hard,
+             although certain errors from the show's paper cut-out
+             design made it more difficult.  All in all, I'm
+             happy the way he turned out.
+
+             The skins were kind of a rush job except eric.pcx
+             since that was the first skin.  Oh yea,
+             and I'm not making any political statements with the
+             skins (esp. black and ghost).  They're just references
+             from the show!  Cartman fans should know :)
+
+             This model was lots of fun for the most part-
+             I got pissed off when I had to do the same things 5 times
+             over n over because something messed up.
+             The facial expressions are my favorite part :)
+             You dont see many other Q2 models making faces when they
+             get hit or die!!
+
+
+Sidenote:  The player directory that Eric Cartman goes into
+           MUST be named ERIC_C, because I didn't want to take
+           a chance of my Cartman model conflicting with the other
+           Cartman model.
+                
+
+Author:  Brian Yee
+email:   brianyee@hotmail.com
+
+ERIC CARTMAN POWER!
+
+

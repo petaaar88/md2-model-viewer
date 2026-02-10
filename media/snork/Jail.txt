@@ -1,0 +1,19 @@
+This is my Jailbird skin for the new Snork model for Quake2, eh, I hope you like it...
+God DAMN that sounds stupid...
+"Well, au hope ya lak it!  Hayuk!"
+Oy... I feel like the local yokel...
+
+Anyway, simply extract this into your Quake2/baseq2/players/snork directory...
+Ya know, I bet only 50% of the people ACTUALLY read this file BEFORE they unzip the whole 
+thing... And that probably means at least 30% screw it up the first time.
+
+Oh, and you can reach me at hawk9000@aol.com (yeah, like I REALLY wanna know how easy a skin
+this was to make, and that I have no talent, etc. etc. etc.) -- Boo/Fox/QuakerX
+
+Specials thanks goes to KrAy-ZeE of KrAy-ZeE's Modeling Guid
+
+Appropriate plugs -
+http://www.planetquake.com/modeling  <-- KrAy-ZeE's Modeling Guide
+http://www.sni.net/banished  <-- Banished Entertainment
+
+<sarcastically> "Oooooh, this is ALWAYS what I've wanted to do... Snork skins."

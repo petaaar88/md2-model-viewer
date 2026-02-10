@@ -1,0 +1,14 @@
+<*SORBOGON*>
+
+"Bent on the destruction of all that's pure, the sorbogon has met mankind, and doesn't like what he sees."
+
+Here it is...a new beastie for your deathmatching delight.
+
+Modeled & Skinned by ALPHAwolf (www.best.com/~fenrir, fenrir@best.com)
+Mapping and Sounds by NPherno  (Use NST!, npherno@sunstorm.net)
+
+Just unzip him into your quake2/baseq2/players/sorb folder, and you're ready to go!
+Please be sure to create the "sorb" folder before you decide it's not working :)
+
+More models coming soon...
+	Enjoy!

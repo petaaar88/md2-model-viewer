@@ -1,0 +1,74 @@
+January 21 1999
+================================================================
+Model Name              : Darth Vader
+installation directory  : quake2/baseq2/players/Darthvader
+Author, Skin Author     : Jlbr
+Email Address           : jlbr43@hotmail.com
+Model description       : Formerly Jedi Knight Anakin Skywalker, student of Obiwan Kenobi. 
+	           Seduced by  the dark side of the Force he became Darth Vader.  Sought to 
+	           hunt down and destroy all Jedi.  Ordered by Emperor Palpatine to kill
+	           Luke Skywalker, but tried to save his son instead.
+
+Other info  :      Darth Vader is the second model that I make.  It's a brand new model, with a 
+                          Light-Saber, that I made with the software TrueSpace4.  Just for the head, I 
+                          used 240 polygons because I wanted it to be the more realistic possible, in 
+                          spite of a less detailed body.  For the Light-Saber I used a game bug to give 
+                          a halo look to the blade : I just inverted the mapped side of some polygons.  
+                          For doing the animations I used QME because TrueSpace4 doesn't work fine with 
+                          Low-polys animatable deformations.  I tried the best I could, with my little 
+                          animations experience, to give a tissue look to the cape, I like the result.   
+                          For the skin, I used the software CorelPhotoPaint8, and some pictures of the 
+                          SciFiUniverse of November 1995 and StarWarsInsider Issue #26 magazines, courtesy
+                          of my friend Kaarde, pictures that I scanned and pasted on the skin.  I think 
+                          that the result is pretty cool, since I wanted to keep the original look of the 
+                          character.  Same thing for the saber, I used a picture that I found on the 
+                          "StarWars 3d Modeling Alliance" web site http://www.surfthe.net/swma/archives/archives.html.
+                          I mapped the skin with NST. I confess that the skin isn't well mapped.  I used 
+                          only the necessary parts of Vader.  I also cheated a bit by stretching the two 
+                          polys of the back in the only goal to have 0% of skin waste.  I used Q2modeler 
+                          to solve the "NULL skin found" problem. 
+
+Additional Credits to   : Darth Vader, Obiwan Kenobi, Anakin and Luke Skywalker are a property of LucasFilm
+ 
+Thanks to   :     CrystalShade for helping me doing the sounds
+                          Kaarde, Elmuth, Telephone and Gwar for their moral support
+                          ViolentBlue for his patience towards an apprentice
+                          René Le
+                          My family for enduring me when the, god damned! model wasn't working!
+
+================================================================
+* Play Information *
+New Sounds           : Yes
+CTF Skins            : Yes
+VWEP Support         : Yes
+* Construction *
+Poly Count              : Model 602
+                          Weapon 28
+Vert Count              : Model 320
+                          Weapon 20
+Skin Count              : 3
+Base                    : New model
+Editors used            : TrueSpace4, CorelPhotoPaint, QME, VistaScan, NST, Q2Modeler, PhotoED
+known Bugs              : Some times, some death scene makes the character pass a bit through the floor
+Build/Animation time    : about 3 weeks
+
+* How to use this model *
+Double click on the "Darthvader.zip" and then select "C:\" the directory is self-built.
+* Copyright / Permissions *QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+This model isn't built in a lucrative goal, you must ask me the permission before using any parts of 
+this model for another model...
+
+Here's the color code for the Vwep
+
+Weapon      halo          Center
+blaster  Yellow-Orange     White 
+shotgun    "Chrome"        White 
+sshotgun   "Chrome"        Red
+MachineGun   Blue          White 
+chaingun     Blue          Red
+grenade     "Fire"         White 
+Lgrenade    "fire"         Red
+Rocket       Red           White 
+Hyper    Yellow-Orange     Red
+Railgun  Purple-Blue       White 
+Bfg         Green          White 

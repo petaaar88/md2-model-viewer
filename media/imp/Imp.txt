@@ -1,0 +1,39 @@
+-------------
+THE IMP
+-------------
+
+Name:		The Imp w/ vwep support and sounds
+Author:		Oringal Model and Textures - Paul Interrante
+                Animation and Quake2 Conversion - Brad Grace - roc4u@gte.net
+Email:		thrillkill@vie.com
+
+Time spent:	about 1 week all together
+Editor:		Q2Mdl v.90 - NST .91b - Lightwave - Photoshop
+Description:	The Imp is another character from the Sony PlayStation game, Thrill Kill.  
+		He is a small, angry little man that thinks he needs stilts to get ahead
+		in life.  Be careful - nasty things come in small packages! He is one of the 		main combatants in Thrill Kill, a Sony PlayStation 4 player fighting game to be 		released this October.
+		
+Installation:
+
+	Unzip all the files into a subdirectory called "imp"
+	in your players directory.  You can then select the Imp in
+	the multiplayer setup menu in Quake 2.  That's all there is to
+	it.
+
+Skins:
+
+	The skin used is the same as the skin used in the Sony PlayStation game.
+
+Comments:
+
+	If you have any comments, I would like to hear them.  Please
+	send them to the email address mentioned above.
+
+What I am currently working on:
+
+	The Belladonna may be next.  She's in the Sony PlayStation game too as
+	a sexy, ticked off domnatrix.
+
+Special thanks to Kray-Zee for his help.
+
+Have fun with the new model!

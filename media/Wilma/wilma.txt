@@ -1,0 +1,51 @@
+
+<10/27/99>
+================================================================
+Model Name              : Wilma Flintstone
+installation directory  : quake2/baseq2/players/wilma
+Author                  : Fafner
+Email Address           : fafner_@hotmail.com
+
+Model description       : Wilma Flinstone.  Doesn't she look cute in her blue ctf dress?
+
+
+Other info              : This model was requested by Michele of DC clan (www.dcclan.com) on the Q2pmp model ideas/requests/suggestions forum on 10/17/99.  I thought it might be fun to make it so I did.  I didn't want to spend too much time on it, I did the whole thing in 8.5 days.  If I wanted to spend more time on it, I would have animated her face, and I would have been more creative with her waves, but I'm happy with it how it is.  There will be vweps for this model eventually,  I just have to take the time to export and compile them all.  Right now she uses the Q2 shotgun.  It clips her arm a little, but I will fix that when (and if) I release the rest of the vweps.
+For the animations, I didn't try to copy Wilma from the cartoon at all,  I didn't even watch the cartoon until I recorded the sounds.
+
+
+
+Additional Credits to   : Fred Flintstone and Barney Rubble
+
+Thanks to               : Pebbles and that little martian guy that only Fred and Barney can see.
+================================================================
+* Play Information *
+
+New Sounds              : Yabba Dabba Yes
+CTF Skins               : Yabba Dabba Yes
+VWEP Support            : Yabba Dabba Not Yet
+
+
+* Construction *
+Poly Count              : 624
+Vert Count              : 336
+Skin Count              : 3
+Base                    : New
+Editor used             : 3dsmax2.5, Character Studio, Paint Shop Pro 6, NSTv09b3, Q2modeller
+Known Bugs              : weapon passes through arm a little, that'll be fixed if I release the vweps.  I should've modelled the mouth.  Her skin looks a little light in OpenGl but Wilma Flintstone is pretty light anyway.  I'm not happy with the jump sound, if anyone can find a similar sound that sounds better, send it to me.
+Build/Animation time    : 8.5 days: mesh 2.5 days, animations 3.5 days, sounds .5 day, skins 2 days
+
+
+* How to use this model *
+
+Get all those files into quake2/baseq2/players/wilma
+
+* Copyright / Permissions *
+
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Feel free to distribute this as long as I get proper credit for it.  If you want to make a skin for this, feel free to use the original wilma skin as a base.
+
+
+fafner_@hotmail.com
+http://www.angelfire.com/pq/fafner/home.html

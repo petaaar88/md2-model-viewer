@@ -1,0 +1,16 @@
+Type: 		QUAKE2 SKIN
+Name: 		Vampire
+Release Date: 	Dec.25 1997
+Author:		Dirk'Banded Kray'Binder
+E-Mail:		bandedk@nagold.netsurf.de
+	    	
+Files:		vampm.pcx ; vampm_i.pcx
+			
+
+Instructions:	Just unzip all these files to your 
+	        quake2/baseq2/players/male directory
+
+Description: 	Banded's Vampire-Skin.
+		Tried to give him long hairs..........
+
+		

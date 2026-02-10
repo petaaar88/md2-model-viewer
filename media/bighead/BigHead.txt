@@ -1,0 +1,30 @@
+Title    : Mr. BigHead
+Filename : BigHead.zip Bighead.txt
+Date     : 19/8/98
+Author   : Alex "Dark" Mazurovski
+Email    : am_19@hotmail.com
+Homepage : http://www.fortunecity.com/underworld/worms/715
+Credits  : Id Software for an awesome game, 
+           Andy "BoogieMan" Craft for allowing me to 
+           change his "Alien Soldier" Model.
+
+
+
+Description:
+- Big_Head - It's Mr. Big Head, a Killer with a very very big head
+- Beavis - Beavis from the Beavis&Butthead show from MTV
+- Big_in_Black - Mr. Big Head is joined MiB to protect earth from 
+   the scum of the universe
+- Big_Nukem - Mr. Big Head is gonna nuke some strogg's ass
+- Biker_Bigi - Mr. Big Head joined a biker gang
+- Cyborg - Mr. Big Head has been captured by the Stroggos
+- Karate - Mr. Big Head has learned the ancient art of Karate
+- Killer - Mr. BH is a horror movie star - "BIGHEAD The 13th"
+- Larry - Is Larry from the "Leisure Suit Larry" Games
+- Ninja - Mr. BH is a well trained assassin and a expert in martial arts    
+- Scorp - Scorpion from Mortal Kombat (expect more MK skins for BigHead)
+- Zombie - Attack of the Mutant Big-Headed Zombies  0-:=
+
+
+That model was originaly made by Andy Craft and was modified by me
+e-mail him, he created other cool models  - bogieman10@hotmail.com

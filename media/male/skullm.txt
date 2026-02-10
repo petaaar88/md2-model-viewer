@@ -1,0 +1,24 @@
++++++ +  + +   + +     +
++     + +  +   + +     +
++++++ ++   +   + +     +
+    + + +  +   + +     +
++++++ +  + +++++ +++++ +++++
+Name: Skullm_I.pcx
+
+Description: An animated skeletal worrior.
+
+Started: 5th January 98 
+Finished: 1st Febuary 98 (Pretty *04@ing long time)
+
+Instructions: Unzip this file into your Quake2/players/MALE directory.
+Once this is completed Start up Quake2 and browse though your male skin 
+list in the player setup options. 
+
+Creater: Gavin MacPherson aka GAM.
+Can be located @ BigGameGuy@Earthlink.com (soon to be GAM@Gorrila.net)
+
+Note:You can use this skin however you want,all I ask is that you E-Mail 
+me if you use this skin in a pack or any other distribution means(Its so 
+I can brag to me my freinds about it). PLEASE KEEP THIS .TXT WITH MY SKIN.
+              
+                              !Thanx! 

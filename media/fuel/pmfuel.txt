@@ -1,0 +1,37 @@
+Panther Moderns Quake2 Facility 
+
+presents
+
+COLD AS STEEL Skin Pack (v1.0) for the FUEL Player Model 
+
+by Trespassa (PM)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++You need the FUEL Player Model for proper work +++
++++Download at http://www.frag.com/deconstruct    +++
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+the pack contains 5 skins:
+
+Woodland Battle Dress (fuelwdland)
+Concrete Commando     (fuelcmndo)
+Tigerstripe           (fueltiger)
+Long Range Recon      (fuellrrcon)
+Swamp Camouflage      (fuelswamp)
+
+how do:
+
+just unzip/copy this files in the quake2/baseq2/players/fuel dir
+
+legal:
+
+this stuff must not be used for commercial purposes
+
+visit us:
+
+Panther Moderns Quake2 Facility
+http://home.t-online.de/home/026051408/home.htm
+
+
+ 
+ 

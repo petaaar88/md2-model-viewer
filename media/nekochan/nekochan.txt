@@ -1,0 +1,22 @@
+<Sep 4, 1999>
+================================================================
+Model Name				: nekochan
+Installation Directory			: quake2\baseq2\players\nekochan
+Author(nekochan model and animation)	: Brent "Hentai" Dill
+Email Address				: hentai@intelegenesis.com
+Author(crafty model and animation)	: John "deepgroove" Turner
+Email Address				: machinecode@earthlink.net 
+
+Model Description: Cat-girl
+
+Additional Info:
+Obviously, this is a rip-off of crafty, just like rei was a rip-off of Winter's faerie. Took me all of 12 hours to do in mdl.exe - ain't I cool? ;)
+
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Feel free to use any of the work that has been done by myself (deepgroove) as long as credit 
+is given. Please contact all other content authors personally for the specifics on the useage
+of their work.

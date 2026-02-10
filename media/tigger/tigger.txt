@@ -1,0 +1,351 @@
+----==== Tigger ====----
+
+A Quake 2 model
+For the Quake clan
+"Tigger's Friends"
+http://homepages.ihug.co.nz/~maxwells/TiggersFriends
+
+by Richard 'Jodi' Maxwell
+Jodi <maxwells@ihug.co.nz>
+(c) November 1998
+
+
+
+------------==================------------
+This model is dedicated to Geri.
+(You are my balance)
+------------==================------------
+And to my cat Brain (aka Princess/Scooter)
+Who was killed on the day I finished
+this model. RIP.
+------------==================------------
+
+
+Synopsis
+---==---
+
+Quake 1 -> skins -> tiggersf.pcx
+Quake 2 -> models -> tigger.md2
+
+Credits
+---=---
+
+Quake2 Models	:	Jodi (me!)
+Quake2 Skins	:	Jingo, Axident and Jodi
+Quake2 Sounds	:	Assorted Disney desktop themes
+
+Support
+---=---
+
+Quake 2 model pmp
+Quake 2 vweps
+ctf skins
+ra2 skins
+
+
+installation instructions
+----------====-----------
+unzip into the quake2/baseq2 directory using winzip (do not use pkunzip, it does not support long filenames)
+
+it should install files under:
+
+/demos/
+/players/tigger
+/players/quakeguy
+/sound
+
+
+MODEL INFORMATION
+---===========---
+
+
+Build time (Model):	9 Months part time
+Build time (skins):	2 Months (Once I got the skins!)
+Build time (total):	ooh, around _1 YEAR_ 
+
+# of face for tris.md2:	547
+max faces (incl weapon): 781
+min faces (incl weapon): 590
+
+
+Authors Blurb (gripe)
+------=======--------
+Making this model was not easy (nuff said).
+However, making the model was not really that difficult, The hardest thing to do, was to make the skin look good using Quake2 in GL mode.
+
+Why?
+
+1) Quake is dark. So people bump up their gamma settings. This results in washed out colours. Therefore if you want your skin to look good in GL and software modes, you have a significantly smaller palette to work with. I ended up having to make my own custom palette, that reflected what the colours looked like with a gamma setting of ~1.85 on a voodoo 3Dfx card. I then used that palette to map the colours of my skin to their GL equivalent. Luckily this worked, quite well in fact.
+
+2) Texture mapping in GL (on my voodoo anyway) WAS SO FRUSTRATING!
+My skins looked and mapped perfectly in all the software modes I tried. However in GL they looked gross. Cracks along the triangles, and leaks (where a texture map from one part of the skin is mapped, somehow, to another part of the skin) for Africa. I figured that it was the way that skin was been anti-aliased/bilinearly filtered. What was happening was that for areas with the same colour, GL was averaging the pixels with the first pixel that was not the same, no matter how far away it was. This resulted in my arms getting white blotches over it because the nearest different pixel on the texture map was the white face (this was 8 pixels away from the arm's triangle map edge). I partially solved this by putting a dithered background between all my texture mappings on my skin.
+
+The other problem I figured was that GL doesn't like narrow triangles on the texture map. The only way I could get past that was to redo the texture mappings, which after 2 months skinning, was not a popular option.
+
+I now have some tips for any modeller/skinner willing to listen.
+
+1) Make sure all texture maps are a multiple of 256. e.g. 256x256 is a popular dimension.
+2) Don't waste texture map space. Use at least 80% of the texture space.
+3) Think carefully on how you apply your texture mappings. You can sacrifice some artistic freedom by mapping more than one part of the model to the same part of the skin (e.g. map the left and right arms to the same place). 
+4) Avoid small and narrow triangles on your texture map.
+5) Try to avoid diagonal lines. The more of your texture mapping triangle's edges that are horizontal or vertical, the less chance of rounding errors will occur and your model will render slightly faster (~0.001% faster ;-).
+6) Keep a buffer between different parts of your skins. To avoid leakage due to rounding errors, keep at least a 2 pixel boundary between different parts of the skin maps.
+
+
+
+Programs used:		For model creation, skin mesh, and vwep model aligning
+			q2modeller (v0.81, 0.83, 0.9a and 0.9b)
+			By Phillip Martin (martinp1@topaz.cqu.edu.au)
+			http://www.rmdsoftware.com/q2modeller/
+
+			For tris animation's
+			3D Studio Max r1.2
+			by Kinetix
+
+			For 3DS ASC exporting
+			ascmaker.dlu
+			By Phillip Martin (martinp1@topaz.cqu.edu.au)
+			http://www.rmdsoftware.com
+
+			For model testing
+			Skinview 3.0
+			Roland "Klotjohan" Karlsson (roland@cslab.ericsson.se)
+			Erik Karlsson
+			Brad "StuPiDsh!T" Klann	(ss@telefragged.com)
+			http://telefragged.com/skinview/
+
+			For General purpose Graphic stuff
+			Paintshop pro v4.12
+			Paintshop pro v5.00
+			by JASC inc.
+			http://www.jasc.com
+
+			For General purpose Sound stuff
+			Cool Edit 96
+			by Syntrillium Software 
+			http://www.syntrillium.com/
+
+			For the Quake2 Demo editing
+			KeyGrip v2.041
+			By David 'crt' Wright (wrightd@stanford.edu)
+			http://planetquake.com/keygrip/
+
+
+Ego Trips (Thank You's)
+-------=======--------
+
+I would Like to thank these people for their part in the creation of this model
+(In a rough chronological order)
+
+Juju:			For his tips on how to use 3DS Max.
+Speed3d:		Also for 3DS Max help.
+Axident:		For 3DS Max help, Tigger stripes and his expert graphical skills.
+Nphero:			For skinning advice + help.
+r13:			For his advice also.
+Jingo:			For his excellent skinning abilities (hurry up dammit!).
+Mailman:		For his help testing the model.
+Heresy:			For keeping my backups safe.
+Earthworm:		For finding me that bouncing sound!
+Cat:			For Wuffles in general.
+Whiplash:		Purple with green polka-dots? ha!
+Easta:			For fixing all the mistakes in this readme
+
+Group Thank You's
+-----======-----
+
+#quakenz:		For keeping my sanity (?)
+#nzquake2:		The only channel more bitchier than #quakenz
+q2pmp:			If only I knew of this place last november (www.planetquake.com/q2pmp/)
+Abaddons NZ quake news: Just for being there (http://www.quakenews.co.nz/)
+The Faultline:		For the friendly people on the discussion board (http://www.faultline.gen.nz/)
+
+NZ Quake Community:	If it was not for you, I would have stopped playing Quake in Jan 1997.
+
+Tigger's Friends:	My clan, this is my tribute to you - thank you.
+
+
+Model Creation History
+------========--------
+
+November 27th, 1997
+Started this beast, with absolutely no knowledge _whatsoever_ on modelling.
+After downloading all the utils I could find, I started with q2modeller to make my body parts, such as the head, arms, hands, torso, skins, feet, tail.
+
+December 1997 sometime
+Since I couldn't figure out how to bind an entire mesh to bones in 3DS, I just assigned each body part to a different bone. After a few false starts with the body part's meshes, I started using 3DS for all the animation's.
+
+Early February 1998
+Uni started again, so I had little time for the model. I was ~60% through the animation's.
+
+June 1998
+More holidays, I started getting into the Tigger again. I finished all the animation's. I then imported (via ASC) all the frames of animation into q2modeller so that I can sew up the different body parts to make a complete mesh, and to tweak anything ugly.
+
+July 1998
+I finished the model. I ended up tweaking the model vertex by vertex for each frame, because there was no other way to do it.
+I then started making vwep models. I couldn't really do anything as there was no way to align the vwep models to the Tigger's hand
+
+Late July 1998
+The latest version of q2modeller was released, with the _align_ function. WOOP!
+I then sent out an email to Axident, who did our skin (tiggersf.pcx) for quakeworld, asking him to help me out with my new model. Uni then started and I let off for a bit.
+
+Late August 1998
+I got a few prelim skins back from Axident, and Jingo (who I also roped into the skinning). Individually the skins were not what I wanted, however combined it was kick arse.
+
+October 1998
+Exam time. Perfect! I went %100 on the skins in the weekends. Combining Jingo's skin, with Axident's stripes and my tweaks. Layers are a Godsend, thank God I upgraded to PSP5. After stressing about GL a bit, I finished the first skin. Making the other skins was easy, it was just swapping the colours around.
+
+November 1998
+gee, a year ALREADY?
+sigh.
+ 
+Copyright and Distribution Permissions
+------------=============-------------
+
+You may freely distribute this archive, as long as it remains PERFECTLY intact.
+
+This archive/model MAY NOT be used in conjunction with any commercial product without express permission from Richard 'jodi' Maxwell.
+
+This archive/model MAY NOT be included on any cdrom unless the cdrom is given away for free.
+
+The archive/model MAY NOT be used with any quake mod without express permission from Richard 'jodi' Maxwell (but don't let that stop you from asking)
+
+Quake, Quake2, Quake3 and anything quake related (other than this model) is (c) id Software
+
+Files
+--=--
+
+under /players/tigger/:
+
+tigger.txt
+
+tris.MD2
+weapon.MD2
+
+a_grenades.MD2
+w_bfg.MD2
+w_blaster.MD2
+w_chaingun.MD2
+w_glauncher.MD2
+w_hyperblaster.MD2
+w_machinegun.MD2
+w_railgun.MD2
+w_rlauncher.MD2
+w_shotgun.MD2
+w_sshotgun.MD2
+
+a_grenades.pcx
+w_bfg.pcx		
+w_blaster.pcx		
+w_glauncher.pcx		
+w_machinegun.pcx	
+w_railgun.pcx		
+w_rlauncher.pcx
+w_shotgun.pcx
+
+
+drown.wav
+drown1.wav
+death1.wav
+death2.wav
+death3.wav
+death4.wav
+fall1.wav
+fall2.wav
+gasp1.wav
+gasp2.wav
+jump1.wav
+pain100_1.wav
+pain100_2.wav
+pain75_1.wav
+pain75_2.wav
+pain50_1.wav
+pain50_2.wav
+pain25_1.wav
+pain25_2.wav
+
+tigger.pcx
+
+argo.pcx
+earthworm.pcx
+easta.pcx
+fish.pcx
+flyking.pcx
+heresy.pcx
+jenza.pcx
+jingo.pcx
+jodi.pcx
+kiwied.pcx
+madoka.pcx
+mailman.pcx
+mussakar.pcx
+sarge.pcx
+satan.pcx
+toenail.pcx
+vertigo.pcx
+vision.pcx
+
+cat.pcx
+whiplash.pcx
+
+ctf_b.pcx
+ctf_r.pcx
+
+r2aqua.pcx
+r2blue.pcx
+r2dgre.pcx
+r2lgre.pcx
+r2oran.pcx
+r2red.pcx
+r2yell.pcx
+
+
+tigger_i.pcx
+
+argo_i.pcx
+earthworm_i.pcx
+easta_i.pcx
+fish_i.pcx
+flyking_i.pcx
+heresy_i.pcx
+jenza_i.pcx
+jingo_i.pcx
+jodi_i.pcx
+kiwied_i.pcx
+madoka_i.pcx
+mailman_i.pcx
+mussakar_i.pcx
+sarge_i.pcx
+satan_i.pcx
+toenail_i.pcx
+vertigo_i.pcx
+vision_i.pcx
+
+cat_i.pcx
+whiplash_i.pcx
+
+ctf_b_i.pcx
+ctf_r_i.pcx
+
+r2aqua_i.pcx
+r2blue_i.pcx
+r2dgre_i.pcx
+r2lgre_i.pcx
+r2oran_i.pcx
+r2red_i.pcx
+r2yell_i.pcx
+
+under /players/quakeguy/:
+
+tiggersf.pcx
+tiggersf_i.pcx
+tiggersf.txt
+
+under /demos/:
+
+tigger.dm2
+whipsbad.dm2
+
+under /sounds/:
+
+tigsong.wav
+whipsbad.wav

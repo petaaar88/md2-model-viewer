@@ -1,0 +1,25 @@
+QUAKE2 SKIN	     	SuperSnork.pcx       Jan. 20 1998
+
+Author:		SuperPhatty
+
+E-Mail:		super.phatty@usa.net
+
+Files:		SuperSnork.pcx SuperSnork_i.pcx supersnork.txt	
+
+Instructions:	Just unzip all these files to your quake2/baseq2/players/snork                
+		directory.
+
+Important: 	I am not responsible if you stuff this up, your actions are	   	
+		your own and I take no responsability.
+
+Other:  	This is ver. 2 of the supersnork skin. The only thing
+		changed is the boots, i thought they looked like crap 
+		before. 
+
+DISCLAIMER:	Skin authors may(but probably wont want to) use this skin as a base for other skins. This		
+		skin is available for free distribution via BBS, FTP, and		
+		other free electronic means. This skinn MAY NOT be included in any		
+		CD-ROM or other product whose sales earn profit for their publishers.PS: 		
+
+I used Gateway's layout for this text file. His email address is		
+gateway@mobsters.com

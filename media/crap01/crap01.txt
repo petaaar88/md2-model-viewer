@@ -1,0 +1,91 @@
+April 19, 1999
+
+================================================================
+
+Model Name              : Crap01
+
+installation directory  : quake2/baseq2/players/crap01
+
+Author                  : Xorus[NEW]
+
+E-Mail Address          : xorus@xorweb.i-dentity.com
+
+Website Address         : http://xorweb.i-dentity.com/
+
+Clansite Address        : http://xorweb.i-dentity.com/new/
+
+Model description       : 
+	What can I say? It's CRAP! =P (Not too mention VERY low-poly!)
+	I think you can say it *kinda* resembles a humanoid/cyborg.. Kinda..
+
+Model Info	        :
+	Ugh! Lemme start with the reason WHY I created this model:
+	I wanted to know if I could model, map, animate and/or skin a PPM for Quake 2!
+	(And possibly Quake 3) I didn't aim for anything fancy since that would be
+	a waste of time if I'd find out that I sucked! =P So I didn't care much for
+	details and such.. I *tried* to make it as humanlike as possible!
+	As for the arms, well.. It was experimental.. Just like the entire model!
+	I learned a lot from this experience, tricks for modeling, mapping, etc..
+	I think if I would *really* make a serious effort I could make a decent model!
+	(With a serious modeling program tho!)
+	Making the skinmesh was a toughy for me, got stuck for while but I managed to
+	make one that works! (Many thanks to the 'Patchwork' PPM ppl for giving me the
+	base idea of how to make a skinmesh!)
+	Animating was another tough one for me, I've been working with Q2Modeler,
+	using vertex-animation! (YEGH!) It's very difficult to work with that when it's
+	your first animation attempt! Still I think I managed to make something
+	nice out of it! Seeing it in action when I finally finished it was a TRIP! :)
+	This model is loaded with 'faults' but I left them 'as is', I just wanted to
+	finish it! It took me 3 weeks (on and off) but here it is! YAY! :)
+	
+Additional Credits to   : 
+	Idsoftware (DUH!)
+
+Thanks to               :
+	Every member of the Nexus Elite Warriors
+	Every member of the Cybertronian Warriors
+	Every regular of the #nexus 3DNet IRC channel
+	Every regular of the 3DNexus message board
+	Every regular of the 3DBodyShop message board
+	Every regular of the Q2PMP message board
+	Everyone I forgot!
+
+Special Thanks to        :
+	Every modeling God for motivating me! :)
+
+================================================================
+
+* Play Information *
+
+New Sounds              : NO
+
+CTF Skins               : NO
+
+VWEP Support            : NO
+
+
+* Construction *
+
+Poly Count              : 245 tris.md2 / 0 weapon.md2
+
+Vert Count              : 123 tris.md2 / 0 weapon.md2
+
+Skin Count              : 1 DM
+
+Base		        : Built from scratch
+
+Editor used             : 
+		Modeling - qME
+		Animation- Q2Modeler
+		Skining  - NST
+		Painting - Photoshop, Paint Shop Pro, NST
+		Viewing  - Skin View
+		
+Known Bugs              : A couple, but nothing life-threatening!
+
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+Feel free to edit my model as you see fit, just be sure to mention me
+in the readme file. This model is not to be distributed as part of any
+commercial product.

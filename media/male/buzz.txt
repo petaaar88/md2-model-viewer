@@ -1,0 +1,18 @@
+QUAKE2 SKIN     Buzz Lightyear      1/21/97
+
+
+Author:         Casey Rhee
+E-Mail:         crhee@bigfoot.com
+
+Files:          buzz.pcx buzz_i.pcx buzz.txt
+                        
+
+Instructions:   Just unzip all these files to your 
+                quake2/baseq2/players/male directory
+
+Description:    Buzz Lightyear from the movie Toy Story.  
+		Movie and character owned by Disney.
+
+
+Comment:  This is my first skin.  Hope you enjoy it.  It was fun making it.
+	  If you want to modify it in any way, just email me and let me know.

@@ -1,0 +1,4 @@
+Here are 2 predator skins for Morbo, not that great in my opinion,
+I don't know the author, I take no credit for these whatsoever
+besides the fact that I sent them.
+Extract to quake2 baseq2 players morbo

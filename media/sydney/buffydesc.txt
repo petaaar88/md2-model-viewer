@@ -1,0 +1,19 @@
+Buffy skin for the Sydney PPM
+------------------------------------
+
+unzip this file into your quake2\baseq2\players\sydney directory.
+
+I don't know where I found the original Buffy.pcx that
+was done for the female model but the skinner did an
+awesome job on her jeans...  big thumbs-up whoever you are.
+
+Well, once I realized that the Sydney Model had almost
+the same torso and legs as the Id Fem, it became obvious
+that I had to try converting Buffy over.  I love the
+results!  She looks great!
+
+Enjoy!
+
+ThirteeN
+
+donm@kwantlen.bc.ca

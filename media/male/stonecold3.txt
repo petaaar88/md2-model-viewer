@@ -1,0 +1,48 @@
+
+Quake 2 Skin-StoneCold3        					        2/6/98
+
+
+Author:		Michael Wojnar
+
+E-Mail:		thewoj@hotmail.com, q16skins@hotmail.com, thewoj@superior.net
+
+Homepage: 	http://www.superior.net/~thewoj    
+		http://www.superior.net/~thewoj/q2	
+
+Files:		stonecold3.pcx    stonecold3_i.pcx			
+
+Instructions:	Place both of these files into your 
+	        quake2/baseq2/players/male directory
+
+Description: 	A modified StoneCold2, wearing the 100% Pure WhoopAss shirt. 
+Had some problems with his back. Due to the shape of the model's back the p in
+Whoop was distorted and the % is a little messed up. I fixed it the best I 
+could.
+
+Other:		Paint Shop Pro 4.14 was used to make this skin.
+		
+"You sit there and thump your bible, and say your prayers and it didn't get 
+you anywhere. Talk about your psalms, talk about John 3:16.....Austin 3:16 
+says I just whipped your ass!" 
+-Austin's King of the Ring '96 Coronation Speech. 
+
+-Planned* Future Releases Of StoneCold-
+A modified StoneCold2 with the "Other Side Jackass" T-Shirt
+A modified StoneCold drenched in blood.
+A modified StoneCold2 drenched in blood.
+
+*Due to various other skin projects, I may not have enough time to make all 
+of these.
+
+-Other Skins By Woj-
+stonecold
+stonecold2
+wcwsting
+wcwsting2
+wcwsting3
+handofgod
+doomskull
+doomskull2
+snorkcold
+
+		

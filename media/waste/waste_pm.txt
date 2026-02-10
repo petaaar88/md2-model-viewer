@@ -1,0 +1,32 @@
+: W A S T E : International Skins
+
+International Skins by:
+Author:		Lance S. Winkel, "Prophet Minstrel"
+Email:		minstrel@lance.innerlinx.com
+Web:		http://lance.innerlinx.com/
+
+Original "Waste" model by:
+Author: 	Jeff M. Garstecki, better known as "Stecki"
+Email:		stecki@frag.com or stecki@playstation.sony.com
+Web:		http://www.frag.com/deconstruct
+Host:		http://www.frag.com
+
+Installation:
+The skins should be unzipped directly into the quake2/baseq2/players/waste/ directory.
+
+Comments:
+Many thanks to Stecki for making the model.
+Enjoy the skins.
+
+Tools:
+Adobe Photoshop
+
+Files included:
+waste_pm.txt	this text file
+rchina.pcx	China skin
+rchina_i.pcx	China icon
+svensk.pcx	Swedish skin
+svensk_i.pcx	Swedish icon
+nippon.pcx	Japanese skin
+nippon_i.pcx	Japanese icon
+

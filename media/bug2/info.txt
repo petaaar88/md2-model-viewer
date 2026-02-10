@@ -1,0 +1,73 @@
+Bug Model By "Tatey" 
+--------------------
+27th feb 1998
+
+Because of numerous complaints i've persuaded myself to have a look at the skining thing
+and as most of you noticed the model was a bugger to make a skin for (proberly why the
+corndog skins were crap in my opinion, i've excluded them for this reason, i.e. i cant 
+be arsed to convert them :)
+
+So... in this version 
+---------------------
+Bug model by Tatey
+animation by Tatey
+skin mesh by Tatey
+Tatey on icq 4625768
+email d.r.scott1-96@student.lboro.ac.uk
+
+addition of SFX originally compiled by 
+(NBK)-Shivan email at homeycheese@hotmail.com
+he says "Visit us at www.naturalbornkillers.com/ for the best gaming group on the web today."
+
+id picture stolen from this site :)
+http://homepages.force9.net/spiral/starship/starship.htm
+the weapon model ripped from someone elses model the bloke who ported the enforcer model
+(to get rid of it, i kept on getting error messages (that null skin one)in the game when
+ i tryed this myself)
+umm skin by whoever did the ctf blue skin and the red one aswell i guess :)
+
+software used
+qme.exe lite for quake	http://www.3dmatrix.com/index.htm
+mdl.exe	Quake 2 Modeller 0.83	by Phillip Martin	martinp1@topaz.cqu.edu.au
+
+installation 
+------------
+
+just like all the other model modifications if it doesn't make sense look the others up
+
+just unzip the contents of this zip into the \quake\baseq2\players\ directory
+
+this should create a directory called bug with the usual files in............
+
+bbug.pcx	the male blue team skin from ctf
+bbug_i.pcx	the blue id pic
+rbug.pcx	the male red team skin from ctf
+rbug_i.pcx	the red id pic
+weapon.pcx	the default weapon skin (cant think how this is used)
+weapon.md2	the weapon model pointless but essential
+tris.md2	the actuall bug model (WOW)
+info.txt	this txt file like ya didnt know
+bump1.wav
+death1.wav
+death2.wav
+death3.wav
+death4.wav
+drown1.wav
+fall1.wav
+fall2.wav
+gurp1.wav	*
+gurp2.wav	*
+jump1.wav	*
+pain100_1.wav
+pain100_2.wav
+pain25_1.wav
+pain25_2.wav
+pain50_1.wav
+pain50_2.wav
+pain75_1.wav
+pain75_2.wav
+
+all wav files collected by (NBK)-Shivan
+i've only edited some of them slightly them marked with a *
+
+right now it's the all improved skin model somebody do a decent skin for it , please :)

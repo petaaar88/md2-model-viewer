@@ -1,0 +1,47 @@
+================================================================
+
+Model Name              : Fulimo (Funny Little Monk)
+
+installation directory  : quake2/action/players/fulimo
+
+Author                  : Tim		
+
+Email Address           : sj162me@uni-duisburg.de
+
+Model description       : This is my first model and due to my lack of time, I did not have the chance jet to make it perfect. It was more to studie the potential of the Modelbuilder and how everything worked. To give slow computers a chance, the reduction of the number of faces was the primairy objective. 
+I will improve everything, if more time is awailable to me. Unfortunately something with the skin of the perliminairy weapon went wrong, but I don't have a clue what. Please mail me, if you find out. The rest of the weapons will be implemented soon.
+
+Additional Credits to   : everybody involved. :o)
+
+================================================================
+
+New Sounds              : <YES>
+
+CTF Skins               : <NO>
+
+VWEP Support            : <YES>, workin on it.
+
+* Construction *
+
+Poly Count              : 134
+
+Vert Count              : 71
+
+Skin Count              : 1 Skin, more to come
+
+Base                    : new model
+
+Editor used             : Quake 2 Model Editor
+
+Known Bugs              : nope
+
+Build/Animation time    : 30 hours
+
+* Copyright / Permissions *
+
+???... everybody is allowed to use everything of this model!
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+<Other Legal info about the use of your model> 
+

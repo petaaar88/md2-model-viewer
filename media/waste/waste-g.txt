@@ -1,0 +1,22 @@
+Waste--Gold by Michael "Nitric" Degroot...Glock-9
+========================================================This skin is basically Waste With an improved front panel...and gold back panel...and knee pad.
+
+Installation
+--------------------------------------------------------Just use Winzip to unzip into your Quake2/baseq2/waste directory or whatever your Waste model is in!
+ 
+Files:
+Waste-G.pcx
+Waste-G_i.pcx
+Waste-G.txt
+
+Build Time: 
+About 2 Hours off and on...so not Long!
+
+Tools:
+PaintShop Pro 4.14
+NSTv.76
+
+Copyright
+--------------------------------------------------------Do what ever you want with these.  But please Email me
+Michael DeGroot
+SDegr40388@aol.com

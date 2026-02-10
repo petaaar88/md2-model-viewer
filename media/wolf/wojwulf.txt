@@ -1,0 +1,27 @@
+
+Quake 2 Skin-WojWulf      					       3/17/98
+
+
+Author:		Michael Wojnar
+
+E-Mail:		thewoj@hotmail.com, thewoj@superior.net
+
+Homepage: 	http://www.superior.net/~thewoj
+		http://www.superior.net/~thewoj/q2    	
+
+Files:		wojwulf.pcx    wojwulf_i.pcx			
+
+Instructions:	Place both of these files into your 
+	        quake2/baseq2/players/werewolf directory*
+* at the time that this skin was made, the name of the model it was made for 
+was going to be called werewolf, that may change by the time this is read.
+
+Description: 	A recolored version of the skin in the "preview version" of 
+the werewolf* model. The zip included early versions of the .md2 files and 
+the base skin.
+
+Other:		nstv060 was used to make this skin.**
+** this was my first attempt at using nstv060, sorry.
+
+"Unleash the beast within"-Bloody Roar (Playstation) magazine advertisement
+		

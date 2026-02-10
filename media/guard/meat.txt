@@ -1,0 +1,30 @@
+Name of skin : Meat, skin for Guard Plug in Player Model
+Date         : January 23, 1998
+Author       : Dion Isgro
+E-mail       : vpi1@ix.netcom.com
+
+
+Files included
+-----------
+Meat.pcx
+Meat_i.pcx
+Meat.txt
+
+
+About skin
+------
+Edited this skin from two existing skins. The Original Id software Medium Guard skin, and The chosen's Skinned skin.
+
+
+INSTALLATION
+------------
+<><><>U must have the Guard plug in player model to use this skin.<><><>
+
+Winzip or Pkunzip into your c:\quake2\baseq2\players\Guard  Dir.
+
+
+NOTES
+-----
+Please distrubute this skin throught the web..
+
+Feel free to use skin as a base for others.

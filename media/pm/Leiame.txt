@@ -1,0 +1,53 @@
+---------------------------------------------------------------------------------------
+MODELO DE QUAKE2 	"PM" 	       				11-10-99
+---------------------------------------------------------------------------------------
+
+Model:		Policial Militar
+
+Author:		Daniel Garcia Romero - The ][ead Crusher
+
+Release date:	11-10-99
+
+E-Mail:		headcrusher@domain.com.br
+
+ICQ:		1282426 - So não fique me enchendo o saco com besteiras ! :)
+
+URL(s):		http://www.domain.com.br/clientes/headcrusher/
+                http://foxes.tsx.org              (Página do meu clã)
+		
+Files:		mrpm.pcx          SIM ! Mr. PM, o príncipe dos surtilégios, senhor de todos os segredos, maracutaias e tramóias está aqui !
+                camufla.pcx       Um soldado usando camuflagem
+                capuz.pcx         Um cara de capuz 
+                action.pcx        Use no Action, fica melhor !
+                pm.pcx            Um pm branco
+                pmn.pcx           Um pm negro
+                scar.pcx          Um cara com um tapa olho e uma cicatriz
+                soldn.pcx         Um soldado negro
+                soldb.pcx         Um soldado branco
+                ctf_r.pcx         Jogador vermelho de CTF 
+                ctf_b.pcx         Jogador azul de CTF
+                base.pcx          Pra você fazer suas skins !
+                
+Instructions:	Descompacte todos os arquivos para o(os) diretório(s) quake2\baseq2\players\pm
+                ou (se) quake2\action\players\pm 
+                ou (se) quake2\ctf\players\pm
+                
+                Crie cada diretório para cada jogo, lembre-se disso ou não vai ver o modelo naquele tipo de jogo.
+                
+                Que comece a carnificina !
+
+---------------------------------------------------------------------------------------
+
+Important: 	Eu inclui uma skin base. Use-a :)
+
+Thanks:		Meu pai, minha mãe e amigos :)
+                (e todos os artistas no globo)
+
+DISCLAIMER:	Você pode fazer o que quiser com as skins. Apenas coloque meu nome nos créditos, ok ?
+
+Notes:          A skin tem um mapa horroroso ! Eu sei que ele fede, se eu tiver pedidos suficientes, 
+                eu irei refazê-lo. Eu também tive problemas horriveis na hora de exportar os frames (isso
+                explica pq algumas animações das armas fedem !). Também existem pequenas falahas nas animações, 
+                mas como esse é o meu primeiro modelo, eu acho que ele chuta a bunda de muita gente !
+
+---------------------------------------------------------------------------------------

@@ -1,0 +1,32 @@
+Name of skin : Evil, skin for Morbo Plug in Player Model
+Date         : January 23, 1998
+Author       : Dion Isgro
+E-mail       : vpi1@ix.netcom.com
+
+
+Files included
+-----------
+evil.pcx
+evil_i.pcx
+evil.txt
+
+
+About skin
+------
+Edited this skin from two existing skins. The original Morbo skin. and the chosens SKINNED skin.
+
+If u like this skin..then u are retarded..I made this skin in 10 minutes..
+I felt there needed to be More skins for morbo cause i had been in a dm 
+game where 2 ppl were using morbo and looked a like.
+
+
+INSTALLATION
+------------
+Winzip or Pkunzip into your c:\quake2\baseq2\players\Morbo  Dir.
+
+
+NOTES
+-----
+Please distrubute this skin throught the web..
+
+Feel free to use skin as a base for others.

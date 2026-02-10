@@ -1,0 +1,82 @@
+-----                                                         First Release:    11/6/98
+Brawn
+-----
+
+Brawn is a variation of the Quake2 PPM called 'Morbo' (also by me). Brawn is a new
+skin for the model, a new icon, a new weapon (and skin), a set of sound effects and
+a 'background' story for the character.
+
+Author:
+
+    Rowan "Sumaleth" Crawford
+
+    Email:                  sumaleth@frag.com
+    Fun Web:                http://impact.frag.com
+    Work Web:               http://www.animagrafx.com.au
+    Cool Web Hosters:       http://www.frag.com
+
+    Past Quake Projects:    Quake Rally, Quess, Morbo, Zumlin.
+
+Sound Effects:
+
+    Sound effects author:   Eric "redchurch" vonRothkirch
+    Email:                  Electro-emoboy@msn.com
+    Project Page:           http://planetquake.com/thecoven/
+
+Special Note:
+
+    The Brawn files are completely interchangable with the Morbo files, so, for example,
+    if you decided you wanted to use Brawns weapon with the Morbo PPM, you can simply
+    copy them over.
+
+Installation:
+
+    The zip file must be extracted into the location of your quake2/ directory
+    (ie. NOT into the quake2/ directory - the one before it). The paths in the
+    zip are quake2/baseq2/players/morbo/ so if you don't unpack into the right
+    location it won't work.
+
+    Once extracted, Morbo will automatically appear in the player selection
+    field of the Multiplayer Options menu. Of course, it's only the other
+    players that get to see you as Morbo so it really only works in multiplayer games.
+
+    If someone is using Morbo and you don't have this model then you will simply see
+    them as the regular Quake2 player models, and visa versa.
+
+    Please note that there is a little problem with Quake2 and PMP's whereby
+    if you have any files in the /quake2/baseq2/players/ directory which AREN'T
+    real player model directories, then Q2 usually won't let you select additional
+    players from the Multiplayer menu. So if Morbo doesn't show up for selection,
+    just check there are no files in that directory.
+
+    Don't send bug reports please and please don't email me saying you can't get
+    it working.
+
+Whats it all about then?
+
+    I wanted to do a new skin for my old Morbo PPM, but after doing all that work
+    I decided to keep going and basically make a new PPM out of the old shell. A cheating
+    way to make a new PPM really, but thats life :).
+
+Important Stuff:
+
+    Morbo and all associated files are copyright of Rowan Crawford. Quake2 is copyright
+    of id Software.
+
+    You are free to spread Morbo far and wide although you are not allowed to make
+    money from Morbo in any way, shape or form.
+
+    Everyone is completely free to make additional skins for Morbo, in fact I encourage
+    it! You can even use my skin as a basis if you like, as most people do with the
+    Quake skins. Please don't send me skins you have made for Morbo, instead send them
+    to Dragon at http://qwcentral.stomped.com who maintains the Quake2 skin packs.
+    Be sure to check the rules of submission on his page first.
+
+    The skin layout is one of the things I put down to a "learning experience" because
+    while it looks pretty neat, it actually turned out to be a BITCH to paint on. Especially
+    the hands. Oh well, sorry about that, next time will be better :).
+
+    Thanks to everyone who helped out.
+
+
+- Rowan 'Sumaleth' Crawford

@@ -1,0 +1,94 @@
+10/25/99================================================================
+Model Name              : Twilight
+installation directory  : quake2/baseq2/players/twilight
+Author                  : Bryce Nakagawa
+Skin Author 		: Bryce Nakagawa
+Email Address           : b_nakagawa@yahoo.com
+Model description       : 
+
+Just on the border
+of your waking mind,
+there lies another time
+where darkness and light are one,
+
+And as you tread the halls of sanity
+You feel so glad to be unable to go beyond.
+
+I have a message from another time.
+
+-opening from ELO's 'Twilight'
+
+With these lines begins the opening credits for Daicon IV.
+
+More or less unnecessary backstory - Daicon is a Japanese sci-fi convention. Daikon is the name of a japanese white radish, shaped rather like a carrot. The syllable 'dai' is one reading of the japanese kanji for big. Con is of course, a concatenation of convention, hence the reading 'big' con. In 1981, Daicon III had a cutesy animated opening credits sort of deal where a little girl is given a glass of water by some science patrol guys (think Ultraman) and asked to take it to the daicon. On her way she is hassled by a lizard with yakuza dark glasses with a powered armor suit thug. They want the water, the girl refuses, the armored thug shoots her, hits his boss by mistake. Turns out her backpack is a jetpack, she flies off, chased by the thug. Thug shoots her down with a barrage of missiles. They land in a street, where thug shoots her with bazooka. She deflects projectile, which KOs thug. Before dying, thug fires signal flare.
+Summoned reinforcements includes Godzilla, Ghidra, an Imperial Star Destroyer, Space Cruiser Yamato, the Enterprise, etc.
+She dodges the barrage of attacks, pulls a lightsaber and cuts an Ultraman villain in half. Then she ripple fires a salvo of missiles which blows up everything and everyone.
+
+She finally finds the daicon in a vacant field and pours the water on it. It transforms into a spaceship, shaped like a daikon, which beams her aboard in a spiffy new uniform, and rockets off into space.
+ta da.
+
+Three years later, Daicon IV opens with another animated sequence.
+
+Our girl is back, but she's grown up a bit. She's a bunnygirl. She's bouncy. She's practiced some martial arts. She's awfully damned strong. She jumps around, kicks the hell out of a bunch of kaiju (guys in rubber suits who knock down model buildings a la godzilla), fights a bunch of mobile suits (from the Gundam series), beats up Darth Vader in a lightsaber duel, tosses around Dairigger-15 (one of those damned giant robots that Macek tried to convince us was another incarnation of Voltron) and surfs on a flying black-bladed sword (I think it's Stormbringer). There are some cool pans of montages of classic characters from fannish literature (lion witch wardrobe/fellowship of the ring/white dragon etc), films, comic books, a flyby of all the famous spaceships of the day (remember this is 1984), a dogfight above a landscape covered in hexes and a pair of six sided dice, some aerobatics by the sword (which splits into six and streams colored smoke), a really cool quasi-nuclear blast which blows up at ground level in a city, then wipes to the same effect in cherry blossom petals, the reappearance of the daikon-ship which fires a wave motion gun-type weapon which causes the devastated landscape to erupt with life as the beam passes, then a pan of just about every anime character (1984 and pre) and then the convention name. All of this in perfect time with the music, Twilight by ELO. Hence the name.
+
+BTW - this animation was done by a bunch of amateurs who went on to form a company named Gainax.
+
+Twilight the bunnygirl has found a bunch of props from anime and has figured out how to use them to fire quake 2 weapons. Almost as cool a trick as surfing a sword in heels.
+
+blaster       Magical Girl Pretty Sammy, spinoff from Tenchi Muyo.
+shotgun      A variant on the odd-ball mace that Shampoo (Ranma 1/2) occasionally uses
+sshotgun     a generic giant mallet (Urusei Yatsura and many others)
+machinegun  black-bladed sword, evidently good for surfing on, as it can fly (Daicon IV)
+chaingun     Cloud's sword from FF7
+g_launcher   Ukyo Kuonji's spatula'o doom from Ranma 1/2
+r_launcher   Ryouga Hibiki's umbrella, again from Ranma 1/2
+hyperblaster Sailor Moon weapon of some type
+railgun       Something lifted from Card Captor Sakura. Don't watch it, no idea what it is.
+BFG           Lightsaber. Used to kick Vader's buttocks in the Daicon IV opening credits
+
+Sounds:
+I ripped off the sounds from priss and sailormercury. Bump, death1&2 and the Jump come from priss and the rest come from sailor mercury.
+
+Skins:
+
+0twilight0    - ostensibly the base skin. This is more or less the girl from the Daicon IV anime
+CTF_r        - CTF red
+CTF_g        - CTF green
+CTF_b        - CTF blue
+barbunny    - modeled after a cocktail waitress
+jailbait       - mmmm jailbait. 
+robobunny   - mmmm robots.
+rocketbunny - modeled after J Quagmire's Cutey Bunny, itself an anime parody.
+sillybunny    - highly gratuitous.
+2tone         - also gratuitous. wanted to try one with glasses
+whiterabbit   - Cute, but very visible.
+tarbunny     - an obscure joke. alternately, a shiny black bunny.
+mistymae    - bunnygirl from Gainax's semi biographical 'Otaku no Video'.
+
+
+Additional Credits to   : 
+
+Scott Ruggels for invaluable technical advice and assistance in getting the model to work.
+Will Faust for animation insights and use of his computer.
+
+================================================================* 
+Play Information *
+New Sounds  :    none, they're all ripped off from previous models.
+CTF Skins               : Yes 
+VWEP Support            : Yes 
+*Poly Count             : 721
+Vert Count              : 374
+Skin Count              : 13
+Base                    : original model
+Editor used             : 3dsMax2.5, NST,Q2mdlr,Photoshop4.0
+Known Bugs              : ???
+Build/Animation time    : I forget
+
+Please install so that the final directory path looks like:
+quake2\baseq2\players\twilight
+
+
+* Copyright / Permissions *QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+This model may be used  for non commercial purposes free of charge. For use in commercial properties the author charges 7% of gross sale reciepts of the product it is used in. rate and usage is negotiable though before usage. Ask me nicely. Any new skins, skinning modifications, or other animation is welcome provided the author is sent a copy. Thank you
+

@@ -1,0 +1,30 @@
+This is the Snork player model by Kray-Zee!  The weapon.pcx is courtesy of NegativeKreep
+
+Unzip this to the folder CONTAINING your quake2 folder!  For example, if your 
+Quake 2 folder is c:\quake2 then unzip this to c:\
+If these files do not end up in quake2\baseq2\players\snork then they won't work, so put 'em
+there if you unzipped it wrong.
+
+Start up a game of Quake 2, and go to the Multiplayer menu.  Choose the Snork model.  Frag.
+
+Tools used:  LightWave 3D v5.5
+             Corel Photo-Paint 7
+             NST
+	     Qdata (modified by Ken D. Turner)	
+
+Time spent:  too much
+
+Shameless plugs:  http://www.planetquake.com/modeling  <-- KrAy-ZeE's Modeling Guide
+                  http://www.sni.net/banished  <-- Banished Entertainment
+
+Weirdness:  When I unzipped this on my brothers computer, it worked fine.  When I tried 
+            unzipping it on MY computer, it didn't work.  I had to reinstall Quake 2.  
+            Also, in GL the skin looks yellow.  In software and v1k, it is it's proper
+            orange color.
+
+email:   kray-zee@planetquake.com (for kray-zee)
+         pwolfe@erols.com (for NegativeKreep)
+
+
+
+enjoy!

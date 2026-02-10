@@ -1,0 +1,16 @@
+QUAKE2 SKIN     Blaze Female Skin       12/29/97
+
+
+Author:         Vigilante of the Muffin Kings [MK]
+
+E-Mail:         foxm@tig.com.au
+
+Homepage:	http://homepages.tig.com.au/~foxm/
+
+Files:          blaze.pcx blaze_i.pcx blaze.txt
+                        
+
+Instructions:   Just unzip all these files to your 
+                quake2/baseq2/players/female directory
+
+Description:    Gleaming Female skin, really stands out and looks fantastic..enjoy ladies!!

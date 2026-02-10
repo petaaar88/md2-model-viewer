@@ -1,0 +1,11 @@
+Shadow-skin
+=========
+a 2 minutes skin - quick but nice
+made 14.2.98
+
+shadow.pcx
+shadow_i.pcx
+
+Author: Randy 
+        randy@w-4.de
+        www.w-4.de/~randy

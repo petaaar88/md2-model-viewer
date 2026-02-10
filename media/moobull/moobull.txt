@@ -1,0 +1,57 @@
+Date: 12-6-1999
+======================================================================
+Model Name              : moobull
+installation directory  : quake2/baseq2/players/moobull
+Author                  : Jim Patrick, aka. HasBen{moo} 
+Skin Authors            : HasBen and Holy
+Email Addresses         : hasben@mooclan.com and jokotoro@lasercom.net
+
+Model description       : Bull, Remake of the SouthParks cow model,
+                        : by Tharger and Scoots!
+                        : eMail Tharger at ThargerUS@aol.com,
+                        : Scoots at ssmith@omaha.usweb.com
+                        : The head from the cow model was used
+                        : with a few minor modifacations and additions.     
+
+Other info              : All changes, additions and animations were
+                        : done entirely with QME v0.9. Don't expect
+                        : much, this is my first attempt at doing any
+                        : kind of model making.  
+
+Additional Credits to   : id Software, Quake2 Model Editor
+                        : PaintShop Pro, NPherno Skin Tool
+                        : Skinview MOD
+
+Thanks to               : All the MooClan Members: For all the fun times
+                        : I've had fraggin with the moo's, I'd like to
+                        : dedicate this bull model to all of our members..
+                        : Fun Fraggin or DIE!... at  www.mooclan.com
+==========================================================================
+* Play Information *
+
+Sounds                  : YES
+CTF Skins               : YES
+VWEP Support            : NO
+
+
+* Construction *
+Poly Count              : 537 bull model and 80 for the weapon model  
+Vert Count              : 293 for bull and 40 for the weapon
+Skin Count              : 6
+Base                    : modified SouthParks Cow model
+Editor used             : Quake2 Model Editor, QME v0.9
+Known Bugs              : none
+Build/Animation time    : 40 hours, what can I say "I'm SLOW!"... 8-)
+==========================================================================
+
+* How to use this model *
+
+When unpacking just enter the drive letter that your quake folder is on.
+for example: if you installed quake2 on C, then the "unpack path" would be
+as follows:   c:\    OR    for drive D use:   d:\   
+
+If all goes well the bull model files will install into
+a "quake2\baseq2\players\moobull" folder.....  MOOoooooooo!
+
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.

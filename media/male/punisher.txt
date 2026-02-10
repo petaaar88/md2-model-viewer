@@ -1,0 +1,21 @@
+Type: 		QUAKE2 SKIN
+Name: 		Punisher
+Date:		2.19.98
+Author:		HellraZor
+E-Mail:		wandk@enetis.net
+
+Files:		punisher.pcx punisher_i.pcx readme_punisher.txt
+
+Editor:		Paint Shop Pro
+			
+Instructions:	Just unzip the .pcx files to the 
+	        quake2/baseq2/players/male directory
+
+Description: 	My first skin -
+		I had dilusions of grandure when I first started making this 
+		skin.  I had planned to build a skin that looked like a Marine that 
+		took too many slugs from a Gladiator's railgun and has been partially 
+		re-built "the Strogg way".  What turned out was a "Terminator" 
+		looking skin - oh well.
+
+

@@ -1,0 +1,49 @@
+04/06/98
+================================================================
+Model Name              : Borg
+installation directory  : quake2/baseq2/players/borg
+Author                  : Jude Bond
+
+Email Address           : jude.bond@mcr1.poptel.org.uk
+
+Model description       : This is just a case of extreme cybenetics, 'Borg' has taken it too far.
+
+
+Other info              : I animated this without any flashy plugins, just selection and rotation of points.
+			  This is my third PMP for Quake2.
+
+Additional Credits to   : id Software
+
+================================================================
+* Play Information *
+
+New Sounds              : YES (lifted form ID's pack0.pak
+CTF Skins               : YES
+VWEP Support            : NAH
+
+
+* Construction *
+Poly Count              : 665 including gun
+Vert Count              : 420
+Skin Count              : 6
+Base                    : New model
+Editor used             : QME, NST, built one frame in LW-modeler. 
+Known Bugs              : I don't think tere are any.
+Build/Animation time    : about 5 days for it all I think.
+
+
+* How to use this model *
+
+Just drop all my files into a directory called 'borg', and bang 'borg' into 
+the baseq2\players directory. If you dont like the sounds...delete them.
+Please don't send bug reports and please don't email me saying you can't get
+it working.
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+BORG and all associated files are copyright of Jude Bond. 
+Feel free to spread BORG far and wide, although you are not allowed to 
+make cash from it in any way, shape or form. 
+
+

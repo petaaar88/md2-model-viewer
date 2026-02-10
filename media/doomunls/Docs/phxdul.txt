@@ -1,0 +1,65 @@
+4/22/2000
+================================================================
+Model Name              : Doom Unleashed
+
+Installation directory  : quake2/baseq2/players/doomunls
+
+Author                  : Phoenix
+Email Address           : phoenix9000@netzero.net
+Clan Web Page           : http://clanpod.50megs.com
+
+Model description       : Rework of the Generations Doomguy
+
+Other info              : Added sound and weapons paks, and optional dll file
+
+Additional Credits to   : Id Software, the Generations team 
+			  (see http://www.planetquake.com/generations/crew.html)
+				
+Thanks to               : Neurobasher, for permission to use the player model.
+			  Kricket, for the weapons models.
+			  Cricket, weapons skins
+			  Dr.Doom, Original Doomguy and CTF skins; plasmagun, pistol, and bfg v_weapon skins
+			  Skid, for permission on the Gen stuff
+			  Anyone I might have missed, also see the Gen credits page above!			  
+
+Contact                 : neurobasher@planetquake.com    - Neurobasher
+			  cenx@hotmail.com               - Kricket
+			  skid@planetquake.com	         - Skid
+			  del@baracus.digitalosmosis.com - Dr. Doom
+================================================================
+* Play Information *
+
+New Sounds              : YES!
+CTF Skins               : YES!
+VWEP Support            : YES!
+RA2 Support             : YES!
+
+* Construction *
+Poly Count              : 588
+Vert Count              : 300
+Skin Count              : 20
+Base                    : existing doomguy model
+Editor used             : Q2modeler 0.9, Paint Shop Pro 3.1, Pak Explorer 1.2
+Known Bugs              : Weapons will not display well under software rendering.
+			: Slight display bug with blaster trap on train.bsp.
+			  nothing I can do about that one without a coding change.
+Build/Animation time    : 3 VERY long weeks
+
+
+* How to use this model *
+
+Unzip the phxdul.zip file.  Move the doomunls folder into the quake2/baseq2/players folder.
+
+To use the pak files, copy them from quake2/baseq2/players/doomunls into your baseq2 folder.
+
+Read the instructions.txt in the docs folder for info on how to use the RA2 skins for Rocket Arena.
+
+For the optional dll file, read the Plasma gun.txt file in plasma folder
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) Doom(R) and Doom II(R)are registered trademarks of id Software, Inc.
+
+All models used by permission, and are property of their respective authors.  Weaps models permission was given by Skid, as Kricket was unavailable for contact.
+
+I claim no legal right to any of this.  It is all based on work by the Generations team.  More complete info about the model construction can be found in the docs folder within the doomunls folder.

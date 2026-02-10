@@ -1,0 +1,30 @@
+Name of skin : Lara Croft, skin for Sydney plug in player model
+Date         : May 6, 1998
+Author       : Dion Isgro / Rage [DL]  
+E-mail       : vpi1@ix.netcom.com
+
+
+Files included
+-----------
+Lara2.pcx
+Lara2_i.pcx
+Lara2.txt
+
+About skin
+------
+Well sydney had been about about a week and I was waiting for a decent lara skin
+when I saw the first one..I almost wanted to spit on my screen. Since I am
+getting a little burned out on quake2, I did not want to spend all day doing a skin
+so I copyed parts of lara from previous female model skins of lara and fit them in to the 
+skin. I hope the original authors dont get pissed that I used there art work..but I belive this is the Most
+true to Tomb Raider skin of lara croft so far.
+INSTALLATION
+------------
+Winzip or Pkunzip into your c:\quake2\baseq2\players\sydney  Dir.
+
+Rember U must have the sydney model for this to work!!
+
+NOTES
+-----
+Please distrubute this skin throught the web..
+Feel free to use skin as a base for others.

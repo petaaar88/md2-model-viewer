@@ -1,0 +1,31 @@
+Name of skin : Lobo - For the Morbo plug-in player Model
+Date         : January 1998
+Author       : Don "ThirteeN" McGonigal
+E-mail       : thirteen@poetic.com
+
+
+Files included
+-----------
+lobo.pcx
+lobo_i.pcx
+lobo.txt
+
+
+About skin
+------
+Sumaleth's model seemed ideal for doing a skin of the DC character
+Lobo.  I snagged the old Quake Lobo skin and used that face.  The
+rest of the skin is pretty much just alterations of the original
+Morbo skin.
+
+
+INSTALLATION
+------------
+Winzip or Pkunzip into your c:\quake2\baseq2\players\morbo  Dir.
+
+
+NOTES
+-----
+Please distrubute this skin throught the web..
+
+Feel free to use skin as a base for others.

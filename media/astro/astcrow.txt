@@ -1,0 +1,11 @@
+"AstCrow" skin for the AstroBoy model.
+Place both .pcx files in your  \quake2\baseq2\players\astro  directory.
+
+Need the model?  Visit its homepage at....
+	http://www.zerogravity.com.au/jonny/astro.htm
+
+
+This was my first attempt at skin creation.  Hope you enjoy it!
+
+email: godby@centre.edu
+Paul Godby (aka P-Nut)

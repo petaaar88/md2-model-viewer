@@ -1,0 +1,67 @@
+28-2-99
+
+================================================================
+
+Model Name              : Sailormoon
+installation directory  : quake2/baseq2/players/moon
+
+Author                  : Alan Thum Joo Soon aka Bloodhound
+
+Email Address           : alantjs@tm.net.my
+
+Website Address         : http://members.xoom.com/Bloodhound/index.htm
+
+Model description       : 
+
+	This model is based on a character from a popular anime called Sailormoon, which happen to share the same name as the character. 
+
+	The actual identity of Sailormoon is Tuskino Usagi, or her North American name Serena. She is one clumsy girl being in charge of protecting earth... BAD choice!:-) Being a cry baby, clumsy and LOVES to EAT... doesn't seem to fit the title defender of the world :-Þ. 
+
+Other info              : 
+	This model was suppost to be used for the Sailormoon Quake TC, but I decided to release it as a PMP anyway, since many people requested for it. The polygon count has been reduce from 890 to 748 (including the weapons model). The skins are BAD!!! Read : BAD BAD BAD!!! I'm no skinner, so I would like to request anyone who would like to re skin her, drop me a mail. 
+
+The sounds here are taken from the Rei sound pak, which I find SOOOO cute that I could not help but use it :-).
+
+
+
+Additional Credits to   : 
+	Idsoftware 
+	qME
+	Skinview
+
+
+================================================================
+
+* Play Information *
+
+New Sounds              : YES
+
+CTF Skins               : No
+
+VWEP Support            : No
+
+
+* Construction *
+
+Poly Count              : 708 tris.md2 / 38 weapon.md2
+
+Vert Count              : 385 tris.md2 / 27 weapon.md2
+
+Skin Count              : 1 DM
+
+Base		        : From Scratch
+
+Editor used             : 
+		Modeling - qME	
+		Animation- qME
+		Skining  - qME, Paint Shop Pro
+		Painting - Paint Shop Pro, qME
+		Viewing  - Skinview 
+		
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+This model is not to be distributed as part of any
+commercial product.

@@ -1,0 +1,59 @@
+7/6/98
+================================================================
+Model Name              : Heavens Devil
+installation directory  : quake2/baseq2/players/hd
+Author                  : zulg[f]
+Skin Author 		: zulg, bladerunner, torax, reidar, boom
+Email Address           : author: bjorn.sunesson@ssr.se, fooze mail: tur@home.se
+
+Model description       : An ordinary heavensdevil, more info on Heavens Devils can be found at
+				the original heavensdevils homepage www.acc.umu.se/~hd/
+
+Other info              : This is the official clan model for heavensdevil's
+quake2 division FoozE (www.clan.dk/fooze) So please dont use this model if there
+is a fooze player around.
+
+Additional Credits to   : The ninjaquake team (www.fragzone.se/ninja)
+
+Thanks to               : Loco for the sounds, the whole fooze team for
+ideas, suggestions, inspiration, lots of beta testing and karp. Yyrkoon for letting me use some
+serious software :),and last but not least The original pulkraceteam uppe i Umeå, we love you
+================================================================
+* Play Information *
+
+New Sounds              : yes, some
+CTF Skins               : why? :P
+VWEP Support            : no
+
+
+* Construction *
+Poly Count              : 618
+Vert Count              : 334
+Skin Count              : 13
+Base                    : New model, based on 2d original by Loco
+				 (http://www.acc.umu.se/~hd/heavlogg.gif)
+Editor used             : Lightwave, nst and psp
+
+Known Bugs              : No vweap support means ugly box in gl instead of weapon.md2
+in patches compiled before 3.15, even when running on 3.15 or 3.17 servers
+
+Build/Animation time    : i started working on it sometime after xmas -97, trying to
+learn bones and ik in lightwave, so ive been playing around with it now and then for the last 7 
+months (the baseframe and many skins was finnished like long before anyone even tought about wasted
+skin space limits and such, explains the high (61%) wastedspace)
+
+
+* How to use this model *
+just unpack into baseq2\players\hd.
+and, please dont use this model on any server if there is a player from
+fooze/hd around
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+Lightwave is somekind of trademark or something of Newtek, Please ask if you intend
+to distribute this model in some strange and unpredictable way.
+
+You may not use this player for your own personal pleasure if there is a player
+from fooze or Heavens Devils (de gamla och anrika) on the same server unless youre
+a member of fooze or heavensdevils ~D: (oljeskadad rainish)

@@ -1,0 +1,92 @@
+================================================================
+Model Name              : Faith "Fae" Hottie
+installation directory  : quake2/baseq2/players/hottie
+Author                  : Doug "DarkLight Knight" McKissack
+Skin Author             : Kevin "KV" Williams
+Email Address           : dmckissa@ix.netcom.com (Animator)
+			:williamskv@lvcm.com   (Skinner)   
+                          
+Model description       : Hottie is a generic anime girl whose mission is to hunt down and frag all of the silicone based life forms she finds on the WEB. 
+			  In order to perform this mission, Hottie will kick the tail of any lard butt marine who stands in her way.
+ 			  
+			  What are the silicone based life forms Hottie desires to frag?  
+
+			  Well they are models such as the Crackwhores, Fiona Playmates, etc. and any other super busty female type models that arrive on the scene.  
+                          
+			   Why does Hottie want to frag them?
+
+			   Well, Hottie feels that anything built like those models must be silicone based.  And since they are silicone based, Hottie's sure  that they must be a part of a diabolical plan hatched by the Strogg to conquer humanity by inducing eye strain and carpal tunnel syndrome among the populace thus rendering them incapable of fighting back when the Strogg invade again!!  
+
+Author's Notes:
+
+			Hottie originally was intended to be a simple learning exercise in animating and skinning Quake2 models. We started from the Winter's Faerie model, one of the best realistically proportioned female models out there (thanks EvilBastard), modified it slightly and completely reanimated and reskinned it. 
+
+			When we were about half way through this process, the focus of the project changed from a learning exercise to a decision to release Hottie as a Quake2 Model.  As we neared completion of this process, we felt that we should give Hottie a purpose in the Quake2 world.
+
+			In order to find Hottie a purpose, we read several  Quake2 message boards, and news items which were posted throughout the Quake2 community. 
+
+			What we discovered was that most individuals felt that there was a need for a good standard generic female model  and that the crackwhores and the playmates models, while great, did not fulfill this need because of their unrealistic proportions.   
+
+			Given the fact that Hottie was designed to be a generic anime female model. And given the fact that she is basically realistically proportioned,  We decided the best way we could promote Hottie was by making it her mission in Quake2 to eliminate the female quake2 models who have been previously discribed by others as being a "wanker's dream."  Thus the crackwhores, playmates etc. became the perfect foil for Hottie. 
+
+			I know some of you may wonder whether we feel the creators of these other models might take offense at our decision to make Hottie's purpose in life to frag their models.  Well this is Quake2, and it is all in good fun!!  Please remember that!!!
+ 
+Other info: 
+
+			Skins:  This model uses the same skin map as the Winter's Faerie model,  minus the wings of course. While this results in a rather high amount of wasted space and a non openGL friendly skin size the authors thought that the number of existing skins justified keeping the skin map. Note that all of the Hottie skins do still contain the wings so they can be used as is on the Faerie model.  A set of Black CTF skins were made because they seemed the next logical choice for a CTF group. We feel the symbol for this group should be a raised fist.  We hope someone will make the logo. 
+  
+			  Skin Names:  In order to tell what Hottie was wearing we came up with a simple skin naming rule. While this rule was not strictly followed for every skin nonethe less knowing the general rule will help you identify Hottie's different skins. For example, stdhotredhgd is as follows: std/= startrk ds9.  /Hot= Hottie. /red=color of uniform. /H=hair. gd or gld=color gold.  Thus this means a star trek ds9 uniform for Hottie with red shoulders and hottie has golden hair.
+			  The Quake Girlz skins follows a similar rule. qgz=Quake Girlz. /hot=hottie. /r=romper(The type of suit the skin is wearing.  There is also a "b" for a bodysuit skin which may/maynot be released.) /h=hair /blk color of the hair.  Thus a qgzhotrhblk means a Quake Girlz skin, for hottie, style romper, and Hottie has black hair.
+NOTE!!! In regards to the Quake Girlz skins, please DO NOT USE THEM unless you are a member of their clan!!  The Quake Girlz permitted us to release Hottie with their clan skins and we appreciate their kindness!!
+
+			  Sound Pack: Hottie, being an anime girl at heart currently only has a Japanese sound pack at this time. (Note: A couple of her sounds are borowed from other sound packs.) One day we'll get around to doing an English sound pack for her. (Or maybe, someone will beat us to it!)
+
+			  Hottie stories:  In Hotties' directory is a story about Hottie called The Revenge Of the Strogg. There is also a interview of Hottie done by a ficticious news anchor on the QNN network.  These  items are kinda rough but we included them anyway. We hope that those stories will  give some of you a chuckle. All parties who might take offense to these stories please remember this is all in good fun.
+
+
+			  Hottie Model Facts: It was decided early on that Hottie was going to be a pistol-packin momma but this raised the question of Vwep support. Models built for one-handed weapons look rather silly waving around the standard id weapons, which can be almost as large as the model itself.(important safety tip - don't arm-wrestle the Faeries) However, Q2PMP reviewers frequently grumble about the lack of Vwep support in new models. Fortunately inspiration hit in the form of the VISUAL PISTOL PACK. 
+
+                          Why not make pistol sized versions of the standard Id weapons? In retrospect we are amazed that nobody has done this before, especially after finding out how easy it was: simply take the standard id weapons, remove the stock if any, shorten the barrel, maybe tweak the grip a little, scale it down (60% size looked good for most weapons) and animate it. All of the pistols use the standard id skins so they are very recognizable. 
+
+			   A base frame is included at the end of every weapon so they can be modified for other pistol wielding player models. (Hmm, maybe with some help remapping the skins I COULD do a Vwep pack for Sydney.) The origin of the base frame is selected to be at the location of the trigger finger for a right handed model.
+
+Additional Credits to   : Brian "EvilBastard" Collins for the Winter's Faerie mesh.  
+
+                        : Skin thanks to Matt Olsen, Kellogg,  and a few other's whose skins we sometimes used as a base.
+                          
+                        : Weapons Model kudos go to Roland Gyrus for the cool pistol from the McClane model which is Hottie's standard weapon.
+                          
+Thanks to               : id software, yada yada yada, and the QGZ who allowed us to publish QGZ Hottie Skins in her original release. Please DO NOT use the QGZ skins unless you are a member of their clan!!!
+================================================================
+* Play Information *
+
+New Sounds              : <YES>
+CTF Skins               : YES, two each of red, blue, green and black (black?)
+VWEP Support            : YES in the form of the VISUAL PISTOL PACK - pistol sized 
+                          versions of all of the standard Quake2 weapons:
+                              (blaster, sawed-off shotgun, super sawed-off shotgun,
+                               machine pistol, chain pistol, grenade launcher, 
+                               hyper pistol, rocket pistol, rail pistol, grapple, 
+                               and the awesome BFP 2000)
+
+* Construction *
+Poly Count              : 606
+Vert Count              : 431
+Skin Count              : 22  (plus all of the Winter's Faerie skins)
+Base                    : modified Winter's Faerie
+                          the default weapon is the pistol from the McClane model
+                          the visual pistol pack uses the standard Id weapons as a base
+
+Editors used            : QME, NST, Corel Photo-paint 8.
+
+Known Bugs              : the hair passes through the model in some of the animations.  Also some of the larger weapons intersect the body in some animations. Some of the skins have slight seams.  We tried to fix these problems as much as possible
+                          
+Build/Animation time    : 2 & ½ months
+
+* How to use this model *
+<INSTALLATION INFO>
+Please install this model in your quake2/base2/players/Hottie
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+QGZskins are the property of the Quake Girlz clan.  The concept of Faith "Fae" Hottie (not the mesh) is copyrighted by Kevin Williams and Douglas McKissack. Please feel free to use her but please don't abuse her! :-) K&D.

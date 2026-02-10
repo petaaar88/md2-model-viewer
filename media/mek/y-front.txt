@@ -1,0 +1,18 @@
+                                  Fun Skins
+                                 -=========-
+
+This is a brief description of the skin...
+
+Y-Front - The Y front, a new type of Mek soldier. The Y front are an elite
+          Mek sqadron, their Motto:
+                                  "Only the best are in the Fronts"
+
+Installation
+	Just pop the files in this archive in your 
+Quake2\baseq2\Players\Mek directory to use him.
+
+Creditz
+
+Rikki Knight -The Maker of Mek
+
+                      This file is Property of zapppy© co.

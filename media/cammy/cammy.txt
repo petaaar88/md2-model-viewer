@@ -1,0 +1,81 @@
+12.09.98
+
+================================================================
+Model Name              : Cammy (from Super Street Fighter 2/SSF2Turbo)
+			  Version .90 ("beta")
+installation directory  : quake2/baseq2/players/cammy
+Author                  : Pestilence
+Email Address           : pestilence@psychosis-studios.com
+Web Address		: www.psychosis-studios.com
+
+Model description       : From the classic Street Fighter fighting 
+			  game series, Cammy is an unwitting double
+			  agent under the control of M. Bison's 
+			  ShadowLaw. And she's the cutest girl in 
+			  any video game ever.
+
+Other info              : This is a beta version of Cammy that I wanted
+			  to put out right away, because I don't think
+			  I'll have a lot of time to work on her for a 
+			  little while. However, planned changes include 
+			  some animation tweaking (especially with her 
+			  legs in the crouch anims), VWEP for all weapons
+			  in Q2 and Q2MP1/Q2MP2 and some more skins. 
+			  Other suggestions/ideas for fixes are welcome 
+			  and requested.
+
+			  This is my second model (and not as much of
+			  an improvement over my first as I would have 
+			  hoped); comments are requested and most 
+			  welcome, but try to go easy on unspecific 
+			  criticism. "You suck," won't help me build 
+			  better models.
+
+Additional Credits to   : Weapon Model/The Game: id software 
+			  Character Design: Capcom Entertainment
+
+Thanks to               : Anyone who likes this model
+
+================================================================
+* Play Information *
+New Sounds              : No: Please copy the female player sounds
+			  into Cammy's directory. (Run included .bat
+			  file in the installation directory to do
+			  this.)
+CTF Skins               : yep
+VWEP Support            : nope
+
+* Construction *
+Poly Count              : tris-690
+			  weapon-72
+Vert Count              : tris-347
+			  weapon-42
+Skin Count              : 4
+Base                    : tris.md2 built from scratch, weapon.md2 is
+			  id Software's shotgun model
+Editor used             : Lightwave 5.0, Photoshop 4.0, qME 3.1, Q2 
+			  Modeller, Npherno's Skin Tool, SkinView
+Known Bugs              : I'm sure there are bounding box issues with
+			  some of the animations... 
+			  The crouch animations deform the legs a lot,
+			  because of my inexperience with bones in 
+			  Lightwave. Hopefully, this will be fixed 
+			  eventually.
+			  There's a skin mapping problem that I wasn't
+			  able to figure out on the weapon.
+			  The skin isn't as well optimized as I would
+			  have liked. I may try re-skinning if I get 
+			  around to it.
+Build/Animation time    : 3 weeks, on and off.
+
+* How to use this model *
+Use WINZIP to unzip everything here into your Quake2 directory. Then, in
+the newly created "baseq2/players/cammy" directory, run sounds.bat
+to copy the sounds from the female model. That's it!
+
+sounds.bat to copy 
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+The (C) for Cammy is owned by Capcom, and it'd be nice of them not to sue
+me for doing this. Everyone else, don't make money off this thing, or 
+I'll kill you. If you want to use the model otherwise, please let me know.

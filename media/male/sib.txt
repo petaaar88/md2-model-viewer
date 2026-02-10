@@ -1,0 +1,46 @@
+		 	
+			Snorks In Black
+
+			    26/1/98
+
+Files:
+	Agent~Q.pcx	Main skin file
+	Agent~Q_i.pcx	Info pic
+	Agent~P.pcx	Main skin file
+	Agent~P_i.pcx	Info pic
+	SIB1.gif	Animated GIF file 
+	SIB.txt		This file
+
+Installation :
+
+	Place the four above files in the quake2/baseq2/players/snork 
+	directory. In the player setup (in game) scroll through the
+	snork skins and at the end select one of the snork Agents.
+	
+	For these to work you must, already have the snork models in 
+	the quake2/baseq2/players/snork directory. 
+
+
+Author/Contribution:
+	MangoHead - I'm no one important, I just like snorks.
+
+Thanks To:
+	iD Software for Quake II
+	NSTV 060
+	Paint Shop Pro 	
+
+Disclaimer:
+
+	I am not aware if I am braking any copyright's etc.. sorry if 
+	so, but the snorks need some cool skins. 
+		I don't care if you distribute these files aslong as 
+	they stay together. I don't care if people use bits of these
+	i.e. the sun glasses etc.. I encourage it. Come on the snorks
+	need more skins. Please improve these if you can or if you 
+	care. 
+
+	Finally, I included the animated GIf file because alot of 
+	people moan about not being able to see what they are 
+	downloading and Animated GIF's can be put on web sites and
+ 	be seen by most browsers.  If you do use the GIF could I have 
+	some credit please. Just write made by MangoHead or something.

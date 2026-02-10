@@ -1,0 +1,51 @@
+================================================================
+Title                   : The Hand
+Author                  : Lee Eaton
+Email Address           : mercury5@opera.iinet.net.au
+
+Description             : A quake2 player model of..a hand :).
+                          This is my first model, an' I think I 
+                          did a reasonable job considerin' that
+                          fact. The skins are ..well.. very 
+                          av'rge.
+
+Tools used              : Quake2 Modeller
+                          Paint shop pro
+                          NST
+                        
+Additional Credits to   : Phillip Martin, fer makin' Quake2 Modeller,                                                                                                                           
+                          NPherno, fer makin' NST,
+                          and id software fer makin' such a great
+                          game.
+
+Known bugs              : Yes...NULL SKIN FOUND.. :( fer some reason
+                          I canna get it to go away..even afta
+                          followin' the directions of tha FAQ at
+                          Q2pmp (unlinkin' tha skins 'n stuff)
+                          ..it's prob'ly really obvious to you
+                          what the problem is, but I'm not very
+                          experienced with this.                          
+
+Build Time              : 3 or 4 days..
+================================================================
+
+INSTALLATION:
+   Well..if ya readin' this, ya've probably already unzipped the
+   file...just make sure that ya've got it in tha roit directory
+   \\quake2\baseq2\players\hand
+
+SKINS:
+   Well, I made 4...an' they're not very good...two are tha base
+   skins, one wiv a diffr'nt tan, an' the other 2 are quite
+   obviously fer ctf.. I doon't hav' 3DFX, so I can't tell ya if
+   tis any good in gl..
+
+   Please, by all means, feel free to make new skins fer ma hand,
+   an' if ya doon't mind, email them to me so I can update this
+   file.
+
+DISTRIBUTION:
+   If yer wishin' to stick this model in a patch or mod, please
+   ask fer my permission first. If you wanna stick this on a CD or
+   somfin like that, just make sure this file is included intact.
+   Doon't try ta make money from my model either :) 

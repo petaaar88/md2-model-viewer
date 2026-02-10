@@ -1,0 +1,16 @@
+----------------------------
+ASTROSUD
+----------------------------
+
+Skin per astro ppm
+
+
+by KingNothing   king_nth@usa.net
+
+
+
+------------------------------
+
+unzip in:
+
+c:\quake2\baseq2\players\astro

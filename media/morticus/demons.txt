@@ -1,0 +1,65 @@
+Morticus and Necromicus SKINFIX by Warlocke (Jason Lewis)                            4/18/98
+ 
+E-mail: warlocke@raex.com                        (E-mail me if you have questions or comments)
+
+ICQ: You can try to find me on ICQ, but there are LOTS of Warlockes' there. :) 
+
+Programs Used: Neopaint, Micrografx Photo Magic. (What? Like I can afford Adobe Photoshop!),
+ Studio MDX (If you don't have a copy, get one!), THE Eraser Bot!!! (Get it! Use it! Love it!)
+
+Instructions for this skinfix:  Unzip these skins to your morticus and necromicus directories
+ 'quake2\baseq2\players\morticus
+ 'quake2\baseq2\players\necromicus         
+That's right install these skins in BOTH directories over top of the originals! 
+                                     Or are you scared of what might happen? :)	
+  	Files included: ctf_b.pcx
+	              ctf_b_i.pcx
+			ctf_r.pcx
+	              ctf_r_i.pcx
+                Necro_epsilon.pcx
+              Necro_epsilon_i.pcx
+                    Necro_phi.pcx
+                  Necro_phi_i.pcx
+                    Necro_rho.pcx 
+                  Necro_rho_i.pcx
+                  Necro_sigma.pcx
+                Necro_sigma_i.pcx
+                    Necro_tau.pcx
+                  Necro_tau_i.pcx
+                  Necro_theta.pcx
+                Necro_theta_i.pcx
+		       demons.txt  (this file)
+
+                    ***WARNING***CAUTION***ACHTUNG***WATCHYOURASS***
+ I am not responsible for YOUR actions they are your own and I take no responsibility for them.
+ I am not responsible if messing up this procedure, or using these files results in any of the  
+ following... Your house explodes, your pets die, your friends leave you, your lover develops a  
+ rash, you spontaeneously combust, you become the president's favorite intern, or any other
+ tradgedy/mishap that could possibly occur. Get over it already, these are just skins.
+
+Description: These are a fix for the skins that came with the Morticus and Necromicus PPMs.
+I'm not sure if this is what these skins were supposed to look like but I hope I at least 
+came close.I think it should be obvious that these aren't anything but lame repaints but 
+somebody had to do it. I claim no credit for this work beyond getting off my ass and emailing 
+it! J Moffatt did all of the work, so send your praise there. :)
+ 
+If you would like to see more samples of his art work go to
+http://www.3dartists.com/jade_images.html or
+http://www.netcom.ca/~jmoffatt
+
+
+Other skins I have done:  The Jorgmk35 CTF skins (jorgctf.zip) 
+                          The Iron Maiden CTF skins (Iron-m_ctf.zip)
+                          The Gunner CTF skins (gunner_ctf.zip)
+                          The Litttle Grey Alien CTF skins (grey_ctf.zip)
+                          The Litttle Grey Alien Multicolored Skinpak (skittles.zip) :)
+                          The Morticus and Necromicus SKINFIX (demonfix.zip)
+
+Future projects: More skins for the kick ass Necromicus model. Way to go Moffat!!!
+
+Thanks to: Id Software for continuing to produce kick ass games!
+           Everyone who downloads and uses Plug in Player models and the skins.
+           They're all great, and fun to use.
+           Melissa, You had nothing to do with this but I'm thanking you anyway because
+           you are simply, "The Greatest".
+	

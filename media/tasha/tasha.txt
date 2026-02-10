@@ -1,0 +1,90 @@
+Oct. 12/1998
+
+================================================================
+
+Model Name              : Tasha
+
+installation directory  : quake2/baseq2/players/tasha
+
+Author                  : Scotty
+
+
+Email Address           : scottie@escape.ca
+
+
+
+Model description       : its a 6 foot female furry.  what else do you want to know?
+
+
+
+
+
+Other info              : <OTHER STUFF>
+
+
+
+Additional Credits to   : <id Software, etc etc >
+
+
+
+Thanks to               : Benny hill, People always chasin you
+
+================================================================
+
+* Play Information *
+
+
+
+New Sounds              : no (Coming soon)
+
+CTF Skins               : Of course.
+
+VWEP Support            : Yep
+
+
+
+
+
+* Construction *
+
+Poly Count              : ?
+
+Vert Count              : ?
+
+Skin Count              : 2/3
+
+Base                    : New Model..
+
+Editor used             : qme..
+
+Known Bugs              : Un.. known
+
+Build/Animation time    : 1 Day
+
+
+
+
+
+* How to use this model *
+
+
+
+Create a directory in your quake2/baseq2/players/ directory named tasha,
+and unzip in that general direction.  voila.
+
+
+
+* Copyright / Permissions *
+
+
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+
+
+Feel free to use this model for whatever..  If you plan to use this in
+any mod, commertial, or "for fun" project, make sure to email me for
+permission.. eh?
+
+
+

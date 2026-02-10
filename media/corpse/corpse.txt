@@ -1,0 +1,43 @@
+Private Arnold Holts hunkered down behind the low concrete wall, wincing as a burst blaster bolts chipped pieces off above his head. They had been fighting the godamm Strogg for what seemed years now. Everyone was mighty happy when the Strogg commander was wasted one on one by that crazy marine but had quickly learnt that the Strogg dont die that easy. Leaderless, the Strogg forces had just dug in, their heavily armoured defenses providing no end of grief to the advancing Earth troops.
+Hearing movement ahead, Holts stood up, his hyperblaster spewing a deadly stream of energy towards a group of Strogg foot soldiers breaking for shelter. Smiling grimly as the bolts sliced the straggling cyborgs into pieces, he ducked back into cover, his smoking hyperblaster hot in his hands. His squad had accounted for over 150 confirmed kills of the enemy troops, but that was never enough to pay back the murdering aliens for what they had done to his fellow men and women.
+The scratching of footsteps on rubble alerted him to further action ahead and, popping up again, he readied his weapon to cut down any Strogg survivors. At the sight of a human shape only meters in front of him, he checked his fire and squinted through the dense smoke, trying to identify the stranger. Starting in disbelief, he recognized the grimy form of Marcus Peterson, a marine in his own squad. The thing was that Holts had seen Peterson cop a Strogg railgun slug directly through the chest earlier that week. He had watched as Peterson's body had been dragged away by the counterattacking Strogg forces and everyone knows that even if he had survived having half his chest instantly removed, no one lives through being captured by the Strogg.
+As a gust of hot wind blew the smoke away momentarily, Holts could clearly see through the great gaping hole in Petersons chest. He watched, frozen in shock, as Peterson raised his railgun, hefting the huge weapon easily in one hand, and pointed it directly at his head. The expression of disbelief and suprise was still on holts's face when the tungsten slug exploded the top of his head, ending any more thoughts of winning the Strogg war.  
+
+
+11/3/2000================================================================
+Model Name: Corpse
+installation directory  : quake2/baseq2/players/corpse
+Author:                 : Stephen Monteith (aka Neuralstasis)
+Skin Author             : me!
+Email Address:          : stephenmonteith@hotmail.com
+Web Page                : http://www.uq.net.au/~zzmontei/
+
+Model description       : This model is one of thousands of human soldiers captured or killed in the Strogg war that have been resurected by a new modification of the Strogg medic technology. Losing the war the Strogg perfected a combination of drugs and micro neural implants, already used on their own troops, to bring the enemy troops back to life under control of the Strogg masters. The drugs and implants are so well made that even humans with extreme damage to their bodies and brains could be risen again and again to fight against their former comrades.
+
+Other info              : concept: me design: me! modeling: ME animating: ME! skins: MEEE! compiling: MEEEEEE!!.... 
+Additional Credits to   : <id Software, QME, Newtek, Adobe >
+Thanks to               : meeeeeee!
+================================================================
+ *Play Information*
+New Sounds              : no, male sounds should do fine.
+CTF Skins               : yep
+VWEP Support            : yeah
+*Construction *
+Poly Count              : 696
+Vert Count              : 397
+Skin Count              : 6
+                        1: Autopsy (hmmm how does ze hu-mans tick?)
+                        2: Gunned (mental note, chain gunz hurt...)
+                        3: Blasted (I luv the smell of burning hu-mans in the morning)
+            (cft blue)  4: Drowned (carrying 10 weapons, ammo and trying to swim doesnt work)
+            (ctf red)   5: flayed (zis new hu-man skin cloak is dead cool dont ya think?) 
+                        6: Base (natural causes? Colesterol?? STD??)
+
+Editor used             :Lightwave for modeling and animating, QME for compiling, Photoshop for textures.
+Known Bugs              : None.
+Build/Animation time    : I have no idea. The oldest file I have in construction is from 21/10/1999. but I didnt work on it for a long time
+
+Notes: This is my second player model for Quake II. My first was MassMouth, a green alien thing that was pretty crap. (you can get it at my web page under 3d art) This new corpse model had much more planning involved than Massmouth but still has some faults which arose during the work on this character. The most obvious problem is the lack of polygons in his butt. It tends to get pretty angled as it deforms too far. Also the salute animation has him headbutting wide weapon models but I am too lazy to fix that. One last thing, keep an eye out for Quake III models coming soon from my computer...
+
+
+Copyright / Permissions *QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc. This model is copyright Stephen Monteith 2000. You may use this model to play but any modification should be passed by me first.

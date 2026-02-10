@@ -1,0 +1,37 @@
+June 09 2000
+================================================================
+Model Name              : The Hardee's Star (Clan Model)
+installation directory  : quake2/baseq2/players/hyping
+Author, Skin Author     : The3DGuy
+Email Address           : The3DGuy@aol.com
+Model description       : The Hardee's Star. He welds the sacred Symbol of Norm Mcdonald, his voice. I tried doing a vwep,
+			  but i will learn to do that later. No VWEP support because even his "weapon" has a skin that matches
+			  the stars skin, and it wouldn't look right to have a different weapon that doesn't match the skin.
+
+Other info  		: This is my first model.
+
+Additional Credits to   : The HyPing All Stars for the model idea and testing and info.
+ 
+Thanks to   		: Hardees and Norm Mcdonald for being so damn cool.
+
+================================================================
+* Play Information *
+New Sounds           : Yes
+CTF Skins            : Yes
+VWEP Support         : No
+* Construction *
+Poly Count           : Model 602
+                       Weapon 28
+Vert Count           : Model 320
+                       Weapon 20
+Skin Count           : 3
+Base                 : New model
+Editors used         : TrueSpace3, MSPaint, NST, Q2Modeler
+Known Bugs           : None as of yet
+Build/Animation time : A month, that includes learning various progs.
+
+Installation
+Create a folder in your quake2/baseq2/players folder called "hyping" and extract all the files in there.
+
+Copyright / Permissions QUAKE and QUAKE II are registered trademarks of id Software, Inc. Hardees and the Hardee's Star are registered trademarks of Hardees. Norm Mcdonald is the voice of the Hardee's Star and is very cool.
+Please don't edit the model in anyway, but make lots of skins for him!

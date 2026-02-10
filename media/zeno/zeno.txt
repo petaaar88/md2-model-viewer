@@ -1,0 +1,46 @@
+================================================================
+ Zeno Quake2 Player
+ by Mike McMillen                           email: mike.mcmillen@sierra.com
+................................................................
+
+================================================================
+Title                   : Zeno 
+Author                  : Mike McMillen  Aka. Happy Slappy
+Email Address           : mike.mcmillen@sierra.com
+
+Description             : Zeno Alien Quake2 player model
+
+                      
+                          
+Build Time              : 4 days (15 hours)
+================================================================
+
+DESCRIPTION
+
+   A plugin player model for Quake2.
+
+
+INSTALLATION
+
+   Unzip it into a directory called zeno.  Thats it.
+
+USING ZENO IN QUAKE2
+
+   To use Zeno go to the mutliplayer setup and choose the Zeno
+   model instead of the male or female players.
+   
+    
+SKINS
+
+   Please feel free to create new skins for Zeno....and his gun. 
+   I got burnt out. Heh. ;). 
+
+COMMENTS
+
+   Please ask if you want to use the model for anything other than 
+   personal use as it is explained here, particularly if incuding it 
+   in a patch or add-on.
+
+Sorry....no clan skins.
+
+Mike "Happy Slappy" McMillen

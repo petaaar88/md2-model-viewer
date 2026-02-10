@@ -1,0 +1,80 @@
+
+3/21/99
+
+================================================================
+
+Model Name              : Megatron
+
+installation directory  : quake2/baseq2/players/Megatron
+
+Author                  : DJ "Rattrap" Kehoe
+
+Email Address           : djk0934@megahertz.njit.edu
+
+
+
+Model description       : The Origanal and Greatest leader of the 	Decepticons.  Megatron was a transformer who turned into a 	handgun with silencer and scope.  On his right forearm he had a 	fusion cannon.  Present status: desceased
+Other info              : I made a skin for what if Galvatron simply 	had a different color and kept megatron's body.
+
+Additional Credits to   : id Software, Hasbro, Kenner
+
+
+
+Thanks to               : 
+
+================================================================
+
+* Play Information *
+
+
+
+New Sounds              : YES
+
+CTF Skins               : YES
+
+VWEP Support            : NO
+
+
+
+
+
+* Construction *
+
+Poly Count              : 1772
+
+Vert Count              : 1036
+
+Skin Count              : 4
+
+Base                    : New model 
+
+Editor used             : Quake Model Editor
+
+Known Bugs              : Sound sometimes fails
+
+Build/Animation time    : 2:00hrs/10:00hrs respectivly
+
+
+
+
+
+* How to use this model *
+
+
+
+unzip and put in megatron directory
+
+
+
+* Copyright / Permissions *
+
+
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+
+
+Megatron and Transformers are registered trademarks yada yada of Hasbro/kenner/Mainframe/etc.
+
+This is protected under "fan art" so use freely
+

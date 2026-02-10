@@ -1,0 +1,6 @@
+I didn't see any CTF skins for AstroBoy which I had to correct because
+AstroBoy is just too cool.  Place these skins in the /players/astro
+directory.
+
+Wabes
+chris-richards@uiowa.edu

@@ -1,0 +1,31 @@
+FanGrin Model with sounds by Brett Brown RELEASED 3/1/98
+
+Hope you like this disgusting freak--his skeletonized fleshy pulpy skin
+makes me sick.....I LOVE IT!
+
+Installation:  Unzip the Fangrin into your quake2/baseq2/players/fangrin (yes create a 
+	       directory named fangrin).  You my have to rename Fangrin~1 to Fangrin_i
+               
+               If you have trouble getting it to show up in the
+               multiplayer menu, make sure you have NO files
+               (besides the directories) in quake2\baseq2\players!
+		Also make sure the head file is named Fangrin_i NOT
+		Fangrin~1.
+
+Tools used:  Quake2 modeller (yes the entire thing--I know I'm Amazing)
+             Paint shop PRo
+             NST
+	     
+
+Time spent:  Bout a week
+             It has a wonderful running sequence
+             Great sounds too
+             
+email:   Binsoc@cyberenet.net
+	 Please send your feedback
+
+
+PLEASE CHECK OUT ROTATE.BSP its a terrific DM i created.  It can be found at
+ftp://www.cdrom.com/pub/idgames2 in the dm section for quake 2
+
+HAPPY HUNTING

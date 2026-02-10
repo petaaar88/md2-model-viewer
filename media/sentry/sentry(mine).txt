@@ -1,0 +1,17 @@
+Conversion of Sentry Model
+
+			(from the Free Models Project
+			www.oz.net/~simitar/model.html)
+
+Thanx to:
+	 Guard|aN for the original Quake .mdl
+	 The Serpent Lord for the original animations and the skin (now converted)
+
+
+ This is my new converted model, Sentry. I had a version better than this but it got buggy
+so I was forced to redo it.  I think that this version is fine but, if not, e-mail me.
+
+		-MinorWolf (rcunning@erols.com)
+
+
+P.S. Put this in a directory under players called Sentry.

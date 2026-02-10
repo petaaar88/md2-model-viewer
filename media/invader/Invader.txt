@@ -1,0 +1,59 @@
+
+7-20-98
+================================================================
+Model Name              : Invader
+installation directory  : quake2\baseq2\players\Invader
+Author                  : Reed Hawker
+Skin Author 		: Reed Hawker
+Email Address           : pseudo@cyberhighway.net
+
+Model description       : Those zany-but-lovable aliens from the planet
+			    Arknon have come to wreak havoc in the
+			    Quake 2 world.  They were designed after
+			    my own little creations.
+
+Other info              : To find out the real scoop on these characters,
+			  visit my homepage at www.cyberhighway.net/~pseudo
+
+Additional Credits to   : id of course...
+			  Npherno and his skin maker
+			  Phillip Martin, creator of Quake2 Model Editor
+
+Thanks to               : Sam Hunter for helping me test it.
+			  Jim Donnelly for making the programs I used 
+			    available.
+			  Andy Jackson for support.
+			  Ben Wilcher for being as crazy as Haywire.
+			  Rusty and Rory for support throughout.
+================================================================
+* Play Information *
+
+New Sounds              : You bet!  Would the default male voice even fit?
+CTF Skins               : Yes
+VWEP Support            : No... unless I made pistol versions of each gun.
+
+
+* Construction *
+Poly Count              : 416 body, 28 weapon, 444 total
+Vert Count              : 224 body, 18 weapon, 242 total
+Skin Count              : 13
+Base                    : This is the original
+Editor used             : Quake2 Model Editor (argh! No bone support!)
+Known Bugs              : Dead bodies end up in the walls now and then.
+Build/Animation time    : 40 hours or so... just an estimate.
+
+
+* How to use this model *
+
+Just stick the files in a directory called "Invader" in your Quake2\baseq2\players
+directory.  Then switch to him in your multiplayer menu in the game.
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+THIS MODEL was created by Reed Hawker, therefore he should get the credit due
+for making it.  Stealing models is low and evil, and anyone taking credit for
+a model they didn't make is not only evil, but shall be cursed.  Besides, there 
+are so many better models to steal than my humble alien.  Other than that,
+enjoy the model!

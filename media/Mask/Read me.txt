@@ -1,0 +1,45 @@
+October 20 1999
+================================================================
+Model Name              : The Mask
+installation directory  : quake2/baseq2/players/Mask
+Author, Skin Author     : Alcor
+Email Address           : jlbr@moncourrier.com
+HomePage		: http://members.xoom.com/alcor43/
+
+Model description       : 
+Sssmokin! The Mask is making his way to the Quake2 world!  
+Looking for a PPM that's out of the ordinary? Stanley is the guy for you!
+Warning: By wearing this PPM, your opponants might say you're a cheater 
+because you make them laugh and they become easier to kill...
+
+Other info  :      	
+Sixth and most entertaining PPM to date!  Now I can say that I got my own style!
+The model is wearing a jacket, a tie, a hat with a long feather, a pair of eyes 
+and a denture!  The face is articulated with a set of bones, which gave me the 
+possibility of making a different face expression to every animations!  The Taunt, 
+Wave, Point, Salute and Flip animations were the funniest to do! I even succeeded 
+in doing the Wolf Howl, even if a lot of people told me that it would be hard... 
+("shine Wrote: it'd be near impossible.." ..go on Shine! eat back your words!! :) 
+I did all the animations in 3 days... full time yes, but 3 days nevertheless!!
+
+I really hope you'll have as much fun playing with the model as I had doing it...
+
+================================================================
+* Play Information *
+New Sounds           : yes
+CTF Skins            : Yes
+VWEP Support         : Yes
+* Construction *
+Poly Count              : Model 467
+Vert Count              : Model 520
+Skin Count              : 3
+Editors used            : StudioMax2.5, CharacterStudio, Photoshop5, CorelPhotoPaint, NST, Q2Modeler
+known Bugs              : 
+
+
+* How to use this model *
+Double click on the "Mask.zip" and then select "C:\" the directory is self-built.
+
+* Copyright / Permissions *QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+This model isn't built in a lucrative goal, you must ask me the permission before using any parts of 
+this model for another model...

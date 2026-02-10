@@ -1,0 +1,46 @@
+Knight PPM for Quake2
+Released: April 17, 1998
+Created by: Neil "El Pollo Diablo" Merced
+URL: 3D Chicken http://home1.gte.net/cosette/ (still under construction)
+E-mail: cosette@gte.net
+ICQ: 619190
+
+INSTALLATION:
+Extract the file into your quake2/baseq2/players/knight directory.
+You will have to create the knight directory.
+
+INTRODUCTION:
+My second Quake2 PPM. This is the model(its a knight, sorta) PPM
+for clan Blood Symphony. I was requested by one of the members to 
+create a model for their clan. Fortunately for him I had a model 
+already going and decided to give it to the clan. It also helped 
+that the model he wanted was what I was already making.
+I hope to see more clan models like there are clan skins =) 
+
+Although its a clan model with the clan skin feel free to use it. If a
+BS clan member comes into play please switch to another model. 
+You can learn more of the clan in the bs.txt file. Hell, go challenge
+them, you have the model anyway, and tell them I sent ya =) 
+They kicked my arse good.
+
+Feel free to make skins for the model as long as it is not clan skins.
+That would pretty much make the whole clan model idea useless =) When in
+doubt e-mail me. Job offers e-mail me too =)
+
+TOOLS USED:
+3dsmax ---modeling, anims
+qdata ---converting to md2 "If it works for iD its good enuf for me... doh!"
+Q2 modeler ---Last minute changes in normals(thanks Phillip for the help!)
+NST ---skinning(whens the new ver coming out?)
+PSP5 beta ver.---skinning
+
+Build Time: Too long
+
+SHOUT OUTS:
+Thanks goes to iD for opening the door to aspiring game developers and to
+everyone who contributed to making this community happen.
+
+-EPD
+
+
+

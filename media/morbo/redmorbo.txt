@@ -1,0 +1,3 @@
+Red skin for Morbo PPM
+This skin is the skin used for the Morbo red player in the JailBreak MOD.
+I did not make this skin. I got it from the JailBreak .pak file.

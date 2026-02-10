@@ -1,0 +1,30 @@
+===============
+DOOM MARINE PPM							
+4-13-98
+===============
+A plug-in player model for Quake 2, lovingly stolen from 
+the Doom series by Treponema Pallidum, a.k.a. Malekyth.
+email: malekyth@coffey.com
+URL: Malekyth's Happy Little World @ http://www.ptbo.igs.net/~mort/malekyth/
+
+INSTALLATION:
+Just unzip into your Quake 2 directory, preserving paths. Or, for difficult people, make a dir
+in your baseq2/players directory called doom (it has to be called doom, or Quake won't be able
+to find the skins). It's so easy!
+
+OBLIGATORY SPECS (weapon.md2 + tris.md2):
+	Tris: 598
+	Modeling: 3D Studio Max 2.0
+	Animation: Physique module from Character Studio
+	Skin: Paint Shop Pro
+	Compiling: qME 3.1
+
+I did have some really funny author's notes here, but after getting some sleep I decided that
+they weren't that clever after all so I trashed them. Sorry for the inconvenience.
+
+BTW, thanks to Doomguy for creating the Quake 1 player.mdl skin that has become the definitive
+concept for the Doom marine character. Much better reference material than those vague bitmaps
+ripped from the .wad, I tell you. 
+
+BTW again, distribute this as freely and as wildly as you'd like, but when you do so please keep
+this zip and readme intact.

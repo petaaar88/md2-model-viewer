@@ -1,0 +1,25 @@
+HappyBoy skin......
+
+This skin is my third (eraser and vengeance for the waste model 
+are the others). The inspiration for this one is any of the masked
+characters to adorn our TV screens (do I hear someone say Jason!!)
+
+Email any lavish compliments to me at chilelec@aia.net.au , 
+I would like to know if anyone actually uses it!!
+
+Credits to - Me (My quake2 names are, 'Streetscum' or 'Evil Ernie')
+	     Jawed Karim for his excellent program Jawmd2!!
+	     Nferno for his skin tool
+	     And Jeff Garstecki for the Waste skin and the   	     
+             awesome Waste model
+        
+I am a member of Clan Bloodrose, come visit our web site at
+
+http://isis.aia.net.au/bloodrose/
+
+Challenge us, join us, get fragged by us!!!!
+
+Files included - happyboy.txt (you are reading it)
+		 happyboy.pcx (the skin)
+		 happyboy_i.pcx (the skin tile)
+		 happyboy.jpg (a piccie)

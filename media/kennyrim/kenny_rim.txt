@@ -1,0 +1,111 @@
+KENNY from south park
+
+Model and animation by RIM :-) 
+___________________________
+
+
+Kenny 1.2
+
+
+OK and know for the update.
+___________________________
+
+SKINS:  
+ 
+ 1 kenny 
+ 
+ 2 ctf blue
+
+ 3 ctf red
+
+ 4 micro 
+
+ 5 Pinkeye
+
+All are new though the pinkeye needs work.
+I had a problem putting the stitches on his 
+head do to mapping. Kenny was my first pmp. 
+I plan on making Chef's skin's and mapping a 
+hell of a lot better then kenny's. last thing 
+on the maps i have included a psd file (photoshop file) 
+of kenny's mapping and skin. i plan to do 
+this for all my PMP's in the future. i figure it would 
+be a lot easier for other's to make skins for kenny. 
+__________________________
+
+SOUNDS:
+
+OK for the sounds I first have to say thanks to KlowN for sending me a bunch of really cool kenny sounds,I didn't take much time in making sound and had the worst time trying to get them. well I have gone through and to the best of my abilities and my computer cleaned them up, its a real pain to remove the background music form dialog. Any way there a hell of a lot better. THANKS "KlowN"
+
+__________________________
+
+NEWS:
+
+Ok well that's it, well ok last thing, by popular demand i will make the Tick "spoon". any way. after i do chef and finish this mod ect. ill do the tick. I gess no one 
+likes the Mad Hatter!!!  
+
+__________________________
+
+Kenny 1.0
+
+Well yes there already a kenny out, but i just had to do my own. 
+Making a player model was a pain,its not as easy as easy to animate 
+a player who is disproportionate to the average human model. 
+Doing a human is extremely easy in comparison to.  it took me a week 
+to do this, about two days of animation then the rest converting him and mapping. 
+I am kind a still working on him but, for know he's finished. I plan on making  
+more Player models. but for now need to get a job. Any one need an animator?? 
+Anyway the next player model Im planning on is a full Skeleton, The Made Hater, 
+Terminator and the TICK. don't know witch one ill do as of yet, It'll be a lot 
+more easy er now that I know what I'm doing. I any one has a suggestion on my next 
+model please  feel free to E-mail me.
+
+E-Mail: esherman@pop.gate.net
+
+
+
+Instalation:
+________________________
+
+Simply unzip all the files to what ever drive Quake2 is in 
+
+Example: ( \quake2\baseq2\players\kenny_rim )
+
+
+Note: 
+Mak shur that there an no other files just Directorys in the ( quake2\baseq2\players ) 
+directory, if there is your new players will not load up when you run Quake2
+
+
+
+
+
+
+Statistics:
+________________________
+
+Creator: RIM
+
+Programs: Softimage3.7,  3DSMAX2( Charictor Studio sucks) didn't use, and 
+the Quake Model Editor for Converting the animation to MD2 format.
+
+Skinnig: Photoshop and Quake Model Editor for the Maping
+
+P.S. Quake treats some colors in it pallet almost as light, this dos not show up in 
+any of the 3d paint programs that are out, and the rendering in these programs dos 
+not reflet the final output seen in  Quake2.    
+
+________________________
+
+Tris.md2:
+
+Vertices: 485
+
+Polygons: 760 
+
+Skin: 352x250
+
+_________________________
+
+ 
+THANKS ;-P 

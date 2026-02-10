@@ -1,0 +1,67 @@
+02 June 2002
+================================================================
+Model Name              : Little Buu
+installation directory  : quake2/baseq2/players/lbuu
+Author                  : Wetflame Gyrochaos (Or just Wetflame will do)
+
+Email Address           : wetflame_gyrochaos@hotmail.com
+
+Model description       : A Model of the Little Evil Skinny Buu from Dragon Ball Z. 
+			When Majin Buu decided to be good, his best friend (A puppy) was 			killed and he got angry.
+			Realising there was someone else inside him causing him to be evil, 			he used his powers to
+			remove the Evil Buu from him (Similiar to Kami and Piccolo). The 			Evil Buu became powerful and wanted to destroy the world just the 			Good Buu once did. Like Majin Buu, He is made out of a 					clay/putty/goo like substance that can either be hard or bendable. 			That's pretty much what I know about him.
+
+
+Other info              : There are a few different skins, the original mangaish one, some 			test skins which are the original skin with different 					effects put on them in PSP. I can't remember which, you'll have to 			guess yourself, although I know one was fine leather. Either the 			eyes are a small bit too high or the eyelids aren't closed enough. I 			hope to fix it sometime soon. This is my best model so far, sadly 			there are way too many Polys like all my models(Hey, I'm beginning), 			but despite what many people say, it won't make much difference 			unless the count goes over 1300 or a whole load of people use the 			model. Some of the animations are a bit naff, some are kinda cool, 			the run anim is both, it looks more like a walk, but it's a moody 			evil walk. If you look past the little faults, it's a pretty 				funkabrillatastic model for someone who's not really good at 				anything.
+			Oh yeah, Lbuud is the "main" skin it is a self shaded(Nphero's skin 			tool doesn't agree with some of my models and it was better shading 			it myself although it took ages) version of the Base Animé/Manga 			style one (Lbuu).
+                        
+   			Whew. Oh yeah, and I've made other models before which I'll upload, 			this is my most recent and best one. I'm going to screw with this 			model to make a fat Buu aswell, both will be distributed together.
+
+
+Additional Credits to   : id Software, Akira Toriyama-san, Toei Animation, whoever made 			Hyper Dimension for the Buu sprite I used in the icon thingy.
+                        The guy who made Anim8or, he was called Steve I beleive (That 			Rhymes) Jasc Software and The Q2 modeller program guys. 
+
+Thanks to               : Guys who made the Piccolo and Vegeta models/ skins for helping 			  inspire me, Kat-chi for
+                          being nice, the guys that play Quake 2 at school for
+                          appreciating my models.
+================================================================
+* Play Information *
+
+New Sounds              : Not yet
+CTF Skins               : Very Soon, for the model to display in CTF, just copy the red
+                          and blue names
+                          of the CTF skin of another model and put it on 2 copies of this
+                          model with Red and Blue markings on it to tell the difference.
+VWEP Support            : I'm thinking of changing his left fist into the shape of the
+                          weapon but it may be a lot of work.
+
+
+* Construction *
+Poly Count              : 1084 (I know too many)
+Vert Count              : 657
+Skin Count              : 7 I beleive, I'll make proper variations soon.
+Base                    :  Original
+Editor used             : Paint Shop Pro 7, Anim8or(great free program, despite the name 			  way better for modeling than animating), Quake 2 modeler. Oh yeah, 			  and notepad for this.
+
+Known Bugs              : There probably are some I haven't found yet.
+Build/Animation time    : I took a break in the middle, but there's probably about a weeks 
+                          of (porbably slow) altogether. (I have no idea)
+
+
+* How to use this model *
+
+Just make an lbuu directory in the /baseq2/players/ folder and copy the files in. 
+
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Dragon Ball Z, Majin/Mister/little/evil Buu copyright Akira Toriyama and Toei Animation
+Studios, Dragon Ball Z: Copyrighted to Toei(or whoever made it) as well I beleive. (I'll have to check this up).
+
+Oh yeah and almost forgot.
+
+BUU!!!
+
+Haha scared ya. Well. If you were stupid I would have.

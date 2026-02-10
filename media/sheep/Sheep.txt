@@ -1,0 +1,103 @@
+-----
+SHEEP
+-----
+
+The sheep is a new player model with new sounds, graphics and icons. It has completely
+new skins and the model is also completely original. The weapon.md2 is pretty much a 
+null model I created as the gun is on he sheep's back. This model has all animations
+in.
+
+Author:
+=======
+
+    Richard "GiB" Clark
+    -------------------
+
+    Email:                  g.i.b@lineone.net
+    Inferno Interactive:    http://inferno.3dportal.com
+    GiBerish:               http://website.lineone.net/~g.i.b/index.htm
+    Thanks to Kray-Zee:     http://www.planetquake.com/modeling
+
+    Other Quake Projects:   Many skins for snork and the male model, a new ant Quake 2 
+			    model (*soon*), this
+
+Installation:
+=============
+
+    The zip file must be extracted into the location of your quake2/ directory
+    (ie. NOT into the quake2/ directory - the one before it). The paths in the
+    zip are quake2/baseq2/players/sheep/ so if you don't unpack into the right
+    location it won't work.
+
+    Once extracted, Sheep will automatically appear in the player selection
+    field of the Multiplayer Options menu (*). Of course, it's only the other
+    players that get to see you as Sheep so it really only works in multiplayer games.
+
+    The server will not automatically send Sheep to other players who don't have
+    him (unlike skins in QW which have that feature), but if someone is using
+    Sheep and you don't have his model, you will just see them as the regular
+    Quake2 player models.
+
+    (*) Player models are, so far, a largely unexplored feature of Quake2 (although
+        there are a couple of other player models out already) and there appears
+        to be some "oddities" with the way it works. The biggest problem seems to
+        be that sometimes, for no reason that I can work out, Q2 stops accepting
+        new players in the Mutliplayer setup menu. So if you've installed it
+        correctly and he doesn't show up for selection in the menu then you've
+        probably run into this problem. Chances are that the exact same install
+        will work for the guy next to you *shrug*. Until someone works out whether this
+        is a Q2 bug or a problem with the way we make our md2's (others have had
+        the same problem) I really can't help. But even if you can't use him for
+        now, having him installed means you will see Sheep if others are using him.
+
+    Don't send bug reports please and please don't email me saying you can't get
+    it working.
+
+
+Whats it all about then?
+========================
+
+    I made this for a laugh. My brother and a few friends were going to have a little
+    load of network games. So my brother asked me if I could make a sheep for his mate, who's
+    handle is Brian The Sheep. I did and this is it. It took roughly 2 hours to do. I also
+    lost my first model, forcing me to re-animate on my backup. 
+
+    This is also my first modelling project. OK, it aint brilliant but I still think
+    it is a fun model. Better for the worse people as the sheep is smaller therefore
+    harder to hit.
+
+    Programs Used:
+    --------------
+
+        Modelling:  qME
+        Animation:  qME
+        Skins:      Paintshop Pro, Adobe Photoshop
+
+    Sheep was tested using Ridah's Eraser bot (tis very cool seeing your own model
+    running around the map :).
+
+Important Stuff:
+================
+
+    Sheep and all associated files are copyright of Rowan Crawford. Quake2 is copyright
+    of id Software.
+
+    You are free to spread Sheep far and wide although you are not allowed to make
+    money from Sheep in any way, shape or form.
+
+    Everyone is completely free to make additional skins for Sheep, in fact I encourage
+    it! You can even use my skin as a basis if you like, as most people do with the
+    Quake skins. Please send me skins you have made for Sheep, send them
+    to me at g.i.b@lineone.net.
+
+    I would like to thank Kray-Zee as when I had bad model/skin probs he fixed it. Many
+    thanks to him.
+
+    Also i'd like to thank The Crow as it has inspired me to do a skin for loads of models.
+    My best being the snork one.
+
+
+-GiB, g.i.b@lineone.net
+-'Go forth my brothers and gib thy foe'
+-GiB 1997 Gibbus Ex Mortis
+-Goto http://website.lineone.net/~g.i.b/index.htm

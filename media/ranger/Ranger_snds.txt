@@ -1,0 +1,26 @@
+8-21-98
+
+================================================================
+
+SoundPaK Name           : Ranger - Unofficial SoundPaK
+
+installation directory  : quake2/baseq2/players/Ranger
+
+Author                  : MrBungle
+
+Email Address           : MrBungle00@aol.com
+
+SoundPak description    : 
+
+	This SoundPak was designed to compliment the great work done by Michael 
+'Magarnigal' Mellor on his RANGER model. http://members.tripod.com/~magarn
+
+Tools used:
+	* Qsound by Bloodlust
+	* CoolEdit96 
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+Feel free to edit my model as you see fit, just be sure to mention me
+in the readme file. This model is not to be distributed as part of any
+commercial product.

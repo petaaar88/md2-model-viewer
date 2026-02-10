@@ -1,0 +1,40 @@
+		Planet of the Apes 
+	      Gorilla Soldier Q2 Skin
+========================================================
+author:		Garrett "Yojimbo" Blair
+email:		gblair@hiwaay.net
+webpage:	http://fly.hiwaay.net/~eblair/yojimbo
+Names of skin(s):
+	craigape = Gorilla Soldier Q2 skin
+	craigape_i = Gorilla Soldier face (for skin selection)
+	
+*How to use skin:
+if the skin is male-
+	place the skin and the _i of the skin into your
+	quake2\baseq2\players\male directory
+	Example: e:\quake2\baseq2\players\male\bob.pcx
+		 e:\quake2\baseq2\players\male\bob_i.pcx
+if the skin is female-
+	same as above but move the skin and the _i into
+	the female directory instead of the male
+To select the skin-
+	simply go to the player setup in multiplayer,
+	select the sex, then select the skin.
+
+Author's comments: Well, when Blue posted me up for doing
+Q2 skins, the flood gate of requests opened! It was
+good and bad.. besides getting a LOT of dumb requests
+like a naked green Pamela Anderson, I got a lot of cool
+ones as well. This one, requested by Craig Patterson
+(which is the reasoning for 'craigape') really got
+my interest.. took me about 3 hours overall to make it,
+and I even impressed myself!
+
+========================================================
+Legal stuff: I don't mind you using the skins for multi
+skin patches or on models for webpage decoration, BUT
+you MUST contact me first, AND put soemwhere on your site
+or text file for the addon that gives me credit on the 
+skins.. anyway, have fun with the skins.. I hope you have
+as much playing with them as I did making them...
+~Yojimbo

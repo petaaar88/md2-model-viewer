@@ -1,0 +1,38 @@
+----------------------------------
+ Title : quake 2 skins (The best skins you've ever seen) 
+----------------------------------
+
+Filename : chris.pcx	        Description:Swat Team Soldier with Chris head.
+Filename : mickey.pcx		Description:Swat Team Soldier with Mickey head.
+Filename : cmmcw.pcx		Description:Soldier with woodland camo and Chris head.
+Filename : cmmcu.pcx		Description:Soldier with urban camo and Chris head.
+Filename : cmmcm.pcx		Description:Soldier with urban midnight camo and Chris head.
+Filename : mccw.pcx		Description:Soldier with woodland camo and Mickey head.
+Filename : mccu.pcx		Description:Soldier with urban camo and Mickey head.
+Filename : mccm.pcx		Description:Soldier with urban midnight camo and Mickey head.
+
+Mickey Head= Measy black hair, crazy eyes and a goatee.
+Chris Head= Slicked back black hair and clean shaven face.
+
+Date     : 02/05/97
+
+Author   : Chris Morosco
+Nickname:: Rosco
+Email    : cmorosco@mdtlab.com 
+-----------------
+ Type file  
+-----------------
+
+.pcx
+
+ -------------------------------------
+ How to Install the skin 
+-------------------------------------
+Unzip all the files into your Quake 2 skins directory.
+
+EX: "c:\quake2\baseq2\players\male
+
+
+Do anything you want with these but don't change the file names and keep this readme the way it is.
+Email me any comments/suggestions.
+

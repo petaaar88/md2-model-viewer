@@ -1,0 +1,60 @@
+
+18/5/99
+================================================================
+Model Name              : Wraith
+installation directory  : quake2/baseq2/players/wraith
+Author                  : Burnt Kona
+
+Email Address           : burntkona@webtribe.net
+
+Website			: http://www.iaxnet.co.uk/homepages/darktech
+
+Model description       : The Strogg hadn't always been a mix of metal and flesh. Thousands of years ago, they were flesh and blood.
+			  Some of these Strogg developed a use of magic, of necromancy.  The Wraith is one of those necromancers, whose
+			  eternal sleep has been disturbed by the war.
+
+
+Other info              : My first model, so it was really a test-bed to find out how to do things.
+
+Additional Credits to   : id Software, for such a customisable game.
+			  Npherno for NST.
+			  Philip Martin for Q2 Modeller.
+
+Thanks to               : Everybody who posted replies to my cries for help on the noticeboard.
+			  Everybody at Q2PMP website for being so cool.
+================================================================
+* Play Information *
+
+New Sounds              : YES
+CTF Skins               : YES
+VWEP Support            : NO
+
+
+* Construction *
+Poly Count              : 576 polys>
+Vert Count              : 322 Verts>
+Skin Count              : 4 Skin - 2 normal, 2 CTF
+Base                    : Completely original, except from the head, which is a modified version of the standard ID female
+Editor used             : Modelled and animated in 3D Studio 4
+			  Converted to .ASC in 3D Studio Max 2 (I didn't model in it as I only recently got hold of it)
+			  Compiled to .MD2 in Quake 2 Modeller v0.9b
+			  Mapped in NST (the funkiest program ever!)
+			  Skinned in Photoshop 4
+			  Viewed using Skinview & MD2 Viewer 1.3 (brilliant OpenGL prog)
+Known Bugs              : The robe spins wildly in the PAIN1 anims - you can only see this bug in the game!
+Build/Animation time    : lost sleep!
+
+
+* How to use this model *
+
+You should know the drill by now - unzip to quake2/baseq2/players/wraith
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Feel free to edit my model as you see fit, just be sure to mention my work
+in the readme file. This model is not to be distributed as part of any
+commercial product (not without paying me lots and lots, though I doubt you would want to).
+ 
+

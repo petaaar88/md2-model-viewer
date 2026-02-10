@@ -1,0 +1,56 @@
+Sounds for the Eva-01 PPM model
+
+===============================================================
+
+Author:  Adam Lee (aka Shook-Yang)
+email:  invasion.asian@mindless.com
+icq:  6843470
+website:  http://monsoon.ted.org/~alienx
+	--- Not worth going to, believe me.
+
+Description:  Sounds for the model Eva-01, which was done by
+		Ionized Kit (a.k.a. [EVA]Rei III)
+
+Build Time:  4-5 hours over a 2 day period.  Yes, I know that's
+	long...but I'm a huge procrastinator, so you know how
+	it is.  :)
+
+===============================================================
+
+Other info:  All sounds are from the Evangelion series.
+Several are from the same sample, I just cut and altered pieces
+from it. I didn't make the orginal sounds myself, nor was I the
+orginal person to record the samples from the actual movie/show.
+In all honesty, I took them from a few fan websites of
+Evangelion, which I have their links down below.
+
+This is my first attempt at making/editing some sounds.
+Any feedback would be appreciated.
+
+Editor's Note:  I didn't include the drown1.wav file, because
+it didn't seem to work when you would drown in the water.
+
+===============================================================
+
+Credits and Special Thanks:
+*  Ionized Kit (a.k.a. [EVA]Rei III)
+	--- For making such a great model for quake2.
+
+*  http://www.geocities.com/Area51/Lair/7853/eva.html
+	  		   &
+   http://www.fortunecity.com/lavendar/stroheim/45/
+	--- For having the sounds that I needed and used
+
+*  http://www.planetquake.com/q2pmp/
+	--- For having the model so I could find it after
+	many hours of searching.
+
+===============================================================
+
+* Copyright / Permissions *
+QUAKE II(R) is registered trademarks of id Software, Inc.
+Don't really mind what you do with the sound FILES (ie edit it
+all you want) as long as you mention me when you do (I may not
+have recorded the sounds, but I spent a long while editing them
+).  I would prefer it be distributed only with the Eva-01 model,
+and as long as this txt file is included.

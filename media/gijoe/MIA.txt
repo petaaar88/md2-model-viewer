@@ -1,0 +1,51 @@
+<INSERT DATE HERE>
+================================================================
+Model Name              : GiJoe
+installation directory  : quake2/baseq2/players/GiJoe
+Author                         : Chris Watson 
+Status                          : Unemployed (hint)
+Skin Author                 : Me Again
+Email Address             : firestarter@cableinet.co.uk
+
+Model description       : GiJoe Vietnam Veteran
+
+
+Other info              : The character I was going for is based around films like Platoon and Apocalypse Now,hence the reason he doesn`t `stand` to attention,a real sloppy attitude.
+I`ve learnt that a more exagerated style is what`s really required within Quake.Well maybe next time.
+I guess Henry wouldn`t like this very much ; /
+I dropped the `reefer` from the stand anim ,to reduce unnecessary poly count.But if I get enough requests,I`ll put it back in.Anyway give me some feedback,good or bad.
+Additional Credits to   : id Software.All the people who write the software to make this possible
+Thanks to               : as above.
+================================================================
+* Play Information *
+
+New Sounds                 : no
+CTF Skins                    : yes
+VWEP Support             : no,but possible.
+
+
+* Construction *
+Poly Count              : 732 (Tris),134 (Weapon)
+Vert Count              : 367 (Tris),67 (Weapon) 
+Skin Count              : 6 skins
+Base                        : from scratch
+Editor used             : 3DStudioR4 with BonesPro plugin,(exp-imp-exp takes forever)
+                                  P.Martins Q2Modeller0.90b,
+                                  NSTv09b2,
+                                  Adobe Photoshop 4.0 
+                                  PaintShopPro 4.
+Known Bugs              : Some Bad mapping by me(give me a break it was my first time) and some weird effects on the top of his head that I didn`t create.Tried painting a mohawk onto the CTF skins (to make them look like Rogue Trooper) but it just went really bad.?.
+Build/Animation time    :I wasn`t counting.
+
+
+* How to use this model *
+Install to .../quake2/baseq2/players/GiJoe
+
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+Contact me if you wish to use this model in any way outside of personal use.
+All rights reserved. 
+
+

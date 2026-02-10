@@ -1,0 +1,47 @@
+================================================================
+Model Name              : Hover
+installation directory  : quake2/baseq2/players/hover
+Author                  : M-Gate
+Skin Author             : Same
+Email Address           : ????????????
+
+Model description       : It looks like a Whale but is tiny as a dog.
+
+
+Other info              : This
+
+Additional Credits to   : <id Software,Quake Model Editor,Skined, >
+
+Thanks to               : 
+================================================================
+* Play Information *
+
+New Sounds              : YES
+CTF Skins               : YES
+VWEP Support            : NO
+
+
+* Construction *
+Poly Count              : ?????
+Vert Count              : <54 Verts>
+Skin Count              : ?????
+Base                    : New model
+Editor used             : Quake Model Editor
+Known Bugs              : fIXED ALL KNOW ERRORS
+Build/Animation time    : 5 Hours Tops "Ha Ha"
+
+
+
+
+
+<INSTALLATION INFO>
+
+Copy this data into the baseq2/players/hover directory
+* Copyright / Permissions *
+If going to be put on a CD or Floppy disk please ask permision from
+Nukermaps@aol.com!!!!!
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+M-Gate is registered to the M-Gate Company!!!! 
+

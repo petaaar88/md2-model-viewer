@@ -1,0 +1,84 @@
+
+6/17/99
+
+================================================================
+
+Model Name              : Cheetor Transmetal 2
+
+installation directory  : quake2/baseq2/players/Cheetor2
+
+Author                  : DJ "Rattrap" Kehoe
+
+Skin Author : 
+
+Email Address           : rattraptm@hotmail.com
+
+
+
+Model description       : I made Cheetor Transmetal 2 from the beastwars transformers line.  He is based primarily on the toy but I took many elements of the CGI cartoon.  Here's the twist, I animated his beast mode rather than his robot mode for play.
+
+Other info              : <OTHER STUFF>
+
+
+
+Additional Credits to   : id Software, Hasbro, Mainframe Entertainment
+
+
+
+Thanks to               : Bryan "Palinor" Kaiserman
+
+================================================================
+
+* Play Information *
+
+
+
+New Sounds              : yes
+
+CTF Skins               : yes
+
+VWEP Support            : no
+
+
+
+
+
+* Construction *
+
+Poly Count              : 1046
+
+Vert Count              : 581
+
+Skin Count              : 8
+
+Base                    : Brand Spankin New
+
+Editor used             : Quake Modeller, Microsoft Pain, NST
+
+Known Bugs              : Its a little over the polycount.  I caould have easily gotten rid of some of them, bu it seemed frivelous, I don't care if it makes the pak, I like it.
+
+Build/Animation time    : build time:5 days animation time: 2 months
+
+
+
+
+
+* How to use this model *
+
+
+
+make a directory in your players folder named Cheetor2 and unzip all the files into it.
+
+
+
+* Copyright / Permissions *
+
+
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+
+Cheetor and other transformers are copyrights and what-not of Hasbro Inc.
+
+
+

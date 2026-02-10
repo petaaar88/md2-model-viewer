@@ -1,0 +1,39 @@
+================================================================
+ AstroNinja Quake2 Skin
+ by Walter Beckwith                           email: Asmondi40k@aol.com
+................................................................
+
+================================================================
+Title                   : AstroNinja 
+Author                  : Walter Beckwith
+Email Address           : Asmondi40k@aol.com
+
+Description             : Astroboy Quake2 player model skin
+
+Additional Credits to   : I would like to thank my sister
+                          to let me use the computer and 
+                          not to kick me off
+                   
+                          
+Build Time              : a few hours (its my first skin)
+================================================================
+
+DESCRIPTION
+
+   A plugin player skin for the astroboy model that turns 
+   AstroBoy into AstroNinja.
+
+
+INSTALLATION
+   Its very simple. all you gots to do is unzip the zip file
+   Right into your baseq2\players\astro directory and play.
+  
+
+COMMENTS
+
+   Please Email me if you see any problems
+
+Walter Beckwith
+HomeSoft Productions
+4/12/98
+

@@ -1,0 +1,53 @@
+Hello! First model for 1999 from Citrus Frog [date is 5/1/1999]
+
+"What the F**k have you done now Citrus!?!"
+
+I've heard this phrase quite a bit after I released the Penguin, well in 
+answer to the question: I've made a Big Ol' Scary Smiley Face with Big Teeth,
+Cross-Bone array and a Big Fat Stoogie to Suck On.
+
+Or you could just refer to it kindly as 'Smiley'
+
+Unlike all my other models this one has no confusing story line or plot to follow it.
+I made this model originally to enter into the Chaos Comics competition. Therefore
+it's based upon Evil Ernie's Badge 'Smiley', I never entered it due to problems both 
+myself and others were having with the model's skin.
+It is also based upon the 'Have a Day' and 'Have a Night' posters by the People over
+at Mantis Design. Go say hello to them over at www.mantisd.com.
+
+** UPDATE - 21/1/1999 **
+
+Just an update on the skins front really...
+
+The Model now comes with 3 Ctf skins [Red, Blue and new Green variety] These come from
+the skilled pixel brush of Jason "Warlocke" Lewis. As I changed some of the skin mesh I 
+had to edit the original skins. All I did was fill in some black areas.
+
+Also Smiley has 4 other New Skins!
+
+Eight Ball - Based on the CTF skins and the Eight Ball in QPong
+Slam Dunk - Another QPong influenced Basketball
+World - He's got the whole World in his hands, he's got thw whole wide world in his hands..
+Number15 - My 'Big Shot' Cue Ball.
+
+All the skins [part from number15] were based upon the skins for the balls in QPong.
+
+** End of All That **  
+
+Made with Q2Modeller and skinned using Npherno's Skin Tool and Paint Shop Pro
+
+Also included in this zip is a fun picture of Citrus Frog's Happy Frag Club Band!
+This picture Honours models everywhere, I'd have included all the models out there 
+but I baegan to run out of space. All models, skins and stuff are owned by whoever 
+owns them, all credit is there's etc. I claim the Penguin, Frosty 
+and Beelzabub models as my own. 
+Also included are 2 examples of the posters conducted by Mantis Design, watch and fear.
+
+To See more rather Scary things I've done or to visit the soon the be constructed Pond
+go to the adress below!
+
+Citrus Frog
+
+citrus.frog@becs-ltd.demon.co.uk
+
+http://phrozen.quake2.co.uk

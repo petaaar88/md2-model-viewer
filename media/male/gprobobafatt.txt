@@ -1,0 +1,46 @@
+GamePro Quake II Skin: Boba Fatt
+========================================================
+Author:		Fritz "TheChosen" Schober & Todd "HotRod Todd" Barnes
+Email:		fritz-schober@netcologne.de  & tbarnes@gamepro.com
+Web Page:	http://www.netcologne.de/~nc-schobefr/q2/
+		http://www.gamepro.com/clangamepro
+Files:		GProBoba.pcx = GamePro Boba Fatt Quake II Skin
+		GProBoba_i.pcx = GamePro "G" logo
+	
+To install the skin:
+Copy the GProBoba.pcx and the GProBoba_i.pcx files into your quake2\baseq2\players\male 
+directory.
+	Example: 	x:\quake2\baseq2\players\male\GProBoba.pcx
+		 	x:\quake2\baseq2\players\male\GProBoba_i.pcx
+
+To select the skin:
+Go to Multiplayer -> Player Setup. Select Male for the gender and scroll through the skins until you find your 
+favorite GamePro editor.  :)
+
+Author's comments: 
+If you’ve downloaded any other Quake II skins at all, you’ll immediately recognize this skin’s body as the work 
+of Fritz "TheChosen" Schober, one of the community’s most talented artists.  Todd simply pasted a new head 
+on Fritz’s excellent existing Boba skin. Here’s the important bits from Fritz’s original readme.txt file:
+
+Type: 		male QUAKE2 SKIN
+Name: 		Boba Fett (BOBAF.PCX)
+Release Date: 	January 19. 1998
+Author:	       	Fritz "TheChosen" Schober
+E-Mail:	        fritz-schober@netcologne.de
+
+Homepages: 	For more Quake2 skins from Fritz: 
+                http://www.netcologne.de/~nc-schobefr/q2/
+			
+Description: 	Boba Fett is one of the coolest Star Wars characters.
+                Jelmer Kok helped me a lot with scanned photos and 
+                informations about details. It's sad that the male
+                Quake2 model shape is not very good to have all of
+                Boba's Details. I hope you still like him.
+                
+Other:  	I'm using Photoshop and a Wacom PenPartner graphics tablet.
+                This skin is only for private use! If you put it on
+               	a website, give me credits. Boba Fett is (c) Lucas Arts.
+
+There’s your credit, Fritz. On behalf of GamePro, thanks!
+
+--Dan Elektro

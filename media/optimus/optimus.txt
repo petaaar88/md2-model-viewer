@@ -1,0 +1,55 @@
+================================================================
+ Optimus Prime Quake2 Player
+ by Felonyboy & Lavo                email: felonyboy@hotmail.com
+................................................................
+
+================================================================
+Title                   : Optimus 
+Author                  : Felonyboy & Lavo
+Email Address           : felonyboy@hotmail.com
+
+Description             : Optimus Prime Quake2 player model
+                          
+Build Time              : 3 days 
+			 (Spanned over a months of lunch breaks)
+================================================================
+
+DESCRIPTION
+
+   A plugin player model for Quake2.
+
+
+INSTALLATION
+
+   Just unzip the files contained in the archive, to your
+   Quake2 folder, RESTORING PATHNAMES. This means
+   that if you're using Winzip, you must enable the
+   "Use Folder Names" option when extracting. For
+   pkunzip users, make sure you use the -d option.
+
+USING OPTIMUS IN QUAKE2
+
+   To use Optimus go to the mutliplayer setup and choose the 
+   Optimus model instead of the male or female players.
+   
+   To use Optimus as an Eraser Bot edit the BOT.CFG and include 
+   the line:
+   "Optimus"        "optimus/optimus"        3   4   3   9   1   0
+   under the title [bots]. you can edit the various strengths by
+   changing the numbers following the name.
+   
+SKINS
+
+   Please feel free to create new skins for Optimus. You can send them
+   to me by email: Felonyboy@hotmail.com
+
+COMMENTS
+
+   Please ask if you want to use the model for anything other than 
+   personal use as it is explained here, particularly if incuding it 
+   in a patch or add-on.
+
+
+Seeya
+
+Felonyboy & Lavo

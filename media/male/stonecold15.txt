@@ -1,0 +1,49 @@
+
+Quake 2 Skin-StoneCold1.5        				        2/6/98
+
+
+Author:		Michael Wojnar
+
+E-Mail:		thewoj@hotmail.com, q16skins@hotmail.com, thewoj@superior.net
+
+Homepage: 	http://www.superior.net/~thewoj    
+		http://www.superior.net/~thewoj/q2	
+
+Files:		stonecold15.pcx    stonecold15_i.pcx			
+
+Instructions:	Place both of these files into your 
+	        quake2/baseq2/players/male directory
+
+Description: 	A modified StoneCold, fixing the "255255255 error" in Quake 2 
+skinning. (The color 255255255 (white) is in some .pals (Quake 2 Paint Shop 
+Pro palette). When you load the palette on a skin, if it changes a near white 
+to 255255255, it will look tan in Quake 2 instead of white.)
+
+Other:		Paint Shop Pro 4.14 was used to make this skin.
+		
+"You sit there and thump your bible, and say your prayers and it didn't get 
+you anywhere. Talk about your psalms, talk about John 3:16.....Austin 3:16 
+says I just whipped your ass!" 
+-Austin's King of the Ring '96 Coronation Speech. 
+
+-Planned* Future Releases Of StoneCold-
+A modified StoneCold2 with the "Other Side Jackass" T-Shirt
+A modified StoneCold drenched in blood.
+A modified StoneCold2 drenched in blood.
+
+*Due to various other skin projects, I may not have enough time to make all 
+of these.
+
+-Other Skins By Woj-
+stonecold
+stonecold2
+stonecold3
+wcwsting
+wcwsting2
+wcwsting3
+handofgod
+doomskull
+doomskull2
+snorkcold
+
+		

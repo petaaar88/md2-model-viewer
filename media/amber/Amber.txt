@@ -1,0 +1,65 @@
+7-9-98
+
+================================================================
+
+Model Name              : Amber
+
+installation directory  : quake2/baseq2/players/amber
+
+Author                  : Brian "EvilBastard" Collins
+
+Email Address           : brian@zono.com
+
+Website Address         : www.michaeljwolf.com/brian/quake.htm
+
+Model description       : 
+
+	Amber is Sydney's sister (see the resemblence...) She is like her sister in every way, except for her preferance for a variety of weapons.
+
+Other info              : 
+	I have wanted to do a 'full' vwep model for a while, i thought i would start by converting on of my old ones.
+
+Additional Credits to   : 
+	* Idsoftware 
+	* Q2modeler
+
+
+Thanks to               :
+
+	Bodyshop messageboard regulars - You guys kick ass.
+
+================================================================
+
+* Play Information *
+
+New Sounds              : NO
+
+CTF Skins               : YES
+
+VWEP Support            : HELL YEAH!
+
+
+* Construction *
+
+Poly Count              : 665 tris.md2 
+
+Vert Count              : 342 tris.md2 
+
+Skin Count              : 2 DM, 2 CTF
+
+Base		        : Sydney
+
+Editor used             : 
+		Modeling - lightwave	
+		Animation- lightwave + puppetmaster
+		Skining  - Q2modeler, NST
+		Painting - Photoshop, NST
+		
+Known Bugs              : None that i know of.
+
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+Feel free to edit my model as you see fit, just be sure to mention me
+in the readme file. This model is not to be distributed as part of any
+commercial product.

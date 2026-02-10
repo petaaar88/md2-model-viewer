@@ -1,0 +1,103 @@
+23-02-99             -          metric
+
+===========================================================================================
+
+Model Name		: @
+
+install dir		: quake2/baseq2/players/@/
+
+Author			: Sgt. Science
+
+Email			: sramsayjones@zdnetmail.com
+
+Model Description	: @ the funkadellic personification of whatever you want him to be
+			  as you frag away... he is your puppet... at least he's got style.
+
+Credits			:
+	Darin Petersen 	- I would have killed myself long ago if I attempted to
+			  Model in 3dsMAX without QTiP
+	Npherno	       	- another person I owe my life to... and my skins would look even
+			  worse without NST...
+	Id		- for keeping it real
+
+Thanks go out to:
+	Dan Sliwka, for keeping my brain thinking
+
+
+===========================================================================================
+ * play Info *
+
+New Sounds		: I don't have the resources...
+
+CTF Skins		: Ya
+
+VWEP Support		: Custom VWEP 50% complete, but... Various factors discouraged me.
+			  Completion is dependant on demand...
+
+ * Construction *
+
+Poly Count:
+
+		Tris	Weapon	  Total
+		789	170	  959
+
+		Tris	WeaponX	  Total
+		789	8	  797
+
+Vert Count:
+
+		Tris	Weapon	  Total
+		440	104	  544
+
+		Tris	WeaponX	  Total
+		440	6	  446
+
+Weapon Notes:
+	Here's the deal... This cat has two weapon models... The default weapon model
+	(weapon.md2) is a stylish bullpup-configured multi-purpose assault weapon. It is
+	constructed out of 170 faces which brings the total with tris to 959 [refer to the
+	above chart :)]. Many would find this gross excess of polies (159 over the 800
+	standard)to be inexcusable. Therefor, I have included a second weapon model,
+	WeaponX.md2. This weapon is a super-lame pipegun, consisting of a fiberglass tube,
+	a trigger, one 12-gauge shotgun shell, (none of this *really* matters though, since
+	it'll be firing a seemingly endless supply of rockets and big green balls of energy
+	:P) and 8 faces. The use of this weapon model lowers the total poly count to an
+	acceptable 797 faces, alleviating proformance concerns, and hopefully insuring this
+	model a place in the PMP. :P
+
+	How to use WeaponX:
+		Simply change the name of the weapon.md2 and weapon.pcx to weapon0.md2 and
+		weapon0.pcx respectively, then change the names of weaponX.md2 and
+		weaponX.pcx to weapon.md2 and weapon.pcx. Voila! you are now under 800 
+		faces.
+
+Skin Count		: 4 DM, 3 CTF (sort of)
+			  (if anyone makes a decent skin for this cat, I'd love to see it)
+
+Editors Used		:
+				Modeling  - MDL
+				Animation - 3dsMAX + character Studio
+				Export    - QTiP
+				Skin Map  - MDL
+				Skinning  - NST + photoshop
+				Cleanup   - MDL
+				Viewing   - Skin View
+
+Other Rants:
+	on my failings:
+
+		1. ya... face count is high, but I think I used the faces in a fairly
+		   optimal way that uses them all efficiently. True, I know know a few 
+		   could be shaved, but any more and character would be going with them.
+
+		2. That funny thing he wears over his shoulders lookes kinda rough at times,
+		   due to the fact that It couldn't work with his skeleton properly,
+		   resulting in a shabby cleanup in MDL.
+
+		3. Skinning's not my forte :P
+
+		4. I could go on, but I won't
+
+any questions, concerns, flames or props, send them my way...
+
+Jones, the Sergeant of Science

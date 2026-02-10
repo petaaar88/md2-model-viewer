@@ -1,0 +1,25 @@
+Skin Name(s):  Clan "The Lunarians" Male and Female Skins
+
+Artist:  Shivermoon
+
+E-Mail:  brats@raex.com
+
+ICQ:  7313374
+
+Software Used:  NPherno's Skin Tool v0.60,
+		Corel Photo-Paint v4.0
+
+Artists Comments/Notes:  The Female Lunarian skin (Flunar.pcx) is a new
+skin for me, but the male Lunarian skin (lunar.pcx) is a slight editing 
+of the skin I gave to Quake 2 Skin Central as a basic skin.  The main
+difference is that that Lunar.pcx now has a crescent moon, instead of Abs
+on his stomach.  The female skin, which I am not used to making, had to 
+place the moon on the chest, considering the high distortion rate of the 
+forehead, which made the moon look like a diamond.  The female skin also
+utilizes a new technique of my shadings that I tried on her armband.  Give 
+me some feedback on what you think of it.  
+
+Usage:  This skin must not be used in a game except by those listed on the 
+Lunarians home page at 
+http://members.tripod.com/~The_Brother_Grimm/lunaria/lunaria.html
+as clansmen of the Lunarian order.  We appreciate followers of that rule.

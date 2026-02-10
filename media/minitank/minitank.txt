@@ -1,0 +1,24 @@
+===Player notes===
+
+This player model is a 50% scaled down version of the TankTaunt model I uploaded
+in the past for use on Tastyspleen servers. In addition this tries not to appear
+like a tracked version of the flying dutchman as the previous one did and removes
+the rocket launcher model that was under the tank crotch since it no longer is
+needed there. 
+
+And sorry, No corrected frames as it would take too much time for me right now.
+
+This model is taken from Q2 itself, It is a Boss Strogg fought on two occasions that
+has tank tracks, Chaingun, And rocket launcher. The model and base skin is (C) ID Software.
+
+If anyone wants to make skins for it, By all means do so! Any skin made for this model
+will work just fine for the TankTaunt model too as they are identical in every way.
+If You want to distribute this model and skins I have nothing to say against except keep
+in mind this is only slightly modified property of ID Software.
+
+
+
+
+Now go have fun CRUSHING Your competition under the tracks of the mighty Strogg Tanks!
+
+===Uploaded June 23rd 2010 by Tails Butt, AKA Fox Butt===

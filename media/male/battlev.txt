@@ -1,0 +1,14 @@
+Type: 		QUAKE2 SKIN
+Name: 		Vampire in BattleSuit
+Release Date: 	Jan.10 1998
+Author:		Dirk'Banded Kray'Binder
+E-Mail:		bandedk@nagold.netsurf.de
+	    	
+Files:		battlev.pcx ; battlev_i.pcx
+			
+
+Instructions:	Just unzip all these files to your 
+	        quake2/baseq2/players/male directory
+
+Description: 	Banded's Vampire in a Battledress.
+		

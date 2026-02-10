@@ -1,0 +1,10 @@
+Donetello, Michelangelo, and Leonardo skins for the Tmnt model by Striker:
+
+If you have the model you know that it only has a skin for Raphael (ralph.pcx).  In this zip
+file there are skins for Donetello (don.pcx) Michelangelo (mike.pcx) and Leonardo (leo.pcx)
+and appropiate icons for each skin.  The skins and icons are based off the ralph.pcx and 
+ralph_i.pcx.
+
+To use these just unzip into the directory with the tmnt model and either go to the player 
+setup menu and select the tmnt model and the skin you want or go to the console and type 
+"skin tmnt/<skin name>"

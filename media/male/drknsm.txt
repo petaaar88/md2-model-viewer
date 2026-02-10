@@ -1,0 +1,27 @@
+Darkness Skin v1.20.98
+-------------------
+Author: Will Nunn (tanis@wpi.edu)
+Tools for Creation: 
+	Paint Shop Pro 4 (to get the Palette)
+	ULead PhotoImpact SE (for most of the texture editing)
+	NPherno's Skin Tool v0.60 (to view the work in progress)
+	MD2View (for screen shots and assessment of skin in action)
+Date: 1/20/98
+Subject: Jackie Estacado from the Darkness comic books published by Top Cow Comics.
+----------------------------------------------------------------------------
+
+Notes: This is my first skin, it took a couple of hours to make and Is still not
+what I hoped it might be. It's impossible to do the hair properly without actually
+messing with the model so the hair looks pretty cheesy. All in all though, it's a 
+unique skin, and it looks kick ass in DM.
+
+Files:
+	drknsm.pcx  - The Skin
+	drknsm_i.pcx- The Icon that Goes With the Skin
+	drknsm.jpg  - Image with Screen shots of Skin
+	drknsm.txt  - This Text File
+
+If you would like to use this skin in a compilation or such.. please e-mail me 
+(tanis@wpi.edu) before doing so.
+----------------------------------------------------------------------
+This skin and all the files with it are Copyright (c)1998 of Willy Nunn

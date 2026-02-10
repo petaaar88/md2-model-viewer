@@ -1,0 +1,56 @@
+June 29,1999
+================================================================ 
+
+Model Name              : Darth_Maul
+Installation directory  : quake2/baseq2/players/Darth_Maul
+Author                  : Neil Weber "Dufusyte"
+Skin Author             : Neil Weber "Dufusyte"
+Email Address           : dufusyte@yahoo.com
+
+MODEL DESCRIPTION:
+Darth Maul, Sith Lord, apprentice to Darth Sidious.
+He battled Qui-Gon Jinn and Obi-Wan Kenobi, resulting
+in damage to his garments: now he wears a tunic for
+deathmatch.
+
+Other info              : See--light sabers really can penetrate walls.  
+
+Additional Credits to   : Credits to Id Software; LucasArts.
+
+Thanks to               : All Star Wars fans
+
+================================================================
+
+* Play Information *
+
+New Sounds              : Yes.  The sound pack is kind of a walking symphony 
+                          to recreate the aura of the character.  Credits go 
+                          to John Williams for the original score. 
+CTF Skins               : Yes
+VWEP Support            : Could be implemented with different colors for the 
+                          light-saber, like the Darth Vader model.
+
+* Construction *
+
+Poly Count              : 832 polygons, plus 8 polys for the weapon.
+Vert Count              : 420 vertices
+Skin Count              : 4 skins
+Base                    : completely new model
+Editor used             : - QME to model & animate 
+                          - NST & PSP to skin 
+
+* How to use this model *
+
+Unzip all files to the quake2/baseq2/players/Darth_Maul directory.
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+The Darth Maul character and everything Star Wars belongs to LucasArts.
+
+================================================================
+
+Other models by Neil Weber "Dufusyte:
+
+Cobra (cobra-zip), a rocket-breathing snake with nine skins and custom 
+sound pack.  If you like Darth_Maul, you gotta check out Cobra!

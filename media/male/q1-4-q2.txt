@@ -1,0 +1,69 @@
+03/19/97
+================================================================
+Title                   : Quake 1 Skins for Quake 2
+Filename                : q1-4-q2.zip
+Author                  : Dann Thombs (Dann the Man)
+Home Page               : General --> http://www.thombs.com/~dann/
+                          3-D   --> http://www.geocities.com/TimesSquare/Alley/5890/ (3-D gophers)
+                          Half-life   --> http://www.frag.com/halflife/ (The Daily Death)
+Email Address           : dann@thombs.com
+Description             : Most of the Quake1 baddies' skins for the Quake 2 male player. 
+
+Additional Credits to   : ID for Quake and Quake 1 Skins
+                          JASC Inc. for Paintshop Pro
+
+
+
+================================================================
+
+* Play Information *
+
+New Levels         :No
+New Sounds         :No
+New Graphics
+     --lmp         :No
+     --wal         :No
+     --pcx(skins)  :Yes
+New Models
+     --md2         :No
+New QuakeC         :No
+
+* Construction *
+
+Base                    : Q2 Player Skin and Quake1 skins
+Editor(s) used          : Paint Shop Pro; Paint
+Known Bugs              : None
+Build Time              : Not Long
+QBSP Time               : N/A
+Light Time              : N/A
+VIS Time                : N/A
+Compile machine         : Gateway 2000 G6-200
+
+* Files *
+---------------
+q1chthon (sp?)
+q1enforcer
+q1fiend
+q1hknight
+q1knight
+q1ogre
+q1scragg
+q1shambler
+q1soldier
+q1tarbaby
+q1vore
+q1zombie
+
+* Other Info *
+You can put these skins into the players/male directory, and if others have it, they will see it. 
+Even if you don't use it, you should still put it in your players/male dir, so you will see others
+if they are using the skin. I didn't bother with the dog,fish or Shubby. If you want to tackle 
+them, go ahead. The ogre, Chthon, enforcer, and shambler came out the best. The rest I did to complete
+the set. Enjoy.
+
+
+
+* Copyright / Permissions *
+You may use this for a complilation of skins.
+
+Whatever you do just give me credit.

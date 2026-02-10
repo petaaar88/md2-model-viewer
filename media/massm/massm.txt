@@ -1,0 +1,38 @@
+13/7/99
+================================================================
+Model Name              : MassMouth
+installation directory  : quake2/baseq2/players/massm
+Author                  : Stephen "Neuralstasis" Monteith
+Email Address           : stephenmonteith@hotmail.com
+Home Page:		: http://www.uq.net.au/~zzmontei/
+
+Description:
+Eres a funky new player model for Q2. Hes a rather insane looking LGM (little green man) which wanders around grinning widely and blasting everything with his patented AtomiKdecombobulizer Ray Gun. 
+
+Info:
+This is my first attempt at creating a Q2 character so dont laugh to much. This character was originally full character made by me in Lightwave 3d 5.6 but I decided after starting playing Q2 over the internet that I could transform him (helpfull keeping his original bone structure) into a crazed killing Q2 MACHINE!! sort of...
+Anyway the modeling was easy: freeze metanurbs model on level one. done. This did however result in a few extra polygons but Im lazy and left em there.
+All of the animating was done in lightwave and each frame was simply imported in qME. 
+The Skins (few as they are) were all done in Photoshop. Also the skins are quite inificient as the model was not specifically built for Quake and they split rather badly.
+
+
+Info:
+New Sounds: no
+CTF skins:  yes
+VWEP: no (not likley coming either)
+Poly count: 794
+Vertex count: 557
+Skins: 5 
+       1 base LGM skin
+       2 CTF skins
+Programs used: modeling  Lightwave 3D 5.6
+               animateing: Lightwave 3D 5.6
+               Compiling : qME
+               Skins: Photoshop 5
+
+Installation:
+Unzip the zip into a directory called massm in your quake 2 players directory.
+
+thanks:
+qME for makeing a Lightwave compatible program.
+err.. thats it

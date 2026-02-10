@@ -1,0 +1,102 @@
+Instructions fit for a newbie! =)
+
+To get the Doom Unleashed to work:
+
+Find whatever drive QuakeII is on.  If you don't know where that is, I recommend taking your computer back to the store, it will do someone else more good than you! =)
+
+Go to the folder called "Quake2"
+Go to the folder called "baseq2"
+Go to the folder called "players"
+unzip the file phxdul.zip INTO the folder called "players"
+This makes a NEW folder called "Doomunls"
+When you start Quake II, go to Multiplayer
+Go to Player Setup
+Choose Doomunls for the Model
+And choose whatever skin you want!
+
+-------------------------------------------
+To get Doomunls to work with Rocket Arena 2:
+
+AFTER you have done the above:
+
+Go to the folder called "Quake2"
+Go to the folder called "baseq2"
+Go to the folder called "players"
+RENAME the folder called "cyborg".  Call it "Cyborg2"
+COPY the folder called "Doomunls"
+A new folder appears called "Copy of Doomunls"
+RENAME the folder called "Copy of Doomunls".  Call it "Cyborg"
+
+When you play Rocket Arena, choose the Cyborg model.
+The model is CALLED cyborg, but it shows the Doom Unleashed Doomguy instead!
+
+-------------------------------------------
+To RESTORE the original Cyborg model:
+DELETE the folder called "Cyborg" (NOT CYBORG2!!!!)
+(Note:  It is UNWISE to delete this folder if you did NOT
+do the above Rocket Arena installation!)
+RENAME the folder called "Cyborg2".  Call it "Cyborg"
+That's it!
+
+-------------------------------------------
+To get the Doom Weapons models to work:
+Go to the Doomunls folder
+COPY a file called "pak8.pak"
+PASTE it into the folder called "baseq2"
+All your weapons will now look like the DOOM weapons!!
+
+If you only want DOOM WEAPON models for Rocket Arena:
+Instead of the above:
+Go to the Doomunls folder
+COPY a file called "pak8.pak"
+PASTE it into the folder called "ARENA"
+Your weapons will look like Doom ONLY in Rocket Arena!
+
+-------------------------------------------
+To get the Doom Weapon sounds to work:
+
+Go to the Doomunls folder
+COPY a file called "pak9.pak"
+PASTE it into the folder called "baseq2"
+All your weapons will now sound different.
+
+If you only want DOOM WEAPON sounds for Rocket Arena:
+
+Instead of the above:
+Go to the Doomunls folder
+COPY a file called "pak9.pak"
+PASTE it into the folder called "ARENA"
+Your weapons will sound like Doom ONLY in Rocket Arena!
+You can substiture ANY mod folder for "arena"
+
+-------------------------------------------
+To DISABLE the DOOM WEAPON sounds:
+
+Go to baseq2 (or the appropriate mod folder)
+DELETE the file called "pak9.pak"
+DO NOT DELETE ANY OTHER PAK FILES OR QUAKE2 WILL NOT WORK!
+(And I am not responsible for stupid mistakes either!)
+All weapons will sound like normal again.
+
+Pak9.pak is still in the Doomunls folder, and can be copied
+out again in the future if you want!
+
+-------------------------------------------
+To DISABLE the DOOM WEAPON graphics:
+
+Go to baseq2 (or the appropriate mod folder)
+DELETE the file called "pak8.pak"
+DO NOT DELETE ANY OTHER PAK FILES OR QUAKE2 WILL NOT WORK!
+(And I am not responsible for stupid mistakes either!)
+All weapons will look like normal again.
+
+Pak8.pak is still in the Doomunls folder, and can be copied
+out again in the future if you want!
+
+
+Well, if you couldn't follow those instructions,
+How DO you get any frags!??
+
+Happy Gaming!
+
+- Phoenix

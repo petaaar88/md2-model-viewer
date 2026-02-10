@@ -1,0 +1,80 @@
+5/18/00
+&
+7/18/01
+================================================================
+
+Model Name              : Inferno
+
+installation directory  : quake2/baseq2/players/Inferno
+
+Authors                 : DJ Rattrap
+
+Skin Author 		: DJ Rattrap
+
+Email Address           : rattraptm@hotmail.com
+Model description       : From Beast Wars, Inferno was Megatron's second in command after scorpinok died.  Inferno had unquestionable loyalty, but due to an error in his creation, he actually thinks he's an ant and megatron is his "Queen", often refers to him as such or simply "The royalty".  Eventually was killed by megatron with the nemesis in the last episode of beast Wars.
+
+Other info              : he's a bit heavy on the polys;  I modelled skinned and animated him last summer, but never released him.  I thought he was still too big on the polycount side, but now most people have the hardware to handle him.  I just touched up some of the animations and decided to let him fly.  I plan on converting this model for use with quake 3 very soon as a side project to my quake 3 mod, Heavy Armor, that is in progress.
+
+Additional Credits to   : id Software, Hasbro, Mainframe
+
+
+
+Thanks to               : 
+
+================================================================
+
+* Play Information *
+
+
+
+New Sounds              : Yes
+
+CTF Skins               : Yes
+
+VWEP Support            : No
+
+
+
+
+
+* Construction *
+
+Poly Count              : 1779
+
+Vert Count              : 1736
+
+Skin Count              : 5
+
+Base                    : Brand spankin new 
+
+Editor used             : quake model editor
+
+Known Bugs              : Well he has a huge polycount.  This is actually the ruduced version.  Originally I had him clocked at over 2500 polys, but I managed to reduce it.
+
+Build/Animation time    : LOOOOOOOOOONG TIME
+
+
+
+
+
+* How to use this model *
+
+
+
+Unzip it
+
+
+
+* Copyright / Permissions *
+
+
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+
+
+Inferno Transformers and Megatron and Nemesis are all owned by hasbro.
+
+
+

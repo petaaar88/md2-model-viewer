@@ -1,0 +1,25 @@
+Winter's Faerie Models!
+=======================
+This is a new player model for use in quake2 which allows you to play a faerie. Winter's Fearie is an all new model, with new animations, et al. Making player models seems to be the latest craze nowadays, but everyone seems to be only doing male models, so here's an addition to the fairer of the sexes. I constantly amazed by the quality of some of the models released. If only more people in the video game industry were as talented as quake fans! I hope my model will live up the standards set by previous releases.
+
+Unzip this file into the directory that has your quake2 directory in it. Mostly likely this will be your root directory (c:\), don't panic the zip file has the directories built into it. After unzipping the files should be in quake2/baseq2/players/faerie/. If they aren't in that directory it wont work right. You will also notice that she makes the quake guy sounds. You can make her sound like the quake girl by copying all the wav files from the female dir into the faerie directory.
+
+Now you should be able to select Faerie in Multi-player setup. you can also choose from the six skins included.
+
+
+Thanks to:
+============
+Rowan "Sumaleth" Crawford. Who, albeit unknowingly, helped me with the finer points of making really cool looking models. If anyone out there is trying to make a model, I definitely suggest looking at his, they are amazing.
+ 
+But the most thanks goes to Winter, thus the name of the model. Her kind words and inspiration are what made it possible for me to make my best quake model yet.
+
+
+Comments and Questions:
+========================
+If you have any comments (good or bad, don't worry i can take it.) send me an e-mail. Although i know i'm not the best modeler out there, I can give you some helpful advise if you are having trouble on your own player model.
+
+Brian 'EvilBastard' Collins
+
+brian@zono.com
+
+

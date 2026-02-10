@@ -1,0 +1,75 @@
+<INSERT DATE HERE>
+================================================================
+Model Name              : Krazy Mr. Karrot
+installation directory  : quake2/baseq2/players/carrot/
+Author                  : Acid
+Skin Author : <Skinners name>  *only if different to modeler*
+Email Address           : acid@rocketjump.co.uk
+
+Model description       : Doh! A carrot of course :)
+
+
+Other info              : 
+
+So, I finally finished it after almost a year.
+Long story.  Hope ya like it.  There will be sounds 
+and vwep coming soon but the actuall model here is
+complete, finished, that's it!
+
+The model was originally the weapon for the pogo rabbit.
+It was a teensy little thing.  I never had any cash for
+something like 3D Studio Max and Q2Modeller can't really do
+joints.  So when I found the carrot I thought 'Well now then,
+theres a player plug-in waiting to happen'
+
+So, I scaled the model up to player size; scrapped the anims;
+gave him eyes; made new animations (I reckon they're pretty cool :]); 
+made some wicked ctf skins; and finally, Flatus (Who Clucked?) did some
+hilarious sounds.  Sorted.
+
+I also fixed the vwep bug.  If you downloaded this before the 10th of March 2000
+then you'll need to replace it!  But then again, if you're reading this you already
+have :)
+
+
+Have fun.
+
+Additional Credits to   : [Wc?]Flatus for the sounds.
+
+Thanks to               : [LP]Rattey for spotting the bug fix :) Cheers geezer.
+================================================================
+* Play Information *
+
+New Sounds              : <YES>
+CTF Skins               : <YES>
+VWEP Support            : <NO>
+
+
+* Construction *
+Poly Count              : <150 polys>
+Vert Count              : <89 Verts>
+Skin Count              : <03 Skins>
+Base                    : <Massivly modified.  See carrot.txt in zip>
+Editor used             : <Q2Modeller.  Paint Shop Pro>
+Known Bugs              : <Not anymore>
+Build/Animation time    : <18 months start to finish! 8 hrs cumulative tho'>
+
+
+* How to use this model *
+
+Create a new folder as 
+quake2/baseq2/players/carrot/
+
+If you've got my old, unfinished carrot (no ctf skins,
+real animation and some ripped sounds) then delete it.
+
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Feel free to use the model anywhere.  Do what you want with it as long as 
+you credit me and the auther of the pogo bunny.
+
+
+

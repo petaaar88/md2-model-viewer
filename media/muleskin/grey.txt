@@ -1,0 +1,27 @@
+Little GREY alien invading bastard accidentally spatially displaced into a q2 deathmatch. 
+
+Installation: Create a directory called 'Grey' in your 
+//quake2/baseq2/players directory and just unzip the files
+there.
+
+Choose the player in the mulitplayer menu inside Quake2
+
+Tools used: 	3dsmax		(model & animation)
+		q2modeler 	(compiling and skin base)
+		NST 		(Skin)and lots of linking unlinking and swearing
+
+
+
+Possible future plans (if I have time ,which is pretty doubtful so dont let me hold anyone
+		       out back from doing any of these suggestions and mailing them to me!)
+
+*Viewable weapons pack
+*Coloured elements on skin for ctf\teamplay
+*Cyborg grey with strogg mech mangled skin (somebody else would do this better than me)
+*Soundpack    (suggest using xenoids sounds for time being,speeded up\reversed etc.)
+
+Anyone interested in doing anything with this model,especially some skins(this ones a bit...
+........grey) then do it! just send us a copy of whatever you do.
+
+Cheers,
+	richb@jarsys.demon.co.uk

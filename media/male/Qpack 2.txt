@@ -1,0 +1,24 @@
+******Quality Pack 2*******
+       -Male Skins-
+
+For all the best skins come
+  to the hall of skins
+http://homepages.sylvaninfo.net/skins/
+
+Overview-
+Well here it is the Quality Pack 2. 
+If you dissagree with the selection
+or feel that your favorite was left
+out, then send me a mail at: 
+    **genjuro@got.net** 
+if you make a good enough case maybe
+I'll fix it.
+
+Instalation-
+Everyone who has his pack probaly
+allready knows this... but just in case.
+here we go again; put the contents of 
+this zip in your Quake2\baseq2\players\male\
+directory. then start up ol' Q and happy fragging.
+
+When is someone going to make some female skins?...

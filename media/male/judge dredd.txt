@@ -1,0 +1,19 @@
+QUAKE2 SKIN     Judge Dredd      1/25/98
+
+
+Author:         Rolf Inge Holden 
+E-Mail:         finge@bigfoot.com
+
+Files:          Judge Dredd.pcx Judge Dredd_i.pcx Judge Dredd.txt
+                        
+
+Instructions:   Unzip the two files to your 
+                quake2/baseq2/players/male directory
+
+Description:    Judge Dredd from the movie with Stallone starring as Judge Dredd.  
+		
+
+
+Comment:  The skin is already owned by a clan!! 
+          It's my very first skin, and probably the last..!
+	  If you want to modify it in any way, please email me and let me know.

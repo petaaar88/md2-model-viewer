@@ -1,0 +1,33 @@
+DUMB FIGHTER model for Quake2!!!  :)
+
+Just a kind of reoccuring doodle I used to draw, I used it in
+a number of places, now DF's in Q2!
+
+Installation:  Unzip the DF.Zip into your main quake2 directory,
+               and it should unzip everything into its proper directory.
+
+               If you have trouble getting it to show up in the
+               multiplayer menu, make sure you have NO files
+               (besides the directories) in quake2\baseq2\players!
+
+
+Tools used:  LightWave 3D v5.5
+             Adobe Photoshop 4.01
+             NST
+	     Qdata (modified by Ken D. Turner)
+             Paint shop pro
+
+Time spent:  6 days I guess
+             It was pretty fun making the model,
+             then the animation started to turn ugly,
+             I rushed alot of the anims.
+             But it was cool-  :)
+             Just used this one for self-proof
+             I can do it, my next ones should be
+             alot better.
+             
+email:   brianyee@hotmail.com
+
+Dumb Fighter POWER!
+
+

@@ -1,0 +1,54 @@
+
+
+NITEBIRD A NEW SKIN AND SOUNDS FOR THE CHASTITY MODEL ORIGINAL README FOLLOWS:
+
+
+=========================================================================================================
+Title 			: Chastity
+Model Name 		: Chastity
+Executive Producer	: Kyle Bousquet, Anime Extreme
+Model Created by	: Jade Moffatt        (jmoffatt@netcom.ca)
+Model Animated by  	: Jade Moffatt        (jmoffatt@netcom.ca)
+Sounds Created by	: Jade Moffatt's wife (jmoffatt@netcom.ca)
+Model Skinned by	: Alan Yen (alanyen@planetquake.com)
+Special Thanks to	: Chrome Tiger and Radar
+Date			: October 16, 1998
+Description		This is the second "Official" Quake 2 player plugin model authorized by Chaos! Comics
+			of one of their characters.  Chastity comes to life in this model.
+Credits			id, obviously
+			Adobe for Photoshop (www.adobe.com)
+			Canopus Corp. for their Pure3D II LXF we tested this model with (www.canopuscorp.com)
+			Our Quake 2 contest sponsors:  Activision, 3Dfx, and id again.
+			Our Quake 2 contest prize sponsors:  Kinetix, iDot Computers, Blockbuster, Canopus Corp., 
+			Activision, 3Dfx, Macromedia and others.
+=========================================================================================================
+
+-Play information-
+
+Game			: Quake 2 
+Model Name		: Chastity
+
+=========================================================================================================
+
+-Loading Information-
+
+Unzip Chastity.zip into Quake2\Baseq2\players\Chastity , start up Quake 2, go to the menu and goto 
+Multiplayer, then setup, and change the player model to Chastity.
+
+
+=========================================================================================================
+
+
+
+-Copyright Information-
+
+This model is (c) by Chaos! Comics, September 14 1998.
+Do not put this model in any sort of commercial product.
+
+You may distribute this model for free over any electronical / network environment, as long as it is free, 
+and this text file is included and the files are not modified in any way.
+
+=========================================================================================================
+
+Any comments, suggestions or questions can be sent to me at rumble@AnimeExtreme.com
+Also visit Jade's web page at http://www.netcom.ca/~jmoffatt

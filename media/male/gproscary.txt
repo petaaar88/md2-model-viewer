@@ -1,0 +1,29 @@
+GamePro Quake II Skin: Scary Larry
+========================================================
+Author:		Dan "Dan Elektro" Amrich
+Email:		damrich@gamepro.com
+Web Page:	http://www.gamepro.com/clangamepro
+Files:		GProScary.pcx = GamePro Air Hendrix Quake II Skin
+		GProScary_i.pcx = GamePro "G" logo
+	
+To install the skin:
+Copy the GProScary.pcx and the GProScary_i.pcx files into your quake2\baseq2\players\male directory.
+	Example: 	x:\quake2\baseq2\players\male\GProScary.pcx
+		 	x:\quake2\baseq2\players\male\GProScary_i.pcx
+
+To select the skin:
+Go to Multiplayer -> Player Setup. Select Male for the gender and scroll through the skins until you find your 
+favorite GamePro editor.  :)
+
+Author's comments: 
+Scary Larry's skin (my second) uses elements of Pointman, Psycho, and Rampage for its basic parts. The 
+green skin and blue pants were simple Hue/Saturation changes in Photoshop, while Scary's hair, shirt, 
+shades, and grin were all done by hand with Photoshop 4's airbrush, line and pencil tools. I also used 
+NPherno's Skin Tool as a 3D progress guide. All told, it was about 4 or 5 hours of work, and I enjoyed 
+every second.
+	All thanks go to the artists who have taken the time to write tutorials and supply palettes for budding 
+Quake II skinners like myself--the help was truly invaluable.  Hot Rod Todd and I hope to be able to create 
+skins for all the members of Clan GamePro in time; check the Clan GamePro web page for new ones. 
+Meanwhile, read GamePro and enjoy the skin!
+--Dan Elektro
+

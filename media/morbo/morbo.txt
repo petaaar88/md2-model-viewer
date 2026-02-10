@@ -1,0 +1,133 @@
+-----                                                         First Release:    21/1/98
+MORBO                                                         Last Update:      11/6/98
+-----
+
+Morbo is a plugin player model for deathmatch play in Quake2. It is an entirely new
+model with all 20 animations, a new skin, a new weapon (and skin), a player icon,
+a background story and sound effects.
+
+Author:
+
+    Rowan "Sumaleth" Crawford
+
+    Email:                  sumaleth@frag.com
+    Fun Web:                http://impact.frag.com
+    Work Web:               http://www.animagrafx.com.au
+    Cool Web Hosters:       http://www.frag.com
+
+    Past Quake Projects:    Quake Rally, Quess, Brawn, Zumlin.
+
+Sound Effects:
+
+    Sound effects author:   Eric "redchurch" vonRothkirch
+    Email:                  Electro-emoboy@msn.com
+    Project Page:           http://planetquake.com/thecoven/
+
+Special Note:
+
+    The Brawn files are completely interchangable with the Morbo files, so, for example,
+    if you decided you wanted to use Brawns weapon with the Morbo PPM, you can simply
+    copy them over.
+
+Installation:
+
+    The zip file must be extracted into the location of your quake2/ directory
+    (ie. NOT into the quake2/ directory - the one before it). The paths in the
+    zip are quake2/baseq2/players/morbo/ so if you don't unpack into the right
+    location it won't work.
+
+    Once extracted, Morbo will automatically appear in the player selection
+    field of the Multiplayer Options menu. Of course, it's only the other
+    players that get to see you as Morbo so it really only works in multiplayer games.
+
+    If someone is using Morbo and you don't have this model then you will simply see
+    them as the regular Quake2 player models, and visa versa.
+
+    Please note that there is a little problem with Quake2 and PMP's whereby
+    if you have any files in the /quake2/baseq2/players/ directory which AREN'T
+    real player model directories, then Q2 usually won't let you select additional
+    players from the Multiplayer menu. So if Morbo doesn't show up for selection,
+    just check there are no files in that directory.
+
+    Don't send bug reports please and please don't email me saying you can't get
+    it working.
+
+
+Whats it all about then?
+
+    Morbo is a little project I set myself for my Christmas holidays. It has ended
+    up taking around 2 weeks which is a bit longer than I was hoping but
+    it turned out to be a bit of a stiffer challenge than I originally bet on.
+
+    Apart from a simple model I did for a competition in October last year, this
+    is by FAR the most complex model I've done for Quake and while the results aren't
+    really what I was aiming for, it still works fairly well. I'm new to animating
+    in Lightwave (I usually use Alias) and it was definitely a STEEP learning curve
+    which, even now having finished the model, I still don't fully understand.
+
+    I actually went through every frame (198) and manually fixed errors resulting
+    from my wrestling with the animation module of Lightwave, but after a while I could
+    see that step alone was going to take a week, so I ended up only fixing the major
+    problems. You most likely won't see any of the problems in the game, but looking
+    at the model in a viewer makes them easily identifiable. But that was what this
+    project was all about - learn how to use Lightwave and work out what works and
+    what doesn't. If I get around to another player model, it'll be a lot better.
+
+    The whole project was uncharted territory from start to end so I didn't do anything
+    too fancy with the model/animation/skin/weapon. It weighs in at nearly 100 less
+    polygons than the Quake2 player models (so it'll be faster, but not quite as detailed).
+
+    Specs:
+
+        Polygons:   500 (449 for Morbo and 51 for the weapon)
+        Frames:     198
+        Animations: 20
+
+    Build Times:
+
+        Modelling:  a few hours
+        Skins:      4 days
+        Animation:  8 days
+        Fixings:    2 days
+
+    Programs Used:
+
+        Modelling:  Lightwave Modeler
+        Animation:  Lightwave Layout
+        Skins:      GraFX2
+        Utils:      qdata (special Lightwave version)
+
+    Morbo was tested using Ridah's Eraser bot (tis very cool seeing your own model
+    running around the map :).
+
+Important Stuff:
+
+    Morbo and all associated files are copyright of Rowan Crawford. Quake2 is copyright
+    of id Software.
+
+    You are free to spread Morbo far and wide although you are not allowed to make
+    money from Morbo in any way, shape or form.
+
+    Everyone is completely free to make additional skins for Morbo, in fact I encourage
+    it! You can even use my skin as a basis if you like, as most people do with the
+    Quake skins. Please don't send me skins you have made for Morbo, instead send them
+    to Dragon at http://qwcentral.stomped.com who maintains the Quake2 skin packs.
+    Be sure to check the rules of submission on his page first.
+
+    The skin layout is one of the things I put down to a "learning experience" because
+    while it looks pretty neat, it actually turned out to be a BITCH to paint on. Especially
+    the hands. Oh well, sorry about that, next time will be better :).
+
+And In Closing...
+
+    Yep, thats about it. I'll probably have to put out an updated version at some time
+    with a few simple fixes, but I hope he manages to add some spice to those DM games
+    out there. I'm keen for this idea of "plugin players" to catch on to the same extent
+    as skins because it really is a COOL feature. Paul Steed (the guy who made those
+    cool Q2 models) says he'll be putting out a new player model every now and again
+    so deathmatching in Quake2 is going to get VERY interesting.
+
+    Thanks to everyone who helped out.
+
+
+- Rowan 'Sumaleth' Crawford

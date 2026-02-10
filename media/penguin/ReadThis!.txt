@@ -1,0 +1,106 @@
+Tis' the Season to be Jolly
+
+Fa la la la la, le la la laaa!
+
+
+As it's Christmas I'm releasing this Feathered BadBoy onto
+you the unsuspecting public at large. Now you too can frag
+as a Penguin in DeathMatch, CTF and all the other mods out 
+there!
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ANTARTIC! - Why We Must Thank the Penguins!
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Somewhere in a cold sea somewhere....
+
+The Big lump of ice drifted across past yet more big lumps of ice.
+Penguins don't have much brain power as their surroundings are either
+water or ice. And all they eat is fish. Life is really interesting.
+Example:
+
+Diary of Pingu 26/11/98
+------------------------
+Swum for a bit
+Ate some fish
+Stood in the cold
+Swum for a bit
+Ate some fish
+Stood in the cold
+wum for a bit
+Ate some fish
+Stood in the cold
+Swum for a bit
+Ate some fish
+Stood in the cold
+
+As you can see life for a penguin is similar to that of a librarian.
+
+One day however the Stroggs came to invade Earth! Their battle fleet
+came storming forth from Stroggos looking for trouble. They found Earth!
+The Ships flew first to the South Pole of Earth - Antartica - The stroggs
+didn't know it was called Antartica, it was reffered to as the ice lands
+by them.
+They reasoned that the hardest of beings would live in the harshest of
+terrain. So they had a peak down at the Harsh Antartic to see Earth's 
+best warriors...
+
+All they saw were these strange birds who just stood there. Occasionally 
+diving into the water and coming back out again. They saw no weapons of war.
+No Space fleets. No Amouries. Just small birds who looked like they were wearing
+Snappy evening wear.
+
+It was then they reasoned that if Penguins were the Hardiest beasts on Earth then
+Earth wasn't worth invading!
+
+Unfortunatley for them doing this a bad idea. It was then the first Marine troops
+followed them back to Stroggos and in turn we gather a large military force and
+killed them all!
+
+If the Penguins wern't there we would have been attacked without warning and be 
+unprepared for the Stroggs and we would have lost the great war! 
+
+That is Why We Should Thank the Penguins
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+This Penguin is called Pingu! After the amusing BBC2 feathered
+fluff ball with issues! It too has MOD significance along with
+my 2 most recent models Beelzabub & Frosty. In Phrozen
+If the code works [BEELZABUB!] a player can join the game as an
+observer and become an in game fraggable penguin. You can't fire
+or pick-up items, but Actual In-Game players will be able to frag
+you to their heart's content!
+Also the MOD is still looking for coders to help out. If you can code
+things and know about edict_t and void () we need your help.
+
+To see more about Phrozen, The World's first Quake2 RollerCoaster
+and Penguins. Or your applying for the coding job goto:
+
+http://phrozen.quake2.co.uk
+
+Or Just go there anyway for a laugh!
+
+
+Stupid Technical Stuff:
+-----------------------
+
+Author: Citrus Frog - citrus.frog@becs-ltd.demon.co.uk
+
+Build Time: 2 Hours [It's true]
+
+Built with: Q2Modeler
+
+Skinned with: NPherno's Skin Tool
+
+Built for: Phrozen - http://phrozen.quake2.co.uk
+
+Sound Pak: Made by Citrus Frog with Sounds from BBC2's Pingu!
+
+
+Thank You for your Time: Everyone I asked about Bounding Box Issues.
+
+Unzip to: players/penguin
+and enjoy!
+
+Citrus Frog

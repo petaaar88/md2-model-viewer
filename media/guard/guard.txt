@@ -1,0 +1,50 @@
+Name of Mod : Guard plug-in player model
+File Name   : guard.exe
+Version     : 1.0
+Date        : January 20th, 1998
+E-mail      : orochi36@hotmail.com
+Web Site    : http://www.alphalink.com.au/~ronnie (Under major update)
+
+AUTHOR INFO
+-----------
+Vince (V.K.)
+Known on Alphalink Quake and Quake 2 as Ryuujin, leader of clan Orochi.
+I need a better nick (it has no relation to Street Fighter)
+
+TYPE OF MOD 
+-----------
+DLL      : No
+Sound    : No (Tried it; didn't work)
+MDL      : Yes
+Maps     : No
+Graphics : No
+
+FORMAT
+------
+MD2 format, used Q2 Modeller 8.2 and 8.3.
+
+INSTALLATION
+------------
+This is a self extracting archive. 
+Simply run it in your BASEQ2/PLAYERS directory.
+
+NOTES
+-----
+The original Q2 enemy skins have been included.
+The weapon model is now so tiny you cannot see it.
+This way it looks as if the model is firing from their built-in weapon.
+
+BUGS
+----
+Causes "No such frame 46" or "No such frame 53" messages sometimes.
+Seems to have something to do with point-blank BFG discharges.
+
+COPYRIGHT/PERMISSIONS
+----------------------
+The original model and animations are by Id software. 
+Feel free to create skins for it, just acknowledge that I 
+painstakingly converted the model for plug-in player model use.
+Do not try to copy this and claim you created it.
+
+Have fun,
+V.K. '98

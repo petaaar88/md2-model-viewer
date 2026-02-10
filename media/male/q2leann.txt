@@ -1,0 +1,67 @@
+Filename                : q2leann.zip (includes leann.pcx, leann_i.pcx)
+
+Author                  : Kevin Johnstone (Rorshach,clan Dopellgangers)
+Email Address           : Rorshach@dial.pipex.com
+Home page               : http://www.planetquake.com/rorshach/
+Description             : A new Quake2 Female skin
+                                               
+* Play Information *
+
+Game                    :Quake2 , requires Registered quake2 to use...
+
+===================================================
+* Construction *
+
+Programs used           : Adobe Photoshop4, Corel Photopaint6, Paint Shop Pro, MD2view
+                                    
+        
+===========================
+Instructions
+
+Just bung it in Quake2/Baseq2/players/female directory and away u go. Simply select Multiplayer
+and then go into the player setup, flick to the female model and move along the skins until
+you see the leann skin!
+
+
+I can be contacted at Rorshach@dial.pipex.com, but dont bug me with questions about how i
+made this skin, what programs i use it there a god etc. Got to my webpage as I have taken
+the time to answer all your questions there in DETAIL FOR ALL TO SEE. I take offense at 
+people asking me questions ive answered already in text files, and my skinhelp section on
+my webpage...
+
+==================================================
+If you need help with making skins visit my webpage :-
+
+http://www.planetquake.com/rorshach
+
+and read my skinhelp section, 
+
+Also goto Slaines website for more skinhelp : -
+
+http://www.planetquake.com/skintutor/skins/skins.htm
+
+and finally goto the Chopshop which ofers tips on EVERY editing aspect in quake, this page shows all the steps I used to mak this pak file and more:-
+
+http://www.planetquake.com/chopshop/
+
+==================================================
+
+
+* Copyright / Permissions *
+
+Authors may NOT use these skins as a base to build additional
+skins. And it must not be sold, without permission from the author.
+
+You MAY distribute this ZIP, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+I think you all knwo the rules no? Dont be an asshole and try to claim this as your own work
+dont cut and paste bits of it onto your own skin which WAHEYYY! only took 10 min cos u cheated by STEALING (thats what it is) others work. The skin making community is sick of these kinds of acts....
+I dont mind being a sign post, if my work when studied teaches u somthing then GREAT im happy and uve learned something, I do however HATE beinga  shortcut for morons...
+
+* Where to get this ZIP *
+
+http://www.planetquake.com/rorshach
+http://www.planetquake.com/cdrom/rorshach

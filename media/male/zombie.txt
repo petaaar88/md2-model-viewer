@@ -1,0 +1,7 @@
+Skin Name: Zombie
+Author: Zero
+Files: Zombie.pcx, Zombie_i.pcx and Zombie.txt
+Installation: Unzip all the files into your quake2/baseq2/players/male 
+              directory
+Description: It's a Zombie Soldier. I created this skin after                       an all night session of Resident Evil 2.
+	     If you like (or dislike) this skin, please tell me. 	     I can be contacted at janitor_joe@hotmail.com  

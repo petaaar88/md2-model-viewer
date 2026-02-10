@@ -1,0 +1,48 @@
+Nemesis
+
+10/13/99==================================================================================*
+
+Model Name              : Nemesis
+
+installation directory  : quake2/baseq2/players/nemesis
+
+Author                  : Jade <Nemes|s> Moffatt Jones 
+
+Skin Authors 		: Jade <Nemes|s> Moffatt Jones, Brian <Evil Bastard> Collins
+
+Email Address           : nemesis@planetquake.com
+Model description       : 
+
+
+=========================================================================================* 
+Play Information *
+New Sounds  		: Yes, by Jade <Nemes|s> Moffatt Jones
+CTF Skins               : Not yet
+VWEP Support            : Yes
+
+Construction *
+Poly Count        	: 786
+Vert Count              : 438
+Skin Count              : 2
+Base                    : original model
+Editor used             : 3dsMax2.5, Character Studio 2.1, NST, Q2mdlr, Photoshop5.0, Paint Shop Pro
+Known Bugs              : I don't know any bugs personally but had some crikets I would feed to my pet 				  lizard when I was a kid.
+Build/Animation time    : I have no clue since i worked on it off and on for over a year.
+
+Trapped on a planet, abandoned by his own race, an unwanted reject from an experiment gone bad, After creating this abomination the Stroog not being able to control or even destroy their own creation they manged to trick him into trapping himself on a desolate moon.
+The Stroog left him there to rot believing he would die there with nothing but baren rock scorching days and freezing nights. They were wrong. It only made him stronger, stronger and madder. Vengeance has come. A foolish expedition of human explorers landed on his ill begotten home, little did they know that they would never leave. Slaughtered like sheep all 146 crew members including hardened Military personel. They didn't stand a chance. And neither does the Stroog now that he returns.
+
+Please install so that the final directory path looks like:
+ 
+quake2\baseq2\players\nemesis
+
+If there are problems with weapon viseability (null skin error messages in the top of the view window during game operation in software mode, or an orange and black weapon in GL mode), this means that the skin is not linked correctly, and may need to be linked using NST, and the weapon linking tutorial at the Q2pmp site <http://www.planetquake.com/q2pmp/> and look under "tools" for the application, and "Tutuorials" for th skin linking tutorial. "weapon.md2" links to "weapon.pcx". The Model has been tested, and does not seem to have this problem. The second cause of this problem is if the model directory is not exactly as stated above.
+
+if the Model does not appear in the selection list, check the "Player's" Directory for any files that are not specifically directories. Move them or delete them, leaving only a directory for each model you have in your collection. A common error. 
+
+
+* Copyright / Permissions *QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+This model may be used  for non commercial purposes free of charge. For use in commercial properties the author charges 7% of gross sale recipts of the product it is used in. rate and usage is negotiable though before useage. Ask me nicely. Any new skins, skinning modifications, or other animation is welcome provided the author is sent a copy. Thank you
+
+Jade Moffatt Jones <nemesis@planetquake.com>

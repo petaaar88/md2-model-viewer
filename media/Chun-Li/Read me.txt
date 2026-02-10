@@ -1,0 +1,41 @@
+September 6 1999
+================================================================
+Model Name              : Chun-Li
+installation directory  : quake2/baseq2/players/Chun-Li
+Author, Skin Author     : Alcor
+Email Address           : jlbr@moncourrier.com
+HomePage		: http://members.xoom.com/alcor43/
+
+Model description       : 
+This is Chun-Li as she looks in Super Street Fighter2.  She wears her 7 colored 
+chinese dress and she can perform her greatest special moves! Lightning Kick, 
+Spinning Bird Kick, Rising Heaven Kick and Look-At-My-Butt Kikoken Fireball!
+Never dreamed of getting hit by a knee-high leather boot?
+
+Other info  :      	
+Chun-li is the fifth model that I made.  Built from my humanoid base, I added a very flexible dress and two extra blue-foot for the Shadow-Moves effect.  The face texture isn't very detailled because I dont have access nor have the cash to buy a tablet, how pitful am I?? The model is a bit smaller that I expected.
+
+More info is available on my Web page.. 
+
+Additional Credits to   : Chun-Li is a property of Capcom Entertainment.
+ 
+
+================================================================
+* Play Information *
+New Sounds           : No
+CTF Skins            : Yes
+VWEP Support         : Yes
+* Construction *
+Poly Count              : Model 906
+Vert Count              : Model 520
+Skin Count              : 9
+Editors used            : StudioMax2.5, CharacterStudio, Photoshop5, CorelPhotoPaint, NST, Q2Modeler
+known Bugs              : 
+
+
+* How to use this model *
+Double click on the "Chun-Li.zip" and then select "C:\" the directory is self-built.
+
+* Copyright / Permissions *QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+This model isn't built in a lucrative goal, you must ask me the permission before using any parts of 
+this model for another model...

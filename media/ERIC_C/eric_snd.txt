@@ -1,0 +1,5 @@
+Simply unzip this into your
+
+quake2\baseq2\players\eric_c
+
+folder and Viola!  Eric Cartman TALKS!

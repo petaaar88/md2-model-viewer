@@ -1,0 +1,42 @@
+QUAKE2 SKIN	58th "Wildcards"Squadron/Clan Skin v3                  3/8/98
+
+Author:		[58th]Excalibur
+
+E-Mail:		Macross7@pacbell.net
+
+Web Site: 	http://members.xoom.com/58th
+
+Files:		58th.pcx		
+		58th_i.pcx
+		Binke.pcx
+		Binke_i.pcx
+		Excalibur.pcx
+		Excalibur_i.pcx
+		Crusader.pcx
+		Crusader_i.pcx
+		Pandemonium.pcx
+		Pandemonium_i.pcx
+		Scooby.pcx
+		Scooby_i.pcx
+		Spugge.pcx
+		Spugge_i.pcx
+		Bongo.pcx
+		Bongo_i.pcx
+		Nelson.pcx
+		Nelson_i.pcx
+		58thv3.txt
+
+Instructions:	Just unzip all these files to your quake2/baseq2/players/male directory.
+
+Important: 	I am not responsible if you stuff this up, your actions are
+	   	your own and I take no responsability.
+
+Tools:		Adobe Photoshop 4.0
+		Paint Shop Pro 4.12
+		q2skin base
+		md2view
+ 	
+DISCLAIMER:	Skin authors MAY NOT use this skin as a base for other skins. This
+		skin is available ONLY for free distribution via BBS, FTP, and
+		other free electronic means. This skin MAY NOT be included in any
+		CD-ROM or other product whose sales earn profit for their publishers.

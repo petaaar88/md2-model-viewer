@@ -1,0 +1,60 @@
+08/02/99================================================================
+Model Name              : Priss
+WW2GIinstallation directory  : quake2/baseq2/players/priss
+Author                  : Bryce Nakagawa
+Skin Author 		: Bryce Nakagawa
+Email Address           : b_nakagawa@yahoo.com
+Model description       : 
+
+This is Priss from BubbleGum Crisis, an anime series of yesteryear. (1987)
+Her full name is Priscilla S. Asagiri. She was born in 2013. (the series starts in 2033)
+Her character designer is Kenichi Sonoda, also lead designer of Riding Bean and 
+Gunsmith Cats.
+
+Priss is presented in the initial hardsuit design from BGC 1. She stands about 5'6", so I
+hope she's scaled properly in the game. No Vweap support, unfortunately.
+ 
+
+There are a variety of skins that go along with this model. The base priss skin is blue, so there are a
+red and green version to support the CTF teams.
+There is a greyish skin for use in urban settings, a pseudo camouflage versions for outdoor use.
+There is also a damaged version of the base skin, just for kicks.
+
+
+CTF_r is more or less an inverted version of the base skin.
+
+CTF_b is a copy of the base skin.
+
+CTF_g is a green version, who looks a little too much like Linna at a distance.
+
+Stealth is the grey version.
+
+Cammo1 is the greenish version.
+
+Damaged is the damaged version.
+Additional Credits to   : 
+
+Scott Ruggels for invaluable technical advice and assistance in getting the model to work.
+Will Faust for animation insights and use of his computer.
+
+================================================================* 
+Play Information *
+New Sounds  :    none
+CTF Skins               : Yes 
+VWEP Support            : none 
+*Poly Count             : 670
+Vert Count              : 354
+Skin Count              : 5
+Base                    : original model
+Editor used             : 3dsMax2.5, NST,Q2mdlr,Photoshop4.0
+Known Bugs              : ???
+Build/Animation time    : Mesh: 10 hours, animation: 36hours,skins: 4hours
+
+Please install so that the final directory path looks like:
+quake2\baseq2\players\priss
+
+
+* Copyright / Permissions *QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+This model may be used  for non commercial purposes free of charge. For use in commercial properties the author charges 7% of gross sale reciepts of the product it is used in. rate and usage is negotiable though before usage. Ask me nicely. Any new skins, skinning modifications, or other animation is welcome provided the author is sent a copy. Thank you
+

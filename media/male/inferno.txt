@@ -1,0 +1,29 @@
+QUAKE2 MALE SKIN
+
+INFERNO by Christian Roy
+
+Email Address: zarathos75@hotmail.com
+
+Web Site address: http://www.geocities.com/TimesSquare/Arena/6609/
+
+Player Name: Zarathos
+
+Files included: inferno.pcx
+                inferno_i.pcx
+                inferno.txt
+                inferno.gif
+
+
+Instructions:   
+        Unzip the above files into "quake2\baseq2\players\male" directory using 
+        Winzip or pkunzip.
+        
+
+Other: You may distribute it, as long as it is unedited and all files 
+       are intact.
+       If it is to be included in a commercial product, notify me first.
+      
+
+
+
+February 14, 1998

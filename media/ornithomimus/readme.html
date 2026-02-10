@@ -1,0 +1,160 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Author" CONTENT="Conor O'Kane">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.01 [en] (WinNT; I) [Netscape]">
+   <TITLE>Ornithomimus - readme.html</TITLE>
+</HEAD>
+<BODY TEXT="#CCCCCC" BGCOLOR="#330033" LINK="#FFFFFF" VLINK="#999999" ALINK="#FF0000">
+<FONT FACE="Arial Black"><FONT SIZE=+2>Ornithomimus</FONT>
+Plugin Player Model for Quake2 - by <A HREF="mailto: wip3out@indigo.ie">Conor
+O'Kane</A></FONT>
+<BR><IMG SRC="ornithomimus.JPG" NOSAVE HEIGHT=200 WIDTH=350>
+<BR>
+<HR WIDTH="95%">
+
+<P><B><FONT FACE="Arial,Helvetica">Instructions: Unzip the entire contents
+of this .zip file (ornithomimus.zip) into quake2\baseq2\players\ornithomimus.</FONT></B>
+
+<P><B><FONT FACE="Arial,Helvetica">Description: Ornithomimus is another
+dinosaur PPM, based in part on my first Quake2 model, Raptor. The head,
+neck, tail and hands are entirely new and the rest has just been scaled
+to suit the proportions of the new model.</FONT></B>
+
+<P><B><FONT FACE="Arial,Helvetica">Model technical details:</FONT></B>
+<TABLE BORDER COLS=3 WIDTH="75%" >
+<TR>
+<TD></TD>
+
+<TD><FONT FACE="Courier New,Courier">Tris.md2</FONT></TD>
+
+<TD><FONT FACE="Courier New,Courier">Weapon.md2</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT FACE="Courier New,Courier">Vertices</FONT></TD>
+
+<TD><FONT FACE="Courier New,Courier">474</FONT></TD>
+
+<TD><FONT FACE="Courier New,Courier">64</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT FACE="Courier New,Courier">Mapping Vertices</FONT></TD>
+
+<TD><FONT FACE="Courier New,Courier">513</FONT></TD>
+
+<TD><FONT FACE="Courier New,Courier">71</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT FACE="Courier New,Courier">Triangles</FONT></TD>
+
+<TD><FONT FACE="Courier New,Courier">737</FONT></TD>
+
+<TD><FONT FACE="Courier New,Courier">116</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT FACE="Courier New,Courier">Skin Size</FONT></TD>
+
+<TD><FONT FACE="Courier New,Courier">256 X 256</FONT></TD>
+
+<TD><FONT FACE="Courier New,Courier">180 X 60</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT FACE="Courier New,Courier">Skin Use</FONT></TD>
+
+<TD><FONT FACE="Courier New,Courier">70%</FONT></TD>
+
+<TD><FONT FACE="Courier New,Courier">62%</FONT></TD>
+</TR>
+</TABLE>
+<p>
+<B><FONT FACE="Arial,Helvetica">Sounds: I've included <A HREF="mailto: shudson@webaxs.net">Tigerman</A>'s
+Raptor sound pack with this PPM as they work very well with any dinosaur
+type model. Read sounds.txt for more info.</FONT></B>
+
+<P><B><FONT FACE="Arial,Helvetica">Skins: There are 8 skins included in
+the .zip - two of which (Ocean and Marz) are standard blue and red for
+CTF games. There's also template.psd - the original Photoshop file I used
+to make the skins, with mapping grid, shadows and highlights on separate
+layers, for all you skinners out there.</FONT></B>
+
+<P><B><FONT FACE="Arial,Helvetica">General notes: This model is probably
+best suited to open DM levels as the tail sticks out of the bounding box
+during some of the animations (particularly the run) and can stick through
+walls when running with your back to the wall.
+
+<P>If you use Eraser Bot, you might want to add the following to your 
+bots.cfg file, before the teams list: 
+<p><pre>
+#Ornithomimus<br>
+"Ocean"        "ornithomimus/ocean"   3 1 2 9 1 1 200
+"Marz"         "ornithomimus/marz"    1 5 5 5 0 0 200
+"Frigid"       "ornithomimus/frigid"  3 2 3 0 1 0 200
+"Leonard"      "ornithomimus/leonard" 2 3 4 1 0 0 200
+"Grit"         "ornithomimus/grit"    4 3 3 3 0 0 200
+"Retpyleon"  "ornithomimus/reptyleon" 2 4 3 6 0 0 200
+"Sienna"       "ornithomimus/sienna"  2 2 2 7 0 0 200
+"Prince"       "ornithomimus/prince"  4 1 2 8 0 1 200
+</pre>  
+<p>
+And put this in the teams section:
+<p><pre>
+"Ornitho"       "or"   ""["Prince" "Sienna" "Frigid" "Ocean" "Marz" "Leonard" "Grit" "Reptyleon"]
+</pre></FONT></B>
+
+<hr width="95%">
+
+<P><B><FONT FACE="Arial,Helvetica">Notes for modellers: This is my 4th
+ppm so far. I didn't bother doing taunt, flip, wave, point or salute animations
+for it because they take so long to do and in my experience, nobody ever
+uses them. Bots certainly never use them, and most players probably only
+see them in NST when they first check out the model, and then never see
+them again. The model was built in 3D Studio Max, and is made entirely
+of separate objects (cause I don't have Character Studio or Bones Pro).
+I decided to use separate objects (rather than solids, morphing) as it
+provides much more fluid animation - even if the model does look a little
+angular. (e.g. check out the clenching fingers during the stand cycle and
+the Stevie Wonder head move during the crouch cycle.) The skin mapping
+was done in Q2 Model Editor and NST.</FONT></B>
+
+<P><B><FONT FACE="Arial,Helvetica">Thanx must go to:</FONT></B>
+
+<P><B><FONT FACE="Arial,Helvetica">Everyone at <A HREF="http://www.planetquake.com/q2pmp">Planetquake</A>,
+<A HREF="http://bodyshop.telefragged.com">Bodyshop</A> and <A HREF="http://quakerefuge.5assedmonkey.com">Quaker
+Refuge</A> for making these models available to a wide audience.</FONT></B>
+<BR><B><FONT FACE="Arial,Helvetica">martinp1@topaz.cqu.edu.au for the Max
+ASCII exporter.</FONT></B>
+<BR><B><FONT FACE="Arial,Helvetica">NPherno for the snazzy NST.</FONT></B>
+<BR><B><FONT FACE="Arial,Helvetica">The genius coders of Quake2 Model Editor.</FONT></B>
+<BR><B><FONT FACE="Arial,Helvetica"><A HREF="http://www.idsoftware.com">Id
+Software.</A></FONT></B>
+<BR><B><FONT FACE="Arial,Helvetica"><A HREF="mailto: shudson@webaxs.net">Tigerman</A>
+for the sounds.</FONT></B>
+<BR><B><FONT FACE="Arial,Helvetica">Ridah for Eraserbot - Ideal for model testing and team
+games.</font></b>
+<BR><B><FONT FACE="Arial,Helvetica">All the modellers and skinners out
+there!</FONT></B>
+
+<P><B><FONT FACE="Arial,Helvetica">Dino facts:</FONT></B>
+
+<P><B><FONT FACE="Arial,Helvetica">Ornithomimus means 'Bird Mimic' and
+it is believed these dinosaurs may have behaved similarly to the modern
+ostrich. It was a Coelurosaur and lived during the upper Cretaceous (120
+- 70 million years ago) period. Full grown it measured between 3 and 4
+meters long (much bigger than Velociraptor... but I've scaled it down to
+fit the Q2 bounding box better). It is thought Ornithomimus was an omnivore
+and may have had a toothless beak. Ornithomimus fossils have been found
+in North America and Eastern Asia. Check out <A HREF="http://tyrrell.magtech.ab.ca/tour/ornithol.html">a
+picture of an Ornithomimus skeleton</A>.</FONT></B>
+
+<P><B><FONT FACE="Arial,Helvetica">See - Quake can be educational too!</FONT></B>
+
+<P><B><FONT FACE="Arial,Helvetica">Conor O'Kane</FONT></B>
+<BR><B><FONT FACE="Arial,Helvetica">July 22nd 1998</FONT></B>
+<BR>&nbsp;
+</BODY>
+</HTML>

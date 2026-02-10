@@ -1,0 +1,17 @@
+Quake 2 skins for Id Female Model. 
+
+Zip File: fem_nude2.zip
+Contents: fem_nude2.txt (this file)
+	  Helga.pcx & helga_i.pcx
+	  Ursula.pcx & ursula_i.pcx  
+	  Meral.pcx & meral_i.pcx  (skins)
+
+Author: Duddly 
+
+modification of nudechik & nudechik2 by Dan Bickell
+danbickell@loop.com. Added back support (looked odd originally modeled
+with natural skin, though skin was very good otherwise).
+Changed anatomy for destinct differences between the three.
+
+
+version 2:  added meral skin   

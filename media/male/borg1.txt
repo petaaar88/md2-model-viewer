@@ -1,0 +1,9 @@
+Copyright 1998.  Doug Wong
+
+After many long long hours trying to figure out why the hell it looked like shit in the viewer, but great in Photoshop, I have completed my first Skin.  And, if I say so myself, I kinda like it.  Here's the key to making it look normal in Adobe Photoshop, if you have that same shit ass problem.
+
+In photoshop, when you save your man, let's call him Bob, make sure that before you do, go to image/mode/index.  Then open up another pcx file, say, mine.  Then go to image/mode/colortable and save the custom color table in a temp direc. Make sure you have an exact copy of your man, named different, we will designate him as Rudyard.  Then go back to Bob, click image/mode/colortable, and choose custom, then load the .act file.  This will change Bob to what you see when he loads in the viewer.  He will look like shit.  Then copy Rudyard and paste over Bob.
+
+That should do it.  
+
+Anyhow, enjoy assimilating with Borg1.

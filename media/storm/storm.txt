@@ -1,0 +1,32 @@
+Model Name              : stormtrooper
+installation directory  : quake2/baseq2/players/storm
+Author                  : falstaff
+Email Address           : awickedtribe@hotmail.com
+Web Page		: http://www.three14.demon.nl
+
+* Description *
+
+If you don't know what stormtrooper is ... nothing I can say will help. 
+This model is my first released Q2 player model,It isn't that good but it was a good learning experiment.
+There are no bones in the model that will be stap 2.Also the mapping is horrible.Skinwaste!!!!! 50%?
+I used the qtip exporter for exporting my bitmaps WRONG!!! but it doesn't matter, nobody will now this when you play with the model.
+So we come to the animation's A little bit stiff butt stormtroopers are not realy flexible i thought.
+
+In other words HAVE FUN WITH THIS MODEL AND IF YOU LIKE IT MAIL ME awickedtribe@hotmail.com.
+
+
+* Tools	*
+
+3dsmax, Q2 modeler, Npherno's skin tool, QTIP, photoshop,and skinview
+
+* How to use this model *
+
+Unzip the contents of storm.zip into quake2/baseq2/players/storm
+
+* Thanx *
+
+George Lucas and ILM, A|W, Npherno, Phillip martin, the polycount page, and anyone else who makes tools and models and maps.
+
+* Copyright / Permissions *
+
+The stormtrooper design is of course (c) lucasfilm and I can't make any sort of claim to it, so feel free to use this however you want. 

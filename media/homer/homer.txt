@@ -1,0 +1,63 @@
+Name of Mod : Homer Simpson player model
+File Name   : Homer.zip
+Version     : 1.3
+Date        : October 19, 1998
+E-mail      : gambit@ratloop.com
+Author      : Aaron Webster
+
+TYPE OF MOD 
+-----------
+DLL      : No
+Sound    : Yar
+MDL      : Yes
+Maps     : No
+Graphics : guess so (the player icon)
+
+FORMAT
+------
+MD2 format
+
+INSTALLATION
+------------
+unzip in your players/baseq2/ directory, into a directory of your choice (/Homer maybe)
+
+NOTES
+-----
+This Model has plenty of polys to make Homer look his roundest. I figured Since it's deathmatch you're not gonna have too many other models on the screen so I made it appx 1000 polys. Hope it's not a problem for anyone.
+
+
+1.1
+Uhmm sorry about the quick new release. I forgot to finish Homer's Belching animation (Salute). Also there was a few skin tweeks I forgot to make, (must have gotten lost in the excitment of releasing it). I'd make more skins for him but I'm at a loss for ideas. I could do a Dancin' homer, but he is without a cape and hat, I could do Church Homer, Mr.Plow, and Pin Pals, but I don't know what they look like. If someone could send me a pic of them I'd gladly do the skins.
+
+Defence:
+Here's the explanation for the high poly count and the taunts.
+
+High Polygon count: Well like I said I wanted him to be round, not boxy as most models are. I think most of our computers can handle it easy. The 600 limit is stupid nowadays especially in Deathmatch. Also If it didn't have a high poly count the man wouldn't have facial expresions like anger, vacancy, fear, DOH!, etc...so there :)
+
+Taunts: Does anyone use taunts properly? I don't, so rather than having the lame typical animations (like point), I decided to give it somthing more entertaining
+
+I thankyou for tolerating my insecurity... heh
+
+1.3
+Homer is now as tall as the regular player model...looks kinda timy now but you won't be wondering why your railgun went right though his head w/o a scratch.
+
+there's a new skin I did od the negotiator, I'll do more but I have to do them when I'm not doing 'work' work :) think that's all.
+
+BUGS
+----
+None that I know of
+
+COPYRIGHT/PERMISSIONS
+----------------------
+Homer Simpson is the property of 20th Century Fox corp. All rights reserved. This patch is not to be sold in any way, and it is for entertainment purposes only. You may distribute this patch unaltered and only if it's unaltered. I take no responsibility for what you do with this file.
+
+There I think I've covered my ass.
+
+Special thanks to:
+Rene Post e-mail: renep@xs4all.nl For QME. Best modeling utility out there.
+Malengine e-mail: d-con420@geocities.com for a few of his Homer sounds
+The Simpson creative staff for only TV show I find worthy of my time.
+
+
+Enjoy
+-Aaron

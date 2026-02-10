@@ -1,0 +1,80 @@
+2/14/00
+
+================================================================
+
+Model Name              : Rattrap
+
+installation directory  : quake2/baseq2/players/Rattrap
+
+Author                  : DJ "Rattrap" Kehoe
+
+Skin Author : me, but assisted by Windrazor
+
+Email Address           : rattraptm@hotmail.com
+
+
+
+Model description       : Rattrap is the wise cracking stealth, acrobatics, mechanical, marksman, and demolitions expert from Beast Wars Transformers.  He is in his transmetal form here.  He can transform between robot, Mechanical rat, and dragster modes.  My namesake for good reason
+
+other info              : Well I started rattrap shortly after waspinator, but gave up on him because of school.  I know there is alot of mistakes in his skinning but I am not bothering to correct him.  I Finally finished animating him and gave him some quick skins.  Not my best work I know, but I had to finish him.
+
+
+Additional Credits to   : id Software, Hasbro, Mainframe Entertainment, yadayada
+
+
+
+Thanks to               : Windrazor Princej3 and Kolossus
+
+================================================================
+
+* Play Information *
+
+
+
+New Sounds              : YES
+
+CTF Skins               : YES
+
+VWEP Support            : NO
+
+
+
+
+
+* Construction *
+
+Poly Count              : 1752 - hey he's complex
+Vert Count              : 1085
+
+Skin Count              : 5
+Base                    : New model 
+
+Editor used             : qmodel editor
+
+Known Bugs              : his skin meshing is poor
+
+Build/Animation time    : I get cold chills when I think about it
+
+
+
+
+
+* How to use this model *
+
+
+create a folder called rattrap in your players directory and unzip all files into it
+
+
+
+* Copyright / Permissions *
+
+
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+
+
+Rattrap Beast Wars and Transformers are all owned by Hasbro and Takara, so hands off
+
+
+

@@ -1,0 +1,55 @@
+
+February 22nd 1999
+================================================================
+Model Name              : Vern the violent vicar
+installation directory  : quake2/baseq2/players/vicar
+Author                  : ProzaQ the "chilled"
+Email Address           : prozaq@metsys-open.demon.co.uk
+
+Model description       : A man of the cloth whose 'good book' packs a punch
+
+Other info              : VWeap support not planned - would spoil bible
+
+Additional Credits to   : id Software, makers of 3D Studio & Quake2 model Editor,
+                          flatus@hehe.com for most of the sounds and Lewis Mitchell
+                          (lewism@alphalink.com.au) for the original base model.
+
+Thanks to               : Impending clan 'vicars & tarts' party for inspiration
+                          His Flatulence for sounds and testing
+                          The Who Clucked? CtC Clan for being all-round good-eggs
+                          http://members.tripod.com/WhoClucked
+                          Anyone who can supply me with a cable-modem connection...
+================================================================
+* Play Information *
+
+New Sounds              : YES
+CTF Skins               : YES
+VWEP Support            : YES - via included fixweapon.bat
+
+
+* Construction *
+Poly Count              : 938 polys
+Vert Count              : 472 Verts
+Skin Count              : 3 Skin
+Number of Skin Vertices : 748
+Number of Frames        : 198
+Average Size Triangles  : 1928
+Base                    : Bill Gates
+Editors used            : 3D Studio Max and Quake2 Model Editor v0.83
+Known Bugs              : None
+Build/Animation time    : Four days
+
+
+* How to use this model *
+
+Simply select Vicar as the player model you wish to use in the usual way from the multiplayer
+setup in Quake2.
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Please use/distribute this model as you see fit. Please also feel free to design new skins,
+but I would prefer you leave the models and sounds alone... I would also appreciate a copy of
+any new skins, should you design them... Credits for this model go without saying...
+To two people this time - me and Lewis Mitchell (lewism@alphalink.com.au) for the original model

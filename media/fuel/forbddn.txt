@@ -1,0 +1,34 @@
+Type: Quake 2 Fuel 4.46 model skin - Fuel Forbidden Edition
+Author: Joerg Moser
+E-Mail: JoergMoser@iiv.de
+Date: 28 Mar 1998
+
+Instructions: Just unzip these files into your quake2/baseq2/players/fuel directory and select the skin in Multiplayer mode.
+
+Description: This is my first skin for the fuel model ... it´s simple, but my OWN skin! ;).
+
+Files: forbddn.pcx	The skin used on the fuel4.46 model.
+	 forbddn_i.pcx	The potrait for the above skin.
+	 forbddn.txt	The file you are currently reading.
+
+
+ ----------------------------------------------------------------
+ The FORBIDDEN Zone 
+ [ 3 D - G a m e s ]
+ [ http://forbidden.gzone.de ]
+ [ german Page ]
+ ----------------------------------------------------------------
+ Mitglied des Gameszone Networks
+ [ http://www.gzone.de ]
+ ----------------------------------------------------------------
+ The Quakery 
+ [ Q1-Level-Page; discontinued ]
+ [ http://www.spieleweb.de/quakery/ ]
+ [ german Page ]
+ ----------------------------------------------------------------
+ eMail: JoergMoser@iiv.de
+ ----------------------------------------------------------------
+ [ http://www.excite.com ]
+ [ http://www.slipgatecentral.com ]
+ [ http://www.microcrap.org/search.html ]
+ ----------------------------------------------------------------                

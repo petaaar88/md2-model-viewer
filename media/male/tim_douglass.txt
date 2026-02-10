@@ -1,0 +1,21 @@
+Type: 		QUAKE2 SKIN
+Name: 		FlanderM
+Release Date: 	Jan.07 1998
+Author:		Tim "Ned Flanders" Douglas
+E-Mail:		tdoug@ix.netcom.com
+
+Files:		flanderm.pcx flanderm_i.pcx readme_flander.txt
+			
+Instructions:	Just unzip all these files to your 
+	        quake2/baseq2/players/male directory
+
+Description: 	This is my 3rd skin I've made so far.  Its everyones favorite bible
+		quoting neighbor from The Simpsons,  Ned (hididlyho) Flanders.  Now Ned
+		and Homer can finally duke it out Quake style!  My other two skins are
+		JuliaF and TimM.
+
+Other:  	I'm using Photoshop and a good old mouse.
+                Go ahead and distribute wherever you like but please include my readme
+		so I get credit for it.
+
+Future Plans:	More Skins!

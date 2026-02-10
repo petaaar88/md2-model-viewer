@@ -1,0 +1,58 @@
+
+01/02/99
+================================================================
+Model Name              : KomicKat
+installation directory  : quake2/baseq2/players/KomicKat
+Author                         : Chris Watson (still unemployed ,by the way)
+Sound Author              : Steve Irvine 
+Skin Authors               : Steve `Massive Bitch [BSC]` Irvine;Daljia ,ctf_b ,ctf_g ,ctf_r .
+                                     : Chris Watson;KomicKat ,BlueKat ,RedKat .  
+Email Addresses         : Chris Watson ; firestarter@cableinet.co.uk
+                                     : Steve Irvine   ; sirvine@fundserv.com 
+WebSites                     :Irvine Imagination ;http://www.mjollnir.org/~sirvine/quake.html
+Model description       : Genetically engineered Human/Cougar  soldier ,equipped with Neural Chip ,
+externally programmable for espionage ,deep strikes and heavy warfare missions .Particularly suited 
+to seductive espionage the K625 can be reconfigured as a pleasure module .
+
+Other info              : The Komic part of the name comes from the inspiration to do a model that was based on 
+`classic` comic book female design ,hence the reason she doesn`t have enormous breasts .
+ Discovered the difficulty of adding quadraped traits to a bipedal figure ,most of her catness ending up based 
+around head/neck movement .Note ,the wave animation is designed as a throw .(If anyone does any skins ,would you send them to me please) .
+
+Additional Credits to   : ID Software .
+
+Thanks to               :  Steve Irvine ,
+Ric Baker for dogs and a rest home .
+Richard Hayden for sheer arrogance .
+================================================================
+* Play Information *
+
+New Sounds              : YES 
+CTF Skins                 : YES
+VWEP Support          : Had it planned ,but time is an evil mistress ,maybe later .
+
+* Construction *
+Poly Count              : Model 740 polys / Weapon 1 poly
+Vert Count              : Model 372 verts / Mapping 392 verts
+Skin Count              : 7
+Skin Info                 : 256x256 / 14 % waste 
+Base                        : from my own generic humanoid 3ds base .
+Editors used            : 3DS4 with Bones Pro Plugin
+                                : Q2MDLR9b 
+                                : NSTv092b 
+                                : SkinView 4a
+                                : Adobe Photoshop 5.0
+                                : PaintShopPro 5
+Known Bugs           : None
+Build/Animation time    : err.....
+
+
+* How to use this model *
+Preferably for killing people in QuakeII with .
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Contact for me for permissions outside of personal use .All rights reserved .
+Don`t even think about doing anything funny with it .

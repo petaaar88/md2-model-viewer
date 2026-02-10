@@ -1,0 +1,21 @@
+Type: 		QUAKE2 PLUG IN PLAYER SKIN
+Name: 		Darth Vader
+Release Date: 	Feb. 23rd, 1998
+Author:		eraser99
+E-Mail:		eraser99@total.net
+
+Homepage: 	http://www.neurogamer.com/a25skins/eraser99
+	    	
+Files:		vader.pcx  vader_i.pcx  vader.txt
+			
+Instructions:	Download the morbo model and unzip all these files 
+		to your quake2/baseq2/players/morbo directory
+
+Build Time:	Approx. 2 hours
+
+Description:	Darth Vader for the morbo model
+
+Other:  	Photoshop was used to create this skin.
+                This skin is only for private use.
+		I would like to give credit to the author of the morbo
+		 skin for the shoulder pads and parts of the shoes.

@@ -1,0 +1,15 @@
+Ok, so you're thinking, "this isn't a mod, so what's the gamex86.dll file for?"
+
+Well, I decided to have some fun with the Gen source code.  I ported the plasma projectile over to the Hyperblaster code, so your Hyperblaster is now called and looks like a Plasma Gun.  I did NOT port the firing code over.  It is STILL fires at the same rate as the hyperblaster, uses the same amount of ammo, and does the same amount of damage.
+
+This is just a "for fun" tweak, and will not work under multiplayer because the server's dll will take over instead.  (That's why anyone can play lithium without having the server side gamex86.dll, in case you were wondering)
+
+However, you can RUN a server with this dll, and have a buddy with Doom Unleashed installed connect and play you, and you'll see all the pretty blue plasma projectiles.  Granted, I used a sprite instead of the models, but I like it that way.
+
+To use this optional .dll, copy the plasma folder (this one) into your main Quake2 folder.  Then start Quake2, hit ~ to bring up the console, and at the command line type "game plasma".  Then start a new game, and have fun.
+
+Note:  If you try to switch to the hyperblaster and keep getting a message "Unknown Item Hyperblaster" then do this from the console:
+
+Bind 8 Use Plasma Gun
+
+or add it to your config.cfg file.  It's included in the autoexec.cfg file in this folder, and should load.

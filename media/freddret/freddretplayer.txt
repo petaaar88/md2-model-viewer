@@ -1,0 +1,47 @@
+Title                   : freddret player model
+Date                    : january 25th, 1997
+Filename                : freddret model 
+Author                  : Phillip T. Wheeler
+Email Address           : freddret@ix.netcom.com
+Home Page               : none
+
+
+Description             :Plug in player model
+                          
+                          
+
+Additional Credits to   : id and uh... id 
+                          Also Garth Beagle (aka Wallace) for letting me use the 
+			  MultiClient QuakeII model maker....(still in alpha)
+			      
+* Play Information *
+UNZIP into \quake2\baseq2\players\freddret
+
+
+* Construction *
+
+Base                    : new
+Editor(s) used          : id utils(qdata) 3dsr4c1
+Known Bugs              : no weapon yet.. 
+Build Time              : about 10 hours .. over 4 days
+ 
+
+* Notes *
+Tested on slower machines...
+If anyone knows how to assign sounds to a plug in player model 
+pretty please tell me. If it takes recompiling the code .. 
+it would be neat if someone wrote a text parser for player sounds
+eg:
+
+<whatever model>= sounds\<model dir name>
+<this other model>= sounds\<this other model dir name>
+anyway ..
+
+
+* Copyright / Permissions *
+
+This model may be distributed freely around the Internet/bbs providing
+this file remains attached. This level can be included in a 
+cd/diskette compilation or any commercial product intended for public
+sale without written permission from the author as long as this file 
+remains attached . 

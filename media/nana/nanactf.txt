@@ -1,0 +1,38 @@
+-----
+NANA
+-----
+
+nana is a plugin player model for CTF play in Quake2. It is a copy of the original 
+Bip Model with new colours added for each side
+
+Installation:
+
+    The zip file must be extracted into the location of your quake2/ directory
+    (ie. NOT into the quake2/ directory - the one before it). The paths in the
+    zip are quake2/baseq2/players/nana/ so if you don't unpack into the right
+    location it won't work.
+
+    Once extracted, Morbo will automatically appear in the player selection
+    field of the Multiplayer Options menu (*). Of course, it's only the other
+    players that get to see you as Morbo so it really only works in multiplayer games.
+
+    The server will not automatically send Morbo to other players who don't have
+    him (unlike skins in QW which have that feature), but if someone is using
+    Morbo and you don't have his model, you will just see them as the regular
+    Quake2 player models.
+
+    Please note that there is a little problem with Quake2 and PMP's whereby
+    if you have any files in the /quake2/baseq2/players/ directory which AREN'T
+    real player model directories, then Q2 usually won't let you select additional
+    players from the Multiplayer menu. So if Morbo doesn't show up for selection,
+    just check there are no files in that directory.
+
+    Don't send bug reports please and please don't email me saying you can't get
+    it working.
+
+
+    Thanks to original Bip Model designer and to Id soft for such a pukka game!!!!!
+
+     DuDePJ.
+
+                                             

@@ -1,0 +1,89 @@
+
+
+July 13, in the 19 of 99
+
+================================================================
+
+Model Name              : Bugger "again not good with names"
+
+installation directory  : quake2/baseq2/players/insect
+
+Author                  : Joe "Ebola" Woodrell
+
+Skin Author : see above
+
+Email Address           : Pyro@centuryinter.net
+
+
+
+Model description       : Well umm its a bug... nuf said not much of
+			  a concept believe it or not its a failed
+			  biped model... more on that later
+
+
+Other info              : Nothing much to say here
+
+
+
+Additional Credits to   : Me myself and I...  D software
+
+
+
+Thanks to               : see above
+
+================================================================
+
+* Play Information *
+
+
+
+New Sounds              : maby ill upgrade it had a few ideas but nothing actual yet
+
+CTF Skins               : Of Course
+
+VWEP Support            : umm theres no weapon... figure it out
+
+
+
+
+
+* Construction *
+
+Poly Count              : 760 polygons
+
+Vert Count              : 416
+
+Skin Count              : 4 for now maby a few more in future if i get bored
+
+Base                    : New Model
+
+Editor used             : TS4, quake 2 modeler .90b, and photoshop 5.0
+
+Known Bugs              : Duh it is one!!! ;P
+
+Build/Animation time    : about a week
+
+
+
+
+
+* How to use this model *
+
+
+
+<INSTALLATION INFO>
+
+
+
+* Copyright / Permissions *
+
+
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+
+
+<Other Legal info about the use of your model> 
+
+
+

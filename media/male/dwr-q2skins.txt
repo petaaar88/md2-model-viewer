@@ -1,0 +1,47 @@
+QUAKE2 SKINS	DoWnR SKINS 	17/01/1998
+
+Auteur :	DoWnR
+
+E-Mail :	DoWnR@mygale.org
+
+HomePage :	http://village.cyberbrain.com/arcades/downr/
+
+ICQ :		982556
+
+Thanks :	IDSoftware (for the game)
+
+Instructions:   Dézippez le contenu de ce zip directement sur
+		le disque dur (ex: C:\). Les skins seront ainsi
+		placées automatiquement dans les bons dossiers
+		(ex: C:\QUAKE2\BASEQ2\PLAYERS\MALE\ ).
+		
+
+Description:	Quelques skins originales modifiées.
+
+Q2 Servers :	CHLORINE.UUNET.BE
+		QUAKE.PING.BE
+		Q2.TVD.BE
+		IIS.DEV.EURONET.BE
+		et d'autres...
+
+
+
+
+
+
+  ###                     ####          #####               #####
+ ##########               #######       ######            #########
+ ###########              #######  ## #######             ##########
+ ###########     ######    #####   ##  ###### #####  ################
+  ##########    ########   #####   ### ###### #####  #### ###########
+  ###########  ##########    ###  #### ###### #####  ####  ##########
+  #### ## ###  ##########    #### #### ####   ###### ###   ### ## ###
+  ####   ####  ##     ###    #### #### ####   ###### ###   ###   ####
+  ####   ###   ##      ##    #### #########   ##########   ###   ###
+  ###    ###   ##      ##    #### ########    ##########   #########
+  ###   ###    ##      ##    ####### #####     #########   #######
+   ##   ###     ###   ###      ##### ####      ### #####   ### ####
+   ########     #########      ##### ####      ###  ###     ## ####
+   #####        #######         ###   ###       ##   ##     ##  ####
+    ## #            #            ##   ##        ##          ##    ##
+       #                              ##                    #

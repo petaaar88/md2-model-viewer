@@ -1,0 +1,24 @@
+QUAKE2 SKIN	"HannoverFest"		2/20/98
+
+Author:		Jon Sullivan	
+
+E-Mail:		jon@europa.com
+
+Files:		hanvr.pcx
+		hanvr_i.pcx
+		hanver.txt
+
+
+Instructions:	Unzip file into your quake2\baseq2\players\male directory.
+
+
+Notice:		If you screw up your stuff, that's your prolem.  I'm not 		responsible.
+
+		Also, this skin is mine.  I made it so that people could 		recognize me, as me, in DM.  Not you as me.  OK?  'nuf said.
+
+
+Tools:		Npherno's Skin Tool
+		OpenGL MD2 Viewer
+
+DISCLAIMER:     Skin authors MAY NOT use this skin as a base for other skins. 		This skin is available ONLY for free distribution via BBS,   		FTP, and other free electronic means. This skin MAY NOT be 		included in any CD-ROM or other product whose sales earn 		profit for their publishers.
+

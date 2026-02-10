@@ -1,0 +1,67 @@
+23/10/00
+================================================================
+Model Name              : Ripper
+installation directory  : quake2/baseq2/players/ripper
+Author                  : redmund
+Skin Author 		: redmund
+Email Address           : redman@esatclear.ie
+
+Model description       : Started about 2 yrs ago (when the q2pmp was
+ 			  still in action) when i saw tremmors 2 on
+ 			  telly. Changed the design of the little guys
+			  that busted out of the worms and went from
+ 			  there. It's been finished for some time but
+			  i never completed the skins. It's here now.
+
+
+Other info              : This guy's pretty short (about mid thigh on q2guy)
+			  so if you consider this something of a cheat, avoid but
+			  please, dont bitch me out for it. I've given the warning,
+			  leave it at that. I'm not proud of the death or crouch anims,
+			  they're pretty damned sloppy. The skinmapping in places is
+			  also pretty messy but i did what i could with it.
+
+Additional Credits to   : anybody?
+
+Thanks to               : Laerth (www.planetquake.com/cc) and schmorky
+			  for testing and being general bads.
+			  My 2 brothers for telling the original mesh
+			  looked like a "doggy". 
+			  Dierdra for being a kickass chick :o
+			  Npherno for his skin thingymajig
+================================================================
+* Play Information *
+
+New Sounds              : yep (stolen from the Requiem : Avenging Angel Demo)
+CTF Skins               : Yes
+VWEP Support            : No (and wont be happening either)
+
+
+* Construction *
+Poly Count              : 614
+Vert Count              : 527
+Skin Count              : 3
+Base                    : New model from scratch
+Editor used             : qME 3.1 p2
+			  Jasc's Paintshop Pro versions 5 to 7
+			  Npherno's skin tool
+Known Bugs              : feet go through the floor on a new occasions
+			  and he's a little short.
+Build/Animation time    : 5 hrs mesh. 50+ for animations.
+			  10 hrs or so for skins.
+
+
+* How to use this model *
+
+Unzip ripper.zip to your quake2 directory, resoring paths. Select Ripper through your
+player model menu in Quake2 and have fun.
+
+Don't use this in anything without my permission. Don't use it as a base for a new model 
+or convert it to other formats without my permission. If (for some absurd reason) you want to
+use it in a commercial project, 1) make sure you ask 2) gimme a little money for it ;D
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+is there anything that needs to go here?
+
+

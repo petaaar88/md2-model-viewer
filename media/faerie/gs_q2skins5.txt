@@ -1,0 +1,78 @@
+4 MORE NEW SKINS by GunSmoke!
+
+E-mail: Sphynx@netcarrier.com
+
+ICQ UIN#: 1849482
+
+Instructions:  Install these skins in to the directories as follows:
+'quake2\baseq2\players\Faerie'
+	(1.) Faerie20.pcx and Faerie20_i.pcx
+	(2.) Faerie21.pcx and Faerie21_i.pcx
+        (3.) Ctf_r.pcx and Ctf_r_i.pcx
+	(4.) Ctf_b.pcx and Ctf_b_i.pcx       
+
+'quake2\baseq2\players\Shambler'
+	(1.) Ctf_b.pcx and Ctf_b_i.pcx
+	(2.) ctf_r.pcx and ctf_r_i.pcx
+
+'quake2\baseq2\players\DF'
+	(1.)ctf_r.pcx and ctf_r_i.pcx 
+	(2.)ctf_b.pcx and ctf_b_i.pcx
+
+For these other skins of mine look for their names, 
+look for GS_skins2.zip, meesage me on ICQ, or E-Mail me:
+
+ "MALE"	(1.)GunSmoke.pcx and Gunsmoke_i.pcx 
+	(2.)Optimus.pcx and Optimus_i.pcx 
+	(3.)Muscle.pcx and Muscle_i.pcx
+	(4.)Creature.pcx and Creature_i.pcx
+	(5.)Grizzly.pcx and Grizzly_i.pcx
+	(6.)Mail.pcx and Mail_i.pcx
+
+"FEMALE"(1.)Leopardess.pcx and Leopardess_i.pcx 
+	(2.)Casual.pcx and Casual_i.pcx 
+	(3.)TigerLady.pcx and TigerLady_i.pcx
+	(4.)BlueJean.pcx and BlueJean_i.pcx
+	(5.)Piratess.pcx and Piratess_i.pcx
+	(6.)Zebralady.pcx and Zebralady_i.pcx
+
+ALSO LOOK FOR MY GS_Q2CTFSKINS.zip! It is a collection of CTF skins I have found, made, or edited. :)
+
+***Important***: I am not responsible if you mess up this, your quake, or anything else on your PC! Your actions are
+	   	your own and I take no responsibility.
+
+	The GunSmoke skin is my own personal skin.  This skin is 
+a male-only skin, so you must put it in the male directory for it 
+to work.  I made this skin because of my love for the cowboy skin in quake1. 
+I never knew the name of the skin but thanks to whomever made it. 
+And to those of you who told me "who cares" when I asked you, !#@^%!#^%#!~@!.
+      -	You may use it, but please do not edit or 
+change it in any way, and that includes the file name too.
+      - Yes, more skins and the old ones redone at least the Bikini one was, it is now Leopardess
+and I apoligize many, many times over for that lame skin and having it uploaded, especially to the quake women.
+The skin match is Alot better on this one! Please delete the Bikini skin , It is a shame to me, quake, and skin makers everywhere! :)
+      - The Casual skin is an example of a "Guys Dream" of casual armor for the female, but looks cool too!
+      - The Muscle skin is a waist up show of muscles and of course blue jeans below, LOVE I the BIG BUCKLE!
+      - The Creature skin is discribed in really only one way, um.... I was bored.
+      - The TigerLady is an example of what I like to draw, kinda like animal people mixes, youll see.
+      - The BlueJean skin is an attempt to put the female in normal clothing, still low cleavage! :)
+      - The ZebraLady skin is yet another animal woman cross.
+      - The Piratess skin is an attempt at well a woman pirate, I LIKE IT! So :P.
+      - The Grizzly skin is this ongoing fascination I have with genetically spicing people and animals HAHAHA!
+      - The Mail skin is well what else a Mailman for Quake2, someone had to do, and wouldve so I took the intiative.... hehe Disgruntled!								
+New Skins:
+      - The Faerie20 skin is the red faery with red wings now, this was my ctf_r base skin.
+      - The Faerie21 skin is, TA-DA!!, a blonde faery! It has green in it a bit, blame it on cut and paste, but I liked it so it stayed.
+      - The FaerieCTF skins are for ctf, I used faerie20 for my red skin and faerie5 for the blue, I also added cool World War II fighter plane type wing logos, hehe
+      - The ShamblerCTF skins are for Ctf, I added wrist bands, Leggings, and a cool CTF LOGO Tatoo on the back!
+      - The DF(dumbfighter) skins are for ctf, I just renamed them and added ID ctf logos. 
+	
+	And a mention of thanks to Chris Pimlott for his clrskn10.zip, They came in very useful again and again!
+,Another mention of thanks to the Quake 1 maker of the optimus skin, I sampled it! (call me puff daddy of quake2!)
+,A mention of thanks to the awesome creator of the female LEANN skin, I sampled the legs for my Piratess skin
+,A mention of thanks to the creator of the Faerie model, THIS IS BY FAR MY FAVORITE MODEL! Although I dont have your name cuz who reads these things anyway?!
+ ,Of course a mention of thanks to ID for all these wonderful things they give us to play with!
+
+	****PLEASE NOTE****: The Every part of these skins is not completely made by me and/or my ability so dont message/mail 
+me about stupid things such as how I copied yours, your buddies, or your Grandmother's roommates boyfriend's skin. 
+If I feel I copied enough of your skin to be note worthy I will credit you above somehow or another. Thanks!

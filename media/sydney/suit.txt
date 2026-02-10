@@ -1,0 +1,50 @@
+Name of skin : Lara Croft Wet Suit, a skin for Sydney model
+Date         : May 31, 1998
+Author       : Erik Kettenburg/ MissyRat
+E-mail       : MissyRat@jps.net 
+
+
+Files included
+-----------
+suit.pcx
+suit_i.pcx
+suit.txt
+suit.jpg
+
+About skin
+------
+Build Time: 3hr.
+Built from: Scratch
+Editor    : Nstv076
+Other Info: This is my third skin.
+
+I made this skin based on the wetsuit Lara Croft wares in Tomb Raider2, 
+
+however I did chage some colors
+
+If you would like my first & second skins which are universal for all models E-mail me.
+
+If you would like to be notified of updates E-mail me I will also notify you
+
+of new laura croft skins.
+
+
+INSTALLATION
+------------
+Unzip into your c:\quake2\baseq2\players\sydney  Dir.
+
+You must have the sydney model for this to work!
+
+NOTES
+-----
+Please distrubute this skin throught the web, but please keep this readme
+with it.
+
+CONTACT
+-------
+E-Mail MissyRat@jps.net
+ICQ# 11333753
+Web Page http://www.jps.net/missyrat/erik/news/
+
+			Copyright 1998 Erik Kettenburg
+			All Right Reserved

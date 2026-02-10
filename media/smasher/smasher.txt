@@ -1,0 +1,95 @@
+
+8/7/99
+================================================================
+Model Name              : Smasher/Devourer
+
+installation directory  : quake2/baseq2/players/smasher
+
+Author                  : Burnt Kona
+
+Email Address           : burntkona@webtribe.net
+
+Website			: http://www.webtribe.net/d/darktech
+
+Model description       : "2076 A.D. Everything that you believe to be true is a condradiction.
+			  Imagine a world that is suffering a slow decay, and a culture on the edge
+			  extinction.  A world of chaos brought to obedient order by the machines man
+			  created.
+				In this time, man has becomea docile creature herded to submission under
+			  the mechanical laws that apply, programmed and desensitized for their convenience."
+
+			  ------------------------------------------------------------------------------------
+
+			  REPORTER:
+				"We now have word that EDGECRUSHER has eluded the enforcers, and has fled the
+				area.  Much damage has been sustained by the facility, and quite a few civilian
+				and state casualties have been accounted for"
+
+				"The state has allocated reinforcementsfor the tracking, apprehension, and
+				custody of EDGECRUSHER.  We have been informed that a SMASHER/DEVOURER module has
+				been issued for reconnaissance."
+
+			  ON THE MONITOR APPEARS ON IMAGE THAT LOOKS SOLID AND MECHANICAL.  A BI-PEDAL DESIGN
+			  WITH AN EGG-SHAPED, ARMOURED MAINFRAME.  WHAT APPEARS TO BE ARMS ARE ACTUALLY WEAPONRY
+			  FOR PROTECTION.  THE CAMERA FOLLOWS THIS MACHINE AS IT LUMBERS ACROSS THE LANDSCAPE OF
+			  THE FACILITY.
+
+			  REPORTER:
+				"Now that SMASHER/DEVOURER is on the scene, we will hopefully see an end to the
+				violence, and our city will sleep in safe comfort tonight."
+
+			  --------------------------------------------------------------------------------------
+
+			  Taken from the inlay of the Fear Factory albulm: Obsolete, which the track SMASHER/DEVOUER
+			  inspired this model. The names of the two deathmatch skins, Replica and Scumgrief, are named
+			  after tracks on their Demanufacture and Soul of a New Machine albulms.  I recomend checking them,
+			  as their music is perfect for deathmatches, and the lyrics are a bit smarter than what you get normally
+			  with this sort of music.
+
+
+Other info              : My second player model. It has legs! I think you can see me getting better in the skins and weapon models as I went along...
+
+Additional Credits to   : id Software, for such a customisable game.
+			  Npherno for NST.
+			  Fear Factory (http://www.fearfactory.com) for the inspiration.
+			  Philip Martin for Q2 Modeller.
+			  R13 for the Q2PMP website.
+
+Thanks to               : My girlfriend for being so understanding at me being knackered at the weekends because I'm working
+			  on this thing till midnight after weekday work.
+			  Everybody at Q2PMP website for being so cool.
+================================================================
+* Play Information *
+
+New Sounds              : YES
+CTF Skins               : YES
+VWEP Support            : CUSTOM VWEPS
+
+
+* Construction *
+Poly Count              : 681 polys>
+Vert Count              : 448 Verts>
+Skin Count              : 5 Skin - 3 Deathmatch, 2 CTF
+Base                    : All original, except the grenade launcher and rocket launcher, which are modified Id.
+Editor used             : Modelled and animated in 3D Studio MAX 2.
+			  Compiled to .MD2 in Quake 2 Modeller v0.9b.
+			  Mapped in NST (the funkiest program ever!)
+			  Skinned in Photoshop 4
+			  Viewed using Skinview & MD2 Viewer 1.3 (brilliant OpenGL prog)
+Known Bugs              : Only little weapon twitches, but that is more of a keyframe thing.
+Build/Animation time    : 2 months of my freetime, not including weekends.
+
+
+* How to use this model *
+
+You should know the drill by now - unzip to quake2/baseq2/players/smasher
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Feel free to edit my model as you see fit, just be sure to mention my work
+in the readme file. This model is not to be distributed as part of any
+commercial product (not without paying me lots and lots, though I doubt you would want to).
+ 
+

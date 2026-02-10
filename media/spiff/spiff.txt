@@ -1,0 +1,43 @@
+March 10, 1999
+================================================================
+Model Name              : Spaceman Spiff v.1.1
+installation directory  : quake2/baseq2/players/spiff
+Author                  : Christopher L. Bruce (Wrath)
+Skin Author		: Myself currently
+Email Address           : Ruffiana@hotmail.com
+
+Model description       : Straight from the Sunday comics, Bill "comic god" Watterson's Calvin and Hobbes.  One of many of Calvin's alter-egos.  That intrepid space explorer...SPACEMAN SPIFF!!!
+
+Other info              : This is the near completed Spaceman Spiff, I will hopefully be finishing up the rest of the view weapons within the next week or so.  He is definitly playable, having been tweaked quite a bit since the original release.  The skins are passable, I cannot seem to get a good fleshtone to work in Q2.  If ANYONE would like to redo the skins for Spiff, I would be EXTREMELY grateful, and offer what assistance or resources I can.  
+
+Additional Credits to   : id Software, Bill Watterson, rouge13 and the entire Q2PMP site!
+
+Thanks to               : Staff of Planetquake's Q2PMP, and everyone who has offered helpful advice on the messageboard there.  Thanks to eradicator for his offer of help in doing the skins...wonder what happened to him.
+================================================================
+* Play Information *
+
+New Sounds              : Soon, I hope
+CTF Skins               : Yup
+VWEP Support            : Hell yah!  ALMOST, I mean ALMOST done
+
+* Construction *
+Poly Count              : 656
+Vert Count              : 379
+Skin Count              : Three...256x256, 16% wasted space
+Base                    : Brand spankin new = )
+Editor used             : 3DS Max 2-2.5,  Q2Modler,  Npherno's Skin Tool,  Corel Photo-Paint,  Adobe Photoshop, and a partridge in a pear tree
+Known Bugs              : Hair sticks up through floor in crouch anims...plan to rescale him down to fit the crouch box once I've finished all the view weapons.  DONE.
+			  Some instances of sharing during animation cycles due to screwed up bones pro (influence editor doesn't work...dunno why)...still working on a fix for this.
+			  Skins aren't the greatest...still could use help with them. (hint hint)
+
+Build/Animation time    : WAY WAY WAAAAAYYYY too damn long *sighs*  And still not finished
+
+* How to use this model *
+
+Unzip to */quake2/baseq2/players/spiff
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+Any modifications to this model must be approved by me prior to being released, this includes new skins.  This model may be freely distributed, provided that credit is given to myself and anyone involved in the creation of this model (which is done in this text file, so as long as this file goes with the model you're ok)
+This model may NOT be used for commercial product. (ya right)

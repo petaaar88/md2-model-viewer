@@ -1,0 +1,106 @@
+
+08 September 1998
+updated
+23 Septembre 1998
+update
+13 November  1998
+update
+23 November  1998
+update
+30 November  1998
+================================================================
+
+Model Name              : Martian
+
+installation directory  : quake2/baseq2/players/martian
+
+Author                  : James G Watt
+Email Address           : jim@kinetic-arts.demon.co.uk
+
+Skin Author 		: James G Watt
+
+Aditional skins         : Were all killed when I redid the base frame
+
+Sound Author 		: dolomite of Dteam 
+Email Address		: dolomite@planetquake.com
+
+
+
+
+
+Model description       : Martian from the film Mars Attacks.  
+
+
+
+Additional Credits to   : id Software, Warner Bros, Bob Powell, 
+			  Norm Saunders, Tim Burton and the 
+			  designers of the Mars Attacks Movie.
+
+
+
+
+================================================================
+
+* Play Information *
+
+
+
+New Sounds              : YES
+
+CTF Skins + Green CTF   : YES
+
+VWEP Support            : YES
+
+
+
+
+
+* Construction *
+
+Poly Count              : 749 
+
+Vert Count              : 602 
+
+Skin Count              : 4
+
+Base                    : New model
+
+Editor used             : MAX
+
+Known Bugs              : 
+
+Build/Animation time    : toooo long.
+
+
+
+
+
+* How to use this model *
+
+
+
+Copy the directory called Martian and its content to your 
+quake2\baseq2\players\
+directory.
+
+
+
+* Copyright / Permissions *
+
+You may freely distribute this archive, as long as it remains
+intact. If you want to add a skin then go for it but send me 
+a copy. You may not use these files for commercial purposes 
+without my permission (and probably that of Warner Bros. and ID). 
+
+I retain all copyrights.
+
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+
+
+I will not take responsibility for anything bad. Use at you 
+own risk bla de bla.
+
+Enjoy.
+

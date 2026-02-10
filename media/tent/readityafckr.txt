@@ -1,0 +1,25 @@
+tENT V1.02
+
+			It's Finally Here !
+
+	The long-awaited Tent for the die-hard camper. Those lonely moments 
+of sitting in wait for your prey to come after that golden rocket launcher are finally 
+recognized. No longer do you have to sit out in the cold, hard, dark environments of Q2, 
+bare-assed and vulnerable. To set up your Tent, simply follow these simple instructions -
+
+	Unzip this file into your Q2/baseq2/players folder.
+	Choose Tent under Multiplayer/Player setup in Q2.
+
+Easiest tent you ever pitched !
+
+
+
+	 by 
+
+	LL         EEEEEEE	NN      NN        NN     NN    EEEEEEE     RRRR      DDD
+                  LL         EE                     NN  NNN        NN  NNN    EE                   RR       R   DD     D
+                 LL         EEEEEE          NN    NN        NN      NN    EEEEEE        RRRRR    DD       D
+                LL         EE                     NN     NN       NN       NN    EE                   RR      R     DD      D
+             LLLLL   EEEEEEE       NN     NN       NN       NN    EEEEEEE     RR         R   DDDD
+
+	thereallennerd@hotmail.com

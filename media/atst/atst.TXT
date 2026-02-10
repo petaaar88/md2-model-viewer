@@ -1,0 +1,10 @@
+Type            : Quake 2 player model + skin +skin ctf		
+Name            : ATST				
+Author          : Diego Arrighi						
+Email           : rodida@arnet.com.ar
+Time to make    : 2 weeks 
+used to make    : Qukae 2 model editor v0.9				
+Répertoire d'installation : quake2/baseq2/players/atst
+
+This model's idea left a plastic model that I armed. Andrés and Alejandro helped me (but very little and I name them for that requested it to me).   
+Soon I will carry out some other model, and it can be the AT-AT of StarWars   

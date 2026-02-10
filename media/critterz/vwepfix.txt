@@ -1,0 +1,30 @@
+  VWepFiX Model File: for Quake2 Plugin Player Model /w Built-in Weapons.
+  -----------------------------------------------------------------------
+AUTHOR:
+-------
+The KrulL-MaN (KrulL@the-lair.com)
+Quake2: The BodyShop.. (http://bodyshop.logicquest.com)
+
+DESCRIPTION:
+------------
+ This is a Fix to all those Models that Gives you a "CUBE" when
+played in a Quake2 deathmatch game with Hentai's Viewable Weapons MOD (Vwep) or 
+any other MODs which supports Vwep (Loki's Minion CTF..). It's just a face 
+(3 vertexes..) that is linked to the male weapon skin. Basically it's for 
+those PPM who has their weapon model built-in the main, tris.md2 model file.
+ Just copy all the *.md2 files into each directory of the PPM and your done. No need to
+look for a *.pcx skin file, as it uses the Male weapon skin, which comes with the game.
+
+CREDIT/PERMISSION:
+------------------
+- you are free to use this fix to any of your Future Original PPM, just
+acknowledge/credit me in your Readme.txt file and Quake2: The BodyShop 
+(http://bodyshop.logicquest.com/) for being so cool to give ya this fix ;))
+
+AVAILABLE:
+----------
+Quake2: The BodyShop.. (http://bodyshop.logicquest.com) (Mirrors Accepted..)
+
+
+The KrulL-MaN.. 3/9/98
+Q2: The BodyShop..

@@ -1,0 +1,48 @@
+5th May 2000
+================================================================
+Model Name              : Madpear
+installation directory  : quake2/baseq2/players/Madpear
+Author                  : Turbo-J
+Email Address           : megacrack@offcampus.net
+
+Model description       : There is my first model for quake 2 and 
+			  the first model I have ever done. It is 
+			  some kind of devil but his name is Madpear
+			  because the original version looked like a
+			  pear. Enjoy it.
+			  
+Other info              : There are differences between the two CTF
+			  skins and the blue and red ones.
+
+Additional Credits to   : id software
+
+Thanks to               : me
+================================================================
+* Play Information *
+
+New Sounds              : yes
+CTF Skins               : yes
+VWEP Support            : no
+
+
+* Construction *
+Poly Count              : 966
+Vert Count              : 589
+Skin Count              : 9
+Base                    : new model
+Editor used             : Quake model editor (mdl)
+Known Bugs              : Weapon is part of the main model
+Build/Animation time    : two weeks
+
+
+* How to use this model *
+
+Unzip this model to (QUAKE 2 DIRECTORY)\BASEQ2\PLAYERS\MADPEAR
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Anyone can use this model as base for a new one if it's mentioned on the final readme.
+
+

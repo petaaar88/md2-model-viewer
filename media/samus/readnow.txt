@@ -1,0 +1,108 @@
++ Date of completion:07/03/98
+------------------------------------------------------------------------------------------
++ MODEL INFO
+
+File: tris.md2  
+Model Name: Samus Aran from Metroid
+Description: Samus Aran comes from the classic game Metroid on the Nes and Snes.  The
+             model created was modeled after the Snes Metroid instead of the classic
+             Metroid. Pic included.
+
+Tools: 3DSMax, PS4.0, PSP4.0, NST, Q2Modeler, and SkinView.  
+Polygons: 795
+Model build time: 10hrs
+------------------------------------------------------------------------------------------
++ SKIN INFO
+
+File: samus1.pcx
+Skin size: 256x256
+Description: The skin is based on the Snes version of the battle armor Samus wore.
+Skin build time: Many many hours.
+
++ADDITIONAL SKIN INFO: 1
+
+File: Samus255.pcx
+Author: BUZ + da Lurgee
+Size: 256x256
+Description: A futuristic battle armor.
+Skin build time: Unknown
+
+------------------------------------------------------------------------------------------
++ ANIMATION INFO
+
+# of frames: 197
+Animation build time: Many many hours.
+
+------------------------------------------------------------------------------------------
++ WEAPON INFO
+
+File:weapon.tris+weapon.pcx
+# of frames: 172
+Polygons: 1
+Skin size: 50x50
+Weapon build time: 2 sec.  hehe.
+------------------------------------------------------------------------------------------
++ AUTHOR INFO
+
+Author: John Hsia
+Skins: John Hsia
+Email: dojo@converted2.com
+WWW: www.converted2.com/neurologic
+
+------------------------------------------------------------------------------------------
++ UPDATE INFO
+
+7/5/98 Animation fix on stand and run.
+7/18/98 Animation fix again on stand.  note: still jumpy.
+7/18/98 Samus255.pcx added, thanks to BUZ+da lurgee.
+
+==========================================================================================
++ KNOWN BUGS
+
+Bugs: None that I know of, but if you find one, mail me at dojo@converted2.com
+------------------------------------------------------------------------------------------
+==========================================================================================
++ INSTALL INFO
+
+Instructions: First create a samus dir in your quake2/baseq2/players/.  Then Unzip the 
+file into quake2/baseq2/players/samus
+------------------------------------------------------------------------------------------
+==========================================================================================
++ DESIGNER NOTES
+
+Notes: My first model to be released.  Expect the worst.  Hopefully I will improve on this.
+       Also distribute at WILL!  If your willing to do more skins, email me and I will 
+       re release the zip, with credit due to the proper authors.  If you like to bitch at
+       me for not doing justice to Samus, email your complaints to z3lda@usa.net.  Also
+       this model will be distributed to the Bodyshop and q2pmp, in about a week incase
+       people do submit me any new skins.
+
+-------------------------------------------------------------------------------------------
++ Final Notes
+
+Notes: Thanks to Idsoftware for their great game, and allowing others like myself to 
+       be creative and expand on their game in many ways, oh and thanks to Nintendo
+       for creating one of the best games i've ever played when I was a kid.  Metroid
+       Kicks ass.  Can't wait for Metroid64!  
+       
+       Also like to thank the people that helped me out, when I first tried to figure out
+       how to create md2.  Especially Elmek(If you still remember me) and Malekyth
+
+       Finally, special thanks to BUZ + da Lurgee for their time and effor on Samus255.pcx	
+-------------------------------------------------------------------------------------------
+* Copyright / Permissions 
+
+QUAKE II(R) is registered trademarks of id Software, Inc.
+
+Metroid is the property of its rightful owners.
+
+This model was created by John Hsia/Neurologic 1998.
+Samus255.pcx created by BUZ + da Lurgee.
+
+You are NOT allowed to gain profit from this model, ex. put it on a cd 
+or any other electronic medium that is sold for money period. (Cause I don't own the rights
+to Samus Aran)
+
+You MAY distribute this model through any electronic network (internet, 
+local BBS etc.), provided you include this file and leave the archive 
+intact.(Until Nintendo finds out and decides to pull this model off the networks.)

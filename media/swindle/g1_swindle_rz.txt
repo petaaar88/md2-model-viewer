@@ -1,0 +1,1 @@
+Swindle G1 concoction skin by Raijin Z. Somewhat from the original Swindle G2 skin, swiped Decepticon logo from the Soundwave icon. Mad props to Albert Ng for making the (arguably) most devious Decepticon since Soundwave. Yeah, you heard me, Soundwave. Do you really think he was doing th ewhole Yes Man routine for nothing?

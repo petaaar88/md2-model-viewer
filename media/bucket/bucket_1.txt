@@ -1,0 +1,90 @@
+
+8-29-98 revision 1
+================================================================
+Model Name              : brainbucket
+installation directory  : quake2/baseq2/players/bucket
+Author                  : shine
+Email Address           : vertmanip@cander.net
+
+Skin Author             : Chris "Shatter" Holden
+Email Address           : shatter@planetquake.com
+
+Model description       : This little fella is from the future and has
+                          his brain floating in a jar of liquids held by a 
+                          powerful steel body. oughta score some points!
+
+Other info              : this is the second revision of the model since I was moronic
+		 	  enough not to test it correctly.
+
+Additional Credits to   : id Software, Npherno's skin tool, 
+                          qME (although grudgingly), and no thanks whatsoever to AOL, 
+                          you dirty BASTARDS!! may your children have WORMS!
+
+Thanks to               : Shatter, for skinning the model, making me finish it, 
+                          and being a big pain in the ass when I really needed it.
+                          Xtreme, for helping me with Lightwave and being my buddy :)
+================================================================
+* Play Information *
+
+New Sounds              : No. :/
+CTF Skins               : YES! :D
+VWEP Support            : No. 
+
+
+* Construction *
+Poly Count              : 524 polys
+Vert Count              : 338 vertices
+Skin Count              : 3 skins
+Base                    : Totally new, totally original :)
+Editor used             : Lightwave 3D 5.6, qME (which I hate), and NST (RULES), and PSP 5
+Known Bugs              : not really a bug, but it has weird-looking animations, sorry, first PPM :p
+Build/Animation time    : 2 days modelling, 3 days animating, one hour skinning
+
+
+* Comments from Chris "shatter" Holden *
+
+*revision 1 update: There was a small problem with the 
+model as shine said, this fix undoughtedly messed up 
+the skin mapping a bit, I corrected the cosmetics 
+somewhat but a full reskin was in order for it to look 
+it's best which I haven't the time to complete.
+
+It was really fun watching Shine make this model, since 
+he's never made a ppm before. Him sending me updates, 
+it being totally fuct up, and listening to him bitch 
+about it. ;) But I really knew that making a ppm would 
+help out his portfolio and give some good experience 
+since he wants to make something of himself when he 
+gets older.
+The model/animations turned out pretty good. It's not 
+the best in the world, but I was just surprised he 
+actually finished it. Don't make fun of it too much, 
+it's his first and he's just a kid. The skin I did I 
+don't consider something great either. I promised him 
+a long time ago if he finished a decent ppm that I would 
+skin it, then my life got really busy with a job, etc. 
+Then one day I took my break to skin it. Like it says 
+above, I did the skins in about an hour, and I started 
+from scratch, so that included learning the model and 
+all.
+In all, it turned out cool, and I'm happy with it, have 
+fun...
+
+			,Chris.
+
+* Comments from Jon "shine" Jones *
+
+Oh god, I'm sorry. I didn't test out the model as much as
+I should have and it ended up screwing up VERY, VERY badly. :(
+I am TOTALLY humiliated. I'm so sorry.
+
+* How to use this model *
+ermm.. unzip it to /quake2/baseq2/players/bucket and run it :)
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+I don't really see WHY anyone would want to claim having made this piece
+of crap, but don't you dare ;)  
+

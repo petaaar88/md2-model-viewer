@@ -1,0 +1,43 @@
+[PLAYER PLUG-IN MODEL]	: Scarlet (revision A)
+
+[FILE NAME]		: scarlet_a.zip
+[AUTHOR]		: Duddly
+
+[INSTALLATION]		: Place all files in a "players" subdirectory called scarlet.
+			  Must be 'scarlet' or weapon may give null skin error.
+
+[NOTES]			: This is a modified version of the fairie model that was
+			  originally created by Brian Collins, email: brian@zono.com.
+	
+	NOTE: skins for fairie may or may not work with the model, 
+	      these skins will not work with fairie model.				
+
+[UTILITIES USED]	: Used Q2 Modeller to edit the Faerie model and create Weapons md2.
+			: Used NPherno's Skin Tool & Paint Shop for skin(s).
+
+[FILES INCLUDED]	: scarlet.txt  this file
+			: scarlet_pic.jpg screen capture of model with skins.
+			: SCARLET_x.PCX & SCARLET_x_I.PCX  skin files
+			: weapon.md2 & weapon.pcx  weapon files
+			: tris.md2  model
+			: sc_adult.zip  (adults only skins) *may or may not be included*
+
+
+changes:
+	a. hair changed: many polys removed, style modified.
+	b. breasts:  (no there not larger!), just rounded and hang
+	more naturally.
+	c. weapon file created, now a REAL weapon, not a wand.
+
+revision a:
+	a. rescaled +15%:  Original fairie model too small in comparison to original
+	male & female models.  Visually unfair advantage during DM. Now more accurate height. 
+	b. modified hair (even more), recolored, etc.
+	c. created several skins:  No, they're not politically correct!
+		scarlet_red  (red skimpy outfit, for CTF or DM)
+		scarlet_blue (blue skimpy outfit, for CTF or DM)
+		scarlet_rwb  (red, white & blue skimpy outfit)
+		scarlet_dress_blue (blue tight fitting dress)
+		scarlet_dress_red (red tight fitting dress)
+
+	

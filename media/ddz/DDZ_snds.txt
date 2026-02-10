@@ -1,0 +1,19 @@
+		       - DDZ Soundpack-
+
+			 Massive Bitch
+			----------------
+		       Irvine Imagination
+		http://www.mjollnir.org/~sirvine/
+		  MassiveBitch@planetquake.com
+
+    Simply Unzip this these .wav files into whichever Quake II 
+   \player directory that you think fits. They were created for
+			 the DDZ model.
+
+	 ------------------------------------------------
+
+	      Thanks to Brian "EvilBastard" Collins
+		   for creating the DDZ PPM.
+
+		 EvilBastard's House of Models
+	http://www.planetquake.com/q2pmp/hostings/evilb/

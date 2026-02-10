@@ -1,0 +1,78 @@
+================================================================
+
+Nombre del modelo       : Homer
+
+Directorio
+de instalación          : quake2/baseq2/players/homersimpson
+
+Autor                   : "Animal" A.S. Cordara
+
+Dirección de Email      : ascordara@yahoo.com
+
+Dirección de página web : todavía ninguna
+
+Descripción del modelo  : 
+
+	"Plugin Player Model" de Homero . ¿Quién no conoce a Homero Simpson? 
+
+Otra información        :
+
+	Modelo, skins y animaciones por "Animal" A.S. Cordara
+
+Créditos adicionales a  : 
+	* Andrés López "Peche"
+	
+Gracias a               :
+	* Idsoftware 
+	* Matt Groening
+	
+Programas usados        :
+	* Quake 2 Modeller 0.83
+	* NSTv9b1
+	* Paint Shop Pro 3.11
+	* GoldWave 3.24
+
+================================================================
+
+* Información de juego *
+
+Nuevos sonidos          : Si
+
+CTF Skins               : Si
+
+Soporte VWEP            : No
+
+
+* Construccion *
+
+Skins                   : 2 DM, 2 CTF
+
+Base		        : Ninguna (Empezé con un triángulo)
+
+Editores usados         : 
+		Modelado          - Q2modeler	
+		Animación         - Q2modeler
+		Creación de Skins - Q2modeler, NST
+		                  - Paint Shop Pro, NST
+		
+"Bugs" Conocidos        :
+	* La animación no es demasiado buena
+	* El arma "tiembla" en las manos de Homero
+	* A veces el arma atraviesa el cuerpo de Homero
+	¡¡¡PERO CUANDO ESTÁS JUGANDO NI SIQUIERA TE DÁS CUENTA!!!
+
+Tiempo de
+creación/aimación     : No se, nunca miré la hora
+
+* Derecho de copia / Permisos *
+QUAKE(R) y QUAKE II(R) son marcas registradas de id Software, Inc.
+Cualquiera tiene la libertad de editar mi modelo, solamente acordate de mencionarme en
+el archivo "leeme"(readme). Este modelo no se puede comercializar de ninguna forma.
+
+========================================================================================
+Si tenés alguna duda a cerca del modelado, etc. podés mandarme un e-mail, y con mi poco conocimiento sobre el tema tel vez te puedo ayudar.
+
+ascordara@yahoo.com
+========================================================================================
+
+¡Vamos Argentina carajo!

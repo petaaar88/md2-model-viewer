@@ -1,0 +1,57 @@
+Aug-15-99
+================================================================
+Model Name              : Chicken Man
+installation directory  : quake2/baseq2/players/chickenman
+Author                  : Frankie Hobbins
+Skin Author             : Me
+Email Address           : Frankie@frag.com
+
+Model description       : A spaceman was captured by the stroggs and strange
+			  experiments were carried out on him.
+			  Code named 'Chickenman' his apperiance has made him unwelcome
+			  in all places, unable to talk to anyone he turned mad
+		          and his l33+ training from playing games like doom and 
+			  listening to rock music turned him into a traied killer
+			  with experiance equal to war veterians. He now walks the
+			  lonely alien cities looking for anything to kill.
+
+
+Other info              : I made loads of mistakes but most of you wont notice them, so
+			  instead of me telling you and you thiking that im rubbish im
+			  not going to tell you, good idea eh?
+
+Additional Credits to   : Id, newtek, adobe and probably some other people
+
+Thanks to               : Crash and probably some other people
+No Thanks to            : Everyone who said that they would do a skin but ended up
+			  holding back the release of the model and leaving me with
+			  nothing, NOTHING DAMNIT. (it dont matter really)
+================================================================
+* Play Information *
+
+New Sounds              : NO
+CTF Skins               : NO
+VWEP Support            : YES
+
+
+* Construction *
+Poly Count              : <714 polys>
+Vert Count              : <412 Verts>
+Skin Count              : <2 Skins>
+Base                    : <New model>
+Editor used             : <Lightwave, PS5>
+Known Bugs              : <idunno>
+Build/Animation time    : <69>
+
+
+* How to use this model *
+
+unzip to players dir
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+This is mine
+
+

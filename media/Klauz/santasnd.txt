@@ -1,0 +1,19 @@
+               -=[The klauz Plug n Play Model Sounds]=-
+                 ------------------------------------
+                           by: Malengine
+                   e-mail: d-con420@geocities.com
+
+=[description]=
+-=[this is yet another zip file I made for a plug and play model, but this time, for the klauz  
+-=[player model.
+
+=[Note]=
+-=[this will only work with v 3.12 and up. 
+
+=[Instructions]= 
+-=[unzip all the files to the baseq2\players\klauz folder (or the  
+-=[folder your klauz tris.md2 file is in) and play away.
+-=[questions comments? my address is at the top.
+ 
+=[oh yeah]=
+-=[the klauz is cool and in no way am I trying to make it stupid or something like that.

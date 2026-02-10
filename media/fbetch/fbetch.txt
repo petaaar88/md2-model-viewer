@@ -1,0 +1,27 @@
+
+	CackWhore Q2 model by Xeno 
+	(No, that's not mispelled :)
+
+This model was originally the Iron Maiden from single player Quake2.
+Made by ID Software rehashed and remixed by Xeno.
+
+File contains sounds, skins, models, and this text.
+they should all be extracted to this dir :
+
+\Quake2\baseq2\players\fbetch\
+
+If you're having trouble finding the new model(s) in your player setup screen
+Delete all files from the  '  \Quake2\baseq2\players\  ' directory
+EXECPT the folders.
+Either delete or move the files to elsewhere(but leave the folders.)
+
+Original skins by ID Software, additional skins by Xeno.
+Original models by ID Software, weapon and additional frames by Xeno.
+Original sounds by ID Software, additional sounds  remixed from various other places.
+
+
+Xeno's E-Mail is lippert@ix.netcom.com
+
+Visit the Dan Bickell Skin Exhibition to learn more about skins and models :
+http://www.neurogamer.com/exhibition/
+

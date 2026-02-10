@@ -1,0 +1,111 @@
+=================================================================
+ Sideswipe Quake2 Player
+ by Jason Seip                           email: iamseip@erols.com
+.................................................................
+ Skins by Rikki Knight (Phukyumoto)      email: wigger@texas.net
+=================================================================
+Title                   : Sideswipe 
+Author                  : Jason Seip
+
+Description             : Sideswipe Quake2 player model
+
+Additional Credits to   : id Software, makers of Quake2
+                          Hasbro Inc. for creating the 
+			   Transformers line of toys
+                          NPherno, maker of the awesome NST
+			  Newtek, makers of Lightwave3D
+                          
+Build Time              : Um...about 3+ weeks of long nights
+=================================================================
+
+DESCRIPTION
+
+   A plugin player model for Quake2 based on an Autobot 
+   character from the Transformers line of toys.
+
+
+INSTALLATION
+
+   After unzipping the files contained in the archive, put 
+   them in a directory called 'Sideswipe', underneath the 
+   Quake2\baseq2\players\ folder.
+
+USING Sideswipe IN QUAKE2
+
+   To use Sideswipe go to the mutliplayer setup and choose 
+   the Sideswipe model instead of the male or female players.
+   He comes with a few different skins (see below).  The Red
+   Alert skin was based on a different character who shared 
+   the same body construct as Sideswipe.
+   
+   You're on your own if you want to use Sideswipe with one 
+   of the 'bot' programs, I'm afraid.  I haven't had the
+   time to play with that.
+   
+SKINS
+
+   Please feel free to create new skins for Sideswipe. You can 
+   send them to me by email: iamseip@erols.com.
+
+SOUNDS
+
+   I hacked together a bunch of sounds to make the player seem
+   a little more like a metallic being.  Most are from 2 demos
+   I downloaded:  'Shadows of the Empire' and 'Take No Prisoners'.
+   One or two Quake2 sounds made their way in there, too.  If you
+   don't like them, just delete them and the game will play the 
+   default male sounds.
+
+COMMENTS
+
+   Sideswipe is the first of many Transformers that I hope 
+   will be produced through the Quake conversion I am leading.
+   The conversion is, for the moment, simply referred to as 
+   TFQ(Transformers Quake), and will focus on both single- and 
+   multi-player gaming that will attempt to bring the Transformers 
+   to the Quake realm and give them the game I feel they've always
+   deserved.  Currently, the project is located on Geocities.  
+   Stop by the site and see what we're up to:
+
+   http://www.geocities.com/TimesSquare/Fortress/3306/TFQ.html
+
+   Please ask if you want to use the model for anything other 
+   than personal use as it is explained here, particularly if 
+   incuding it in a patch or add-on.  Don't stick it on anything 
+   retail...it won't be me coming after you, it'll be Hasbro's 
+   big, bad lawyers.
+
+   Now go kick ass.
+
+Jay
+iamseip@erols.com
+
+
+From Rikki:
+
+_______________________________SKIN INFO_______________________________
+
+Here's info on the skins, for those of you that give a crap.
+
+
+sideswipe.pcx= The original Sideswipe from the 1st wave of Transformers
+
+redalert.pcx=  Released somewhat later. He was really just a repaint 
+               with some lights on his roof.
+
+sideswipeg2.pcx= This is the repaint of Sideswipe from the Generation 2
+                 series.
+
+Cwclan.pcx=    A non-existant Transformer. I made this skin for my clan
+               to use.
+
+burnout.pcx=   Another non-existant Transformer. I made this for Jay for
+               the hell of it. I think there actually was a TF with this
+               name, I think he was a motorcycle. Anyway, it doesn't 
+               matter. We'll just do what they're doing in Beast Wars &
+               say, the name was passed on to a new warrior.
+
+Rikki Knight (Phukyumoto)
+wigger@texas.net
+CWclan= http://lonestar.texas.net/~wigger/cwclan
+Models= http://lonestar.texas.net/~wigger/skinend

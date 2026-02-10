@@ -1,0 +1,54 @@
+//Krazy Mr Karrot v1.3 Player Plug In for Quake 2
+
+-----------------------------------
+Installation:
+
+Create a new folder as 
+quake2/baseq2/players/carrot/
+
+If you've got my old, unfinished carrot (no ctf skins,
+real animation and some ripped sounds) then delete it.
+
+Place all the files in it. Done :)
+-----------------------------------
+
+So, I finally finished it after almost a year.
+Long story.  Hope ya like it.  There will be sounds 
+and vwep coming soon but the actuall model here is
+complete, finished, that's it!
+
+The model was originally the weapon for the pogo rabbit.
+It was a teensy little thing.  I never had any cash for
+something like 3D Studio Max and Q2Modeller can't really do
+joints.  So when I found the carrot I thought 'Well now then,
+theres a player plug-in waiting to happen'
+
+So, I scaled the model up to player size; scrapped the anims;
+gave him eyes; made new animations (I reckon they're pretty cool :]); 
+made some wicked ctf skins; and finally, Flatus (Who Clucked?) did some
+hilarious sounds.  Sorted.
+
+I also fixed the vwep bug.  If you downloaded this before the 10th of March 2000
+then you'll need to replace it!  But then again, if you're reading this you already
+have :)
+
+
+Have fun.
+
+-----------------------------------
+
+Author: Acid [Lucky Pluckers]
+Sounds: Flatus [Who Clucked?]
+
+also thanks to Rattey [LP] for spotting the bug fix, cheers geezer.
+
+acid@rocketjump.co.uk
+www.rocketjump.co.uk
+
+Lucky Pluckers:
+www.lucky-pluckers.freeserve.co.uk
+
+also check out:
+http://www.borgbunny.com/WhoClucked/
+for Flatus and the rest of the mad Who Clucked crew...
+-----------------------------------

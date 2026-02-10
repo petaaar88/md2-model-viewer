@@ -1,0 +1,51 @@
+well hrmm readme file... umm i put the md2text.txt in the zipfile (aleast its in my copy)
+	
+	Anyway as to "what the hell is it?" it is what you see, and no it isn't a guy compressed... is just has NO torso.... without a torso it is hard to attach a head, thus the "lever/crane system"
+
+ - = MODEL = -
+
+	I built the Legs first. (thats why they have the most definition), it origionally was going to be a power armor type mecha, but as i couldnot fashion a suatable waist/torso combination so i just ran an axel through it ans slapped the arms on it.  I had the gun grafted to the right arm because thats more interesting than just haing it held.  I origionally had it floating in front but it turned out a linkage was better.  The hand 
+I did with fingers because I have never liked the "mitten" look.  Well that about wraps it up for the construction of the model.  I apologize for the high polygon count... it was origionaly built with square faces, and when i exported it... the program went apeshit adding triangles to shape it properly.  when it was square faced, it was only about 600 faces, but oh well. i only noticed the obsesively large face count about halfway through the project and I didn't want to completely restart it so I just left it.  As to the "jumpjets" on it the back just looked bare without something so i just put them in there as filler "origionally planning on a backpack, but they looked fine in the final cut so i just left them.
+
+
+
+ - = ANIMATION = -
+
+	Animation wise I am much better than modeling. BTW umm i din't use ANY inverse kinematics, or bones, i don't know how to use them well.  
+	
+	I know the stand animation is a little slow. but it is smooth, and gets the job 	  done.  The run well it runs. and i did animate the axle like it was being pulled 	  around.  
+	
+	The Jump animation was intended to be animeish, but in game it gets stretched out at 	  the beginning producing a wierd hovering affect, I couldn't fix this becaus ei 	  neglected to save the origional file. 
+	
+	The pain animations were essentially looking at ID male's pains and trying to 	  	  produce simaler movement, nothing special. 
+
+	The Wave animation was actually the first animation i did for this one.  it is 	  	  suposed to be him jumping around waving his arms, but its kinda hard to tell that.  
+
+	The taunt is one of my favorites, well his head grows 3 times larger and he goes 	  "nanny-nanny-boo-boo". 
+
+	The point animation... umm he points.  The  flip animation, is pretty good it gives 	  a good sense moement and momentum.  
+
+	The salute is just your standard military salute but i added him clicking his heals 	  "british style" for added movement.  
+
+	The crouch stand i added more movement in than i did the normal stand... but it just 	  looks off... but i am just not sure why. 
+
+	The crouch walk he just shuffles forward.  now for the attack animations i did 	  	  before cross refrencing it in game. I only noticed the descrepency AFTER i had 	  finished the model and started playtesting it. the same problem exists for the 	  standing and crouching fire... i had him raise his gun before firing, which I 	  realize now was a mistake.  
+
+	Crouch pain, recoil, yada yada yada.  
+
+	Crouch death he just kinda colapses and it is done well. the three death animations 	  were done prety well but death 2 looks WIERD when they die in water and i it 	  	  picked. 
+
+	Death 1 looks off out program in an external viewer but it wrocks in game.  
+	Death 2 umm it just kinda happened don't ask how. 
+	Death 3 he just kinda loses muscle control, and falls back limp, but his feet stay 	  planted firmly on terrafirma, and yes the jump jets end up impaling him "didn't 	  mean to but they couldn't go any where else. 
+
+ - = SKIN = -
+
+	Well the skins were kinda a lost cause, Origionally it had a theatrical mask but it just looked wierd when viewed from an angel so i just put a face on it.  Yes the origional skin wasn't planed to be that colorful, but just being gray it looked drab, so i added alittle color, and alittle more, and alittle more. but it doesn't really matter because the ctf_r skin is my favorite anyway and is the suggested one to play as out of ctf. the ctf r and b skins are ok like i said before the red is my favorite, but the blue is ok.  The reason i made it 0% wasted was because i could and to see IF i could. but it turned out well at least it has LOW wasteage (:P)  as to the spawn skin i don't know i got bored and had 1 and a half hours to burn, it actually lended itself well to the model and i don't know why, the torso patern ended up on the upper legs but don't get me wrong they are upper legs
+
+THERE ROGUE13 IS THAT ENOUGH OF A README FOR YOU???
+
+there a play by play of this models construction
+
+
+and NO my name isn't pyro its Joe Woodrell, pyro was an old handle i had on IRC when I got my e-mail address.  and as stated in the md2text file,  my current nickname is EBOLA, don't ask how it got formed, trust me you don't want to know.

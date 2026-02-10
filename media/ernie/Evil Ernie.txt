@@ -1,0 +1,93 @@
+
+10/11/98
+================================================================
+Model Name              : Evil Ernie
+installation directory  : quake2/baseq2/players/ernie
+Author                  : Michael 'Magarnigal' Mellor
+			  homepage at http://magarn.3dpalette.com
+
+
+Skin Author(s)          : FIX created all ernie skins included - no, he DOES NOT do tc/clan
+			  requests and don't mail him asking 'how do u make yer skins'
+			  email		: ogro_fix@yahoo.com
+			  homepage	: http://www.fondation.com/pandemonium
+
+
+My Email Address        : mellor@iaccess.com.au
+
+
+Model description       : Also known as the Master of Annihilation, Evil Ernie is one Psychotic,
+			  Undead teenager out to destroy all life...in search of megadeath!
+			  Ernie was abused as a kid, and Lady Death found him when he accidently
+			  entered her Endless Graveyard through his inner thoughts.  Inspired by
+			  Lady Death, Evil Ernie found a partner in life...or should I say death.
+			  
+			  (Chuckwick's Chaos Shrine) rciii@unm.edu
+			  
+
+
+Other info              : This model is a submission for the 'Chaos rocks Quake2 contest'.  
+			  
+	  
+
+Additional Credits to   : id software.  OgrO_FIX, without him these models would still be
+			  textureless blobs of polygon rotting on my harddrive.  Bazuzeus for
+			  providing excellent Evil Ernie sounds!  
+			  
+
+
+
+================================================================
+* Play Information *
+
+New Sounds              : yes - Bazuzeus: fifnir@hotmail.com   http://bazuzeus.i-france.com
+
+CTF Skins               : yes    
+VWEP Support            : yes
+
+
+* Construction *
+Poly Counts
+Tris.md2		: 557
+weapon.md2		: 196
+
+Vert Counts
+tris.md2		: 296
+weapon.md2		: 114
+
+Skin Count              : 4  
+Base                    : new model
+
+Editors used:-
+
+Modelling/animation	: Lightwave 5.5 
+
+Converting/clean-up	: QME, Q2modeler
+
+Skinning/mapping	: NST
+
+Bugs/comments/excuses   : Some of the anims still seem a bit 'stiff' to me.  And I would've liked
+			  to find an easier way to animate that hair and coat!  Maybe I should 
+			  get me one of them thar fancy plugin type things.  
+
+			  There is a slight seam where the right arm joins the shoulder, due to
+			  the arm being part of the weapon.  It is largely unnoticeable unless 
+			  your real close the the model.  And in my opinion, well worth for the
+			  'bloody stump' effect when he dies!
+			  
+			  
+
+
+Build/Animation time    : damn coat an hair took ages, even tho I skimped a bit.    
+
+
+* How to use this model *
+
+extract to quake2\baseq2\players\ernie  run quake2, send me money, frag other players.    
+
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+All rights reserved.  

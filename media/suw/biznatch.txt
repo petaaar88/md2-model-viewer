@@ -1,0 +1,19 @@
+~ ~ ~ Saiko Biznatchy!!! ~ ~ ~
+------------------------------
+This is Hayaku Kreations' first attempt at making a decent 
+skin for a PPM.  We took the idea from a character we made
+ up to be our mascot.  And we also reskinned the weapon.pcx
+ to match the warrior.  Hope you like it.
+
+Extract files into your:
+baseq2/players/suw/ directory
+then you're ready to rock.
+
+and if others are getting the null skin found. please read
+the discussion board to find out how to clear it up, it's 
+real easy, and all you need is Npherno's Skin Tool v.0.06.
+
+have fun quakin'
+
+~hayaku kreations~
+~SaikoBiznatchy!!~

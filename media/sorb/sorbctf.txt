@@ -1,0 +1,18 @@
+CTF Skins for Sorbogon model by ALPHAwolf. (fenrir@best.com)
+
+For red i made the white scales on the top of him red
+For Blue i change the red spots on him to blue and made the
+tusks blue. 
+
+Unzip all files into your quake2/baseq2/players/sorb folder.
+
+Files:
+
+ctf_b.pcx
+ctf_b_i.pcx
+ctf_r.pcx
+ctf_r_i.pcx
+sorbctf.txt (not needed)
+sorbctf.jpg (not needed)
+
+Email AntiHero: ben.brain@netheaven.com

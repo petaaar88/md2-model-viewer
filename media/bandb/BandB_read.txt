@@ -1,0 +1,33 @@
+Model Name              : BEAVIS & BUTTHEAD
+installation directory  : quake2/baseq2/players/bandb
+Author                  : MaDMiKe=Y=
+Email Address           : madmike@mediaone.net
+Model description       : ummmm what are you a dumbass
+Other info              : <OTHER STUFF>
+Additional Credits to   : StupidSh!t for the skins
+Thanks to               : UHHHHHH PX & 69
+================================================================
+* Play Information *
+New Sounds              : YES
+CTF Skins               : YES
+VWEP Support            : NOt yet but hopefully coming soon
+* Construction *
+Poly Count              : ummmm alot	
+Vert Count              : even more
+Skin Count              : 3
+Base                    : New 
+model Editor used       : QUAKE2 MODEL EDITOR
+Known Bugs              : NONE THAT I KNOW
+Build/Animation time    : this one took me a couple of weeks
+
+* How to use this model *
+FOR EXAMPLE IF YOU ARE INSTALLING THE X MODEL YOU WOULDJUST UNZIP THE MODEL THE MODEL TO QUAKE2\BASEQ2\PLAYERS\X
+
+* Copyright / Permissions *QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+<Other Legal info about the use of your model>
+BEAVIS AND BUTTHEAD WERE CREATED IN 2D BY MIKE JUDGE AND ARE NOW OWNED BY THAT WORTHLESS PIECE OF SHIT KNOWN AS MTV
+
+THANKS TO StupidSh!t  FOR THE SKINS...BECAUSE WITHOUT THOSE IT WOULD BE A LONG TIME BEFORE I FIGURED IT OUT ALSO THANKS A 
+SHITLOAD TO Px&69 FOR ALL OF THEIR HELP AND ANYONE ELSE THAT REPLIED TO MY MESSAGE ON THE MESSAGE BOARD..AND IF I AM LEAVING
+ANYONE OUT I AM SORRY BUT ENJOY AND MAIL ME WITH ANY PROBLEMS YOU ENCOUNTER

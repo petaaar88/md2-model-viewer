@@ -1,0 +1,19 @@
+               - Raptor Plug & Play Model Sounds -
+                 ------------------------------
+           made by: Tigerman.(shudson@webaxs.net)
+               
+
+This .zip will replace the sounds  for any Q2 model you choose with
+sounds from the "Dark Colony".
+
+
+Note: This will only work with Q2 version 3.12 or later.
+
+Instructions: 
+	Unzip these .wav files into your quake2\baseq2\players\[model] 
+	directory.
+
+
+all sounds are borrowed from the dark Colony CD!  .
+
+

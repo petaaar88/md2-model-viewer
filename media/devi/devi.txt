@@ -1,0 +1,99 @@
+04.06.99
+
+================================================================
+Model Name              : Devi, v1.0
+installation directory  : quake2/baseq2/players/devi
+Author                  : Pestilence for PSYCHOSiS Deathmatch
+Email Address           : pestilence@psychosis-studios.com
+Web Address		: www.psychosis-studios.com/psychodm
+
+Model description       : From the pages of Jhonen Vasquez's 
+                          newest work, "I Feel Sick: A Book About
+                          a Girl," comes Devi. After surviving 
+                          an attack by Johnny (the homicidal 
+                          maniac), everyone's favorite artist and
+                          trauma victim returns to exact her
+                          revenge in the Quake arena. Actually,
+                          odds are that, after what happened to 
+                          her (and continues to happen), Devi 
+                          rarely leaves the house, let alone sets 
+                          foot in a deathmatch arena. So, odds 
+                          are that she's here against her will 
+                          and once again, a cruel twist of fate 
+                          has put our Devi in yet another 
+                          situation where she must turn off the 
+                          fear and turn on the severe ass-kicky.
+
+Other info              : This model is officially sanctioned by 
+			  Johnny's creater (and copyright holder),
+			  Jhonen Vasquez.
+                          Again, there is the usual disclaimer on
+                          this model about how I'm still learning. 
+                          Help me to learn. Tell me in what areas
+                          you find the model to be lacking. Better
+                          yet, tell me how to fix those things
+
+Additional Credits to   : id software, Jhonen Vasquez
+
+Thanks to               : Jhonen Vasquez (yet again), Shine,
+			  Magarnigal and Kray-Zee for their
+                          continued LightWave guidance
+================================================================
+
+* Play Information *
+New Sounds              : no, but a .bat file is included for
+                          the purpose of copying the default
+                          female sounds into Devi's directory
+CTF Skins               : yep
+VWEP Support            : yep
+
+* Construction *
+Poly Count              : tris-584
+			  weapon-varied (id VWep)
+Vert Count              : tris-313
+			  weapon-varied (id VWep)
+Skin Count              : 5
+
+Base                    : Johnny the Homicidal Maniac
+
+Editor used             : Modeling:   Lightwave 5.6
+			  Animating:  Lightwave 5.6 + Puppet Master
+			  Skinning:   Npherno's Skin Tool .9b3
+				      Photoshop 4.0.1
+			  Conversion: qME 3.1 p2
+			  Testing:    Skinview 4.3
+
+Known Bugs              : There are a few, but nothing terribly 
+			  major as far as I can tell. First, Devi's
+			  legs are ridiculously poorly modeled. I
+			  mistakenly thought I had figured out how 
+			  to do the legs, but ran into the same 
+			  problems of heinous deformation when the
+			  knees bend. The animations I came up with
+			  along with individual vertex adjustment
+                          in some frames cover it up for the most 
+			  part, making the model release worthy (in 
+                          my opinion, anyway). Also, I was way too 
+			  conservative with the polys this time 
+			  around. Places where it's noticable most
+			  are the front torso and the butt, as well
+       			  as the aforementioned knees. Lastly, the 
+                          skin is strangely mapped. There are a few 
+                          parts that ended up being mapped 
+			  backwards, and shouldn't have been, but 
+ 			  it's neither too noticable nor an extreme 
+			  hindrance to anybody who might want to 
+			  skin it (hey, if I can do it, you can). 
+Build/Animation time    : 3 long weeks
+
+* How to use this model *
+Unzip everything here into your Quake2 directory, then run the included
+"sound.bat" file to copy female sounds into Devi's folder. That's it!
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+Johnny the Homicidal Maniac and Nail Bunny are (C) Jhonen Vasquez and 
+used with permission.  
+Everyone else, don't try to make money off this thing, or Jhonen or I 
+will give you what is known in the business as satanic head bitey. If 
+you want to use the model otherwise, please let me know.

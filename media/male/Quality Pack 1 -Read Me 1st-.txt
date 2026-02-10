@@ -1,0 +1,35 @@
+**************Quality Pack 1****************
+***http://homepages.sylvaninfo.net/skins/***
+               (Male Skins)
+
+*Discription-
+This is the first quality pack compiled from skinpacks 1 & 2.
+This pack was created because of the high volume of low quality
+skins that were being submitted. The time it took to page 
+through them all wasn't too nice either :(. So here is the best 
+of the skins for your enjoyment. Distribuite the skins to all 
+your Quake friends as they are usless if the other players don't 
+have them. Check:    http://homepages.sylvaninfo.net/skins/  for 
+updates and the soon to be released quality pack 2! As well as 
+hundreds of other skins. Happy Fragging!
+
+*Instructions- 
+Unzip All files to the ...\players\male\ directory. Once you 
+have done that the new skins should be avialable in the 
+multiplayer setup screen. 
+
+*Questions-
+1-Q:Why can't the other players see my cool skin?
+  A:If they don't have that skin they won't be able to see it,
+    You will appear as one of the default quake 2 skins to them. 
+
+2-Q:What the fuck! you left out my favorite skin!!
+  A:OH YEAH, FUCK YOU! ....I mean, was that skin in the first two 
+    skinpacks? if so then contact Mike at- genjuro@got.net tell 
+    him what you want included and if there are enough requests 
+    it will be.
+
+*Remember go here->http://homepages.sylvaninfo.net/skins/ to get 
+the best skins for quake 2, get tutorials on creating skins for
+ you fledging artists and submit your own skins in the hope of 
+recieving that ultimate honor of being included in a "quality pack" :)

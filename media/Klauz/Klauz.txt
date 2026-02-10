@@ -1,0 +1,82 @@
+-----
+KLAUS                                                v1.0 17-Feb-1998
+-----
+
+Author:
+    Mike Bristol  [Ansai]
+    Email:			mbristol@cemtech.net
+    TeamTNT member - see http://www.neosoft.com/~teamtnt/
+
+    Klauz is a plugin player model for Quake2.  The model is all 
+    new, and the animations have all been replaced.  There is a 
+    new skin (...), a new weapon and weapon skin.  There is also 
+    a player Icon.
+
+    Klauz began as a Quake homage to the classic "Lobo's Christmas 
+    Special" comic book by Simon Bisley and Kieth Giffen.  In Quake 
+    - with the short range weapons, he had a pair of kick-butt 
+    knives.  With the release of Quake2 I decided to release Klauz
+    as a Player model, and the knives were removed and replaced with 
+    a big gun.
+
+    So - here he finally is.  2 months late.  Just in time to frag
+    that friggin' Saint Patrick's day leprachaun.  Perhaps that's 
+    what my next model will be ... either that or something that 
+    conveys the undeniable Raging Wrath of the Easter Bunny!!  [hi CV]
+
+    Ok, so he's a bit bright!  Like a big red target.  Oh well ... what
+    can you do - I had to use red!
+
+Installation:
+
+Unzip the file into your Quake2 directory.  I put 
+       Quake2/baseq2/players/klauz/
+in the file with pathnames ... if you didn't install Quake2 in a 
+directory called Quake2 you're going to have to do some file 
+juggling.
+
+You will only see other people playing with him if they happen to 
+have Klauz on their harddrive, and vice versa.  w/o the model on 
+their system, you will look like the default male player to 
+potential frags.
+
+Specs:
+
+        Polygons:   442 Klauz
+                    68  Weapon
+                    510 TOTAL
+        Frames:     198
+        Animations: 20
+
+    Programs Used:
+        Modelling:  Lightwave3D Modeler   [http://www.newtek.com]
+        Animation:  Lightwave3D Layout
+        Skins:      NST (v.60 --> .76)    [http://www.quake2.com/modeling/]
+        Models:     qME v3.1              [http://www.xs4all.nl/~renep/quakeme/]
+        Testing:    Ridah's Eraser bot    [http://impact.frag.com]
+
+    The skin is 256x128 but it isn't (by any stretch of the imagination) 
+    optimized.  I would have loved to make use of all that space, but
+    I just did not plan far enough ahead.  Oh well - a learning 
+    experience ...
+
+    The Klauz model and all associated files are copyright of Mike Bristol.
+    Quake2 is copyright of id Software.
+
+    Use him, kill him, kill with him, just don't prift from him.  You may not
+    include this model in any compilations without my consent.
+
+    PLEASE make skins for him.  I'd love to see that.  I decided to go with
+    that deep red - which leaves me only 2 shades of red to blend with.  
+    Bad choice by me.
+
+    I may try to remap the vertexes on the skin if I chosoe to go back and
+    work on this some more.  If someone else decides too ...
+
+    Skinning is not my strong suit quite yet - still learning -
+    and the one I put in there does not really do him justice.  It's more
+    of a "Sweaty Klauz" than anything ...
+
+    Please check here for other player models and information about
+    submitting your own:
+        http://www.planetquake.com/q2pmp/   - Quake2 Player Models Pack

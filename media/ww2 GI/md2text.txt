@@ -1,0 +1,66 @@
+12/15/98================================================================Model Name              : WW2GIinstallation directory  : quake2/baseq2/players/WW2Soldier
+Author                  : Scott A. H. Ruggels
+Skin Author 		: Scott A. H. Ruggels and
+Email Address           : scott.ruggels@3do.comModel description       : 
+
+This is a model of a WW2 US Solider, or allied soldier using US equipment of WW2 vintage (Free French, Brazilian, Late war Australians, Republic or Korea during Korean War, ARVN, Mexico, oe anyone supplied with US style gear.)  The Vwep package includes: 
+1.)M1 Carbine, 
+2.)M1897 Winchester pump action trench gun, 
+3.) M1 Garand, 
+4.) M1A1 Thompson SMG, 
+5.) Browning Automatic Rifle M1917A1, 
+6.) M1 garand with M3 Rifle grenade attached, 
+7.) 2.35in. Rocket Launcher (Bazooka) (Though this model may change as i have found better photos and may rescul;pt the model to make it more correct.) 
+8.)M1919A6 Machine Gun 
+9.)m1903A1 Springfield Sniper Rifle
+10.) M20 3 in. rocket launcher (Superbazooka)
+
+The standard weapon.md2 is the M1 Garand.
+All Team play motions are enabled.Other info              : 
+
+There are only two skins, plus CTF skins as i was anxius to get this out. Included in the model directory are several photos in color of GI's wearing the various uniforms, so that other people may skin from good reference. Fee free to create skins as long as i get a copy of them, and I am really looking for historically corect skins.
+
+325e3 Is a corporal in the 325 Glider infantry of the 82nd ABN, as they landed in frandce on June6 1944.
+
+USMC is  the Pacific uniform of the United States Marine Corps, circa 1943.
+
+CTF_r is the 'red Force" during wargames in England during the fall and winter of 1943.
+
+CTF_b is the blue Force. Both are from the 1st infantry Division "The Big red One"
+
+CTF_g No historical precedent, but here's one anyway.
+
+If you feel the need to fix the skin assignments for this model, please do so, as this was my first attempt and i think they suck, and make it too difficult for others to map for this model. At least I didn't get too much stretching tho. I do not consider myself to be that hot of a skin artist. The weapons were a breeze comparatively and I think they turned out great.
+
+Additional Credits to   : 
+
+Will Faust for advice  in animating the model and the use of his machine on weekends
+ [    ] for skin linking of Vweps and technical asistance.
+
+Thanks to: 
+
+Hitman Daz for his encouragement and fine example in creating a realistic model, Rogue13, for his encouragement as well, as wel as running the best Quake2 Model site on the net.
+Alvin Muolic for his unput, as well as Robert Zalot.
+================================================================* 
+Play Information *
+New Sounds  : Sort of (The Soundpack from the "Terrorist" PPM)
+CTF Skins               : Yes 
+VWEP Support            : Yes, for Quake 2 Only, and Period correct too * Construction 
+*Poly Count             : 600
+Vert Count              : 301
+Skin Count              : 5
+Base                    : original model
+Editor used             : 3dsMax1.2, NST,Q2mdlr,Photoshop5.0
+Known Bugs              : ???
+Build/Animation time    : Mesh: 12 hours, animation: 35hrs,skins: a lot.
+
+Please install so that the final directory path looks like:
+ 
+quake2\baseq2\players\ww2soldier
+
+
+* Copyright / Permissions *QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+This model may be used  fo non commercial purposes free of charge. For use in commercial properties the author charges 7% of gross sale recipts of the product it is used in. rate and usage is negotiable though before useage. Ask me nicely. Any new kins, skinning modifications, or other animation is welcome provided the author is sent a copy. Thank you
+
+Scott

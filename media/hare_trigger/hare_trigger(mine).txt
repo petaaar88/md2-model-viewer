@@ -1,0 +1,24 @@
+Hare Trigger
+
+Conversion to Quake2 of the Rabbit Model 
+
+
+Original Model by Elwood - dullien@cww.de
+
+Quake C patch by The Serpent Lord - www.oz.net/~simitar
+
+
+Bad conversion of model and skin done by Me(MinorWolf)
+
+As I have listed at the top, thanx to Elwood for making the model and Serpent Lord for 
+his great Free Models homepage.
+
+This is really my first try at converting/making a Quake2 model so I will probably fix
+this model up a bit(like giving it good taunts etc.) at a later time when I learn the
+basics of Quake2 modeling.
+
+
+Put this model in the baseq2/players directory under hare_trigger
+
+		ex:baseq2/players/hare_trigger
+ 

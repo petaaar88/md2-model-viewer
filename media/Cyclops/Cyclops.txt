@@ -1,0 +1,46 @@
+29/01/99
+================================================================
+Model Name              : CYCLOPS  (X-Men)
+installation directory  : quake2/baseq2/players/Cyclops
+
+Author                  : Rog 3D (Piston@dial.pipex.com web site: 						http://www.unrealnation.com/Rog3d/)
+
+Skin Author 		: me :) (sorta)
+Email Address           : piston@dial.pipex.com
+
+Model description       : This is my First Q2 PPM, which i guess is kinda a test for me
+			the mesh that i used wasnt Modeled for use in Q2 but i thought it 			might make a good enough PPM to practice on. Its a bit rough in all 			Departments but i learned a lot making it and should make my Next 			one a LOT better. :)  
+
+
+Other info              : Sorry about the Skin as it looks really rough, 					but i was using bits and Bobs from various images of Cyclops to 			make a decent skin from. Also the weapon model mapping isnt 				very clever.Please mail me with any info/comments/suggestions etc ..
+
+Additional Credits to   : id Software, QTip(MD2 Exporter)
+
+Thanks to               : EvilB, who gave me nice comments and also showed me a few 				things. ;)
+			The People that took the time to write all the Tutorials out there.
+================================================================
+* Play Information *
+
+New Sounds              : NO
+CTF Skins               : NO (Not at present)
+VWEP Support            : NO (Not at present)
+
+
+* Construction *
+Poly Count              : 668 polys
+Vert Count              : 336 Verts
+Skin Count              : 1 Skin
+Base                    : New model
+Editor used             : 3DSMax 2.5 + CS/Phsique and QTip Plugin (PHShop 5 for Skin)
+Known Bugs              : No idea, seemed ok to me. But please email me with any you find!=D
+Build/Animation time    : 1 week on and off
+
+
+* How to use this model *
+
+Unzip into your baseq directory and the Cyclops model`s folder will appear in the Players Directory within.
+
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Feel free to do what you will with the Model, but please Do not put this model in any sort of commercial product without my prior permission. 

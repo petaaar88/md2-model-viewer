@@ -1,0 +1,47 @@
+<4-06-00>
+================================================================
+Model Name              : Marvin the Martian
+installation directory  : quake2/baseq2/players/MarvinMartian
+Author                  : Flamingice & Fafner
+Skin Author             : Flamingice
+Email Address           : Flamingice: Blee666@hotmail.com
+                          Fafner: fafner_@hotmail.com
+
+Model description       : It's Marvin the Martian
+
+Other info              : Flamingice made the Marvin model, the Marvin gun model, all the Marvin skins, all the gun skins, and the skin mapping for his models.  I (Fafner) did the animations, the sounds, exported/compiled everything, added the Action vwep, and made the dynamite model and skin.  The Action Q2 weapons are by the Action team.
+
+                          This is just for Quake2, it won't be released for UT or Q3.
+
+================================================================
+* Play Information *
+New Sounds              : Yes
+CTF Skins               : Yes
+VWEP Support            : Yes
+
+* Construction *
+Poly Count              : 791
+Vert Count              : 485
+Skin Count              : 11
+Base                    : New
+Editor used             : Flamingice: Paint Shop Pro 6, Q2modeller, Lightwave 5.6, NSTv09b3, Adobe Photoshop 5.0
+                          Faf: 3dsmax 2.5, Character Studio, NSTv09b3, Paint Shop Pro 6, Q2modeller, QTip, AudioView, and Notepad :P
+                          
+
+Known Bugs              : Faf: The weapon clips the hand in the wave animation.  The Action weapons clip everything everywhere.  The dynamite skin is ugly.  The mp5 is jiggly.  The death3 doesn't make sense unless it's a falling death, but death animations don't play out right in Q2 half the time anyway.  Some other stuff too.  Note:  the action weapon skins come with Action, so they are not included here.
+
+Build/Animation time    : Flamingice: Modelled in 2 days, skins and everything else on and off for over 2 months
+                          Fafner: 2 months on and off
+
+* How to use this model *
+
+Get the MarvinMartian folder into your baseq2/players directory.  Make sure there are no stray files in your players directory otherwise you may not be able to select any custom models.
+
+To play as Marvin, start Quake2, go to the multiplayer menu, choose player setup and select MarvinMartian.
+
+The folder is named "MarvinMartian" because "Marvin" was taken by Starvin' Marvin :P
+
+
+* Copyright / Permissions *
+
+Do whatever you want with this as long as you aren't making money.  You can't use this as a base for other models and don't try to convert this for use in another game!  If you wanna use Marvin in a movie or a mod or whatever go ahead as long as we get credit for it.

@@ -1,0 +1,12 @@
+Incase you don't know how do use these just extract all the .wav files to
+the path 
+c:\quake2\baseq2\players\jeep
+That's it! 
+(don't use C:\ if that not the drive letter quake2 is installed on)
+
+If you like what you hear (or don't) please send mail to...
+jinx@avana.net
+or
+phm0@hotmail.com
+
+-bloodstar

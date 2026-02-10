@@ -1,0 +1,29 @@
+
+QUAKE2 CYBERSNORK SKIN (FOR USE WITH SNORK MODEL ONLY) 1/18/98
+
+Desciption: My variation on the original snork skin for this model.
+
+Author: Rikki Knight
+
+E-Mail: skins: phukyumoto@swbell.net
+	models: kray-zee@planetquake.com 
+
+Homepage: http://home.swbell.net/wigger/skinframes.htm
+
+Files:  cybersnork.pcx
+	cybersnork_i.pcx
+        cybersnork.txt
+
+Instructions:  
+        1. you must have the snork model installed into your
+         "quake2\baseq2\players\snork" directory. If you don't have it
+          go to: http://www.planetquake.com/modeling
+        2. copy the above files into "quake2\baseq2\players\snork" directory
+
+
+Thanks: ID-Software
+        Kray-Zee for the great model. Thanks man.
+
+Other: You may distribute it, as long as it is
+      unedited and all files are intact. (for example this one.)
+      

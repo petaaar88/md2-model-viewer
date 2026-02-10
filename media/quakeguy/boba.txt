@@ -1,0 +1,29 @@
+Name of skin : Bobafett, skin for Quakeguy plug in player model
+Date         : January 30, 1998
+converted by : Dion Isgro   
+Original by  : Dan Bickel
+E-mail       : vpi1@ix.netcom.com
+
+
+Files included
+-----------
+boba.pcx
+boba_i.pcx
+boba.txt
+
+
+About skin
+------
+For all u star wars nuts out there that want a BobaFett skin for every thing...Here is the
+Best one that was around for Q1.
+
+INSTALLATION
+------------
+Winzip or Pkunzip into your c:\quake2\baseq2\players\quakeguy  Dir.
+
+
+NOTES
+-----
+Please distrubute this skin throught the web..
+
+Feel free to use skin as a base for others.

@@ -1,0 +1,55 @@
+03/13/98
+================================================================
+Title                   : Capture the Flag Kanga Skins
+Filename                : ctfkanga.zip
+Author                  : Dann Thombs (Dann the Man)
+Home Page               : General --> http://www.thombs.com/~dann/
+                          3-D   --> http://www.geocities.com/TimesSquare/Alley/5890/ (3-D gophers)
+                          Half-life   --> http://www.half-life.net/ 
+Email Address           : dann@thombs.com
+Description             : CTF skins for the Kanga PPM designed for LightWave CTF 
+
+Additional Credits to   : NST, and the original skinner of Kanga, the CTF logos
+
+
+
+================================================================
+
+* Play Information *
+
+New Levels         :No
+New Sounds         :No
+New Graphics
+     --lmp         :No
+     --wal         :No
+     --pcx(skins)  :Yes
+New Models
+     --md2         :No
+New QuakeC         :No
+
+* Construction *
+
+Base                    : Kanga skin
+Editor(s) used          : NST
+Known Bugs              : None
+Build Time              : Hour, maybe
+Compile machine         : Gateway 2000 G6-200
+
+* Files *
+---------------
+ctf_r.pcx
+ctf_r_i.pcx
+ctf_b.pcx
+ctf_b_i.pcx
+
+* Other Info *
+You can put these skins into the players/kanga directory, and if others have it, they will see it. 
+Even if you don't use it, you should still put it in your players/kanga dir, so you will see others
+if they are using the skin. Very useful with the Eraser bot.
+
+
+
+* Copyright / Permissions *
+You may use this for a complilation of skins.
+
+Whatever you do just give me credit.

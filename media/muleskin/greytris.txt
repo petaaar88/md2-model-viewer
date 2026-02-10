@@ -1,0 +1,5 @@
+Little GREY alien invading bastard accidentally spatially displaced into a q2 deathmatch. 
+
+ver 2.
+
+updated tris file ,(no more grey corpses in walls and correct mesh to match base skin frame)

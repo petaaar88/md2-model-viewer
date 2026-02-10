@@ -1,0 +1,99 @@
+**************** Doom Unleashed Doomguy
+
+By Phoenix
+phoenix9000@netzero.net
+
+Based on the original Doomguy by Dan "Neurobasher" gomes
+neurobasher@planetquake.com
+
+The Doomguy shall never die.  So it is written, so it is done!  Like the Phoenix he keeps rising for more action, but THIS time he brought his favorite weapons in the form of a two Pak files.  This section will cover the player model itself.  Read pakinfo.txt for the weapon changes, and read "Doom Unleashed.txt" for the story!
+
+*** Model Changes
+
+I did a lot of touch-ups on the model.  I did NOT make it from scratch!  This took the longest, and was the most grueling because I wanted to make him look different, but not lose the feel of the original.  I really hope you like it, because I worked my tailfeathers off!
+
+Note to would-be modelers:  If you want to make a model based on someone else's, or modify an existing model, do yourself a favor and contact the original author BEFORE you start!  It saves a lot of worry later, and usually they will let you as long as you give them the credit they rightly deserve.
+
+Here are the changes:
+
+Tweaked the basic model to make arms look less "chunky".
+Tweaked the body so he's trimmer.
+Fixed up the face mask.
+Redid *ALL* standing frames from scratch.
+Redid *ALL* running frames.
+Did vertex by vertex tweaks (grueling!!!) on all other frames including:
+
+Attacking
+Pain
+Jumping
+Taunting/waving, etc
+Crouching
+Crouch Walk/Attack/Pain
+Remade Crouch Death
+All Death Frames
+
+The only thing I did NOT mess with is the punching frames.  These were extra frames included from Generations, and I am burned out, and don't feel like it.  They are not relevant to Quake II, but I included incase anyone is continuing the Generations project (the legalities of such being THEIR concern, not mine) or some kind of Doom TC for Q2 and wants to use this model, provided they contact Neuro and get his OK first.  For the casual Q2 player, you won't even know they're there, so don't worry about them!
+
+*** Vweap changes
+
+I swapped the chaingun and machinegun vweaps, so that the machinegun is the six barreled gun and the chainsaw takes the place of the chaingun.  Read the pakinfo.txt file for more info on that.  I also redid the Doom Chaingun skin to make it a bit more spiffy.
+
+I repaired the vweap for the Doom chaingun (now the machinegun) as well.  There were duplicate faces that were not skinned.  I deleted them, and the vweap now skins properly!  To date,  I don't know of anyone else who has fixed this problem. =)
+
+*** Skins
+
+Well, I had downloaded the Doomguy from 3DBodyshop when it was still up.  It was posted by Nefarious.  Later I found out from Neuro that he had not contacted him on this.  To date, I have not been able to contact Nefarious at all.  I borrowed one of the facemasks, so I can give him credit for that, as I did use them as the basis of mine.  That will answer any questions about why my skins differ from the Neuro's on Polycount in name, etc.
+
+However, I redid ALMOST all of the skins.  The basic skins I darkened, so they are not so pale.  I also replaced the colored face masks with the face mask from the Greenf skin on all the skins.  The only one's I didn't change were White, Brown, and Greenf, except for the masks of course.
+
+I modified these skins:
+
+Red - made darker, bolder
+Orange - Now a blaze orange
+Yellow - He spent too long in the nukage... 8>
+Green - made a darker shade, like the Original Doom marine
+Blue - made darker
+Indigo - made darker
+Black - Made into one of the greatest skins in existence!!
+CTFR - made darker, gave red gloves and boots
+CTFB - made darker, gave blue gloves and boots
+
+
+I added these skins
+
+Darkgreen - has a Camo feel, with black gloves and helmet
+Phoenix - my own custom skin
+Phoenix2 - Same, but with standard boots and helmet
+
+Rocket arena skins!
+See the installation section for the proper use of these.
+
+r2aqua - Same as the Black skin
+r2blue - Blue with Blue gloves, boots, and helmet
+r2red - red with red gloves and boots
+r2dgre (dark green) - same as dark green skin
+r2lgre (light green) - same as greenf
+r2oran - same as orange skin
+r2yell - same as yellow skin
+
+Other skins (for use in Cyborg folder with RA2)
+
+oni11
+tyr547
+ps9000
+disguise
+
+*** Sounds
+
+The doomguy now:
+
+Grunts...
+Falls...
+Jumps...
+And dies...
+
+... all with Doom sounds.
+
+Update:  These are part of the player model, so they work with or without the pak files.  Also, at time of original writing, I was unaware that Neuro's model had sounds.  Mine are close, but differ in a few subtle ways.
+
+Granted, there were only a few player sounds in Doom, but I DID modify them a bit, so they play at a slightly lower frequency as his health drops, and he screams 3 different ways (one High, one low, one extremely painful).  His jump and land sounds are the same, except the painfun *CRRRUNCH* from extreme height.  Jump of the tower on "The Edge" and find out for yourself!

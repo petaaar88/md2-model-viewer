@@ -1,0 +1,16 @@
+			-=Canman=-
+		      Plug-in Player
+		      model made by:
+		        Spamincan
+		   canman888@yahoo.com
+
+Installation:
+Make folder in "Quake2\baseq2\players" called "Canman". Place files included in zip in the "canman" folder.
+Play Quake 2.
+
+Skins:
+The regular skin for canman is made for Gl mode, so it doesn't look that great in regular mode. I also made the skin simple so anybody can use it for a base skin.
+
+Sounds:
+There aren't any. Why? Because my microphone is screwed up.  So I am holding a contes for the best sound pack I receive from anyone.  The reward is that the winning sound pack will receive the title "OFFICIAL CANMAN SOUND PACK."  Send all sound packs to the E-Mail adress at top or christe@usinternet.com. 
+					Thanx   

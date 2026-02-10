@@ -1,0 +1,35 @@
+JACK'S BACK
+------ ----
+
+Title: Jack
+Author: Andy Craft, "The BoogieMan"
+Email: boogie.man@worldnet.att.net
+ICQ#: 13916880
+Editor: Quake2 Model Editor v0.83
+Time Spent: too much
+Description:	If you are one of those who is afraid of clowns, I have some bad news
+	for you: Jack's back.  If you don't know who Jack is, you don't want to.  He's
+	the psychotic Jack in the Box player model for Quake2.  But now he's back, with
+	a lower polycount, better skins, better animations, sounds, and the ever so
+	popular VWEP support.
+Installation:	Unzip all the files into a subdirectory called "Jack" in your players
+	directory.  You can then select Jack in the player setup menu in Quake 2.
+Skins:		I can never get enough skins for this model (until I run out of HD
+	space).  I have included SOME skins for the model, but they're not enough.  I
+	tried to get as many skins as I could before I decided to release the model,
+	but no one sent me any.  However, I'd still like to get a bunch of skins, and
+	if I get a lot, I'll probably make up a skin pak for the model.
+
+	SO SEND ME YOUR SKINS!
+Sounds:		The sounds are just plain loud and obnoxious.  They go great with the
+	model.  Special thanks to my dad for the crazy laughing sounds.
+Comments:	Send me your comments.  Again, send me your comments.  I usually don't
+	receive a lot of comments for my models.  I like to hear what people think
+	about my work and what they could suggest for my future models.
+	
+	SO SEND ME YOUR COMMENTS!
+
+	Oh, and the fact that the bump1, drown1, gurp1, and gurp2 sounds were left out
+	was not a mistake, so there's no need to point that out to me.
+
+-ENJOY JACK-

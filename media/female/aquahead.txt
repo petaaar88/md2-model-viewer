@@ -1,0 +1,68 @@
+
+	...quake 2 skin readme...
+
+	...aquahead...
+
+	title:		aquahead
+	author:		SkItTlEs
+	email:		skit514@mindless.com
+	web:		http://members.xoom.com/3dstuff/cogwheel/
+			http://members.xoom.com/3dstuff/teamqaz/
+
+	...about the skin...
+
+	build time:	about 2 hours (i work slow)
+	editor used:	Paint Shop Pro, NST
+
+	...included files...
+
+	files included:
+	aquahead.pcx --the skin
+	aquahead_i.pcx --the skin icon
+	aquahead.txt --this file
+
+	...instructions...
+
+	extract the zip file to your 
+	Quake2\baseq2\players\female 
+	directory, or manually place 
+	.pcx files into that folder.  
+	to use it, hit escape and goto 
+	the multiplayer section, choose 
+	female as the model, and aquahead 
+	as the skin.  or for a quicker 
+	process, bring down the console
+	by pressing the ~ key and type: 
+	"skin female/aquahead", omitting 
+	the quotes.  
+
+	...about aquahead...
+
+	aquahead is my first quake 2 skin, 
+	and it's not much to look at, i only 
+	edited the top half of the skin, just 
+	to see where all the polys/curves are 
+	on the model.  if you can't figure it 
+	out, the skin is called aquahead 'cause 
+	the skin has blue/aqua hair.  in the 
+	game the hair sticks out the most, 
+	otherwise you couldn't really pick it 
+	out among the rest of the female skins.  
+	enjoy it.  
+
+	...legalese and disclaimer...
+
+	the contents of this add-on were 
+	created originally by me or used 
+	with permission.  if you want to 
+	use any of this for another mod 
+	or project, contact me and we'll 
+	work things out.  all i demand is 
+	you contact me and give me some 
+	credit (preferrably leaving this 
+	text file with the add-on).  
+	this add-on may _not_ be put on 
+	a compilation cd or similar things 
+	without direct permission from me.  
+	quake 2 and all related stuff is 
+	property of id software.  

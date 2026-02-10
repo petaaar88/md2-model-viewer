@@ -1,0 +1,121 @@
+Haai! (yes, that's my favorite GP welcome :)
+--------------------------------------------
+
+
+You're reading the textfile that should accompany my first Plugin Player Model,
+the U.F.O. enemy unknown Powersuit, complete with skin, weapon model and skin and
+sounds that I got from SIN (just a thug), cause the gurgling sound when you die sounds
+pretty damn kewl.
+
+Please note that when unpacking the zip, unzip to your Quake2 directory, with
+Recurse directories/Folder Names activated.. then everything will be e-ok.
+
+If you don't have the model, or something is wrong with it,
+(the directory where everything should be, is Quake2/baseq2/players/UfoPS )
+just download it from my Homepage, www.BaRT.nl/~Tabun
+(I sure would like it if you would come to take a look at my other stuff anyway...)
+
+:)
+
+================================================================
+
+finished 10-12-98
+
+================================================================
+
+Model Name              : Powersuit
+
+installation directory  : quake2/baseq2/players/UfoPS (but unpack to Quake2 dir)
+
+Author                  : Asmodai Tabun
+
+Email Address           : fpTabun@Hotmail.com
+
+Website Address         : www.BaRT.nl/~Tabun/index.htm
+
+Model description       : 
+
+        I sure as hell hope you've taken the time to play UFO enemy unknown
+        by MicroProse (c), cause it rocks!
+        The Powersuit is a suit that is energized by Elerium 115, an alien
+        element that cannot be found or reproduced on earth.
+        The suit is powerful enough to resist
+
+Other info              : 
+        My first model, so don't go pickin' on it.
+        I know there are some pretty damn idiotic errors in it, like the
+        head coming out of the chest in the "no-head" death sequence, but
+        if you don't go lookin' for it, you won't find it that easily.
+        
+        Also, I don't understand why so few model-makers use the nice
+        tactic of placing the skin mesh of arms and legs over eachother,
+        mirrored. It gives you the opportunity to give your skinz much
+        more detail (although mine doesn't really have that ;)
+
+	
+Additional Credits to   : 
+	* Idsoftware 
+	* Q2modeler
+        * Paint DX (ID uses it too :)
+        * NST (relaxed resizing)
+
+
+
+Thanks to               :
+
+        Everyone that gave me a 9 for my model (tnx [KING]Chaos!),
+         and all those who have told me that it looks ok.
+        (cheesy anim's ey YamAUchi :)
+        The authors of all programs that I used.
+        MicroProse for making the best game ever: U.F.O. enemy unknown
+        and ofcourse: ID software for making the best
+        3d rail-em-all's :)
+================================================================
+
+* Play Information *
+
+New Sounds              : YES (SIN thug)
+                          All sounds were made by
+                          erm.. SiNTek :) At least there is one
+                          good thing about that game...
+
+CTF Skins               : NO
+
+VWEP Support            : NO, but no diapers. :\
+                          well.. at least I don't see any... :)
+
+
+* Construction *
+
+Poly Count              : 489 tris.md2 / 134 weapon.md2
+
+Vert Count              : 244 tris.md2 / 69 weapon.md2
+
+Skin Count              : 1 DM, 2 CTF  skinz
+                          If anyone feels like making more skinz for this model,
+                          mail me, and you'll get a nice skin mesh pcx and some
+                          info about tricky things 'n stuff. I'm not that good
+                          at making skinz, so feel free to give me a hand :)
+
+Base		        : None. I just love scratch :)
+
+Editor used             : 
+		Modeling   - 3D Studio Max
+		Animation  - 3D Std Max character studio
+		Skinning   - Q2modeler, NST
+		Painting   - Paint Deluxe 1.1
+                Converting - WinJPEG
+		
+Known Bugs              : None. Except some overlapping parts
+                          of the legs :(
+
+Build/Animation time    : about 20 hours total over 2 weeks.
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of ID Software, Inc.
+Feel free to listen to music that you like, sell this model or take over the world.
+Just be sure to give me a mail at fptabun@hotmail.com if you do.
+
+Happy DM'ing and cu at Gamepoint!
+
+Ciao,   Asmodai Tabun

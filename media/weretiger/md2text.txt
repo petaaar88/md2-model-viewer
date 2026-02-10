@@ -1,0 +1,11 @@
+3-6-1999================================================================Model Name              : WereTigerinstallation directory  : quake2/baseq2/players/weretigerAuthor                  : STriker RedWolfSkin Author : STriker RedWolf for Tygris, numb <petvirus@hotmail.com> for RealisticEmail Address           : tygris@erols.com, tygris@yahoo.comModel description       : Werewolf was lonely, so Weretiger was born.  It's your 
+	generic werefeline body, but initally a personification of Tygris (which is
+	just a skin now.  Unfortuantely.Other info              : Numb send along a skin that's a very realistic mapping onto
+	the fur.  Additional Credits to   : Id Software, the makers of QME, NST, and Q2Modeler.Thanks to               : Nakira, Jordan GreyWolf, Cougr, and Trixi Bigfoot of
+	Furry Fandom (not the demented fandom, the cleaner side!)================================================================* Play Information *New Sounds              : NOCTF Skins               : NO, but possible.  Any takers?VWEP Support            : NO, but possible.  Any takers too?* Construction *Poly Count              : 694 w/o gunVert Count              : 376, skin 550Skin Count              : 2Base                    : New modelEditor used             : QME, with Q2Modeler and NST aiding.Known Bugs              : Don't ask.  The animations aren't great, the body itself needs
+	reconstruction, and Paul Steed would flame it in an instant (Paul?  You out there?
+	You want to whap this model some?)Build/Animation time    : Over a year, which is too long.* How to use this model *Install as usual in baseq2/players/weretiger.  Linux users should upgrade their kernel to
+at least 2.0.35.
+* Copyright / Permissions *QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.WereTiger PPM and Tygris Skin is (c) 1999 Kelly Price (aka STriker RedWolf), and is a
+Graphics by STriker RedWolf production.  Permission is given for entertainment and artistic
+uses only.  Commercial rights reserved.  E-mail STriker requests for additonal permissions.

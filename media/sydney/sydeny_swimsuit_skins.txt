@@ -1,0 +1,31 @@
+[PLAYER PLUG-IN MODEL SKINS]: For Sydney PMP by Brian 'EvilBastard' Collins (brian@zono.com)
+
+[FILE NAME]		    : Sydney_Swimsuit_skins.zip
+[AUTHOR]		    : Mike Williams  (shycharm@psychiatrykills.com) 
+
+[INSTALLATION]		    : unzip this file into your quake2\baseq2\players\sydney directory.
+
+[UTILITIES USED]	    : Paintshop Pro 4, Adobe Photoshop 4.0, Npherno's Skin Tool, Thumbsplus 3.0, 
+			    : Open GL MD2 Viewer. 
+
+[FILES INCLUDED]	    : Base.pcx, Base_i.pcx, BlueSwim.pcx, blueswim_i.pcx, corset.pcx,
+			    : Corset_i.pcx, dancer.pcx, dancer_i.pcx, dinner.pcs, dinner_i.pcx,
+			    : redcorset.pcx, Redcorset_i.pcx, sherbert.pcx, Sherbert_i.pcx
+			    : Swimsuit.pcx, Swimsuit_i.pcx, undies.pcx, undies_i.pcx, Work.pcx,
+			      Work_i.pcx, Sydney_swimsuit_skins.txt, groupshot.jpg
+
+[Thanks To]		    : Brian 'EvilBastard' Collins (brian@zono.com) for making the model.
+			    : Mike McMillen  Aka. Happy Slappy (mike.mcmillen@sierra.com) for advice.
+			    : 666 for inspiration.
+			    : NPherno for making the best skinning tool ever,
+			    : My Girlfriend for modeling so I could get the shadows right. :)
+
+{Notes} 		    : I didn't bother to make my own ?????_i.pcx files. I was too lazy.
+                            : The face on the model is a modification of Brian 'EvilBastard' Collins'
+			    : orginal face. I just changed the makeup. The Skins are simply Brian's Model
+			    : Sydney in different clothes.
+			    : I included the Base.pcx so others could paint clothes on her also. You are 
+                            : welcome to use it. Only include my name and email address in in you readme file,
+                            : Crediting me for the base if you post anything you make with it.
+			    : If you would like me to make skins for you let me know. I might just do it.
+                            : (shycharm@psychiatrykills.com) 

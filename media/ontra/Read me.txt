@@ -1,0 +1,57 @@
+
+7/8/99
+
+Model Name              : Ontra
+
+Model Author            : Edmundo Bordeu
+
+Skin Author             : Edmundo Bordeu
+
+Email Address           : ebordeu@rdc.cl
+
+Model description       : Ontra has no previous history, he was made up by me, born in my brain during one of those history classes where I wasn´t paying much attention. 
+	He´s an anphibian tribe eel-hunter, he has tentacles instead of feet, and also has four back tentacles that end in deadly clubs... but since this is Quake 2 he has to depend on his high tek arsenal.
+	Tempted by the meat from animals he can´t hunt in the seas and swamps, Ontra leaves his homeland whith his adaptive gun, expecting to frag a lot and get enough food for the season.
+
+Additional Credits      : THIS MODEL WAS MADE WITH DARIN PETERSEN'S QTiP! It was the only great tool that could get my stuff from 3D studio max to md2 format. Qtip´s web page is: home.earthlink.net/~benthroop 
+			  
+
+----------------------------------------------------------------------
+
+Play Information: 
+
+New Sounds              : yes
+CTF Skins               : yes    
+Full VWEP Support       : no
+
+Construction:
+
+Poly Counts
+Tris.md2		: 749
+weapon.md2		: 122
+
+Vert Counts
+tris.md2		: 380
+weapon.md2		: 90
+
+Skin size
+tris.md2		: 256 X 256
+weapon.md2		: 128 X 128
+
+Skin Count              : 5
+
+Editors used:
+
+Modelling, animation, uvw mapping : 3D Studio max 
+
+Converting      	          : Qtip
+
+Skin making                       : Photoshop 5.0, Paint Shop Pro 5
+ 
+Skin mapping details	          : NST
+
+Notes                 : The model has some minor clipping problems, but hopefully you wont notice them. 
+			  
+Building time           : Too many damned weeks! This is my first model ever, and I took a lot of time to learn how to use the tools.
+
+				THE END

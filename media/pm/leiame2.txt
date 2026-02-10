@@ -1,0 +1,17 @@
+
+ 
+                             ------------ Demos -------------
+
+      Eu incluí 2 demos : counter sniper e city streets. Ambos são legais de serem vistos 
+  e sentir como o modelo e skins ficam no jogo. Fantástico ! :)
+
+
+   Para ver :
+
+   copie (or mova) ambos os demos para o diretório quake2\action\demos\
+
+   Inicie um jogo e digite no console (aperte ~) demomap DEMO.DM2.
+
+   Onde DEMO é o nome do demo e lembre-se que você DEVE colocar .dm2 no final.
+                                        
+                                                               Daniel Garcia Romero

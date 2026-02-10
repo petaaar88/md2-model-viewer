@@ -1,0 +1,96 @@
+
+
+9/4/99
+
+================================================================
+
+Model Name              : Protoman
+
+installation directory  : quake2/baseq2/players/protoman
+
+Author                  : Stedman Wilson (TDaemon)
+
+
+Email Address           : smwilson@isaac.net
+
+
+
+Model description       : This is Protoman, you know, from the
+			  Megaman series.  He is a prototype
+			  cyborg built by Dr. Light to act as
+			  a brother figure to Megaman.
+
+
+
+Other info              : 1116 triangles
+			  Skin size: (400*300)
+			  
+			  Pressing these keys will result in:
+			  H=Disco style
+			  J=Try to salute and hit self in head
+			  K=Do the can-can!
+			  L=Wave
+			  U=Point and laugh
+
+
+Additional Credits to   : id Software, qME, and Rene Post
+
+
+
+Thanks to               : Mr T.  Why?  Hell, I don't know.
+
+================================================================
+
+* Play Information *
+
+
+
+New Sounds              : NO
+
+CTF Skins               : NO
+
+VWEP Support            : NO
+
+
+
+
+
+* Construction *
+
+Poly Count              : 1116
+
+Vert Count              : 836
+
+Skin Count              : 1
+
+Base                    : New model
+
+Editor used             : qME
+
+Known Bugs              : This junk is bug free!
+
+Build/Animation time    : N/A
+
+
+
+
+
+* How to use this model *
+
+
+Unzip this .zip file into a directory under c:\quake2\baseq2\players, called:
+
+C:\Quake2\baseq2\players\Protoman\
+
+
+
+* Copyright / Permissions *
+
+
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+
+
+You may distribute this model anywhere, do whatever the hell you want
+with it, as long as provide credit to me, TDaemon (smwilson@isaac.net).

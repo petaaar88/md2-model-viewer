@@ -1,0 +1,15 @@
+Plugin playermodel Sauron by Elmek
+
+Installation: Create a directory called SAURON in your 
+//quake2/baseq2/players directory and just unzip the files
+there.
+
+Choose the player in the mulitplayer menu inside Quake2
+
+Tools used: 	3dsmax		(model & animation)
+		q2modeler 	(compiling and baseframe)
+		NST 		(Skin)
+
+Comments to elmek@mail.bip.net
+
+Have fun...

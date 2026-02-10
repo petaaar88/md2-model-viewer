@@ -1,0 +1,78 @@
+
+3/13/99
+================================================================
+Model Name              : John Carmack
+installation directory  : quake2/baseq2/players/carmack
+Author                  : Dana Jan (QuartZ)
+Email Address           : djan@u.arizona.edu
+
+Model description       : This is a model of id genius, John Carmack.  I was
+                        inspired to make this model after a friend of mine
+                        (Darkness) said "hey, make a John Carmack model." So
+                        I did.  I made him as low poly as possible, and tried
+                        to focus attention to the skin and animations.  Since
+                        Mr. Carmack is a legend, I figured others would like
+                        to run about the levels as the man who made it all
+                        possible.  And so I give you my John Carmack model.
+
+
+Other info              : This is the first model that I have completed for
+                        Quake2 (Player Model that is.)  So there are of
+                        course some weak areas...but I know what they are!
+                        My complaint is that i didnt take enough time to
+                        build dummy objects for the joints.  I whipped this
+                        model out in 5 days (while going to college) so I
+                        didn't make it the best model around.  It's just a
+                        fun model...period.  I hope you all enjoy!
+
+                        I would have included sounds BUT, my only source for
+                        sounds are 2 .MP2's that I got off the net which were
+                        recently pulled because they were unauthorized.  I
+                        felt it would be in bad taste to use materials that
+                        "The Man" felt were not for the public.  I respect
+                        John Carmack and so you'll have to live with the male
+                        sounds.
+
+                        Oh, and i you do get to see this model John, drop me
+                        a line!  hehehe...thanx!
+
+Additional Credits to   : John Carmack, Paul Steed, all of id, Zoid, CRT, and
+                        everone else involved in making quake the best game
+                        ever.
+
+Thanks to               : Darkness for the idea and Especially my girlfriend
+                        Annie Chiang who puts up with me when I skip class to
+                        work on 3D Modelling and all the other times I'm
+                        glued to the screen instead of her!
+
+================================================================
+* Play Information *
+
+New Sounds              : NO
+CTF Skins               : YES (actually RA2 skins)
+VWEP Support            : YES
+
+
+
+* Construction *
+Poly Count              : 497 polys
+Vert Count              : 272 Verts
+Skin Count              : 5 Skins
+Base                    : New model
+Editor used             : Modeled in Lightwave 5.5, Animated in 3DS MAX R2
+Known Bugs              : No known bugs
+Build/Animation time    : 10 hrs Build, 4 days part-time Animating.
+
+
+* How to use this model *
+
+I've made a self extracting ZIP/EXE so hopefully you already told it where
+your Quake2 directory is.  If you want to install it manually, simply stick
+all the files into a folder called "carmack" inside your players folder.
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+This model may only be redistributed in its original ZIP for.  No files may
+be omitted or added if redistributed.  If you would like to use this model
+for any other reason than personal use, please contact me first.

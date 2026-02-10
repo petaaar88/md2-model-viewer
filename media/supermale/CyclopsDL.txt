@@ -1,0 +1,56 @@
+    QQQQQQQ          2222222          CCCCCCCC         SSSSSSS
+  QQQQQQQQQQQ      22222222222      CCCCCCCCCCCC     SSSSSSSSSSS
+  QQQ     QQQ      222     222      CCC      CCC     SSS     SSS
+  QQQ     QQQ            222        CCC                SSS
+  QQQ     QQQ          222          CCC                  SSS
+  QQQ     QQQ        222            CCC                    SSS
+  QQQ     QQQ      222              CCC      CCC     SSS     SSS
+  QQQQQQQQQQQ  ..  22222222222 ..   CCCCCCCCCCCC ..  SSSSSSSSSSS ..
+    QQQQQQQ    ..  22222222222 ..     CCCCCCCC   ..    SSSSSSS   ..
+       QQ
+         Q
+---------------------- ---- --- -- -
+"Cyclops"Version For The SUPERMALE PPM Quake 2 skin
+---------------------- ---- --- -- -
+Created by DaLinK    E-Mail:DaLinK@Q2CS.QuestGate.Net
+Special thanks to iD software & Marvel Comics for the inspiration
+---------------------- ---- --- -- -
+instalation:
+Extract CyclopsDL.pcx and CyclopsDL_i.pcx into your 
+Quake2\baseq2\players\supermale\   Directory
+---------------------- ---- --- -- -
+I hope you like it!
+---------------------- ---- --- -- -
+              !!!NOTICE!!!
+The Character "Cyclops" MAY be ©Marvel Comics BUT 
+the skin and design are ©DaLinK so Please DO NOT
+Steal my design, I DO NOT take requests as 
+Real life is already too much for me, BUT you CAN make 
+suggestions.  Also Notice, my skins are for the general public.  
+Not for a specific person, or clan.  Please respect my 
+and ALL skin artists wishes.  Thanks
+---------------------- ---- --- -- -
+Homepage:
+Q2CS -=DaLinK's Quake 2 Comic Skins=-
+Your #1 resource for Q2 Comic related skins
+http://Q2CS.QuestGate.Net
+---------------------- ---- --- -- -
+"Cyclops"© Marvel Comics
+"Quake2"© iD Software
+---------------------- ---- --- -- -
+Other Skins By Me:
+ColossusDL
+SabretoothDL
+X-ManDL "Nate Grey"
+IcemanDL
+BlobDL "for the Plug In Player 'Fat'"
+BeastDL
+CableDL "Cable in curent costume"
+ApocDL "Apocalypse"
+BishopDL
+CyclopsDL
+JGreyDL "Jean Grey"
+Cable
+Magneto1DL
+Magneto2DL
+Gambit

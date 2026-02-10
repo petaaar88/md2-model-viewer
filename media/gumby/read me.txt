@@ -1,0 +1,16 @@
+       ~If these lines are really long, go to Edit/Word Wrap~
+
+	This is a skin for the PPM "Gumby." If you do not have this model, then you can get it at logicquest.bodyshop.com. Just unzip this and put the files into your   Quake2/baseq2/players/gumby   folder. 
+
+	This was just a skin for a clan-in-the-making called Assisted Suicide. It took me a couple of hours, and I think it turned out pretty good (for my first skin). I was quite pleased with the two-face effect. You may notice a few elements from other skins (eg: the shambler mouth). I accept no credit where credit is not due. If anyone thinks that using a few pieces from another person's skin is terrible thing, then think of this model more as a "creative collage." 
+
+Credits:
+
+Front mouth: taken from male Shambler skin.
+Sunglasses: taken and edited off of MMNEO skin for Astro Boy.
+
+
+
+Well, hope you enjoy my first attempt at a skin.
+
+-Kevorkian

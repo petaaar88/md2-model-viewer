@@ -1,0 +1,48 @@
+Player Model For Quake 2
+by: Jade Moffatt Jones <JMoffatt@netcom.ca>
+Nemesis Media <http://www.intranet.ca/~nemesis>
+
+Myles is named after my little brother.
+This Model is my first player model for Quake 2. 
+I have a few regrets about the model and plan to 
+address these issues on my next model that will 
+probably be out around April 10th.
+
+The skin for the gun was put together rather quickly
+so please don't flame me too much. 
+I welcome any skin submissions and will give credit in
+text file to anyone who submits one if I like it.
+
+More skins will be made available when NPherno's skin 
+thingy is released.
+
+If you are a developer..well GIVE ME A JOB!!
+
+If you would like to see more samples of my art work goto
+http://www.intranet.ca/~nemesis (if the site is down email 
+me and I'll give you new address..I plan on moving site sone)
+
+Special thanx go out to:
+Jin <kazuya@pen.net>
+Haplo
+ACiDEYEZ
+and CRBOT
+
+for helping me test my model.
+
+To install just put the directory "myles" in the players dir 
+eg. c:\quake2\baseq2\players\myles\<files>
+
+files included are
+tris.md2
+weapon.md2
+weapon.pcx
+myles.pcx 
+myles_i.pcx 
+base.pcx
+this text file myles.txt
+and maybe a few more skins.
+
+Thanx all!
+
+J Moffatt

@@ -1,0 +1,28 @@
+
+Rapaza model 
+------------
+
+Based on the "Sailor Mercury" model for Quake2, created by: 
+
+	Alan Thum Joo Soon
+
+	aka [SMC] Jupiter
+
+Thanks. 
+
+
+[MODEL NAME]		Rapaza
+
+[AUTHOR]                AreopagitA
+
+[INSTALLATION]		Create a subdirectory called "Rapaza" on your 						"quake2\baseq2\players" and put the files on it.
+
+[FILES INCLUDED]	rapaza.txt    This file
+			tris.md2      The model
+			weapon.md2    The weapon model
+			rapaza.pcx    The model skin
+			weapon.pcx    The weapon skin
+			rapaza_i.pcx  The model icon for Q2
+
+[UTILITIES USED]	Used Q2 Modeller to edit the sailor mercury model.
+			Used NPherno's Skin Tool & Paint Shop for skin.

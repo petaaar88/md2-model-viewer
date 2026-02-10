@@ -1,0 +1,35 @@
+June 09 2000
+================================================================
+Model Name              : Magikoopa or Kamek (for the hardcore Super Mario Fans)
+installation directory  : quake2/baseq2/players/magikoopa
+Author, Skin Author     : The3DGuy
+Email Address           : The3DGuy@aol.com
+/Model description      : Magikoopa is the turtle sorcerer in a blue robe (and many other colored skins). He changed Rotating Blocks into 			 various enemies and items in Super Mario World.
+			  
+			  
+Other info  		: This is my second model.
+
+Additional Credits to   : Mario and Luigi. You are my inspiration.
+ 
+Thanks to   		: Nintendo.
+
+================================================================
+* Play Information *
+New Sounds           : Yes
+CTF Skins            : Yes
+VWEP Support         : Technically, the wand is different colors for each weapon.
+* Construction *
+Poly Count           : Model 410
+                       Weapon 46
+Vert Count           : Model 426
+                       Weapon 46
+Skin Count           : 10, they look like crap in GL mode, sorry.
+Base                 : New model
+Editors used         : TrueSpace3, MSPaint, NST, Q2Modeler
+Known Bugs           : Skins look like crap in GL mode, sorry again.
+Build/Animation time : Around a month off and on.
+
+Installation
+Create a folder in your quake2/baseq2/players folder called "magikoopa" and extract all the files in there.
+
+Copyright / Permissions QUAKE and QUAKE II are registered trademarks of id Software, Inc. Magikoopa, Mario, and Luigi are registered trademarks of Nintendo of America and Nintendo of Japan. Please don't edit the model in anyway, but make lots of skins for him!

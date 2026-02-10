@@ -1,0 +1,69 @@
+
+19/08/98
+================================================================
+Model Name              : TAC-ranger
+installation directory  : quake2/baseq2/players/ranger
+Author                  : Michael 'Magarnigal' Mellor  
+			  newly opened homepage at http://members.tripod.com/~magarn
+
+Skin Author             : James 'Gwot' Edwards -- gwot@globalserve.net  
+			  Check out his homepage at http://www.globalserve.net/~gwot/
+
+Email Address           : mellor@iaccess.com.au
+
+Model description       : TAC (Tactless Assault Core) - ranger, is a rather large, aggressive
+			bio-robotic assembly..yaddah yaddah..designed primarily for the destruction
+			of things other than itself.  
+
+
+Other info              : My first ever PPM.  Took a hell of a long time to make, learning the
+			tools as I go, appreciate it :)    
+
+Additional Credits to   : A huge thanks goes out to James 'GWOT' Edwards for bringing the model 
+			to life with an absolutely suberb skin, he really is a genius.  And 
+			credit also goes to GWOT for helping with the finer points of the skin 
+			mapping.  Also a massif thankyou to Larry "Howzer" Ellis for all the 
+			playtesting and ideas throughout the development of this PPM.  
+================================================================
+* Play Information *
+
+New Sounds              : nope - cyborg sounds work well.  
+CTF Skins               : no, someone help me out here...
+VWEP Support            : nope, not practical
+
+
+* Construction *
+Poly Count              : 670
+Vert Count              : 469
+Skin Count              : 1 - this had better change real quick :)
+Base                    : new model from scratch
+
+Editors used:-
+
+Modelling/animation	: Lightwave 5.5, QME, Q2modeler
+Skinning/mapping	: Paintshop pro, Fractal design Painter, NST, Q2modeler
+
+Bugs/comments/excuses   : No real problems with this model.  It should conform pretty well to the
+			  Bounding box in most anims...he does stretch up a bit in the taunt and
+			  point scenes, shouldn't be a hassle tho.  Oh, and no I didn't rip the 
+			  taunt scene from 'supermale', this tris was finished ages ago, twas
+			  just that the skin suffered some delays...hey, quality is worth waiting
+			  for :))  I believe there are a few tris in the very upper arms that don't 
+			  get seen a lot and are basically wasted, this is due to the stupid way I 
+			  animated the arms...I could have removed em, but that would take effort, 
+			  and because of the reasonably low poly count of the model I decided 
+			  they can stay...
+
+Build/Animation time    : A long, long time.  
+
+
+* How to use this model *
+
+Oh come on!  You should know this by now, just make sure you extract to quake2\baseq2\players\ranger.  
+
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+All rights reserved.  

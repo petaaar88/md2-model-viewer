@@ -1,0 +1,29 @@
+This is my Kung Foo skin for the new Snork model for Quake2.  After a careful re-evaluation, I 
+have determind that I almost slightly care if you like it or not.  Well, at present, I'm not 
+quite certain if I REALLY should, I mean, IT'S A DAMN SKIN... then again, how could you not like 
+it ;) Oh my god... I'm rambling!  Oy...
+
+Anyway, simply extract this into your Quake2/baseq2/players/snork directory...
+Ya know, I bet only 50% of the people ACTUALLY read this file BEFORE they unzip the whole 
+thing... And that probably means at least 30% screw it up the first time.  But then of course,
+you have to factor in the 90% that have downloaded my last skin, and know from experience that 
+they should be reading this before they unzip it... but then there are the 50% that are 
+intelligent enough to remember the directions from the last one... and then... and then 
+>>Insert random headaches here<<
+Ow... that hurts.
+
+Oh, and you can reach me at hawk9000@aol.com (actually, I owe a LOT of this skin to Spitfire
+[He started it, and all I did was make the icon, move the belt up {you should seen it before,
+looked like he was sagging} and add the bandana].  So, uh, thanks Spitfire.  Also, make sure to
+visit software.simplenet.com/nw.  Go to the pics page for the newest Snork skins and the like) 
+-- Boo/Fox/QuakerX
+
+Specials thanks goes to KrAy-ZeE of KrAy-ZeE's Modeling Guide and Spitfire (of Prey Portal -
+http://software.simplenet.com/) for what I mentioned above.
+
+Appropriate plugs -
+http://software.simplenet.com/nw <-- Clan Nuclear Winter
+http://www.planetquake.com/modeling  <-- KrAy-ZeE's Modeling Guide
+http://www.sni.net/banished  <-- Banished Entertainment
+
+<sarcastically> "Oooooh, this is ALWAYS what I've wanted to do... Snork skins."

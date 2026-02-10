@@ -1,0 +1,47 @@
+Thanks a bunch for downloading Doom Unleashed!  I put a lot of work into this.  A few changes to go over, so let's start with that.
+
+Here's what I did...
+
+*** Modified the player model!  Read the model.txt file for more info.
+
+*** Added an optional dll file.  Read Plasma Gun.txt in the plasma folder for full info.
+
+*** ALL the Vweps are now fixed!  My greatest accomplishment, I FIXED the problem with the chaingun not skinning right!  (Newbie modeler I am!)  There was a bug in the model where it had duplicate faces.  I eliminated those, and ended up with the original "red death" model again (gag).  I found that by remaking the skin mesh I was able, quite to my surprise, to get the model to take the skin!  Now ALL the vweaps are perfect!
+
+*** Almost ALL the skins have been reworked.  The only two I didn't touch were the Brown and White skins, although I DID get rid of ALL the annoying colored facemasks (Sorry Neff!).  They have been replaced with the "Angry Marine" face from the greenf skin.  The only problem was with some of the skins where I tried to make colored helmets.  For some reason it corrupted the color palette, and wouldn't display right in Q2.  I had to leave a lot of the skins with regular helmets to keep them from looking strange.  Notice the difference, however subtle, between the Phoenix and Phoenix2 skins.  They actually are the same skin, except when the colored helmet was added, it changed the hues.  It's acceptible, barely.  I WANTED my red helmet!  Blame it on finicky GL I guess...
+
+*** Added my own two skins, the aforementioned Phoenix and Phoenix2.  If you like them, great, if not, they're only for fun anyway.
+
+*** Some additional sound effects for the Doomguy
+
+*** Also included are two optional pak files!  They change the weapons to look and sound like DOOM!  Try it, if you like it, GREAT!  It means I didn't spend three weeks making my tail feathers sore for nothing!  If not, oh well, everyone's different! =\
+
+If you like it, put it in Baseq2 and you'll ALWAYS have doom sounds and graphics.  Or, put it in as many mod folders as you wish, and leave it out of those you don't.  As I said, optional.  If you think it is totally annoying, delete it, and everything will be quakish again!
+
+*** Recorded a demo to show off all the new skins.  Also, two of the RA2 skins are identical to the normal skins, notable ra2aqua = black, and r2yell = yellow.  The first because the Black skin is TOO GOOD to be left out, and the latter because, well, what more can be done for a yellow skin?!??
+
+<Newbie walk-through alert>  To play the demo, install the doomunls folder in the folder  "quake2/baseq2/players", then make sure you put the file "doomshow.dm2" in the folder "quake2/baseq2/demos".  Start quake2, press the ~ key, and type "map doomshow.dm2".  Then sit back and watch!  Not much action, but it's to show the skins and weapons.  It's BEST with the pak files installed, and has a funny ending to boot!
+
+Note:  Do NOT leave the zip file in the players folder.  Quake II does NOT like this, and may not display any models except male and female from the Multiplayer menu.  Unzip elsewhere, and THEN move the doomunls folder into players.
+
+*** Added Rocket Arena skins.  NOTE:  Rocket Arena was only designed to work using Male, Female, Crakhor, and Cyborg skins.  In order to get the Doomguy's RA2 skins to work for teams...
+
+YOU MUST REPLACE ONE OF THESE MODELS.  Sorry, no way around it, it's a server-side issue.  What you do is replace the Cyborg model. Rename its folder to cyborg2 or something.  (That way you can always change it back later if you don't like the Doomguy, or stop playing RocketArena.)
+
+Then make a copy of the Doomunls folder, and rename "Copy of Doomunls" to Cyborg.  THAT'S IT!  Then set your skin to Cyborg while playing Rocket arena.  Anyone ELSE using a cyborg skin will appear to you as a Doomguy WHETHER THEY HAVE THE MODEL OR NOT!!!  Great, eh?  Normal (non-RA2) cyborg skins will appear as Blue, Green, Black, or Red Doomguy in Deathmatch games.  Frag all you like!
+
+Please note I have *ONLY* included cyborg replacments.  I don't feel like fooling around with the other player models.  It seemed the best choice to me, and works fine so far.  You will STILL see a cyborg icon on your HUD while playing Rocket Arena.  Again, this is innate to the RA2 dll file, and is not a modeling issue.
+
+*** NOTE TO MPLAYER PEOPLE ***
+
+Important!  If you do my little trick of replacing the cyborg folder, MPLAYER'S SOFTWARE DOES NOT LIKE THIS AND IT WILL TRY TO UPDATE YOU, THEREBY REPLACING THE CYBORG MODEL WITH THE ORIGINAL!  Do so at your own risk.  You can choose to cancel updating each and every time you log on (a pain in the tail) or just not swap out the cyborg model.  It's up to you to choose between RA2 and Mplayer.  I no longer frequent Mplayer, as they ticked me off by somehow (accidental or otherwise being irrelevant to me) making it so no name that included "Phoenix" can be registered, meaning I cannot make any new I.D.'s since I left my old clan, and won't admit to or fix the problem, so I leave it up to you!
+
+*** Legal stuff
+
+Is there any?  Not from me!  I WOULD appreciate credit though, as I put a VERY large amount of work into this.  I give credit to those who I based all this on.  If you pass this along, please be honorable and leave everything as is.  If not, then be careful - God is watching!!!  You're welcome to improve on it all you like.  However, I based my work on the work of others, so get in touch with them before you even bother with me.  Also, I am by no means the best there is.  This is my first project, and ideas for improvements are welcome.  DO NOT flame me, I am much too busy.  If you don't like it, then don't use it, simple as that.  Compliments and suggestions are ALWAYS welcome, and appreciated!
+
+I don't *THINK* anything I have done here is illegal, since I am not using any material to sell a game or make a mod, and all sound files, etc, were modified in at least some way, and I have seen them all over the place anyway...  Oh well, if there is a problem I'm sure the lawyers will let me know, then I'll pull the plug, and yet another awesome project will be washed away by lawyer greed.  Besides, can they sue an ancient imortal bird anyway??? =)
+
+Well, thanks again for downloading, and happy gaming!  
+
+- Phoenix

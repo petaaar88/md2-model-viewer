@@ -1,0 +1,142 @@
+***************** Doom Unleashed Pak files
+
+By Phoenix
+
+If you hadn't read the story, please do so!  All this makes a bit more sense that way.
+
+There are two major pak file.  Pak8 has the graphics, while Pak9 has the sound.  You *CAN* use one without the other, but it is much more enjoyable with both.  The Quake II default weapon sounds do not map correctly to the Doom weapon models, and vice versa.
+
+To install, first be sure there are no existing paks named Pak8.pak or Pak9.pak in your baseq2 directory.  If there is, just rename it to some other number between 0 and 10 (that's not already taken of course!).  Then all you do is copy these two files into baseq2, and Quake II takes care of the rest!  This WILL override any OTHER sound or graphics add on paks oyu might have.  For instance, Quake II gives paks with a higher number a higher priority, so anything in a pak 9 will be loaded INSTEAD of whatever is in a pak 7.  You get the idea.
+
+If you only want to use your Doom paks occasionally, or for certain mods, then just copy the two paks into the mod directory instead of baseq2, again being sure not to wipe out any pre-existing files.  If you want to make a Doom Unleashed mod in and of itself, just make a folder in Quake II called "DOOMU", then copy the files into that folder.  When you start Quake II, hit ~ to get the console, and type in "set game doomu".  Then start a single player game as normal.
+
+Note:  For multiplayer, Quake II will switch to the directory of the mod that the SERVER is running.  That means making your own mod folder is for SINGLE PLAYER ONLY.  If you want Doom Unleashed in your Multiplayer games, put pak9 and pak 8 in your mod folder or baseq2!!
+
+-----------------------------------------------------------------------
+So, here's the lowdown on all the Goodies!
+
+But first, let me give credit to the Generations team, from who's work I was able to derive this player pak.  Although Generations is dead, the models aren't.
+
+One thing I must add about all my weapons.  They ARE left or right hand views, not centered as in Doom, since center view in Quake II hides the weapon model, and seeing a gun straight ahead of you and then have it fire from one side is silly, if not distracting.  If you put the muzzle of the shotgun into someone's chest, it will hit at that exact point.
+
+
+*** Visual weapons (What you see when you shoot at people)
+
+Blaster became Desert Eagle
+Changed blaster bolts to look like plasma
+All other weapons changed to Doom-style weaps.
+
+*** Sound changes
+
+All weapons
+explosions
+Gibs now sound like Doom mush!
+Megahealth sounds like Soul Sphere in Doom
+
+-----------------------------------------------------------------------
+A quick note about the chaingun and machinegun.  I know you're thinking, Why make the six barreled Doom chaingun the wimpy machinegun? And what's This with a CHAINSAW Chaingun?
+
+Well, I had started going the route of the original Generations Doomguy
+player model, with the machinegun displaying as a chainsaw, and the Doom chaingun as the Quake II chaingun.  The "story" explanation is that upon his return from Hell, The Doomguy realized his old chaingun just wasn't up to specs, so he utilized the Archvile's heart to give the chainsaw magic power to shoot bullets!  He still keeps the old gun for nostaligia, and those last ditch moments.
+
+That chainsaw has ALWAYS been the heart and soul of Doom, as much as the Shotgun or BFG, and maybe more.  The real story is that when I went to make the visual weaps, The chainsaw just felt too bland as the machinegun.  I reved it into a very interesting device instead!  Also, the Doom chaingun actually behaved more like the Quake II machinegun, so it fires about the same rate as the original.  The only problem is that ID software only allowed for 2 firing frames for the machinegun!  It gives the barrels the appearance of bouncing left and right instead of spinning since quake II interpolates the model positions.  The muzzle strobe in a dark room eliminates this effect, but a more sure way is to add this to your config file
+
+cl_maxfps 40
+
+That will make the barrels appear to spin, and won't seriously degrade performance.  Modem lag will drop your frame rate lower than that anyway, so why not go for it!
+
+About the plasma gun.  The plasma is orangish yellow, not blue.  There was no way around it.  Quake II gives the hyperblaster bolts a yellow light flare, and that CANNOT be changed in a pak file.  I would have to rewrite the dll, and that WOULD be making a mod.  Besides, I don't know how! =)  So we say the Doomguy updated his Plasma gun, and hence, it fires yellow plasma instead of blue.
+
+I might try messing with the source code to make a .dll change later, but I am not a programmer, so that will take quite some time, and I don't know effect changing the default gamex86.dll would have for deathmatch or bot detection.  It might end up restricted to a single player mod folder if I can even get it to work.  Don't expect that any time soon.
+
+-----------------------------------------------------------------------
+Things I DIDN'T change:
+
+Vweaps for other players.  For example, if you are playing against someone who is male/grunt, you still see the Quake II BFG in his hands, but when he fires it WILL sound like the DOOM BFG, and when you kill him the floating model WILL be a DOOM BFG.  Same for all weapons.  Might seem odd at first, but really there's nothing that can be done about that since weapon sounds are not portable like v_weap models.  To get the full effect, play against other players who are also using the Doomguy models.  It's great!
+
+Also, keep in mind that all the weapons are STILL QUAKE II WEAPONS.  You can't frag someone from full health with one shotgun blast!
+
+-----------------------------------------------------------------------
+Credit where credit is due, here's what I did and how, and the foundations I built it on.
+
+Models
+
+*** Floating
+
+I relinked the skins on all these so they display right instead of the "red death" image.
+
+Shotgun...From Generations.
+
+Super Shotgun...From Generations.
+
+Machinegun...From Generations, I swapped with the chaingun.  Also, I reskinned it, and fixed the model.  It had duplicate faces that were not skinned, causeing the skin not to display.  NOT an easy problem to track down!
+
+Chaingun (Saw)...From Generations.  Switched as noted above.
+
+Grenade Launcher...I created the model from the Player Vweap.  It never was a "Floating" model, so I guess I get some credit, but I'm willing to share!
+
+Rocket Launcher...From Generations.
+
+Hyperblaster (Plasma)...From Generations.
+
+Railgun...Another floating model that never existed.  Again, I just copied the player vweap and scaled it up.  It's based on the original Doom generic rifle.  Looks Awesome!
+
+BFG...Straight from Generations, but I modified the skin.  See the next section.
+
+-----------------------------------------------------------------------
+*** Displayed Weapons
+
+Most of these I canniblized the model from Generations, but I had to reorder ALL the frames, and several I had to modify extensively!  The end models are my creation, but the meshes are Gen, except as noted.  THIS was the bulk of the work right here on the weapons, and the best of it!  
+
+Blaster(pistol)...Completely reworked.  I repaired the hand, and merged the player Desert Eagle model, and modified the skin to accomodate it.  All the frames required extensive work!
+
+Shotgun...My crowning achievement!  This one took the longest.  In effect, I made a whole new model, as I had to move EVERY SINGLE vertex in some way or another.  I also added front and rear sights, and magazine clamps, rounded the receiver top, straightened the barrel, mag, and forearm, and reskinned almost the whole thing.  The hand was the hardest part!
+
+Super Shotgun...A royal pain in the tailfeathers.  I was lucky to even get what I made from it.  The functioning had to be crammed into 11 lousy frames, and it STILL wasn't enough, so I had to use a trick to make the timing work.  Again, a .dll issue, I cannot change the alloted number of frames.  You won't really notice, and it's "acceptible", but not nearly the masterpiece that the shotgun is.
+
+Machinegun (Doom Chaingun)...Basically a cut and paste job.  Had trouble getting the barrels to "look" like they are actually turning, since Quake II's code only allows 2 firing frames for the machinegun.  Did the best I could!  Use the cl_maxfps 40 trick if you like machineguns! =\
+
+Chaingun (SAW)...THIS is a fun toy!  It's the most, well, interesting of the bunch.  You either like it or you don't, I think it's funny myself.  Just stand point blank to a Strogg Berserker and it LOOKS like you're grinding him up with a REAL saw!!  From a distance, well, that's what the STORY section covered. =)  IT's the Gen item, again adjusted for frames.
+
+Grenade Launcher...Basically the CTF grapple model turned about 70 degrees.  The Doomguy has a "compact model" you could say.
+
+Rocket Launcher...Another cut and paste and reframe job.  It's the Generations item.
+
+Plasma gun...Same as above!
+
+Railgun...Since there IS no Doomguy railgun (Unless of course you have played Zdoom with the railgun bex patch!!!), I again took the player vweap and modified it, this time into a displayed weapon.  LOOKS GREAT!
+
+BFG...This was my own creation, but it's a bit more complicated than that.  The original Display Weap BFG looked horrible.  I chopped the floating model and made it into an awesome BFG.  I DID modify the skin.  The muzzle looked a bit off center, so I just touched it up a bit.  Basically, it's still the Generations Floating BFG, just up close and personal!
+
+-----------------------------------------------------------------------
+Other models
+
+Rocket - The Generations rocket.  I darkened it.  Looks just like a Doom rocket.  It's bigger and easier to see than the Quake II rockets.  (Hint for all you Rocket Arena types!!)
+
+These two were from scratch, and makes it REAL easy to see where that hyperblaster is pointed!!
+
+Plasma bolt - Made by me, myself, and Phoenix!
+Plasma bolt impact - Same.  I kept it a low poly to help with lag.
+
+
+Sounds
+
+All the sounds are from the original Doom game, but modified in at least SOME small way.  I REALLY hope I don't get into trouble over this part.  I don't think I will, since Doom sounds are all over the place as it is.  If I do, oh well, it was fun while it lasted.  I just hope my project doesn't follow the same route as Gen did in the end...  I have one key advantage, though.  Mine is DONE!!
+
+Sprites
+
+What, sprites in Quake II?  These were added in for the .dll support for the plasma gun.  This is only relevant if you choose to use the plasma folder for single player.
+
+Weapons
+
+Shoot them and see for yourself!
+
+Other sounds
+
+Explosions - All sound like Doom's Booms
+Gibs - Doom mush (modified for timing)
+Super health - Doom Megasphere
+Blaster bolt impacts - Doom plasma hit
+Teleports - Yup, the old Doom teleporter.  You can hear it across a level!
+
+Well, that's all the changes, etc.  All sounds were increased in volume slightly, so I GUESS that counts as modifying them?  I don't know.  Anyway, thank Id Software for all this, for there would be no Doom or Quake, or Doom Unleashed!  Thank the Generations team.  Generations is dead, but not forgotten!  And thank Phoenix for his time to throw this all together for you!  YOU try typing with bird feet sometime! =)

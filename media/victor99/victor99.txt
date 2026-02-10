@@ -1,0 +1,61 @@
+2-04-99
+================================================================
+Model Name              : Victor99
+installation directory  : quake2/baseq2/players/victor99
+Author                  : Curtis ("Koz, DerKap'n" ) Kozielec
+Skin Author 		: same....
+Email Address           : SuperSockMonkey@worldnet.att.net
+
+Model description       : Victor, as in Frankenstein, but 1999 
+			style.
+
+Other info              : My 2nd player model..tried to build 
+			and animate something a bit different.
+			Right after finishing my first model
+			I did a sketch of this one and dove 
+			right in. 
+			Since I built him with weapon-arm
+			,weapon.md2 is more or less a null md2.
+
+Additional Credits to   : id Software, all the people in the 
+			 Quake and FPS community, for all the 
+			 info, great utilities and online fun! 
+
+Thanks to               : My wife, friends, Coca Cola and nachos
+================================================================
+* Play Information *
+
+New Sounds              : NO
+CTF Skins               : NO
+VWEP Support            : NOPE
+
+
+* Construction *
+Poly Count              : 652 polys
+Vert Count              : 353 verts
+Skin Count              : 1 Skin
+Base                    : Brand spankin'new model 
+Editor used             : AM98 , Q2Modeler 
+			   	( to compile MD2's ),
+			   	Photoshop5 and good old DP2E!
+Known Bugs              : none that I'm aware of...
+Build/Animation time    : a week (hrs?)
+
+
+* How to use this model *
+
+Just unzip this model into a /Quake2/baseq2/players/victor99 
+directory, select him in multiplayer setup, 
+and he's ready to go!
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of 
+id Software, Inc.
+If you want to add this in any compilations, 
+commercial or freeware, please just check with me first.
+(victor99)tris.md2 , victor99.pcx, victor99_i.pcx, 
+(victor99)weapon.md2 and weapon.pcx 
+all copyright © 1999 Curtis Kozielec
+================================================================
+

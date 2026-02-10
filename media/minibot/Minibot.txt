@@ -1,0 +1,72 @@
+***********
+MINIBOT-PMP
+***********
+
+MIMIBOT is a plugin player model for deathmatch play in Quake2. It is a completely new model with all 20 animations. It's a training BOT that I made for use with something like Ridah's 'Eraserbot', as a substitute for human pain/suffering. I doubt anyone will want to play as a meter high bag of nails.
+
+Author:
+
+Jude Bond
+
+Email:        jude.bond@mcr1.poptel.org.uk
+Web:          http://www.geocities.com/SiliconValley/Peaks/7329/
+    
+
+I'm a young artist who is looking to work in the games industry. This is my first PMP for Quake/Quake2, so don't be too hard on me.....In making this model I've learnt hands-on a lot of the problems surrounding Quake modelling, my next project will be loads better as I've learnt from my mistakes. I've made some pretty good Q2DM levels which are of a higher standard than this model, check them out at my homepage.
+
+Installation:
+
+Put all the files in this DIR here:
+quake2\baseq2\players\minibot\
+
+Once extracted, Your MINIBOT will appear in the player selection field of the Multiplayer Options menu (*). Of course, it's only the other players that get to see you as MINIBOT so it really only works in Multiplayer games.
+
+(*) If it doesn't reinstall Quake2!
+
+If you don't like the sounds, just delete the WAVs in the minibot DIR.
+
+Please don't send bug reports please and please don't email me saying you can't get it working.
+
+
+What's the crack then?
+
+MINIBOT is a MINI-project I set myself over the weekend. It has ended up taking the best part of 3 days (i have to sleep) at's a bit longer than I was hoping but I had trouble with the scaling of the model (hence MINIBOT..hehe), it went to pot and I ended up building it twice. I don't have any flashy animation plugins for my modelling packages, so this model was achieved by making one object, selecting vertices and rotating them 198 times! Ouch.
+
+The whole project was uncharted territory from start to end so I didn't do anything too flash to the model. I've used this as an experiment really, and have learnt a lot from the experience. It weighs in at a massive 988 polygons, for this reason it's kind of a shame that he model is so small. I went polygon-mad, this is a heavyweight model.
+
+Specs:
+
+Polygons:   989 (988 for tris and 1 for the weapon)
+Frames:     198
+Skins: 2 @ 400x200
+Sound: thrown together, borrowed from ID's PAK0.PAK
+
+Construction time:
+
+Modelling:  a few hours
+Skins:      an hour or so, they are pretty damn crap.
+Animation:  about 35 hrs!! Had to make ONE model and tweak vertices until blind.
+Fixings:    haven't really bothered yet......... (hehe)
+
+Programs Used:
+
+Modelling:  Lightwave Modeler
+Animation:  Lightwave Modeler
+Skins:      NST, PSP, whatever.
+Compiling:  qdata (Lightwave version)
+Others:     MD2view & QME
+
+    
+
+Stuff:
+
+MIMIBOT and all associated files are copyright of Jude Bond. Quake2 is copyright of id Software. Feel free to spread the MINIBOT far and wide, but you are not allowed to make cash from it in any way, shape or form. The skin i made is (as i said) pretty crap really. Everyone is completely free to make additional skins for the model, but please don't send me skins you have made.
+    
+
+And Finally...
+
+That's about it really. I'll probably have to put out an updated version at some time
+with a few simple fixes like better animation and a half-decent skin. Any feedback would be appreciated, don't be shy, I can take it good or bad. Happy Fraggin'.
+    
+
+Jude.

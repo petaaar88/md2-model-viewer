@@ -1,0 +1,91 @@
+
+
+ Dec. 7 1998
+
+================================================================
+
+Model Name              : black arachnia
+
+installation directory  : quake2/baseq2/players/blackarachnia
+
+Author                  : kurai warrior
+
+Skin Author : same
+
+Email Address           : kurai__warrior@yahoo.com 
+
+
+
+Model description       : it's supposed to resemble the charictor from the show 
+			  Beast wars. if it doesnt, i probly sent the wrong file....
+
+
+
+
+
+Other info              : this is my first attempt at modeling. if i get a positve response, i'll try to do more.(and of course better) 
+			  i know there are a couple of spots that could use fixing, (the knees) but i'm releseing this now to see what 
+				people think. (and to get skywarp off my back....)
+
+
+Additional Credits to   : id Software. let's face it, this model is constructed from the
+			parts of several id models... i'd start from scratch if i knew how.
+
+Thanks to               : everyone.
+
+================================================================
+
+* Play Information *
+
+
+
+New Sounds              : no, sorry.
+
+CTF Skins               : yes. functional, but not prety.
+
+VWEP Support            : not till i figure out how....(if someone wants to do the vwep, contact me.)
+
+
+
+
+
+* Construction *
+
+Poly Count              : <### polys>
+
+Vert Count              : 381
+
+Skin Count              : 3
+
+Base                    : mostly the female strog from the game, but bits from others...
+
+Editor used             : q2model editor, skined, nst.  (if anyone knows how to create new objects in q2me, please, let me know.)
+
+Known Bugs              : if there are, i'ts ok... she's a spider...
+
+Build/Animation time    : didnt keep track... off and on for a couple of weeks.
+
+
+
+
+
+* How to use this model *
+     -play the game.
+     -crouch alot. it looks damn cool.
+     -while you are rather dark in color, you do have a big red black widow symbol
+      on your ass, so dont think you're invisible.
+
+
+
+* Copyright / Permissions *
+none of the copyright stuff is mine. i just constructed the model.
+
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+
+
+um..... zztop and kiss ROCK! um ok i'm done now.
+oh, and who ever did the invisible weapon model thingy. i used that too.
+and the 3rd person mod is the only way to play.
+

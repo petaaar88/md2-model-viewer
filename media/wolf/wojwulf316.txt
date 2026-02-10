@@ -1,0 +1,24 @@
+
+Quake 2 Skin-WojWulf 3:16     					       3/18/98
+
+
+Author:		Michael Wojnar
+
+E-Mail:		thewoj@hotmail.com, thewoj@superior.net
+
+Homepage: 	http://www.superior.net/~thewoj
+		http://www.superior.net/~thewoj/q2    	
+
+Files:		wojwulf316.pcx    wojwulf316_i.pcx			
+
+Instructions:	Place both of these files into your 
+	        quake2/baseq2/players/werewolf directory*
+* at the time that this skin was made, the name of the model it was made for 
+was going to be called werewolf, that may change by the time this is read.
+
+Description: 	WojWulf+earing+Austin 3:16 shirt+blue jeans
+
+Other:		Paint Shop Pro 4.14 was used to make this skin.
+
+"Unleash the beast within"-Bloody Roar (Playstation) magazine advertisement
+		

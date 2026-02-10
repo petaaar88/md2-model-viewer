@@ -1,0 +1,12 @@
+CTF skins for the Kanga model by Striker:
+
+With these skins you can see the kanga model for anybody who is using that model in CTF.  
+Just unzip these skins into the directory that contains Kanga and you are ready to go.  
+To use these skins in regular dmatch you can either use the command line "skin kanga/ctf_b
+or ctf_r" or you can open the player setup menu and select the model kanga and the skin of 
+your choice.
+
+Basically I changed the color of Kanga's armor to either red or blue and slapped a ctf logo
+on his back.
+
+Have fun.

@@ -1,0 +1,23 @@
+Nerd Skin by AntiHero for the Astro player 
+model by Jonn Gorden (jonny@pobox.com).
+
+I looked at Astro one day and thought he had really geeky hair.  So I
+imagined him with big thick black farmed glasses with masking tape around
+them, and a nice white shirt with a pocket protector.  So I sat down and an hour later 
+AstroNerd was born.  This was mostly a modification of the original skin with new hair
+Shirt, belt, legs, ect.
+
+Instructions:
+Unzip all the files into your quake2/baseq2/players/astro folder.
+
+Files:
+nerd.pcx
+nerd_i.pcx
+nerd.txt (not needed)
+nerd.jpg (not needed)
+
+
+
+Utils used: Mostly NST thought I used Paint Shop Pro for the _i.pcx icon.
+
+email AntiHero: ben.brain@netheaven.com

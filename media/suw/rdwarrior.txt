@@ -1,0 +1,22 @@
+==============================================================================
+FILES         : RdWarrior.PCX, RdWarrior_I.PCX, Rdwarrior.TXT
+DESCRIPTION   : Road Warrior Skin (not the movie)
+VERSION       : QUAKE II
+CREATED (MDY) : 03.22.1998
+AUTHOR        : SCOTT R.	
+EMAIL ADDRESS : SCROBIN@IX.NETCOM.COM
+MISC. INFO    : Skin #1 for a different PPM
+==============================================================================
+*ART INFO*
+BASE          : Based it on the skin #4 it came with
+EDITORS USED  : Nphernos.76, Coral-Paint 7
+TIME TAKEN    : Couple of hours
+==============================================================================
+To use this skin, unzip the two .PCX's into
+your Quake2/Baseq2/players/SUW directory,
+in the game change your skin to RdWarrior in the 
+Multiplayer/Player Setup menu.
+==============================================================================
+Note:  This is was supposed to be a knight skin, but...one mistake here and 
+there and it was shaped into a Post Apocalyptic character.
+Have fun.

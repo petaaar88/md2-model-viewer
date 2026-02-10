@@ -1,0 +1,19 @@
+
+
+Name:  Rikky Malambri -=a.K.a.=- IQP-MaCe
+
+E-mail: jmdeckert@fwbnet.com
+
+Instructions:  Install these skins in to the directories as follows:
+'quake2\baseq2\players\guard'
+	-RedGrd.pcx and RedGrd_i.pcx  
+	-BlueGrd.pcx and BlueGrd_i.pcx
+
+
+Important: I am not responsible if you mess up this, your quake2, or anything else on your PC! Your actions are your own and I take no responsibility. (WHICH WON'T HAPPEN IF YOU DO AS YOU'RE TOLD ABOVE)
+
+	The "Red and Blue CTF Guard" skins is one of my many skins to have been developed by me.  This skin is a Guard-only skin, so you must put it in the Guard directory for it to work. 
+      
+-	You may use it, but please do not edit or change it in any way, and that includes the file name too.
+
+*NOTE*: This is the first of the CTF Guards... If you have any ideas and/or things needed to be added to these skins, E-Mail me, do not do it yourself. I will do what needs to be done with the skins! Oh...and I love FEEDBACK too. 

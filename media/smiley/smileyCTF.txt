@@ -1,0 +1,79 @@
+
+
+<1/16/99>                 Capture the Flag skins, for Smiley
+================================================================
+
+File Name               : smilelyCTF.zip
+
+installation directory  : quake2/baseq2/players/smiley
+
+Author                  : Jason "Warlocke" Lewis
+
+Email Address           : warlocke@raex.com
+			  warlocke@telefragged.com
+
+
+Files Included:                ctf_b.pcx             ctf_b_i.pcx
+                               ctf_g.pcx             ctf_g_i.pcx
+                               ctf_r.pcx             ctf_r_i.pcx
+			   smileyCTF.txt=============(this file)
+
+
+Skin descriptions       : Capture the flag skins for smilely
+			  Including a green skin for 3 Team CTF.
+			  I made the green icon, but the other 2
+			  were made by someone else. I have no
+			  idea who.
+                         
+Additional Credits to   : Whoever did the Blue and Red icons.
+			  
+Thanks to               : Id, BSC/NEW clan, CW clan, Skindeep, Q2pmp.
+
+Special thanks to:	: Kon, If it weren't for you, I wouldn't be 
+		          online right now. Thanks for all the help.
+=======================================================================
+
+* Construction *
+
+Editor used             : PSP 5, for palette loading and other stuff.
+                          Skinview, one helluva good program!
+
+Time to Create          : pfft.
+
+Little Known Facts      : That's right, they're cue balls. 
+
+* Copyright / Permissions *
+     If you distribute these skins they must be contained within
+      the original zip file and include this text document AND 
+          all the files listed within this text document.
+
+     Don't take credit for my skins! If you take skins that were 
+      THIS EASY to make, and say you made them, you must really 
+         suck. So just don't do it, besides, it's bad Karma.
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brian "Evil Bastard" Collins and Michael 'Magarnigal' Mellor are gods.

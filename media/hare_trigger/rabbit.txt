@@ -1,0 +1,38 @@
+Rabbit Model - large version
+
+
+Model by Elwood - dullien@cww.de
+
+Quake C patch by The Serpent Lord - www.oz.net/~simitar
+
+
+Archive Structure:
+
+rabbit -+- rabbit.txt (this file)
+	|
+	+- rabbit.qme (QuArK explorer file)
+        |
+        +- progs.dat (compiled quake c)
+        |
+        +- progs -+- rabbit.mdl (rabbit model)
+        |         +- rabbit.qc (quake c source)
+        |
+        +- maps -+- rabbit.map (map source)
+                 +- rabbit.bsp (compiled map)
+	
+
+
+This model can be used or modified for any purpose 
+as long as this text document is included with it
+and all modellers listed in this document are 
+listed wherever credits are appropriate for that
+purpose.
+
+
+Help Wanted:  
+
+The Free Models Project can use help with models and 
+other areas, such as legal boilerplate for models. 
+
+WWW:     www.oz.net/~simitar/model.html
+E-mail:  sgalbrai@linknet.kitsap.lib.wa.us

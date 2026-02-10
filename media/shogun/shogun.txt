@@ -1,0 +1,46 @@
+                         The Name is--->SHOGUN 
+
+Shogun Model---MY Second...Ive learned alot--and watch out!...I'm still learning. 
+5 Skins by Brett Brown....I AM SOOOO WAITING FOR SKINED AND THE NEW NST!!!!!!
+Sounds--ALL ORIGINAL--YES ITS MY VOCAL CHORDS-- by Brett Brown 
+Model by Brett Brown
+RELEASED 4/7/98
+
+This model is inspired by ancient Japanese armaments.
+
+Installation:  Unzip the Shogun into your quake2/baseq2/players/Shogun (yes create a 
+	       directory named Shogun).  You must use a decompressor with long file
+	       names capability.  WHAT HAPPENS IF I DON'T?  Some of the sound file names will
+	       be shortened and you won't hear the new sounds.
+               
+               If you have trouble getting it to show up in the
+               multiplayer menu, make sure you have NO files
+               (besides the directories) in quake2\baseq2\players!
+		
+
+Tools used:  Quake2 modeller (yes the entire thing--I know I'm Amazing)
+             Paint shop PRo
+             NST
+	     Photoshop
+
+Time spent:  Bout two months
+             
+
+Other Projects:
+
+	 Currently I am working on a total mod for quake as a first step in creating
+a viable forum for internet negotiation.  The aim is for lawyers to be able to negotiate in 
+an appropriate forum from anywhere in the world as long as they have a computer....The mod is
+only to accompany a proposal I am working on and will only be an example of what could possibly
+be an exciting project if all goes well.  Yes I will make the forum available to clans who would
+like to negotiate disagreements with other clans....LOL. Actually that sounds fun.  I am working
+on a player model who wears a suit, has a brief case etc.  The forum is based on the indian treaty
+room in washington.
+             
+email:   Binsoc@cyberenet.net
+	 Please send your feedback
+	 Comments or Job offers (LOL) I'm a law student who's fightin the suit and tie thing..	
+
+PLEASE CHECK OUT ROTATE.BSP its a terrific DM i created.  It can be found at
+ftp://www.cdrom.com/pub/idgames2 in the dm section for quake 2
+If you visit rotate and tell me about it I will update you on my upcoming model.  

@@ -1,0 +1,23 @@
+This zip contains 1 skins for the Astro player 
+model by Jonn Gorden (jonny@pobox.com).
+
+With this skin i wanted something that looked diffrent from Astro.
+Demon looks somewhat like the lava demons in Diablo, thus the name.  
+He kind of glows in GL mode.  Demon is pretty much all orginal except
+for the hair, boot (feet?), and belt which i just changed from the
+Astro skin that came with the model.
+
+Instructions:
+Unzip all the files into your quake2/baseq2/players/astro folder.
+
+Files:
+demon.pcx
+demon_i.pcx
+demon.txt (not needed)
+demon.jpg (not needed)
+
+
+
+Utils used: Mostly NST thought i used Paint Shop Pro for the _i.pcx icon.
+
+email AntiHero: ben.brain@netheaven.com

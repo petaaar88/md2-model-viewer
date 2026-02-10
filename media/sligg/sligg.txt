@@ -1,0 +1,49 @@
+
+S L I G G          12/3/98
+
+
+Author:         Dan Ward aka GaratJax[B5]
+Email:          dan@steelkey.com.au
+Web:            http://bip.atnet.net.au
+
+
+This model is my second Plug in Player model and was
+actually going to be an ostrich with a guy riding him
+but i sort of got side tracked halfway thru.
+
+the right arm will look like its missing in the player setup screen 
+this is because his right arm is actually the weapon.md2 
+dont worry everything looks groovey in the game.
+
+the skin is just a mix of textures from other skins
+which i think work pretty well.
+
+someone who does cool skins feel free to make a better one.
+
+###setup###
+
+Unzip this stuff into quake2/baseq2/players/sligg, otherwise, it doesn't work.
+you should have the following placed in said dir:
+
+tris.md2        sligg model
+weapon.md2      his gun model/also his right arm
+sligg_i.pcx       the multiplayer select icon
+sligg.pcx         skin
+weapon.pcx      gun skin
+sligg.txt      this file
+
+
+###Extras###
+
+none
+
+###Bugs###
+
+none that i know of
+
+###Disclaimer###
+
+Do what you wish with this model as long as its not for
+commercial purposes and you give me a credit. 
+
+

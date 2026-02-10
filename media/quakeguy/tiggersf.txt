@@ -1,0 +1,17 @@
+Quake2, quake1 model skin (quakeguy)
+(c) Richard 'Jodi' Maxwell 
+November 1998
+
+I remapped the colours, and did a little chop and change so that the mappings were in the right place
+otherwise its pretty much in its original quakeworld state.
+
+
+quakeworld txt file:
+========================================================================
+Clan Leader: Jodi Maxwell
+Full Clan name: Tigger's Friends
+Clan Email Address: Tigger's Friends <maxwells@ihug.co.nz>
+Clan Web Site: http://homepages.ihug.co.nz/~maxwells/TiggersFriends
+
+Name of Skin: tiggersf.pcx
+========================================================================

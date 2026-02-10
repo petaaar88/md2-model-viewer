@@ -1,0 +1,87 @@
+11-03-2000
+
+================================================================
+
+Model Name              : TT
+
+installation directory  : quake2/baseq2/players/tt
+
+Author                  : Matthew Prothero, AKA The Doofus
+                          AKA Talkie Toaster
+
+Email Address           : the_doofus@hotmail.com
+
+Website Address         : http://members.xoom.com/DreadZone
+
+Model description       : 
+
+	TT is a model of Robot chassis, with tracks instead of legs and
+        a camera for a head. Each of the different skins in the pack
+        represents a different robot based on this chassis. Note that in
+        the initial release, there is only one skin, which is that of the
+        original character TT is based on.
+
+Other info              : 
+
+	This is the first model I ever did for Quake 2, so it's a bit
+        rough. I think I did an alright job, although some are bound to
+        disagree. The head accidently got deleted at one point, I rebuilt
+        it but I coulodn't quite get the positioning right, so it bobbles
+        around a bit annoyingly in viewers, but this doesn't show up much
+        in-game. More Skins are planned for the future, as well as Vweps
+        and possibly a sound pack.
+
+        The skin called Talkie is one of my personal mascots. His info is
+        on my site. I based the model around my pics of him. The skin/
+        character thing is because of Q3A, I think that idea was cool.
+
+Additional Credits to   : 
+	* Idsoftware 
+	* Q2modeller
+        * NPherno
+
+
+Thanks to               :
+
+	* The designers of Red Dwarf for TT's inspiration.
+        * Dr Worldspawn for general ideas and advice(and skins).
+	
+
+================================================================
+
+* Play Information *
+
+New Sounds              : Maybe later
+
+CTF Skins               : Not yet
+
+VWEP Support            : Coming soon
+
+* Construction *
+
+Poly Count              : 669 tris.md2 / 66 weapon.md2
+
+Vert Count              : 398 tris.md2 / 48 weapon.md2
+
+Skin Count              : 1 DM
+
+Base		        : None, at least in 3D model terms.
+                          (based on Talkie, my mascot)
+
+Editor used             : 
+		Modeling - Q2Modeller	
+		Animation- Q2Modeller
+		Mapping  - NST
+		Painting - Corel PhotoPaint7, NST
+		
+Known Bugs              : Central axis sometimes shows through Torso
+
+Build/Animation time    : 20+ Hours over 1 week.
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+If you wish to use this model as a base for your own, ask me first.
+
+If you wish to make additional skins for TT, feel free. The only thing I
+ask is that you send them to me!

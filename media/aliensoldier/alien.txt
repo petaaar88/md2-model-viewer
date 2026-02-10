@@ -1,0 +1,42 @@
+-------------
+ALIEN SOLDIER
+-------------
+
+Name:		Alien Soldier
+Author:		Andy "BoogieMan" Craft
+Email:		boogieman10@hotmail.com
+
+Time spent:	about 2 weeks all together
+Editor:		Quake2 Model Editor v0.83
+Description:	This is an alien soldier player model for Quake 2.  It
+		is the first model I started from scratch and it turned
+		out better than I expected.  He looks really awesome in
+		deathmatch games.
+		
+Installation:
+
+	Unzip all the files into a subdirectory called "aliensoldier"
+	in your players directory.  You can then select the soldier in
+	the multiplayer setup menu in Quake 2.  That's all there is to
+	it.
+
+Skins:
+
+	I'm not very good at making skins, so all the skins that come
+	with the model suck.  They are just solid colors, blurred to
+	make the skins look somewhat decent.  The different colors do
+	work well for teams though.  If you make any new skins for my
+	model, please send them to the email address mentioned above.
+
+Comments:
+
+	If you have any comments, I would like to hear them.  Please
+	send them to the email address mentioned above.
+
+What I am currently working on:
+
+	I have begun working on an "orc" player model, like the ones
+	from Warcraft, and it is looking pretty good so far.  I hope
+	to have it finished soon.
+
+Have fun with the new model!

@@ -1,0 +1,29 @@
+
+Quake 2 female kikuyo_syd skin for Sydney PPM	5/11/98	MikeT
+
+Description: Based on Kikuyo from comic series Weapon Zero.
+
+Creator: MikeT / Victim
+
+Homepage: http://www.fastlane.net/`miket/fct/INDEX.HTML
+
+Files:  kikuyo_syd.pcx
+	kikuyo_syd_i.pcx
+	kikuyo_syd.txt
+	kikuyo_syd.jpg
+
+Instructions:
+	Copy all files to your quake2/baseq2/players/sydney directory.
+
+Comments: It's only my second skin, and model mapping limits really
+ pixelated the body detail.  After 6 hours of work spread across 3 days,
+ I am ready to put up the skin as is...  
+
+Software used: Micrografx Picture Publisher 8, Quake II Scene Builder ver 1.12
+
+
+Thanks to the awesome artists involved in the publication of Weapon Zero
+and to Top Cow & Image comics!  www.topcow.com 
+
+
+Weapon Zero is Copyright © by Top Cow Productions, Inc.

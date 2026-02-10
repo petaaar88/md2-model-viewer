@@ -1,0 +1,75 @@
+3-08-2001
+
+================================================================
+
+Model Name              : init_2.win
+
+installation directory  : quake2/baseq2/players/init
+
+Author                  : William Chance "init_2.win" Lohse
+
+Email Address           : init_2win@hotmail.com, sir_chance@msn.com
+
+Website Address         : http://www.wclgraphics.analyzethis.com
+
+Model description       : 
+	A celebration of my alter ego's greatness. That quake entity known as init_2.win
+
+Model Info	        	:
+	Tired of the ever dwindelling q2 dm servers, the increase of my lag, the onslaught of dsl users everywhere, and a general desire to get into game development led me to try this project. Actually I never would have got it done if i didnt take a class in lightwave at tampa technical institute. It was my first experience with 3d at all, and that class ended less than a year ago. after taking a mesh i made in lightwave and plopping it into Q2 modeller and exporting it, then crankin up a deathmatch session, i could at least see the thing with frame errors and all. (no skin) so it was pitch black, but doggonit, I liked the idea. Thanks to polycount I was able to read some good tutorials and make the project releatively painless if a little tedious. Im pretty happy considering I have few meshes and about 1 other bipedal animation under my belt.
+
+================================================================
+
+* Play Information *
+
+New Sounds              : neah
+
+CTF Skins               : yeah
+
+VWEP Support            : yeah
+
+
+* Construction *
+
+Poly Count              : 666 
+
+Vert Count              : 335
+
+Skin Count              : 4
+
+Editors used            : 
+	Modeling     - lightwave modeler 5.6	
+	Animation    - lightwave layout using bones and trying to use IK. compiled with qdata
+	Skin Mapping - Npherno's Skin Tool, Q2 modeler (these two need each other)
+	Painting     - Photoshop 5.0
+	Viewing      - Skin View - only way to go if you like seeing the real deal
+	Conversion   - 3D exploration - get this...  small program, reads ALL 3d files 				   including md2's and even has animation controls and tight 					   rendering with picture output and 3d file conversion. You'll love 				   it!
+
+Obvious faults:
+	Ok, I'm new at this, and I learned lightwave first, and quad based polys were fine and dandy a lot of the time, then I saw how q2 turns everything into triangles. This really messed up my polycount. Even the second go 'round, I still wasn't thinking: "hey lets keeps triangles in mind as the basic building block" this may be obvious in the but, shoulders, etc...  I've learned a lot looking at some of the models at polycount in the last 3 months, and my next model will definitely be based on triangles.
+	Another fault is the vwep clipping the body.
+	Another fault in my opinion is not enough polys on the lower legs and the neck.
+	Another fault is my novice animations. maybe I can model in LW and animate in character studio since modelling in 3ds looks like a real pain.
+	Another fault is the bounding box on some taunts.
+	Another fault is the perspective! I find it interesting how some modelers have compensated for the in game perspective so the model looks natural from all views. My model can look "like a dwarf" as someone said with a high fov or if viewed from above. This same person commented the guns were too big, but actually, they are the same size but since my guy holds his gun in a different way, its highly subject to looking too big at some angles. I might just be imagining this, but it looks like some of the finest models compensate for this by leaning away from the viewer or being taller, or more pyramid shaped.... like I said could be my imagination. I think my guy looks best when you look at him straight on, maybe slightly lower than his line of sight.
+
+
+
+
+
+
+
+
+Other info: 
+	I want to learn 3dsmax, uvunwrapping, character studio, etc... doing the model the way I did was kinda non-standard (seems every game team uses 3dsmax)...  I  hadn't discovered lwoqdata so I used a converter to make them 3ds files..  Then I compiled model, and used q2modeller to flip normals and reposition the models origin. I also had trouble getting the skins to work, heres how I did it: I found the q2 pallette file in *.act format first. I made my skin, converted to indexed color, converted color table to grayscale, converted to grayscale, then saved a copy as a pcx. Then I was able to repalette the skin in Npherno's skin tool. So basically i giggered the sombitch in a couple ways. I just didnt have the time to wait for someone to answer my questions on the message boards. visit my webpage if you want to see some other lightwave meshes or something.
+
+More info:
+	Its a shame Q2 is so old. I still think its the best. Framerate means a lot to me. I have a p3 550 geforce2 and I'm sorry, Q3 is a dog...  especially with lightmap lighting. And my friend, without that setting, you have one of the ugliest games out there. It's true! It's true! I like the gameplay better too. I say its a shame because theres way less servers, and perhaps I'll get less attention from any modelers out there cuz they're working on new engines.(me, me, me, right?) I made the right choice to go with q2 though...  besides all those reasons, I figured I could find more tools and tutorials for an established game.
+
+Thx to all my true believers out there, thx to the team of fuitcakes in dm8, thx to all the server operators out there who let us play. thx to the q2 utility creators that dont charge and id for releasing dev tools. thx to the warez sites who make learning possible.
+
+Known Bugs              : just say no to bugs.
+
+
+* Copyright / Permissions *
+QUAKE II(R) is a registered trademark of id Software, Inc. All your base are belong to us.

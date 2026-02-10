@@ -1,0 +1,24 @@
+This is my Tuxedo skin for the new Snork model for Quake2.  Note the fact that I no longer care 
+if you like it or not.
+
+Anyway, simply extract this into your Quake2/baseq2/players/snork directory...
+Ya know, I bet only 50% of the people ACTUALLY read this file BEFORE they unzip the whole 
+thing... And that probably means at least 30% screw it up the first time.  But then of course,
+you have to factor in the 90% that have downloaded my last skin, and know from experience that 
+they should be reading this before they unzip it... but then there are the 50% that are 
+intelligent enough to remember the directions from the last one... and then... and then 
+>>Insert random headaches here<< 
+
+Oh, and you can reach me at hawk9000@aol.com (actually, I'd like to hear feedback on this one... 
+it almost took me half an hour ;)  I'd say the hardest part was finding tuxedo pics on the 
+internet!) -- Boo/Fox/QuakerX
+
+Specials thanks goes to KrAy-ZeE of KrAy-ZeE's Modeling Guide and Spitfire (of Prey Portal -
+http://software.simplenet.com/) for staying up till 2 AM to help test the damned thing.
+
+Appropriate plugs -
+http://software.simplenet.com/nw <-- Clan Nuclear Winter
+http://www.planetquake.com/modeling  <-- KrAy-ZeE's Modeling Guide
+http://www.sni.net/banished  <-- Banished Entertainment
+
+<sarcastically> "Oooooh, this is ALWAYS what I've wanted to do... Snork skins."

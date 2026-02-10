@@ -1,0 +1,15 @@
+		        -=A  B  M=-
+			  M  O  A
+			  M  X  N
+			  O
+		      Created fully by:
+			    SIAC
+
+Place in c:\Quake2\...\players\ABM
+
+I got a skinner to do a skin for me for this model... But 
+he ditched the project so I had to make the skin and I am
+not very good at it, so feel free to make yor own skins 
+for him.  Thanx for downloading.
+
+					SIAC  

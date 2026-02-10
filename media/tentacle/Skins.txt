@@ -1,0 +1,56 @@
+Title                   : tentacle player model
+Date                    : febuary 8th, 1997
+Filename                : skins.txt 
+Author                  : Markus Lutz
+Email Address           : quickie@csi.com
+Home Page               : http://www.s-direktnet/HomePages/quickie
+
+
+Description             : Skins for Tentacle Plug in player model
+                          
+                          
+
+Additional Credits to   : id		- Quake 2
+			  Phillip Martin- Quake 2 Modeller 0.83
+                          LucasArts     - Tentacle
+Personal Credits to	: Andreas Patzer
+			  Juergen Bohm
+			  Florian Lutz	- I'm using his homepage :)
+* What is tentacle? *
+The tentacle is my first player model for Quake2. It is based on the tentacles in 
+Day Of The Tentacle. 
+
+
+* Play Information *
+UNZIP into \quake2\baseq2\players\tentacle
+You should now have the following files in the directory:
+
+Asphlt.pcx
+Asphlt_i.pcx
+Chrome.pcx
+Chrome_i.pcx
+Green.pcx
+Green_i.pcx
+Kupfer.pcx
+Kupfer_i.pcx
+Metal.pcx
+Metal_i.pcx
+Multi.pcx
+Multi_i.pcx
+Plate.pcx
+Plate_i.pcx
+Red1.pcx
+Red1_i.pcx
+Skins.zip
+Speckirn.pcx
+Speckirn_i.pcx
+skins.txt
+
+
+* Copyright / Permissions *
+These skins may be distributed freely around the Internet/bbs providing
+this file remains attached. These skins may not be included in a any commercial product
+intended for public sale without written permission from the author as long as this file 
+remains attached . These skins also may be edited as long as you promise to send me a copy
+of the edited version and (of course) this file remaines attached.
+

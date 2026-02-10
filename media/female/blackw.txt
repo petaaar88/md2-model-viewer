@@ -1,0 +1,32 @@
+
+QUAKE2 SKIN	     	blackw                   23-12-97
+
+
+Author:		JanJ
+
+E-Mail:		grendel@vip.cybercity.dk or df-jj@palais2.natmus.dk
+                http://users.cybercity.dk/~ccc6411/
+
+Files:		blackw.pcx blackw_i.pcx blackw.txt	
+
+Instructions:	Just unzip all these files to your quake2/baseq2/players/female
+                directory.
+
+Important: 	I am not responsible if you stuff this up, your actions are
+	   	your own and I take no responsability.
+
+Other:  	My first female skin 
+                Please download and use it.
+ 	
+DISCLAIMER:	Skin authors may use this skin as a base for other skins. This
+		skin is available for free distribution via BBS, FTP, and other
+		free electronic means. This skin may be included in any CD-ROM  
+		or other product whose sales earn profit for their publishers.
+
+
+
+PS:
+                This isn't necessary, but gives credit where credit is due:
+ 		I used Gateway's layout for this text file. 
+                His email address is (gateway@mobsters.com)
+                Modifications done by Phantom Lord (phantomlord_@hotmail.com).

@@ -1,0 +1,58 @@
+
+: C I V I :
+
+
+Author:         stecki
+Email:          stecki@terrafusion.com
+Web:            http://deconstruct.terrafusion.com
+Host:           http://www.terrafusion.com
+
+
+: What civi is :
+
+civi is a PPM or plugin player model for use with the game Quake2.  It allows you to become a different character (or at least let others see you as one) than the standard Quake2 marine.
+
+: Notes on civi :
+
+Why it is the way it is...  This model has been discontinued.  I am releasing this model for other TC's/PC's out there to use as a base, if they want.  I made the civi for the mod i was working on called HOSTILE.  basically he is a low poly cannon fodder meant to help populate our hostile world.  I added in the ppm animations for fun, so they are pretty raw (read - done fast as i could click off the frames), especially in the crouch anims.  I am totally cool with you using the civi in your mod if you need him.  you may not use the skin however, as that is a mixture of the poser 2 and id origin, especially if this model somehow gets into a commercial mod (which i doubt).  the gun is royally fuct up, but so is life.
+
+note that the flip animation is his walk cycle, and that the other "taunts" are various waiting animations to randomly play as he stands there.  so for you mods out there, if you use this guy, have him wait on a stand, and then randomly swithch to one of his secondary animations (like the taunt - he checks his watch).
+
+Please note he was not animated for use with the gun.  Since in hostile, we weren't gonna have the civi walking around with guns, i did not make him animate as if needing one.  so don't complain to me that his run cycle is a bit wacky.  if you picture him running without the gun, it will seem much better...  anyways...
+
+: How to use civi :
+
+Unzip this stuff into quake2/baseq2/players/civi, otherwise, it doesn't work.  you should have the following placed in said dir:
+
+tris.md2        the civi
+weapon.md2      his gun model
+civi_i.pcx      the multiplayer select icon
+civi.pcx        skin
+weapon.pcx      gun skin
+civi.txt        this file
+
+
+Once in quake2, you should be able to select civi as a model in the multiplayer submenu.  if not, something has gone very, very wrong. The most common solution to this is to make sure there are only folders in the players directory, no other types of files.  period. 
+
+If you play as civi, the only other people who will see you as civi will be others who have downloaded this file as well.
+
+
+: Sounds :
+
+make some please...
+
+
+: Bugs :
+he wasn't meant to crouch, so those anims are fuxored, there are countless others, but like i said, it's not complete.  the final hostile civi would've been better, but that's just not gonna happen...
+
+
+: Discalimer :
+
+civi is free to do with as you please, as long as it remains a free commodity.  reskin, revamp, reanimate, be creative.  You may use civi for any project you see fit, as long as a simple email hits my box, letting me know of it (don't wait for a reply... cause i prolly won't).  Commercial TC/PC/mod's cannot use civi without my consent.  Also, before you email me with problems, read this thing completely.  I am not tech support.  there are a couple really good sites dealing with troubleshooting PPM's.
+
+The bodyshop:	http://bodyshop.logicquest.com/
+Q2 pmp:		http://www.planetquake.com/q2pmp/
+
+: Thanks :
+
+Everybody who helped out.

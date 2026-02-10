@@ -1,0 +1,33 @@
+GamePro Quake II Skin: Major Mike
+========================================================
+Author:		Todd "HotRod Todd" Barnes and Dan "Dan Elektro" Amrich
+Email:		tbarnes@gamepro.com and damrich@gamepro.com
+Web Page:	http://www.gamepro.com/clangamepro
+Files:		GProMajor.pcx = GamePro Major Mike Quake II Skin
+		GProMajor_i.pcx = GamePro "G" logo
+	
+To install the skin:
+Copy the GProMajor.pcx and the GProMajor_i.pcx files into your quake2\baseq2\players\male 
+directory.
+	Example: 	x:\quake2\baseq2\players\male\GProMajor.pcx
+		 	x:\quake2\baseq2\players\male\ GProMajor_i.pcx
+
+To select the skin:
+Go to Multiplayer -> Player Setup. Select Male for the gender and scroll through the skins until you find your 
+favorite GamePro editor.  :)
+
+Author's comments: 
+Major Mike was a tough call. He’s a Battletoad.  How do you make a skin for a toad when the player model 
+is a human?  We did what we could. The head is supposed to our amphibious friend wearing his distinctive 
+red beret, and not a massive head wound. We looked at the Teenage Mutant Ninja Turtles skins for ideas, 
+and actually swiped the mouth fromone, then modified it (heavily). The shades are reused from Air Hendrix 
+and Scary Larry (getting a lot of mileage outta them!). Todd did the first part of the work, including 
+assembling/coloring the pants and boots, as well as importing the hat and bandolier; Dan picked it up from 
+there, tweaking existing elements, replacing the arm skin, and fixing a few color problems along the way. 
+Tools were once again Photoshop 4 and the super-groovy NPherno’s Skin Tool. 
+	All thanks go to the artists who have taken the time to write tutorials and supply palettes for budding 
+Quake II skinners like us--the help was truly invaluable.  We hope to be able to create 
+skins for all the members of Clan GamePro in time; check the Clan GamePro web page for new ones. 
+Meanwhile, read GamePro and enjoy the skin!
+--Dan Elektro & HotRod Todd
+

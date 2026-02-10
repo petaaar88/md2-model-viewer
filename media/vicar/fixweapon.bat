@@ -1,0 +1,11 @@
+copy weapon.md2 a_grenades.md2
+copy weapon.md2 w_bfg.md2
+copy weapon.md2 w_blaster.md2
+copy weapon.md2 w_chaingun.md2
+copy weapon.md2 w_glauncher.md2
+copy weapon.md2 w_hyperblaster.md2
+copy weapon.md2 w_machinegun.md2
+copy weapon.md2 w_railgun.md2
+copy weapon.md2 w_rlauncher.md2
+copy weapon.md2 w_shotgun.md2
+copy weapon.md2 w_sshotgun.md2

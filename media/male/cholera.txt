@@ -1,0 +1,9 @@
+Skin Name: Cholera
+Author: Zero
+Files: Cholera.pcx, Cholera_i.pcx and Cholera.txt
+Installation: Unzip all the files into your quake2/baseq2/players/male 
+              directory
+Description: This is my third Quake 2 skin 
+
+If you like (or dislike) this skin, please tell me. 
+I can be contacted at janitor_joe@hotmail.com  

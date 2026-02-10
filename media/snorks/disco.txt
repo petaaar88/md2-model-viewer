@@ -1,0 +1,25 @@
+This is my Saturday Night Fever [aka Disco] skin for the new Snork model for Quake2.  Wait, 
+wait... here, this is original, I hope you HATE it.  So there.
+
+Anyway, simply extract this into your Quake2/baseq2/players/snork directory...
+Ya know, I bet only 50% of the people ACTUALLY read this file BEFORE they unzip the whole 
+thing... And that probably means at least 30% screw it up the first time.  But then of course,
+you have to factor in the 90% that have downloaded my last skin, and know from experience that 
+they should be reading this before they unzip it... but then there are the 50% that are 
+intelligent enough to remember the directions from the last one... and then... and then 
+>>Insert random headaches here<<
+Ow... that hurts.
+
+Oh, and you can reach me at hawk9000@aol.com (The hardest part on THIS one was actually finding
+that Travolta outfit... after a bit of searching, I found my Saturday Night Fever soundtrack
+and was well on my way to making this skin :) -- Boo/Fox/QuakerX
+
+Specials thanks goes to KrAy-ZeE of KrAy-ZeE's Modeling Guide, Spitfire for the idea, and John 
+Travolta, for Saturday Night Fever :)
+
+Appropriate plugs -
+http://software.simplenet.com/nw <-- Clan Nuclear Winter [Check out the pics page for more skins]
+http://www.planetquake.com/modeling  <-- KrAy-ZeE's Modeling Guide
+http://www.sni.net/banished  <-- Banished Entertainment
+
+<sarcastically> "Oooooh, this is ALWAYS what I've wanted to do... Snork skins."

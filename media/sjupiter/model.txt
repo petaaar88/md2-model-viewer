@@ -1,0 +1,131 @@
+
+
+
+6-07-99 (If you're into time)
+================================================================
+Model Name              : SAILOR SENSHI JUPITER
+installation directory  : quake2/baseq2/players/sailorjup
+Author                  : Nick "rio"
+Skin Author : 
+Email Address           : rio81@hotmail.com
+
+Model description       : HEY! Its a model that looks
+			like sailor jupiter. This is a first version
+			and as always I'm open for suggestions. OTHER
+			than Poly-optomization.
+
+
+
+Other info              : Don't compare this with anything else 
+			  in the future. ANYONE who makes any Sailor ---
+			  model is doing the world a favor.
+
+additional Credits to   : <id Software, evil bastard, my helpers,
+			and all the people who support my other
+			senshi models. 
+
+Thanks to               : All the sailor moon fans who like my
+			sailor moon model, despite my carless (I'd say
+			disrespect to the charicter) through stupidity.
+			I'm about to redo her though.
+================================================================
+* Play Information *
+
+New Sounds              : <a few>
+CTF Skins               : <no>
+VWEP Support            : <NO>
+
+
+* Construction *
+Poly Count              : <900 polys>
+Vert Count              : <### Verts>
+Skin Count              : <## Skins>
+Base                    : <sailor venus---winter's ferie)
+Editor used             : Find the crappiest,oldest, one out there,
+			(thats what I used)
+Known Bugs              : "too detailed" for some computers 
+Build/Animation time    : a period of time
+
+
+* How to use this model *
+
+<INSTALLATION INFO>
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Sailor Jupiter Is a protecter of the moon kingdom therefor belongs
+to nobody.
+
+
+
+
+EXPAINATION ~
+
+		* I'm not anti-openGL or anything I'm just to poor,
+		  thus haveing no experience with 3d acceleraters. I was
+		  just informed that skins (divisable by two) work the
+		  best, so I changed that.
+
+		* Yes (as a tradition) this model has a high poly count
+		  I'm sorry! I can't help it. My computer is a peice
+		  o crap and my model does just fine. Personaly I don't
+		  buy Planetquake's 800 limit. Oh well
+
+		* Yes (as a trend) this model is even less hentai, seems
+		  I ruffled some feathers before. Oh well, the Moon model
+		  was like that because of lack of inspiration.
+
+		* The animations (shitty software) are a bit stiff 
+		  but I might be getting better at this.
+
+		* The weapon has a high poly count * 104 * (If you don't 
+		  like it, use an invisble model) It will just look odd. 
+		  This weapon is sort of experimental. It seems to work just
+		  fine for me.
+
+ the anim's 
+
+		the taunt- is for visual fun, time it right and use
+			   it just befor attacking. It's basicaly to
+			   give a seconds warning-- TO GET THE THE HELL
+			   OUT OF THE WAY BEFORE I ZAP YOUR ASS. 
+
+		flip off - also involves the weapon (lightning)
+			   I got this from a scene in the T.V. series.
+
+		the wave - run o the mill type wave (nothing special)
+
+		the point- ditto
+
+	        salute   - I copied directly of the series, through
+			   slowmotion. So if it doesn't look realistic,
+			   it's because it really isn't. Also involves
+			   lightning.
+
+		stand    - Should fit deathmatch scenes alright (more
+			   movement.
+
+		stattack   - Jupiters thunder clasp, to some extent, it's
+			   not right on.
+
+		pains    - pain frames bore me I'm sorry
+
+		crouches - I like the hands and knees (easier to hide)
+			   so it stays.
+
+			   Does anyone know how to tie sound effects to
+			   certain animations in the game (like flipoff
+			   for example)???
+
+Thanks for support
+
+sailor mars is next
+
+then maybe sailormoon ver2.0
+
+
+		
+			   
+			   		

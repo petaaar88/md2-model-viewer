@@ -1,0 +1,30 @@
+Type: 		SUW Quake2 Deathmatch Clan Skin
+Name: 		Clan_PoD
+Release Date:	21.03.1998
+Author:		PoD-Climax  
+E-Mail:		Climax99@hotmail.com
+Homepage:	http://www.Ping-of-Death.de  (coming soon)	
+Model :         Andrew Gilmour
+
+Files:		Clan_Pod1.pcx          Clan_Pod4.pcx
+		Clan_pod2.pcx          Clan_Pod5.pcx 
+		Clan_Pod3.pcx          Clan_Pod6.pcx
+		Clan_Pod7.pcx          Clan_Pod8.pcx
+		Clan_Pod9.pcx
+
+
+Description: 	SUW Q2 Clan Skin
+
+Instructions:	Make a directory "Suw" in your quake/baseq2/players directory.
+		Just unzip all the .pcx files into your quake2/baseq2/players/suw directory.
+		
+		
+
+
+Tools used:	Nstv 076 ( A wonderfull skin tool, written by NPherno ( npherno@sunstorm.net )
+                	   Download it now, its available from the Quake2 Modeling Studio 
+                           www.quake2.com/modeling )
+		Paint Shop Pro
+
+
+THIS SKIN IS ONLY FOR CLAN MEMBAZ!!!!!!!!!!!!!!

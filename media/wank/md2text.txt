@@ -1,0 +1,44 @@
+<INSERT DATE HERE>
+================================================================
+Model Name              : Wanky (as for it was called Wanker's dream bby some friend)
+installation directory  : quake2/baseq2/players/Wank
+Author                  : Emmanuel Andrade
+Email Address           : eandrade@yuc1.telmex.net.mx
+
+Model description       : Regular Sexy Gal, that's all, a refreshing change from monsters, robots and Kenny from SouthPark(no offense... but enough is enough)
+Other info              : it's quite unfinished and has no vwep support.. but its ok by me since i like the surprises :)
+Additional Credits to   : the guy that modeled fiona-playmate... coz i used his sounds :P
+			  the guy that modeled komikat... for the mmodel's amrs 
+		          the kick @$$ pogrammers of q2modeleditor and nst for the tools (q2modelauthor i have some suggestions, nice ones)
+Thanks to               : all friends at office and the regular quakers here at merida, and to sam
+================================================================
+* Play Information *
+
+New Sounds              : yes.. um no...but it has different sounds than the normal female
+CTF Skins               : not right now
+VWEP Support            : no
+* Construction *
+Poly Count              : 855 p
+Vert Count              : 431 v
+Skin Count              : 7 or so
+Base                    : New model from scratch unless the arms
+Editor used             : entirely done in q2modeleditor v0.9 / skins and mapping on nst
+Known Bugs              : none i know... but lemme know
+Build/Animation time    : like a year :P 
+
+
+* How to use this model *
+
+unzip to <quake2dir>/baseq2/players/wank
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+ya can use this model all ya want for playing q2
+and as a base(if ya dare) to create another ones as long as them are free and used
+with no commercial intentions AT ALL
+
+
+
+

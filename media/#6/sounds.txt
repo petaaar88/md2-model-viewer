@@ -1,0 +1,27 @@
+Type:           Snork model Soundsfiles
+Release Date:   February 24. 1998
+Author:	        Fritz "TheChosen" Schober
+E-Mail:	        fritz-schober@netcologne.de
+
+Homepages:      For Quake2 skins from me:
+                http://www.netcologne.de/~nc-schobefr/q2/
+	    	
+Instructions:   Just unzip this into your quake2\baseq2\player\snork dir and
+                listen to the all new sounds your snork now will have (even
+                under water).
+
+Description:    These are cute custom sounds for the also cute snork model.
+                
+Other:  	I'm using Photoshop and a Wacom PenPartner graphics tablet
+		for my skins. The sounds where just done with Cooledit and
+		a normal microphone.
+
+                These sounds are only for private use! If you put it on
+                a website, give me credits. If you want to use my sounds
+                for a clan, ask me. If you want to use it private, do so.
+                If you want to use my sounds as a base for your sound-mod, 
+		gimme credits in your readme.txt. I don't do Clan skins/sounds, 
+		I also don't do custom sounds/skins on requests. My sounds/skins 
+		are all public and not for any 'special elite'. If you have a cool
+                idea for a skin, mail it to me, if I also like it I will
+                do a skin based on it (and give you credits for the idea).

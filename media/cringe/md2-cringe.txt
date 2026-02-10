@@ -1,0 +1,52 @@
+This is my first official attempt at a public working model. A creation from the deepest parts of my cranium comes Cringe.
+Origionally starting as a zombie/mummy charachter, Cringe spawned into a whole slew of skins to create several styles of 
+creature. I had tried several different origional weapons, however i wasnt pleased because i didn't feel that any would fit
+each skin type so I figured I would use the normal view-weaps. Also i couldnt find any sounds that i thought fit this style 
+of charachter, so I decided to use the sounds from the origional cyborg model by Id Softwares own developers, they seemed
+to fit better than most (sorry). Any criticism (healpful or otherwise) would be appreciated. Please send mail to
+monicle@jackmoves.com
+================================================================
+<INSERT DATE HERE>
+================================================================
+Model Name              : Cringe
+installation directory  : quake2/baseq2/players/Cringe
+Author                  : Erik Meredith (M0NICLE)
+Skin Author : same
+Email Address           : Monicle@jackmoves.com
+
+Model description       : depends on skin
+
+
+Other info              : <OTHER STUFF>
+
+Additional Credits to   : id Software, and the view-weap guys
+
+Thanks to               : Polycount.com for being the s#it!
+================================================================
+* Play Information *
+
+New Sounds              : not new
+CTF Skins               : yes
+VWEP Support            : yes
+
+
+* Construction *
+Poly Count              : 688
+Vert Count              : 354
+Skin Count              : 16
+Base                    : ughhh new
+Editor used             : q2 modeler
+Known Bugs              : shotgun skin and crappy rocket launcher position in the pointing sequence
+Build/Animation time    : on and off for a little over a year
+
+
+* How to use this model *
+
+<INSTALLATION INFO>
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+ask me if you want to modify it and submit somewhere with new stuff 
+

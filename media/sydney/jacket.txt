@@ -1,0 +1,32 @@
+Name of skin : Bomber Jacket Lara Croft, skin for Sydney plug in player model
+Date         : May 8, 1998
+Author       : Dion Isgro / Rage [DL]  
+E-mail       : vpi1@ix.netcom.com
+
+
+Files included
+-----------
+Jacket.pcx
+Jacket_i.pcx
+jacket.txt
+
+About skin
+------
+This is Lara Croft in the Snow levels in Tomb Raider 2.
+Wearing a jacket she stole from on board a plane.
+This is the third Lara skin in my series I have done.
+
+Lara2.zip ---normal Lara
+Wet.zip   ---Wetsuit Lara
+Jacket.zip ---Bomber Jacket Lara
+
+INSTALLATION
+------------
+Winzip or Pkunzip into your c:\quake2\baseq2\players\sydney  Dir.
+
+Rember U must have the sydney model for this to work!!
+
+NOTES
+-----
+Please distrubute this skin throught the web..
+Feel free to use skin as a base for others.

@@ -1,0 +1,41 @@
+---------
+BABY BOOM
+---------
+
+Name:		Baby Boom
+Author:		Andy "BoogieMan" Craft
+Email:		boogieman10@hotmail.com
+
+Time spent:	Who knows?  I've been doin so much other stuff.
+Editor:		Quake2 Model Editor v0.83
+Description:	This is the baby that not even a mother could love.  He is a Quake2 player
+		model that I started a long time ago.  But I soon got bored with it and I
+		wasn't happy with it.  I scrapped the old version and restarted.  He is now
+		supposed to be somewhat "cartoony" with exaggeration and snappy animation.
+
+Installation:
+
+	Unzip all the files into a subdirectory in your players directory called "babyboom"
+	Then you can select the model in the multiplayer setup menu in Quake2.
+
+Skins:
+
+	babyboom.pcx - The original Baby Boom skin.
+	ctf_b.pcx & ctf_r.pcx - The CTF skins for the model.
+	devilchild.pcx - I selected all the faces in my editor once, and it looked awesome.
+		So I took the Baby Boom skin, inversed it, and shaded it red.
+	goblin.pcx - I thought this skin might be cool.
+	idiot.pcx - This is just a joke skin.  If you don't get it, watch someone use it
+		in the dark.
+
+	Skins aren't really my thing, but I know that there are many people who like to
+	make skins.  I know these skins are crap (I know what good would be, I just can't
+	get there yet) but if you like to make skins, feel free to make as many skins as
+	you want as long as you at least mail them to me or tell me were I can find them.
+
+Comments:
+
+	If you have any comments, I'd like to hear them.  Go ahead and mail them to me.
+
+
+-ENJOY-

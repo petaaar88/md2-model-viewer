@@ -1,0 +1,6 @@
+Skin Name: Stryfe
+Author: Zero
+Files: Stryfe.pcx, Stryfe_i.pcx and Stryfe.txt
+Installation: Unzip all the files into your quake2/baseq2/players/male 
+              directory
+Description: This is my second Quake 2 skin (my only quake 1 skin was 	     crap). If you like (or dislike) this skin, please tell me. 	     I can be contacted at janitor_joe@hotmail.com  

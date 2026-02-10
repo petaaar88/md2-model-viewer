@@ -1,0 +1,50 @@
+
+Who reads PPM text files??? Your a weirdo' =P
+================================================================
+Model Name              : Fonz
+installation directory  : quake2/baseq2/players/fonz
+Author                  : Mark Medina aka "Bad Moon"
+Skin Authors: Tony W. aka "SharPnel" for the Frank skin, and  "Supreme Being" for the NYPD skin
+Email Address           : mmedin19@idt.net
+
+Model description       : A model that fits into the Quake2 Universe.  He has big pompadour, and a jacket     
+                                     to put logos on.  Also cigarettes are good for you in the future... Light up America 
+
+Other info              :  As you can tell I borrowed a large percentage of my skins from other quake2 skins, 
+                                 and quake1.  I wanted this model to Fit into the q2 universe, so I cut off body parts.
+I am no skinner, and the couple I made are just meant mostly as an example to real    
+skinners.
+Additional Credits to   : id Software, Team Fortress Software, the Producers of Happy Days.
+Thanks to               : My modeling sensei James "Gwot" Edwards, who taught me almost everything I  
+                                know about modeling through his tutorials, and from me bugging him with question 
+                                every other day.   The ppl who post on the q2pmp message board.  All the helpful  
+                                modelers and artists at Efnet #model_design.  Rodgie Medina for his hardware and  
+                                software contribution.  All the ppl who helped me test my PPM: BlackPlauge, 
+     		     Redneck, RedCChurch, Urban, Dojo, Sobek, Supreme Being, SharPnal I probably 			    missed a few. +Betlog for checking the zip.
+
+================================================================
+* Play Information *
+
+New Sounds              : NO
+
+CTF Skins               : NO
+VWEP Support            : NO
+
+
+* Construction *
+Poly Count              : 660
+Vert Count              : 363
+Skin Count              : 7
+Base                    :  The weapon is the blaster md2 I pulled out of the females vweap.  
+Editor used             : 3ds Max 2, Q2Modeler, NST, Paint Shop Pro, Skin View
+Known Bugs              : none... but please tell me if there is
+Build/Animation time    : 20 years
+
+
+* How to use this model *
+make a directory in your quake2\baseq2\players dir, named "Fonz" and unzip all the contents of the file in there.
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+If you want to use this PPM in anyway other then private use, just tell me about it, ill probably grant just about anything.  Just don't use this PPM as a base for another PPM without permission... its no Gem so I doubt anyone would do that. 
+

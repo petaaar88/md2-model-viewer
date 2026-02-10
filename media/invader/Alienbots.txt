@@ -1,0 +1,17 @@
+Stick this in your bot.cfg file for the Eraser bot...  anywhere in
+between [bots] and [teams].
+
+#Aiens
+"Herman"       "Invader/Herman"     5 5 5 7 1 0	200
+"Philbert"     "Invader/Alien"      4 2 3 5 0 0	230
+"Mona"         "Invader/Mona"       3 5 5 3 0 0	300
+"Gomer"        "Invader/Gomer"      1 1 1 7 1 1	300
+"Sally"        "Invader/Sally"      2 2 3 7 0 1	200
+"RedRider"     "Invader/ctf_r"      4 2 5 9 1 0	50
+"Blueman"      "Invader/ctf_b"      4 4 4 7 1 0	200
+"Melvin"       "Invader/Melvin"     2 5 4 5 1 0	400
+"Stealth"      "Invader/Stealth"    5 5 5 7 1 0	200
+"Haywire"      "Invader/Haywire"    2 5 2 3 1 0	100
+"Shinoogie"    "Invader/Shinoogie"  4 2 4 5 1 1	200
+"Ramrod"       "Invader/Ramrod"     4 5 4 3 1 0	250
+"Silitron"     "Invader/Silitron"   3 1 3 5 1 0	200

@@ -1,0 +1,13 @@
+			B-Ball Player
+				PPM
+			BY:Spaminacan
+
+This is basicaly the Male player model with a new skin and a basketball for a gun.  It also has new animations.
+
+E-Mail: canman888@yahoo.com
+
+Distribute freely as long as you don't profit from it:-)
+
+There are no known bugs.
+
+Tom_skin_by_Joshua-16

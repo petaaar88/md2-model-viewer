@@ -1,0 +1,140 @@
+8/8/98
+
+================================================================
+
+Model Name              : Han Solo
+
+installation directory  : quake2/baseq2/players/hansolo
+
+Author                  : Dan Bickell
+
+Skin Author : Dan Bickell (uh, DUH!!)
+
+Email Address           : danbickell@loop.com
+
+
+
+Model description       : Han Solo, from Star Wars.  If you don't know
+                        who that is, you need to get out of that cave.
+
+
+Other info              : Skins depict outfits from all 3 movies, 
+                        plus CTF skins.
+
+
+
+Additional Credits to   : id Software for making this possible...
+                        George Lucas for the awesome universe and
+                        character, and Harry Ford for being so damn
+                        cool.
+
+
+Thanks to               : Nebu for testing help 
+			 
+			
+
+================================================================
+
+* Play Information *
+
+
+
+New Sounds              : no.  default male sound will work just fine.
+
+CTF Skins               : yep.
+
+VWEP Support            : no.  Han has his custom Blastech DL-44, and 
+			nothing else will fit in the holster :)
+
+
+* Construction *
+
+Poly Count              : 800
+
+Vert Count              : 403 Verts
+
+Skin Count              : 5 Skins
+
+Base                    : New model 
+
+Editor used             : Lightwave 3D 5.5, Q2 Modeler 0.9, NST 0.9b2,
+			Paintshop Pro, Photoshop
+
+Known Bugs              : none
+
+Build/Animation time    : approx. 40 hours, over 2 weeks 
+
+
+
+
+* How to use this model *
+
+Unzip all files to your quake2\baseq2\players\hansolo\ directory, 
+and select at player setup in multiplayer menu.  
+
+
+
+* Copyright / Permissions *
+
+Do whatever you want with it, just give me credit and don't sell it 
+(unless you want to give me my cut)
+
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+
+Author's notes (and excuses):  
+
+This was my first shot at a soft-body character model.  Boba Fett was 
+semi-soft bodied, but mostly covered in hard armor, but this was my
+first attempt at a fully soft-bodied character, and in Lightwave
+this time.  Skeletal deformation and inverse kinematics are the ONLY
+way to do this kinda thing :)
+
+Since the Q2PMP poly limit is 800, I shot for spending every single poly
+I could, and nailed it right at 800 for both tris and weapon models.  To
+my own suprise, I managed to model both hands with 5 seperated and 
+jointed fingers each.  This made for some nice animation possibilities
+(that are probably too subtle for Q2 games, but at least WE know they're
+there).  Han scratches his chin on the stand animation, actually grips
+his gun, flexes his fingers, does a real flipoff, point, and twirls his 
+gun into his holster.
+
+This is the first *realistic* attempt at getting a likeness of a real person
+on a Q2 PPM that I know of, and it was a bit of a challenge.  I went through
+23 versions of the base model before I finally got the proportions right and
+a decent likeness in the face.  Tweaking the head shape and hair shape with 
+limited poly geometry was tricky, but the end result is pretty good IMHO. (at
+least from the front, but what do you want...)  The size ends up looking kinda
+small in the game, but he's actually slightly taller than the standard male
+model.  It's just that the Han Solo model has realistic proportions of circa
+1977 Harrisson Ford, who was pretty lean and had a big head of hair. 
+The standard male model, OTOH, is a rediculously muscle-bound pinhead, so 
+they look pretty strange standing next to each other.  
+
+I did my homework when animating this character (not a chore, since I'm a
+HUGE Star Wars fan), and really studied Han Solo's motions.  If you look 
+at things like the run animation and think they look goofy... spend some
+time watching Han Solo run in the movies, and you'll see how well it's
+been emulated :)  The only thing I couldn't bring myself to emulate is
+Harry's limp-wristed handling of his blaster- it's obvious upon studying
+the movies frame-by-frame that Harry never fired a gun in his life, so he
+flops his blaster around in his hand like it's a toy. I had to make Han a 
+little tougher than that :]
+
+So, with all the work behind me now... I can't wait to pop on a Q2 server
+and find a Boba Fett ppm chasing around a Han Solo ppm!  "Put Captain Solo
+in the cargo hold" =)
+
+Oh yeah, and for those that don't know... I've been working as a freelance 
+contractor doing art for 3d games for the last year, and I'm always 
+looking out for new employment opportunities.  So if you're interested...
+
+danbickell@loop.com
+
+
+
+
+
+
+

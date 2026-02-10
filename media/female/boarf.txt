@@ -1,0 +1,12 @@
+QUAKE2 SKIN	     	Skull-like-boar-head (the female one)           17/1/98 Author:   Zooka
+E-Mail:		zooka@mindspring.com
+Files:		boarf.txt boarf.pcx boarf_i.pcx	
+Instructions:	Just unzip all these files to your quake2\baseq2\players\female
+                directory.
+Important: 	I am not responsible if you stuff this up, your actions are
+	   	your own and I take no responsability.
+Other:  	I made the head texture then made the rest black&white so his arm color fit also. 	
+DISCLAIMER:	Skin authors MAY use this skin as a base for other skins. This
+		skin is available for free distribution via BBS, FTP, and
+		other free electronic means. This skin MAY be included in any
+		CD-ROM or other product whose sales earn profit for their publishers.

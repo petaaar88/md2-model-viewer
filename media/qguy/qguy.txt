@@ -1,0 +1,34 @@
+
+	QuakeGuy Q2 model by Xeno 
+	
+
+This model was originally the Player from Quake.
+Made by ID Software rehashed and remixed by Xeno.
+
+File contains sounds, skins, models, and this text.
+they should all be extracted to this dir :
+
+\Quake2\baseq2\players\qguy\
+
+If you're having trouble finding the new model(s) in your player setup screen
+Delete all files from the  '  \Quake2\baseq2\players\  ' directory
+EXECPT the folders.
+Either delete or move the files to elsewhere(but leave the folders.)
+
+Original skins by ID Software, additional skins by Xeno, Dan Bickell, and various other Quakers.
+Colored Base Skins and Original CTF skins from ThreeWave CTF (http://captured.com/threewave/), coverted by AlmostConnected (gcagle1@tampabay.rr.com).
+Original models by ID Software, weapon and additional frames by Xeno.
+Original sounds by ID Software, additional sounds remixed from various other places.
+
+
+Xeno's E-Mail is lippert@ix.netcom.com or rectumburner@botch.com
+AlmostConnected's Email is gcagle1@tampabay.rr.com
+
+Visit the Dan Bickell Skin Exhibition to learn more about skins and models :
+http://www.neurogamer.com/exhibition/
+
+Visit Xeno's site at :
+http://www.botch.com/~xeno/
+
+Visit PX & 69's Quake II Place at :
+http://quake2.stomped.com/px69/

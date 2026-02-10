@@ -1,0 +1,36 @@
+QUAKE 2 skins for female character:
+
+lrPINKf.PCX
+lrPINKf_I.PCX
+lrHOTf.PCX
+lrHOTf_I.PCX
+
+QUAKE 2 skins for male character:
+
+lrBLACKm.PCX
+lrBLACKm_I.PCX
+lrDEMONm.PCX
+lrDEMONm_I.PCX
+lrDUKEm.PCX
+lrDUKEm_I.PCX
+LORDREDm.PCX
+LORDREDm_I.PCX
+lrPUNKm.PCX
+lrPUNKm_I.PCX
+lrSEAL*m.PCX
+lrSEAL*m_I.PCX
+
+Installation: Copy these files to your quake2\baseq2\players\female\ 
+and quake\baseq2\players\male directories as appropriate and then 
+simply choose the new skin in multiplayer setup.
+
+
+All these skins made by: "Red" (Jonathan Kirkland)
+Email: lordred@redscull.com
+
+
+Distribution: Please do! The more people who get these skins the more 
+people can deathmatch with them. But please, be kind and give me 
+credit for the time I put into making them (in other words, distribute 
+this file intact when trading any of these skins). Do not place these 
+skins on a commercial product without my permission, please.

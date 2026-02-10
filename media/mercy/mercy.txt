@@ -1,0 +1,88 @@
+12-6-98  (refined stand animations)
+
+================================================================
+
+Model Name              : Mercy
+
+installation directory  : quake2/baseq2/players/mercy
+
+Author                  : Iikka "Fingers" Keranen
+
+Email Address           : iikka@ionstorm.com
+
+Skins                   :
+
+	Mercy     -- Fingers
+        Stat      -- Sharpnel
+        CTF skins -- Supreme_B
+
+Sounds                  : RedChurch
+
+Website Address         : http://www.planetquake.com/ikq/
+
+Model description       : 
+
+	An alien mercenary with a cybernetic railgun for his right arm...
+        He's very large compared to the standard male player, but still
+        fits into the bounding box. (I don't know why the original models
+        are 8-10 units shorter than the bbox..)  Anyway, not as big as
+        Rhino or Terminator, so don't worry about that :-)
+
+	This is my first Q2 PPM, and possibly the last. It's not quite
+        where I wanted it to be, and I would do it better next time, but
+        I think it's good enough to release anyway. 
+
+	I got some guys from EFnet #model_design do more skins, so now you
+        can play CTF. I would still like someone to make a bit more original
+        design for the CTF skins, with the team logos included... And maybe
+        more deathmatch skins as well.
+
+        RedChurch may be doing a sound pack.
+
+Additional Credits to   : 
+        * The makers of NST, q2m and Gfx2
+        * Ken Scott for giving me the inspiration for parts of the skin :)
+
+================================================================
+
+* Play Information *
+
+New Sounds              : Yes  (Made by RedChurch; read mercySFX.txt)
+
+CTF Skins               : Yes
+
+VWEP Support            : No
+
+* Construction *
+
+Poly Count              : 792 tris.md2 / 69 weapon.md2
+
+Vert Count              : 403 tris.md2 / 37 weapon.md2
+
+Skin Count              : 2 DM, 3 CTF
+
+	(color/shading layers and a mask for the mercy skin included)
+
+Base		        : Scratch, except a few Q2 textures have been
+                          used in the skin...
+
+Editor used             : 
+		Modeling - MED (my own crappy piece of code)	
+		Animation- MED
+		Skining  - NST (sorry q2modeler)
+		Painting - GFX2, IMAP (another piece of crap by me)
+		Viewing  - Skin View 
+		
+Known Bugs              : 
+
+        Some jiggling vertices remain in taunt anims, but I spent 
+        some time fixing the stand, attack and crstand anims which 
+        I consider the most important ones... They look a lot better 
+        now.
+                          
+
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+This model is not to be distributed as part of any commercial product.

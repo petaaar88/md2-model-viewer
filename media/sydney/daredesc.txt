@@ -1,0 +1,13 @@
+Dare skin for the Sydney PPM
+------------------------------------
+
+unzip this file into your quake2\baseq2\players\sydney directory.
+
+This is just a skin I made when I was first messing around
+with the Sydney Model.  Just Sydney dressed for warmer
+weather I guess...
+
+
+ThirteeN
+
+donm@kwantlen.bc.ca

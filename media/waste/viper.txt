@@ -1,0 +1,5 @@
+After making my first Q2 skin, Green Camoflauge, I realized that there wasn't enough different about the skin to make it origional.
+This is my second offering, the Viper skin. ;)
+[PDC]Viper[Is]
+
+Install Notes: Put the two .pcx files under your quake2\baseq2\players\waste directory.

@@ -1,0 +1,33 @@
+Name of skin : Mega Man Neo, skin for astro plug in player model
+Date         : Febuary 7, 1998
+converted by : Dion Isgro   
+E-mail       : vpi1@ix.netcom.com
+
+
+Files included
+-----------
+MMNEO.pcx
+MMNEO_i.pcx
+MMNEO.txt
+
+About skin
+------
+U may say y does mega man not have his helmet on.
+The reason is I made this skin after the new 3d mega man games coming to 
+playstation in a few months.
+in the new game MEGA MAN NEO he does not have his helmet any more.
+and also the astro model does not alow smoth surfaces on the head.
+
+
+INSTALLATION
+------------
+Winzip or Pkunzip into your c:\quake2\baseq2\players\astro  Dir.
+
+
+NOTES
+-----
+Please distrubute this skin throught the web.
+Feel free to use skin as a base for others.
+
+Id like to thank..capcom for mega man.
+and ID for quake2.

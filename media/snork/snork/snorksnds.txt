@@ -1,0 +1,22 @@
+               -=[The Snork Plug Play Model Sounds]=-
+                 ----------------------------------
+                           by: Malengine
+                   e-mail: d-con420@geocities.com
+
+=[description]=
+-=[this is a little zip file I made that when extracted to the folder  
+-=[that the snork model is in, will give him sounds.
+
+=[Note]=
+-=[I'm pretty sure this will only work with v 3.12 and up. oh yeah, you 
+-=[gotta have the snork player model too (that ones for you OLIVER!).
+
+=[Instructions]= 
+-=[unzip all the files to the baseq2\players\snork folder (or the  
+-=[folder your snork tris.md2 file is in) and play away.and there are 3
+-=[jumping sounds. if you like one better, than just rename it jump1.
+-=[questions comments? my address is at the top.
+ 
+=[oh yeah]=
+-=[um... whoever made the snork model did a great job and I hope isn't 
+-=[mad at me for some reason.

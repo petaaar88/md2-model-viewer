@@ -1,0 +1,50 @@
+=================================================================
+---------------------- BEGIN TRANSMISSION -----------------------
+
+                     ===== =     ===== =    =                           
+                    =     =     == == =  = =                                    
+                   ===== ===== == == =    =                                    
+
+                       ===== ===== =====
+                        =   == ==   =
+                     ===== == == =====
+
+-----------------------------------------------------------------
+
+		   Quake ][ Base Clan Skin
+
+Files:
+	sasbase.pcx	Main skin file
+	sasbase_i.pcx	Info pic
+
+Using:
+	Place the two above files in the quake2/baseq2/players/male 
+	directory. In the player setup (in game) scroll thro the iD 
+	male skins and at the end select 'sasbase'. Alternatively, 
+	add this line to your .cfg if u use a custom .cfg file: 
+		set skin "male/sasbase"
+
+Author/Contribution:
+	Joe "Pilsner" Cise - SAS-TA Leader <jcise@enterprise.net>
+	Used base camoflage from SAS.pcx (Q1 skin) by [BK]DarkPheonix
+
+Thanks To:
+	iD Software for the koolest games on earth =)
+	SAS-Besty for lettin me in the clan
+	The rest of SAS for skin testing etc.
+
+-----------------------------------------------------------------
+
+EMAIL ADDRESS	     : SAS@SHOOTNSURF.CO.UK
+HOMEPAGES 	     : HTTP://WWW.SPIRITUALNET.COM/SAS/
+UKCL / MCW           : HTTP://WWW.SPIRITUALNET.COM
+IRC #    	     : #UKCLAN_SAS ON IRCNET
+
+-----------------------------------------------------------------
+
+---------------------- END OF TRANSMISSION ----------------------
+=================================================================
+
+
+
+

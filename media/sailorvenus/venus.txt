@@ -1,0 +1,74 @@
+
+
+
+3-28-99     SAILOR SENSHI VENUS ver 1.0
+================================================================
+Model Name              : SAILOR SENSHI VENUS
+installation directory  : quake2/baseq2/players/sailorv/
+Author                  : NICK CURETON
+Skin Author :           : NEED HELP!
+Email Address           : rio81@hotmail.com
+
+Model description       : No need to indroduce,
+                          Sailor venus is quite
+			  like the previous Sailor moon
+			  model.
+
+			 *New animations to fit venus
+			 *Less "panty" shots
+			 *smaller skin
+
+
+Other info              : I made this model from
+			  requests by meny a people.
+			  If anyone wants more scouts
+			  talk to me.
+
+			  The skins are basic and 
+			  cartoonish.  Somebody make
+			  better skins. Sounds are
+		          welcome too.
+			
+			  
+
+Additional Credits to   : evil bastard, id, people who
+			  didn't put down my Sailor Moon
+			  model.  
+
+			  to L.L., FOD 
+
+Thanks to               : <PPL TO THANK>
+================================================================
+* Play Information *
+
+New Sounds              : not really
+CTF Skins               : hell no
+VWEP Support            : no thanks
+
+
+* Construction *
+Poly Count              : 918
+Vert Count              : 551
+Skin Count              : 1
+Base                    : winter's farie
+Editor used             : QME earliest version for QII
+Known Bugs              : REPORT ANY OBVIOUS BUGS
+Build/Animation time    : about a month off and on
+
+
+* How to use this model *
+
+install into the proper directory from above
+and frag on with Sailor Venus
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Sailor Moon(R) is property of DIC and Bandi 
+this model is not for profit!
+ 
+when useing this model for any reason
+just give me a little credit I worked a
+long time on it. AND CONTACT ME PLEASE
+

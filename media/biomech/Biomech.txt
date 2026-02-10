@@ -1,0 +1,70 @@
+***********
+BIOMECH-PMP
+***********
+
+MIMIBOT is a plugin player model for deathmatch play in Quake2. It is a completely new model with all 20 animations. It's a strange model, me with cyba-legz.
+
+Author:
+
+Jude Bond
+
+Email:        jude.bond@mcr1.poptel.org.uk
+Web:          http://www.geocities.com/SiliconValley/Peaks/7329/
+    
+
+I'm a young artist who is looking to work in the games industry. This is my second PMP for Quake/Quake2, so don't be too hard on me..... I dont have any cool plugins like 'puppet master' or whatever so all of this work has been done in the LW-modeler, frame by frame. As always my next project will be loads better, I've learnt from my mistakes. I've made some pretty good Q2DM levels which are of a higher standard than this model, check them out at my homepage.
+
+Installation:
+
+Put all the files in this DIR here:
+quake2\baseq2\players\biomech\
+
+Once extracted, Your BIOMECH will appear in the player selection field of the Multiplayer Options menu (*). Of course, it's only the other players that get to see you as BIOMECH so it really only works in Multiplayer games.
+
+(*) If it doesn't reinstall Quake2!
+
+If you don't like the sounds, just delete the WAVs in the biomech DIR.
+
+Please don't send bug reports please and please don't email me saying you can't get it working.
+
+
+What's the crack then?
+
+BIOMECH is a small project I set myself last the weekend. It has ended up taking the best part of 3 days (i have to sleep). Again I went polygon-mad, not quite as mad as with my first project (minibot) but I still went fairly mad. So once more this is a heavyweight model.
+
+Specs:
+
+Polygons:   863 (862 for tris and 1 for the weapon)
+Frames:     198
+Skins: 4 @ 400x200
+Sound: thrown together, borrowed from ID's PAK0.PAK
+
+Construction time:
+
+Modelling:  a few hours
+Skins:      an couple of Hrs, just messed around with them a bit.
+Animation:  about 25 hrs!! Had to make ONE model and tweak vertices until blind.
+Fixings:    haven't really bothered yet......... (hehe)
+
+Programs Used:
+
+Modelling:  Lightwave Modeler
+Animation:  Lightwave Modeler
+Skins:      NST, PSP, whatever.
+Compiling:  qdata (Lightwave version)
+Others:     MD2view & QME
+
+    
+
+Stuff:
+
+Biomech and all associated files are copyright of Jude Bond. Quake2 is copyright of id Software. Feel free to spread the BIOMECH far and wide, but you are not allowed to make cash from it in any way, shape or form. The skin i made is (as i said) pretty crap really. Everyone is completely free to make additional skins for the model, but please don't send me skins you have made.
+    
+
+And Finally...
+
+That's about it really. I'll probably have to put out an updated version at some time
+with a few simple fixes like better animation and some half-decent skins. Any feedback would be appreciated, don't be shy, I can take it good or bad. Happy Fraggin'.
+    
+
+Jude.

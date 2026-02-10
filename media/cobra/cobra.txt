@@ -1,0 +1,52 @@
+May 22,1999
+================================================================ 
+
+Model Name              : Cobra
+Installation directory  : quake2/baseq2/players/cobra
+Author                  : Neil Weber "Dufusyte"
+Skin Author : <Skinners name>  *only if different to modeler*
+Email Address           : dufusyte@yahoo.com
+
+Model description       : A cobra with bonus lower fangs!  Stroggos is 
+infested with snakes; some have fallen into the bio-vats and come out 
+breathing rockets, coughing up grenades, and spitting buck-shot.  These 
+creatures die with a shriek and leave a mere snake skin behind.  When 
+wounded, they can sometimes grow their head back.
+
+Other info              : My first model!
+
+Additional Credits to   : Credits to Id Software; some of the cobra sounds 
+are tweaked versions of the Id sounds, and the coral.pcx skin is based on 
+an Id skin.
+
+Thanks to               : Everybody in the Quake community!
+
+================================================================
+
+* Play Information *
+
+New Sounds              : <YES>
+CTF Skins               : <YES>
+VWEP Support            : <NO>  Sorry!
+
+* Construction *
+
+Poly Count              : 637 polygons
+Vert Count              : 321 vertices
+Skin Count              : 9 skins
+Base                    : completely new model
+Editor used             : - QME to model & animate 
+                          - NST & PSP to skin 
+
+* How to use this model *
+
+Unzip all files to the quake2/baseq2/players/cobra directory.
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Feel free to make new skins for it, including ones based on the current 
+skins, and to make new models based on the current one.  For permission 
+to use this model or one based on it for commercial profit, contact me at 
+dufusyte@yahoo.com.  Commercial inquiries are welcome.

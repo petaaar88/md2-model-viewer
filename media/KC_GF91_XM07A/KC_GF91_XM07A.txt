@@ -1,0 +1,80 @@
+
+Monday, December 7, 1998
+view this file at 1024x768, becase this is what I'm typing it at.
+================================================================
+Model Name              : KC_GF91_XM07A
+installation directory  : quake2/baseq2/players/KC_GF91_XM07A
+file name		: KC_GF91_XM07A.zip
+
+Author                  : King Chou  "Parasaurolophus"
+Email Address           : sc5@cec.wustl.edu
+		 	  www.geocities.com/TimesSquare/Stadium/7598
+
+Model description       : XM-07A Vigna Ghina: a preview from my upcoming Gundam F91 Unreal/DNF TC
+				Re-release: vertex jiggling fixed.
+
+
+Other info              : 
+
+	Defense for this lousy excessive use of processing power:
+	1. get it only if you're a Gundam F91 fan.  Other wise, Don't.  So Don't complain about
+		the poly count or skin wastage.  And only get it if you have a good computer,
+		or you don't care about the slowdown, as long as you can see the model.  :þ
+
+	Defense for not having the Point, Wave, and Salute animations done:
+	1. None.  I gave up.  This little ppm project is only a detour from what I'm really trying to do.
+		It took too much time, so I just decided to wrap it up.
+
+	Defense for the second death animation:
+	1. It's a god damned giant robotic vehicle!  When you disable it, it's not gonna lie down perfectly
+		flat for you!  Blow it up god damn it! Gib Gib Gib!  (Once again, if you think this
+		is unfair, DON'T get the model.  Problem solved.)
+
+Additional Credits to   : <id Software, etc etc >
+				Bandai  (Couldn't have done it without the plastic model to look at)
+				Sunrise
+				Sotsu Agency
+
+
+Thanks to               : The Mecha Domain 
+				http://members.aol.com/PnzrGundam/index.htm
+================================================================
+* Play Information *
+
+New Sounds              : NO
+CTF Skins               : YES
+VWEP Support            : NO
+
+
+* Construction *
+Poly Count              : 1356  (For the "wasted" polys in the face:  well screw you!  I like it!  :)     )
+Vert Count              : 905
+Skin Count              : 3 (normal, ctf_b, ctf_r)  (512x256, I couldn't do better...  :(     )
+Base                    : from scratch.  qME 3.0 primitives.
+Editor used             : qME 3.0.  3.1 to save as .md2.  qME rocks!  Except if only Rene Post could fix
+				the vertex jiggling thing...  So it can export to programs like 3ds max
+				and preserve the resolution.
+Known Bugs              : It'll tax yer system if it's not a good one...  :)
+Build/Animation time    : Been modeling it since May 4.  My first model for my Gundam F91 TC for Unreal/DNF.
+			  I've also modeled the XM-05, Gundam F91, XM-01, F71, RGM-89J, RGM-89M, and their weapons.
+			  I decided to take a detour from just making the TC, in order to actually have some playable 
+			  work done to play with.  :)  So I made the XM-07 into a Q2ppm.  This decision was made 2
+			  weeks ago.  In these two weeks, I made a new head for it, and did the animations.  And
+			  gave it this crap skin.  :)
+
+Help Wanted:  Can somebody buy me the models of the XM-06, XM-04, XM-02, Heavy Gun, Gun Tank, and somebody scratch 
+			build me an XM-03 and a Laffresia?  :)
+
+* How to use this model *
+
+Unzip it with Winzip to c:\, preserving the directory structure in the zip.
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Gundam F91 and XM-07A Vigna Ghina are copyrighted by/trademarks of/ whatever... of
+Bandai, or Sunrise, or Sotsu Agency.  One of them.  :)
+
+You may not alter this model, or base something else off it.
+

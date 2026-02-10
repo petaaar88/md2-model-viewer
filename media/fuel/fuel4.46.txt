@@ -1,0 +1,88 @@
+
+: F U E L 4 . 4 6 :
+
+
+Author:         Jeff M. Garstecki, also known as Stecki,
+Email:          stecki@frag.com
+Web:            http://www.frag.com/deconstruct
+Host:           http://www.frag.com
+
+
+: What Fuel4.46 is :
+
+Fuel is a PPM or plugin player model for use with the game Quake2.  It allows you to become a different character (or at least let others see you as one) than the standard Quake2 marine.
+
+: Notes on Fuel4.46 :
+
+Okay, I just wanted to write some info on the model and my ideas.  First off, this only my second attempt at character animation.  The PPM Waste is my first.  I am always learning.  
+
+I built fuel to help me understand a more complex skeleton system, different animation tools (like getting the shocks on his legs to un/compress), and different style of character.  
+
+I also wanted to seriously attempt giving what i call "cold life" to an object.  I wanted to see if I could make something like a robot look slightly artificially intelligent, yet very inorganic and non cartoony (ex: not like the pixar animation Luxor Jr.).  Fuel is meant to look like he has just gotten to the point of self-awareness, and is in a sense, very childlike.  I hope this shows through in his animations and overall aesthetic.
+
+I am releasing him with the particles, even though they are not 100% what i was hoping for, and am slightly disappointed with the attack frames.  but still, i'm hoping that this may spur ideas in my fellow modellers, and that that in turns will spur more ideas in me, and so on...  I may release a non "sparked" version, but that is a low priority.
+
+The design is referenced by the work being done in true robotics research. I also am into the world that Survival Research Laboratories (http://www.srl.org) is creating.  Their robots are honestly brutal, and simple in their purpose.  It's almost the opposite of the japanese animea scene (of which i am honestly getting tired of) which is more of a function follows form, rather than form follows function.
+
+
+: How to use Fuel4.46 :
+
+Unzip this stuff into quake2/baseq2/players/fuel, otherwise, it doesn't work.  you should have the following placed in said dir:
+
+tris.md2        the robot that could
+weapon.md2      his gun model
+fuel_i.pcx      the multiplayer select icon
+fuel.pcx        skin
+weapon.pcx      gun skin
+fuel.txt        this file
+
+BONUS SKINS
+
+red_i.pcx     	the red multiplayer select icon
+red.pcx       	the red skin
+blue_i.pcx    	the blue multiplayer select icon
+blue.pcx      	the blue skin
+green_i.pcx   	the green multiplayer select icon
+green.pcx     	the green skin
+silver_i.pcx  	the silver multiplayer select icon
+silver.pcx    	the silver skin
+
+weapon2.pcx    a second weapon skin.  you have to rename it to weapon.pcx (there is no weapon skin selection :()
+
+
+Once in quake2, you should be able to select Fuel4.46 as a model in the multiplayer submenu.  if not, something has gone very, very wrong. The most common solution to this is to make sure there are only folders in the players directory. 
+
+If you play as Fuel4.46, the only other people who will see you as Fuel4.46 will be others who have downloaded this file as well (unless you rename some folders, heh heh heh).
+
+
+: Sounds :
+
+If you are running version 3.12, all the .wav files are included to make Fuel4.46 seem more like a robot than a male, female, or cyborg.  Of course, i did this part last minute, so they are real crap.  I'm not a sound guy, nor do i want to be.  If anyone cares to do a sound pack, go ahead, i hope you do.  I included some funny ones, and it's not really true to the serious nature of Fuel4.46.  I could not resist the jump one though, cracks me up...
+
+
+: Bugs :
+
+you may see some odd interpolation in the spark effects, depending on your fps.  sorry, this is where quake1 was better, in that no matter what, you knew where your polys were for full control
+
+
+: Naming :
+
+yes, like Waste, Fuel is derived from a song by a band that is somewhat popular, depending on who you talk to.  no, it is not Metallica.  4.46 is the track length, according to the CD jacket, but my display reads 4.45...
+
+
+: Discalimer :
+
+Fuel4.46 is free to do with as you please, as long as it remains a free commodity.  reskin, revamp, reanimate, be creative.  You may use Fuel4.46 for any project you see fit, as long as a simple email hits my box, letting me know of it.  Commercial TC/PC/mod's cannot use Fuel4.46 without my consent.  Also, before you email me with problems, read this thing completely.  I am not tech support.  there are a couple really good sites dealing with troubleshooting PPM's.
+
+The bodyshop:	http://bodyshop.logicquest.com/
+Q2 pmp:		http://www.planetquake.com/q2pmp/
+
+: Thanks :
+
+Everybody who helped out.  I'd like to thank the Great Quake Jihad for testing Fuel4.46 out.  There server is the "official test server" for Deconstruct stuff.  Info is available at (but don't mind the music, they really are cool):
+
+http://home.tampabay.rr.com/ghj2/
+
+server is at:	24.92.7.202  stop by and be killed, it's good for you!  Go HK-BFC!!!!
+
+also thanks mindbomb for getting my ass in gear on the last crunchtime so i would actually finish it, instead of sleeping!

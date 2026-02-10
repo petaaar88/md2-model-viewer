@@ -1,0 +1,108 @@
+18/09/98
+
+================================================================
+
+Model Name              : QBot
+
+installation directory  : quake2/baseq2/players/qbot
+
+Author                  : James Ferris
+
+Skin Author 		: same as above
+
+Email Address           : ferris@canada.com
+
+Model description       : 
+
+QBot is one of the many maintenance droids onboard the marine ship. Droid number 74 has
+a problem, however.  He thinks.  Too much.  Much more then an ordinary, dun-green
+maintenence droid should think.  He was repairing a stabilizing thruster on one of the
+capsules as the assault was prepared against the Strogg.  Seeing all these marines 
+running around with weapons got him thinking even more.  He quickly sped off, waylaid
+a passing security droid, deactivated it and removed its weapon, which he used to replace
+his own right appendage. (He's a maintenance droid. He can do these things. Trust me.)
+Beetling back, he jury rigged the thruster, hopped in the capsule, and was launched along
+with the rest of the assault team.  His capsule was actually the one that knocked the
+hero of the single player game off course, due to its shoddy controls.  Since he didn't
+show up as a "life form" on the Strogg scanners, he was mostly ignored when they roasted,
+toasted, shredded and mangled the other marines.  Watching the mayhem for a while taught
+him what a marine (or a malfunctioning maintenance droid) should do in battle, and away
+he went! 
+
+
+
+
+Other info              : 
+
+QBot is my first quake model.  As an animator by trade, I was always bothered by the way
+the quake soldiers feet slide when they move.  In no way is this meant as an insult to
+the folks at id, as I know about the limitations of making games, and the interest in
+playability and speed over absolute visual perfection.  They have made THE BEST shooter,
+hands down.  This gripe of mine is only to explain why QBot is the way he is... no feet.
+It is great to watch him strafe and spin, hovering over the ground without sliding. At 
+least I think so.  You can form your own opinions. If you'd like to share them with me,
+I can be reached at the above address.
+QBot has some sounds with him.  They aren't the best, but my forte is visual, not audio
+ventures.  He also has four skins, which include ctf variants, qbot skin, and a security
+ bot skin  The skin is basic, but then so is the character!  
+The character is based on a cartoon theme, and the skin reflects this. 
+
+
+Additional Credits to   : id
+
+================================================================
+
+* Play Information *
+
+
+
+New Sounds              : Y
+
+CTF Skins               : Y
+
+VWEP Support            : N
+
+
+
+
+
+* Construction *
+
+Poly Count              : <### polys>
+
+Vert Count              : <### Verts>
+
+Skin Count              : 4
+
+Base                    : New model
+
+Editor used             : 3DS r4 (if its good enough for Paul and the boys...)
+			  qMe for the md2 conversion
+			  Photoshop, Paint Shop Pro
+
+Known Bugs              : I know the skin is an odd shape, but it works on 20
+			different systems so far, including Monster 3D and ATI Rage Pro.
+			No bugs I've run into yet.
+
+Build/Animation time    : Good question.  It's occupied little bits of time spread over
+			  the summer...
+
+
+
+* How to use this model *
+
+
+unzip it into a "qbot" directory in your baseq2/players directory and bang away!
+
+
+* Copyright / Permissions *
+
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+
+If you want to play around with poor old QBot, go ahead, but give me credit in future
+releases. Thanx
+
+
+

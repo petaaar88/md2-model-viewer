@@ -1,0 +1,58 @@
+1 December 1999
+===============================================================
+Model Name              	: Okta
+
+installation directory 	: quake2/baseq2/players/Okta
+
+Author                 	: Anders Jenbo
+Email Address     	: Anders.jenbo@fc.skolekom.dk
+
+Model description       	: Made for both Q2PPM and Q2Mods Okta is mad and Hungry after 		  Blood. It's been 4 years since it was last let out to play
+
+Additional Credits to	: 3D Realms for Duke Nukem 3D and id Software for Quake2
+
+Thanks to        	: Phillip Martin for making an grat model editor.
+
+===============================================================
+* Play Information *
+
+Sounds              	: YES
+CTF Skins               	: YES
+VWEP Support            : NO
+
+* Construction *
+
+Tris.md2
+
+Number of Vertices		: 256
+Number of Faces		: 400
+Number of Skin Vertices	: 490
+Skin Size			: 256x180
+Skin Count             		: 4
+Base                   		: New model
+Model Scale		: -2% taller than Q2 male
+
+Weapon.md2
+
+Number of Vertices		: 4
+Number of Faces		: 6
+Number of Skin Vertices	: 1
+Skin Size			: 1x1
+Skin Count             		: 1
+Base                   		: New model
+
+Editor used            		: Paint, Paintshop Pro and Mdl/q2mdlr9b
+Known Bugs              		: None that I know of
+
+Build/Animation time   		: 4 weeks
+
+* How to use this model *
+
+Unzip all files into your Quake2\baseq2\players directory using folder names.
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Okta can be used for whatever free stuff your twisted minds can think 
+of as long as I am given full credit. Permission must be asked for if you 
+want to use this model or any derivative of it for anything involving money.

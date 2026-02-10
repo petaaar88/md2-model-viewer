@@ -1,0 +1,73 @@
+3-13-99  \  5-29-99  \  6-5-99
+================================================================
+Model Name              : BaronVAC
+installation directory  : quake2/baseq2/players/baron
+Author                  : Jon "shine" Jones <shine@planetquake.com>
+Skin Author             : Chris "shatter" Holden <cholden@4drulers.com> 
+Additional skin by      : OgrO_FiX <ogro_fix@yahoo.com>
+Sounds                  : Dave Cormier <DrowseMan@hotmail.com>
+
+Model description       :  A monster from Stand: the Merge of Powers Quake 2 Total Conversion converted to a ppm. Hopefully, some incredible story can be generated about this character soon.
+
+Addiotional URLs:
+
+Stand: tMoP: http://www.planetquake.com/stand/
+Chris Holden and Jon Jones's webpage: http://www.planetquake.com/shattered/
+OgrO_FiX's webpage: http://www.fondation.com/pandemonium/
+
+
+Other info              : Took way too long to finish. 
+
+Notes from shine: 
+	Yet again, Chris has come up with a great idea for a model. I worked on the model itself for a while (70+ revisions) until I got it looking right. Brian Yee, MrRogers, Magarnigal, and EvilBastard GREATLY influenced the look of the model and animations by way of inspiration. Brian Yee and Magarnigal also directly gave me advice on the animations, word up! finally got this little sucker out the door. 
+	Overall, I've redone EVERY animation at least five times, and I've revised every animation at least 12 times each. There are so many tiny little nuances of animatoin that really get you.. such as weight (which wasn't very accurately conveyed with the weapon), balance, wind-up, exaggerated motoin, secondary motion, and things involving action and reaction, just the little things. 
+	I think that on the flip animation it's still a little bit slow due to q2's interpolation, and the taunt animation still doesn't look totally natural, but it took me at least a month to figure out what to do with that one. I think the wave animation used secondary motion and exaggerated windup well though, how he leans back, his back arching somewhat and his leg raising, his head rotating upward, then he SLAMS down full-force... speed is hard to convey at 10FPS so I did what I could, and I think it looks great ingame. if only that damned interpolation wasn't so difficult to work with! *grump* oh well... I still think I'm doing well. I'll get better. I'll finish that Battle Droid soon enough.
+	you know, a part of what contributed to Baron's delay was Chris introducing me to Pokemon for the gameboy. I haven't stopped playing it, and that set Baron back a bit. another part of that is that it seems that once I'm halfway done animating a model, I start to hate it. I don't know why, or how this happens, but it does. I finished it today (level 82 Rikachu, baby) so I got a bit more diligent about bugfixing, but the damn thing set me back quite a bit.
+	Yet another factor that delayed Baron was that I was REALLY stupid about bones and IK in LW, and after I'd finished the animations, I'd found out how to speed up the animation process about 1000% from Brian Yee, so I went and redid *ALL* the animations except the run, and I think it was all for the better.
+	Hopefully I'll learn how to animate a PPM in under three months someday. Sigh. :/ 
+
+
+Skin/etc info from Chris Holden: Jon really showed out on this ppm, there were only a few problems here and there. I don't have much to say about it besides "atta' boy, Jon." I did want to do some more skinwork and vwep for this guy, but a lot of time was lost recently due to life. Until Quake 3 is out with full editing going, I will continue to make Quake 2 an art gallery.
+
+Additional Credits to   : Chris Holden for the main skin and ideas, OgrO_FiX for some more skins (grokka orugha roo!), Dave Cormier for the sounds, Brian Yee for telling me what's cool and what's not and explaining animation principles to me, Wrath for giving me advice all-around, and Magarnigal for giving me KILLER advice on animation in general. :) Thanks guys! Couldn't've done it without you.
+
+Thanks to               : 
+	Chris Holden for being a mentor and a friend
+	OgrO_FiX for doing some more skins :)
+	Brian Yee for explaining important animation principles to me and being strange 
+	Magarginal for giving me some tips\advice that totally changed the anims for the better
+	EvilBastard for kicking ass and making Ratamahatta (always an inspiration)
+	Rogue13 for being generally cool and the national distributor of ;p's
+	Dave Cormier for those bitchin sounds
+	NPherno for making NST, without which this model would've been hard as hell to make
+	Chris Johnson for giving me some AWESOME tips on IK ages ago
+	whoever it was that made quake2, id or somebody like that
+	Newtek for making Lightwave, without which this PPM would have totally sucked
+	Front Line Assembly for making great music and being the primary source of testosterone magnification\awareness in the animation process
+================================================================
+* Play Information *
+
+New Sounds              : Yes.
+CTF Skins               : Yes.
+VWEP Support            : No.
+
+
+* Construction *
+Poly Count              : 610 for the Baron, 56 for his gun. 666 total. ;) 
+Vert Count              : 324 for the Baron, 36 for his gun, 360 total. does this matter?
+Skin Count              : 10 :) all skins are by Chris Holden except Ashork, which is by OgrO_FiX (grokka groo!)
+Base                    : None.
+Editor used             : Lightwave 3D 5.6, Paint Shop Pro 5.0, NPherno's Skin Tool
+Known Bugs              : His shoulder pads are the bane of my existence and intersect with the body more often than I'd like. I've MOSTLY fixed this, but it still happens sometimes. also, his arms have really crappy joints (working on that) and his foot is squished badly in some places where he kneels down really far. also, the crouchwalk will NEVER look right, no matter what I do, because there's NO way ANY human can animate it properly. :/
+Build/Animation time    : Model took about 10 hours, animation took about two months the first time I animated it, and about three weeks when I scrapped everything and reanimated it. (that's a bad habit I have. Nore got redone 3 times.)
+
+
+* How to use this model *
+
+Unzip to your Quake 2 directory with directories recursed. It'll put it in the proper quake2/baseq2/players/baron/ directory all by itself unless you decide to do it your own way, which is fine, but why exert yourself?
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Don't reproduce the model without permission, don't use it in a TC without permission, and don't use it for anything other than playing Quake 2 and having fun. also, if you use this PPM and you don't advertise how cool it is and who made it every frag you get, we'll send people to your house to kill you and your family and anyone who ever knew you, including your dog, then piss on your grave and confiscate your computer to add insult to injury.

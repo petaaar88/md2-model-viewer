@@ -1,0 +1,59 @@
+==============================================================================
+                        COCO MONKEY PLAYER MODEL
+             Created for the PC Gamer Magazine May 1998 cover CD 
+==============================================================================
+CREDIT:
+
+            Model and skin: Andrew Eglington <egg@powerup.com.au>
+
+               Sound effects: Michael Wolf <mwolf@pcgamer.com>
+
+------------------------------------------------------------------------------
+DESCRIPTION:
+
+	A player model representing Coco Monkey.
+
+------------------------------------------------------------------------------
+INSTALLATION:
+
+	1) Unzip INCLUDING paths to the quake2 (or equivalent) directory.
+
+		OR
+
+	2) Unzip and stuff all files into a directory like so:
+	   quake2\baseq2\players\monkey\
+
+	NOTE: It is critical that the files be located in the directory called 
+	      \monkey\  (not \coco\, or \monk\, or \cocomonkey\, or anything else)
+	      otherwise you will get skin related errors in software video mode.
+
+	Coconut Monkey is TM and copyright PC Gamer/Imagine Media. Don't use his image illegally,
+	or you're going to get it with the sharp, pointy stick.
+
+------------------------------------------------------------------------------
+SHAMELESS PLUG:
+
+                  Andrew Eglington - egg@powerup.com.au
+
+                    http://www.powerup.com.au/~egg/
+                 ---------------------------------------
+                       3D Artist - Twisted Matrix
+                     http://farcron.telefragged.com/
+                 ---------------------------------------
+                         3D Artist - The Coven
+                  http://www.planetquake.com/TheCoven/
+                 ---------------------------------------
+         'Cyberspace. A consensual hallucination experienced daily by
+        billions of legitimate operators, in every nation, by children
+        being taught mathematical concepts... A graphic representation
+         of data  abstracted from the data banks of every computer in
+        the human system. Unthinkable complexity. Lines of light ranged
+          in the nonspace of the mind, clusters of constellations of
+                  data. Like city lights receding...'
+        'What's that?' Molly asked as he flipped the channel selector.
+         'Kids show'. A discontinuous flood of images as the selector
+                   cycled. 'Off' he said to the Hosaka.
+                                          William Gibson - Neuromancer.
+                 ---------------------------------------
+------------------------------------------------------------------------------
+                 ---------------------------------------

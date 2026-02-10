@@ -1,0 +1,43 @@
+Title                   : critterz
+Date                    : april 30th 1998
+Filename                : critterz
+Author                  : Scott A.Maxwell/Chris j. Lubitz /lumax multimedia
+Email Address           : lemonforce5@yahoo.com
+Home Page               : http://www.nwlink.com/~ironnip/
+
+Description(story)             :THE FIRST MULTIPLAYER PLAYER MODEL
+it was just an idea after seeing all 4 of the critters movies and laughing my ass off at them
+so it struck me why not make em for q2 after building them i looked at their skinless bodies and 
+realized they would be hilarious in ctf as m&m type candies with the ctf logos instead of the
+m&m symbol so i whipped up some skins .
+during play testing  this model i couldnt stop cracking up at watching em scurry around..
+sure its a simple model ..but it is fun .
+hope you enjoy your critterz
+
+
+
+* What is critterz *a small group of 3 lifeforms short in stature(very short)i tried to scale them to the aproximate size they were in the
+movies that inspired this model...the really funny part of this concept is in group play like ctf
+if you only have 4 players it appears as if theres 12 little buggas running around.
+
+* Play Information *
+UNZIP into \quake2\baseq2\players
+
+
+
+* Construction *
+
+Editor(s) used          : photoshop4/fractal painter5/studiomdx(man this app rocks! hope it gets an upgrade soon im dying for some more skin features hint hint)
+Known Bugs              : possible null errors working on fix 
+Build Time              : about 2days
+ 
+
+special thanks to:siege and kill whitey for helping test this out
+and great acting abilities KW! for those awesome screen shots(in the pageonejpeg:))
+
+
+* Copyright / Permissions *
+This model packet/ may be distributed freely around the Internet/bbs providing
+this file remains attached. This model packet/ may not be included in a any commercial product
+intended for public sale without written permission from the author as long as this file 
+remains attached . 

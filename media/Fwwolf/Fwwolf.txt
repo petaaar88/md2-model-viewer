@@ -1,0 +1,197 @@
+Female Werewolf
+
+08/29/99==================================================================================*
+
+Model Name              : Female Werewolf (FWWolf)
+
+installation directory  : quake2/baseq2/players/fwwolf
+
+Author                  : Scott A. H. Ruggels
+
+Skin Authors 		: Scott A. H. Ruggels, Steve "Massive Bitch" Irvine, 
+				Bryce Nakagawa, Richard Bartrop,
+				James "Gwot" Edwards, Rikki Knight,
+				Neal Corbett 
+
+Email Address           : scott.ruggels@3do.com , edbado@rdwarf.com
+
+Model description       : 
+
+This is a 773 polygon mesh of a female Werewolf, blending human and lupine feaures with an eye towards realism. It was built and animated in 3d studio max as a learning excercise in the production use of Character Studio plugins for 3ds Max 2.5, Biped and Physique. All other modifications were using the standard Quake2  tools. it has Custom sounds, provided by Steve Irvine.  it comes with 12 skins including CTF skins (red and blue) for the sounds a modification of the config file was suggested. Cut and paste the following to your config file in your baseq2 directory, or cut and paste into the console, while Q2 is running.
+
+ bind u "taunt ";"play_howl.wav" 
+
+"overthere" would be the .wav file you would have copied from the fwwolf folder  into a
+sound folder in your quake2/baseq2 directory.
+
+This would make the model that would point and play the howling wolf sound during
+her taunt 9which is a howling action) get everyone on the server to do this and you can
+have your own pack of howling wolves.
+
+
+The standard weapon.md2 is the Soviet AK 47 early varient with the milled reciever.
+All Team play motions are enabled.
+
+Other info              : 
+
+----------------------------------
+ War with Stroggos was hard on Mother Russia. That the Russian Federation
+ spanned several time zones, was a UN industrial center, and troop training
+  was one thing, but a disproportionate amount of the ordinance dropped by 
+ the Stroggs seemed to fall on the farms, cities, and infrastructure of the
+ Motherland. Extreme situations demanded desperate measures, and as in her 
+ past, Russia found the strength, the will, and the methods to survive and 
+ make her enemies pay dearly.
+ 
+ Senior Academician Gennady Vasilivich  Rykov, Professor of Genetics at the 
+ Moscow University, found the choice between medical ethics and his 
+ country's survival was not difficult at all: as in most such decisions, 
+ survival is usually the best choice. He formulated a plan and submitted it 
+ to the Military authorities. They would obtain infants, either from in 
+ vitro incubation, or infant orphans from the bombardment as subjects for 
+ an "enhancement" program.
+ 
+ The plan was approved and authorized, and test subjects were collected at 
+ the first facility in Ekaterinburg. The subjects were infected with a form 
+ of the lycanthropy virus and then secretly transported to a facility on 
+ the U.N. Moon Base. Isolating the infected group from the general 
+ population of Earth and operational autonomy from U.N. oversight were all 
+ benefits that outweighed the costs of the program.
+ 
+ On the moon, as Professor Rykov had expected, the subjects assumed and 
+ maintained a lupine form. Infant subjects were used due to the fact that 
+ it is easier to train young animals than older ones. The base was a 
+ perfect controlled environment, and the young pups were socialized into 
+ pack-sized groups.
+ 
+ It was discovered that if the lycanthropes were raised in social groups or 
+ packs, they were well adjusted mentally, rather than the sociopathic 
+ singletons of historical record. This is not to say they were not 
+ dangerous. They lacked the timidity of normal lupines, and were quite 
+ protective and territorial. When it was determined that they were trained 
+ enough not to bite unprovoked, military experts were brought in to
+ train them in the use of weapons and small unit tactics.
+ 
+ As it turned out, they were not as smart as humans -- or rather they were 
+ smart in different ways. They could understand simple voice commands 
+ though they were unable to speak, and they made up for their 
+ communications shortcomings with increased acuity of senses, increased 
+ strength and endurance, and regeneration. Getting them used to the weapons 
+ was no small feat, but the instructors slowly and patiently got them up to 
+ infantry standards. Their tactics, while loose, had the advantage of pack 
+ organization, and their ground speed made them very effective in hit and 
+ run. It looked as if these subjects would be perfect for classic Russian 
+ partisan operations.
+ 
+ The lycanthropes were tricked into sleep pods and shipped along with the 
+ Retribution Fleet to the moon-ringed planet of Stroggos. For their 
+ partisan role, they were equipped cheaply with antique Soviet-era weapons 
+ and huge containers of ammunition. They were dropped simultaneously with 
+ the main Marine landings.  However their drop zones were great distances 
+ from the main marine assault, as their intended role was to be harassment 
+ of the Strogg defensive effort by snarling passages and generally slowing 
+ their response times. This would have paid off if the Marine Landing Zone 
+ had gone as predicted. Now there were werewolves loose and roaming the 
+ halls of Stroggos.
+ 
+ There were some "friendly fire" incidents as jittery Marines took shots at 
+ unfamiliar, non-human silhouettes. After that the werewolves generally 
+ avoided marines. Half eaten Strogg carcasses, unfamiliar footprints, and 
+ shapes seen out of the corner of your eye, as well as piles of expended 
+ shell casings of a caliber not used by the marines or Stroggs, added to 
+ the rumors and stories surrounding  the possible existance of  werewolves. 
+ The Russians said nothing, but as reports of the problems the werewolves 
+ were causing filtered through, they'd smile -- the werewolves were the 
+ Strogg's problem now.
+ 
+ SKINS
+ Anya: a fireteam leader from one of the first packs dropped in. She's 
+ clever, cunning, and responsive to her subordinates. She received some of 
+ the highest test scores in training, and continues to rack up an 
+ impressive body count.
+ 
+ Irina:  the omega of pack one. Underconfident and not highly skilled, she 
+ does try her best for the team, and though not scoring highly, makes few 
+ real mistakes.
+ 
+ Katerina:  originally beta to Viktor's alpha, but upon Viktor's demise she 
+ became Alpha of Pack 2. More of her "human'" intelligence may be showing 
+ through, though the death of Viktor may have made her go a little 
+ unstable. She's 'gone a bit peculiar,' dyeing her fur with Hi-C powder and 
+ blue stamp pad ink to give herself a distinctive color, which is accented 
+ by yellow shark dye from an aviator's survival vest.
+ 
+ Ludmila:  a bit dippy, but as courageous as all out doors. What she lacks 
+ in cleverness she makes up for in sheer love of firepower. Once a member 
+ of Pack 1, she was the heavy weapons section of the fireteam, dishing out 
+ grenades and RPG's with abandon. After a particularly nasty fire fight and 
+ explosion she was thought dead, and Pack 1 moved on. Pack two found her...
+ 
+ T_Ludmila:  this is what Ludmila looks like after Katerina's Pack 2 found 
+ her. Always a follower, Ludmila has decorated herself with red and blue 
+ stamp pad ink, and some rudimentary jewelry made from expended brass. Her 
+ blissful optimism and thoughtlessness continues, although her skill with 
+ the RPG has made Pack 2 quite a bit more combat effective.
+ 
+ Petra:  shy, cautious and adverse to loud noises. Her coloration fits her 
+ temperament, as she skulks in shadow and observes in silence. She uses an 
+ immaculately maintained Dragunov sniper rifle in her duties as spotter and 
+ sniper for Pack 2. Despite her timidity she is no coward, and will defend 
+ the other members of the pack with her life.
+ 
+ OTHER SKINS
+ These are the skins submitted by other skin authors for this model.
+ 
+ Vergeh:  of Stormhaven Pack, female warrior who comes from a star-faring 
+ race of lupinoids. Vergeh copyright 1999 Richhard Bartrop. <rbartrop@calcna.ab.ca>
+ 
+ Werebitch:  by Steven J. Irvine
+ "Massive Bitch" Irvine Imagination  <http:://www.mjollnir.org/~sirvine> 
+ sirvine@fundserv.com
+ WereBitch is a design for the Fwwolf Quake II model (FemaleWereWolf) See 
+ the text file in this directory for further details.
+ 
+ Stripes:  a skin by Bryce M. Nakagawa. <b_nakagawa@yahoo.com>
+
+
+
+
+Additional Credits to   : 
+
+Will Faust for advice  in animating the model and the use of his machine on weekends
+Charles Barnard for technical advice on the use and proceedures required for Character Studio (Biped and Physique). Collie Collier for advice on animal behavior, Karen Kravens and Sara Palmer for reference on digitigrade skeletal structures.
+Steven "Massive Bitch" Irvine, for the sound files as well as the skin. Bryce Nakagawa for his skin, as well as finding my mapping errors. Richard Bartrop for the skin.
+
+Thanks to: 
+
+Bob Simpson, and Collie Collier for encouragement. Will Faust, Eric Elliott, Tom Narey, and Noah miller of "The Wednesday Night South Bay Computer Artists Association and Gripe Session" for animation advice and critique, and the members and posters of the message board of the Quake2 Player Model Project (soon to be Polycount) <http://www.planetquake.com/q2pmp/> for comments and encouragement.  
+=========================================================================================* 
+Play Information *
+New Sounds  		: Yes, by Steve "Massive Bitch' irvine (See "sounds.txt")
+CTF Skins               : Yes 
+VWEP Support            : Not yet, but soon for Q2 (Soviet era weapons)
+
+Construction *
+
+*Poly Count             : 773
+Vert Count              : 387
+Skin Count              : 12
+Base                    : original model
+Editor used             : 3dsMax2.5, Character Studio 2.1?, NST,Q2mdlr,Photoshop5.0
+Known Bugs              : ???
+Build/Animation time    : Mesh: 8 hours, animation: 60 hrs, Mapping 20 hrs, skins: 20hrs.
+
+Please install so that the final directory path looks like:
+ 
+quake2\baseq2\players\fwwolf
+
+If there are problems with weapon viseability (null skin error messages in the top of the view window during game operation in software mode, or an orange and black weapon in GL mode), this means that the skin is not linked correctly, and may need to be linked using NST, and the weapon linking tutorial at the Q2pmp site <http://www.planetquake.com/q2pmp/> and look under "tools" for the application, and "Tutuorials" for th skin linking tutorial. "weapon.md2" links to "weapon.pcx". The Model has been tested, and does not seem to have this problem. The second cause of this problem is if the model directory is not exactly as stated above.
+
+if the Model does not appear in the selection list, check the "Player's" Directory for any files that are not specifically directories. Move them or delete them, leaving only a directory for each model you have in your collection. A common error. 
+
+
+* Copyright / Permissions *QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+This model may be used  for non commercial purposes free of charge. For use in commercial properties the author charges 7% of gross sale recipts of the product it is used in. rate and usage is negotiable though before useage. Ask me nicely. Any new skins, skinning modifications, or other animation is welcome provided the author is sent a copy. Thank you
+
+Scott <scott.ruggels@3do.com>

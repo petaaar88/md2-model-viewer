@@ -1,0 +1,20 @@
+
+//--FUEL 4.46 CTF II SKINS--//
+
+Author:         Michael Youngs (JediSoup), Jeff M. Garstecki (Stecki)-original blue/red skins
+
+Email:          jedisoup@citylinq.com, stecki@frag.com
+
+//--INSTALLING FUEL 4.46 CTF II SKINS--//
+
+Unzip the skins into quake2/baseq2/players/fuel. Thats it, now you can play as Fuel in CTF II!
+
+//--Thanx--//
+Thanks to Stecki for making a great model (and providing it with easy to modify blue/red skins ;)).
+
+
+
+
+
+
+

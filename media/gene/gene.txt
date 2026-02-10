@@ -1,0 +1,30 @@
+This is the Gene Simmons player model by Kray-Zee!  The weapon.pcx is, once again, courtesy of NegativeKreep
+
+Unzip this to the folder CONTAINING your quake2 folder!  For example, if your 
+Quake 2 folder is c:\quake2 then unzip this to c:\
+If these files do not end up in quake2\baseq2\players\gene then they won't work, so put 'em
+there if you unzipped it wrong.
+
+Start up a game of Quake 2, and go to the Multiplayer menu.  Choose the Gene model.  Frag.
+
+Tools used:  LightWave 3D v5.5
+             Corel Photo-Paint 7
+             NST
+	     Qdata (modified by Ken D. Turner)	
+
+Time spent:  too much
+
+Shameless plugs:  http://www.planetquake.com/modeling  <-- KrAy-ZeE's Modeling Guide
+                  http://www.sni.net/banished  <-- Banished Entertainment
+
+email:   kray-zee@planetquake.com (for kray-zee)
+         pwolfe@erols.com (for NegativeKreep)
+
+
+If you are having problems getting it to show up in the multiplayer menu, make sure you have NO FILES 
+in your players directory.  Also get rid of any directories that don't contain player models.  If that 
+still doesn't work, back up your saved games and reinstall Quake 2.  If that still doesn't work, don't 
+ask me for help, I have no idea :D
+
+
+enjoy!

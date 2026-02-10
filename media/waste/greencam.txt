@@ -1,0 +1,5 @@
+This is my first Quake2 skin. Pretty similar to the basic Waste skin, but hey, it's my first one :)
+[PDC]Viper[Is]
+
+Install notes: Put the 2 .pcx files under your
+quake2\baseq2\players\waste dir.

@@ -1,0 +1,14 @@
+-=< The Dire Avenger >=-
+
+"Fighting for survival in the distant future, the Eldars rely upon the battle-honed skills of the dire avengers to keep the deadly tyranid and chaos hordes at bay."
+
+Everyone loves a good guy, and this guy's definently good.
+
+Modeled & Skinned by ALPHAwolf (www.best.com/~fenrir, fenrir@best.com)
+Mapping by NPherno  (Use NST!, npherno@sunstorm.net)
+
+Just unzip him into your quake2/baseq2/players/dire folder, and you're ready to go!
+Please be sure to create the "dire" folder before you decide it's not working :)
+
+More models coming soon...
+	Enjoy!

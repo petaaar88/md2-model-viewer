@@ -1,0 +1,48 @@
+
+7-19-98
+================================================================
+Model Name              : Brainbucket 2
+installation directory  : quake2/baseq2/players/bucket2
+Based on Brainbucket by : shine (vertmanip@cander.net)
+Author of this model    : Blake 'Ezride' Robinson
+
+Email Address           : kingblake@x-stream.co.uk (this model)
+
+Skin Author             : Blake 'Ezride' Robinson
+
+Model description       : Ten years after they created Brain bucket, they realized
+			  that hanging the brain from supports could seriusly
+			  shorten it's lifetime. They re-designed the robot with
+			  the head placed firmly on it's neck. Brain bucket 2
+			  was born
+
+Other info              : none, really.
+
+Additional Credits to   : id Software, 
+                          Quake model editor v.90
+			  3D studio max 1.2 creators, Kinetix
+
+Thanks to               : Shine for the idea
+================================================================
+* Play Information *
+
+New Sounds              : No
+CTF Skins               : YES! :D
+VWEP Support            : YES! :D
+
+
+* Construction *
+Poly Count              : 492 polys
+Vert Count              : 256 vertices
+Skin Count              : 3 skins
+Base                    : Totally new model, Brain idea from Shine
+Editor used             : PSP 5, 3D studio max 1.2, Quake model editor (THE best)
+Known Bugs              : none
+Build/Animation time    : 2 hours modelling,  2 hours animating, 1/2 hour skinning
+
+* How to use this model *
+ermm.. unzip it to /quake2/baseq2/players/bucket2 and run it :)
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.

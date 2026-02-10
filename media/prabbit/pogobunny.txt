@@ -1,0 +1,40 @@
+<2nd-September-1998>
+================================================================
+Model Name              : POGO BUNNY
+installation directory  : quake2/baseq2/players/rabbit
+Author                  : MrSoft (Matthew Stephen)
+Email Address           : mrsoft@softhome.net
+
+Model description       : A hyperactive bunny-rabbit on a pogo stick...
+
+
+Other info              : He has the ability to balance his pogo stick on his nose!
+
+Additional Credits to   : id Software, MDL, NST, MD2 Viewer and Skinview
+
+Thanks to               : coffee & pizza
+================================================================
+* Play Information *
+
+New Sounds              : YES - (Mostly borrowed and slightly modified)
+CTF Skins               : NO
+VWEP Support            : NO
+
+
+* Construction *
+Poly Count              : 380 polys
+Vert Count              : 220 Verts
+Skin Count              : 2 Skins
+Base                    : New model
+Editor used             : Lightwave and MDL
+Known Bugs              : Flea's
+Build/Animation time    : 2 Day's (One for build and anim, one for getting the spring right)
+
+
+* How to use this model *
+
+Simply install in the directory shown at the top of this readme
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.

@@ -1,0 +1,47 @@
+<INSERT DATE HERE>
+================================================================
+Model Name              : goku
+installation directory  : quake2/baseq2/players/goku
+Author                  : Bjarne Kristensen
+Skin Author : <Skinners name>  *only if different to modeler*
+Email Address           : freaker2000@themail.com
+
+Model description       : He's a model I was asked to make for a Dragonball Z fan.
+
+
+Other info              : <OTHER STUFF>
+
+Additional Credits to   : <id Software, etc etc >
+
+Thanks to               : <PPL TO THANK>
+================================================================
+* Play Information *
+
+New Sounds              : NO, never
+CTF Skins               : NO, comming in my update + more skins
+VWEP Support            : NO, comming in my update
+
+
+* Construction *
+Poly Count              : 828 polys
+Vert Count              : 436 Verts
+Skin Count              : 2 + more in a later update
+Base                    : New model from scratch
+Editor used             : Q2mdl, NST
+Known Bugs              : None
+Build/Animation time    : Lots of days
+
+
+* How to use this model *
+
+Axtract all files to your quake2 directory in this folder:
+
+baseq2/players/goku
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+<Other Legal info about the use of your model> 
+
+

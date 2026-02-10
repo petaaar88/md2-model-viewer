@@ -1,0 +1,3 @@
+Name: Thriller
+Made by: James MacPherson
+Description: *very* loosly based on the werewolf MJ in "Thriller"

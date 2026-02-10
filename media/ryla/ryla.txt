@@ -1,0 +1,58 @@
+April 15, 1999
+================================================================
+Model Name              : Ryla
+installation directory  : quake2/baseq2/players/ryla
+Author                  : Rayl
+Email Address           : tillfing@ons.ne.jp
+                   
+Model description       : She is my first model, female-type original character.
+
+Other info              : By the way, my nick is Rayl and she is Ryla. 
+                          ....Yeah, you know how I named her X)
+
+Additional Credits to   : id Software for Quake2
+
+Thanks to               : Members of EJJ --- for test-playing
+                          Authors of Q2modeler and NST --- for their great tools
+================================================================
+* Play Information *
+
+New Sounds              : NO
+CTF Skins               : YES (Red & Blue)
+VWEP Support            : YES
+
+
+* Construction *
+
+Poly Count              : 662 Polys
+Vert Count              : 362 Verts
+Skin Count              : 3 Skins
+
+Base                    : New model from scratch
+
+Editor used             : ROKKAKU DAIOH         <Modeling>
+                          Softimage 3D          <Animating>
+                          Q2modeler             <Compiling>
+                          Npherno's Skin Tool   <Mapping & Skinning>
+
+Known Bugs              : None, as far as I know
+
+Build/Animation time    : I don't know
+
+
+* How to use this model *
+
+1. Expand "ryla_120.zip", "ryla" directry will be created.
+2. Place the directry under quake2/baseq2/players.
+3. Enjoy.
+
+She does not have sound files, so please copy
+the sounds from "female", or any sounds you like.
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+Everyone can feel free to use this model, but do NOT
+change the original zip file (and files included). 
+No money must be changed for this model, for any reason.
+All rights reserved.

@@ -1,0 +1,48 @@
+==============================================================================
+                        CHASTITY MARKS PLAYER MODEL
+------------------------------------------------------------------------------
+DESCRIPTION:
+    A Quake2 Plugin Player Model (PPM) representing :
+    Chastity Marks the teenage Vampiress.
+
+    Model created October to December 1998 for Chaos Comics' 'Chaos Rocks'
+    Quake2 Plugin Player Model competition.
+
+    Includes :
+       - GL cache optimized visible weapon skins.
+       - original sound effects
+       - original skins: Chastity, Anarchy, CTF_B, CTF_R,
+	      GRID (base), nude (base)
+       - promotional screenshots: Chastity_Rubber.jpg, Chastity_Anarchy_1.jpg,
+	      Chastity_Anarchy_2.jpg
+------------------------------------------------------------------------------
+INSTALLATION:
+       Unzip all files into a directory like so:
+
+       quake2\baseq2\players\ChastityMarks\
+
+       (Unzip "INCLUDING paths" to your /quake2/ directory, and the zip will
+       take care of the rest of the directory placement)
+
+       NOTE: It is critical that the files be located in the directory called 
+         \ChastityMarks\
+         otherwise you may accidentally overwrite another PPM called 'chastity'
+         previously released by Jade Moffatt and Chaos Comics as a precursor
+         to this competition
+         AND you will get skin related errors in software video mode.
+------------------------------------------------------------------------------
+CREDIT:
+              Model, animation, skins, sounds and v_wep support: 
+                  Andrew Eglington <betlog@TheCoven.com>
+
+                          Sound effect voices: 
+			                Jasmine Liddane
+					         Asta Suhönen
+
+                          Sound effect touch-ups: 
+                 Eric vonRothkirch <redchurch@uswest.net>
+
+                             Model Editor:
+                          qME - by Rene Post 
+                     http://www.xs4all.nl/~renep/quakeme/ 
+------------------------------------------------------------------------------

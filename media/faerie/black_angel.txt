@@ -1,0 +1,25 @@
+Type            : Quake 2 player skin(for the faerie)
+Name            : Black angel
+Author          : !DeMoLiShEr!
+Time to make    : 2 hours
+used to make    : photoshop 4.0
+
+Comment:
+Here it is. The bad motherfucker from hell "Black angel". I took the faerie3
+skin(the naked one) and gave it a black dress, painted the hair black and the
+wings red. Then i made the head look a little bloody(blood tears hehe). I 
+also made the eyes shine red. As a last thing I laid some blood on the body.
+After finishing the original i made it a little darker and a little bit more
+red. Tadaa.. Now I've got two skins. Use the one u like best.
+
+If u have any comments to this skin please E-mail me at hee@post5.tele.dk
+
+
+installation process:
+Unzip the files into your Faerie DIR.
+
+Thanks goes to:
+Brian 'EvilBastard' Collins (brian@zono.com) for making the beautiful faerie
+model and of course thanks to ID software for making Quake 2.
+                        Rest in pieces...
+                                     !DeMoLiShEr!

@@ -1,0 +1,45 @@
+August 8 1999
+================================================================
+Model Name              : HellSpawn
+installation directory  : quake2/baseq2/players/HellSpawn
+Author, Skin Author     : Alcor
+Email Address           : jlbr@moncourrier.com
+
+Model description       : 
+This Spawn model is a replica of what he looks like in the comic book.  Cloak, chains and 
+green gas are there for your viewing pleisure... Frag with Style!
+
+Other info  :      	
+HellSpawn is the fourth model that I made.  I built up the model with the software 
+TrueSpace4 and StudioMax2,5.  For doing the animations I used CharacterStudio.  
+For the skin, I created a muscle base skin with CorelDraw8 and some reference pictures
+from the "Guide Des Mouvements De Musculation" book.  Base that I colored with PhotoShop5.  
+Then, I used the software CorelPhotoPaint8 to convert my skin into the Quake2 color palette.
+For the Vwep I used the gun models of the Pak0.pak of my BaseQ2 directory.  
+I mapped the skin with NST.  I exported the model to the .md2 format using Qtip.  
+I used Q2modeler to solve the "NULL skin found" problem.
+More info will be available on my Web page.. when i'll get one :)
+
+Additional Credits to   : Spawn is a property of Todd McFarlane Productions Inc.
+ 
+
+================================================================
+* Play Information *
+New Sounds           : No
+CTF Skins            : Yes
+VWEP Support         : Yes
+* Construction *
+Poly Count              : Model 915
+Vert Count              : Model 593
+Skin Count              : 
+Base                    : New model
+Editors used            : TrueSpace4, StudioMax, CharacterStudio, CorelDraw8, CorelPhotoPaint, NST, Q2Modeler
+known Bugs              : Beside the fact that there's a lot of clipping between the Cloak and Spawn.. nothing major.
+
+
+* How to use this model *
+Double click on the "HellSpawn.zip" and then select "C:\" the directory is self-built.
+
+* Copyright / Permissions *QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+This model isn't built in a lucrative goal, you must ask me the permission before using any parts of 
+this model for another model...

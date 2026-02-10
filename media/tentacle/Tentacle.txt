@@ -1,0 +1,68 @@
+Title                   : tentacle player model
+Date                    : febuary 8th, 1997
+Filename                : tentacle 
+Author                  : Markus Lutz
+Email Address           : quickie@csi.com
+Home Page               : http://www.s-direktnet/HomePages/quickie
+
+
+Description             :Plug in player model
+                          
+                          
+
+Additional Credits to   : id		- Quake 2
+			  Phillip Martin- Quake 2 Modeller 0.83
+                          LucasArts     - Tentacle
+Personal Credits to	: Andreas Patzer
+			  Jürgen Bohm
+			  Florian Lutz	- I'm using his homepage :)
+* What is tentacle? *
+The tentacle is my first player model for Quake2. It is based on the tentacles in 
+Day Of The Tentacle. 
+
+
+* Play Information *
+UNZIP into \quake2\baseq2\players\tentacle
+You should now have the following files in the directory:
+
+tris.md2	the tentacle
+weapon.md2	his gun model
+tentacle_i.pcx	the multiplayer select icon
+tentacle.pcx	skin
+weapon.pcx  	gun skin
+tentacle.txt	this file
+
+
+* Construction *
+Base                    : tentacles in "Day Of The Tentacle"
+Editor(s) used          : Quake 2 Modeller 0.83
+Known Bugs              : none (hope so) 
+Build Time              : over 7 days (could have done it in 5 days :)
+ 
+
+* Model Information *
+(Only for freaks...)
+tris.md2 		: Skin Width: 252
+			  Skin Height: 195
+ 			  Number of Vertices: 372
+			  Number of Skin Vertices: 396
+			  Number of Faces: 740
+			  Number of Frames: 198
+			  Average Size of Triangles: 1528
+weapon.md2		: Number of Skins: 2
+			  Skin Width: 136
+			  Skin Height: 60
+  			  Number of Vertices: 62
+			  Number of Skin Vertices: 81
+			  Number of Faces: 100
+  			  Number of Frames: 173
+ 			  Average Size of Triangles: 288
+
+
+* Copyright / Permissions *
+This model may be distributed freely around the Internet/bbs providing
+this file remains attached. This model may not be included in a any commercial product
+intended for public sale without written permission from the author as long as this file 
+remains attached . This model also may be edited as long as you promise to send me a copy
+of the edited version and (of course) this file remaines attached.
+

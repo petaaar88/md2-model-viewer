@@ -1,0 +1,107 @@
+The case of Witchblade: (not for kids, shine go to bed)
+
+defendants Alcor and Fragamite, accused of sexual harassment, murder, abuse and blurry skins.
+
+-transcription-
+evil corrupted lawyer:
+The two men you see before you, while creatures indeed, are without a doubt the two men behind the so-called "Witchblade Project". I hereby call the modeller "Alcor" as a witness.
+
+alcor (French Canadian accent): I swear by the holy big 3ds MAX book that I will tell the truth, and nothing but the.. err.. what's the fucking English word again..  Truth!
+
+evil corrupted lawyer: alcor.. what was the purpose of "the witchblade project"?
+
+alcor: well.. to make a ppm for quake2. But the actual real purpose is the hidden virus that gives me instant access to the porn folder of my victims. MUAHAHAHAHAHAHAHA
+
+evil corrupted lawyer: Is that so? It has come to my knowledge that in preparation for this.. ehm "PPM", you have spent more than $20 000 on prostitutes for "research on the female form"?
+
+alcor: well actually I was willing to spend more than 20k but unfortunately I couldn't find anyone tough enough for my absolute virility.
+
+evil corrupted lawyer: Isn't it so, that you, alcor, victim of our society, have a sick obsession with female breasts? Isn't it so, that you, alcor, regular videogames player, have more than 30 posters of Dolly Parton in your bedroom?
+
+alcor: no,  Shania Twain
+
+evil corrupted lawyer: I have to remind you that lying in court is a serious crime. We have found several inflatable "love dolls" that have exploded, because YOU have tried to fill their female attributes with too much air.
+
+alcor: as I said, it's hard to find toys tough enough for my absolute virility. here, have a look at my books. look, MONSTER sized!
+
+evil corrupted lawyer: ehem. I hereby call the "skinner" "fragamite" as a witness.
+
+fragamite(Swedish accent): I swear by the holy anti-airbrush technique that I will tell the truth, and nothing but the truth, so help me Kenneth Scott
+
+evil corrupted lawyer: Is it true that Swedish girls give a good massage?
+
+incompetent defense lawyer: OBJECTION!!!
+
+judge(stupid): Objection denied! fragamite answer the question.
+
+fragamite: hmmm hmmm.. I'm just confused
+
+evil corrupted lawyer: If I understand things correctly, your involvement in the withcblade project was to create the texture, the so-called "skin". ..It has come to my attention that actual human skin was used in this particular project. what do you have to say to your defense?
+
+fragamite: I don't regret anything. This time a new revolutionizing technique was used; the lines and shading were tattooed on alcor's girlie butt and then carved out and wrapped around the model. (I also scanned some snot I found under my desk, for the green "tech" on her body) Actually I'm rather proud of this skin, sure it ain't perfect but overall it's okay. Some things like the overall bambi look of her face I could have done without and the arms were pretty rushed. But again, I've never been a big fan of turner or top cow's art, although the women do have their moments. I think if I had too choose, I would like to be able to draw women like that Italian frezatto (not frazetta but come to think about it he definitely rules at everything he does) another Italian guy I like is Oscar Chiconi, man has he done some cool covers. something else I've been thinking alot about lately is the shading technique of Kenneth Scott, it is so amazing, and he is god. blablabla photoshop blablab!
+la contra
+st blablabla highlights blablabla bisley blablabla compliment colors blablabla violent movie I saw the other day blablabla wouldn't it be cool if all blablabla bisley blablablablah have you noticed thatbla blah blablabla bisley blablabla pixelpushing is the only way blablabla did I tell you about bisley blablabla rouge13 has a wig blablabla the blah
+
+judge(stupid): enough already! no need to go on fragamite, and alcor stop fiddling with your books!
+-end of transcription-
+
+verdict: guilty as charged
+punishment: death by optimization resp. antialiasing
+
+update: fragamite was later ass-raped in death row by ion storm employee malekyth for religious causes. the injuries were fatal.
+
+        Alcor's big books were stolen and he was no longer able to reach his computer (because he sat on them while working).  Then he gets spanked to death by pro-wrestler Jake the Snake.
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**** okay, before we continue with the "real" read me, I want to make clear that we wrote this at 4:30 am, we are not writers or comedians, we are, at best, artists. I seriously hope noone gets offended by this, it's all a big stupid [j/k]****  withchblade is (C) top cow comics. Quake and Kenneth Scott(TM) is (C) iD software****
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+January 12 2000
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Model Name              : WitchBlade
+Installation directory  : quake2/baseq2/players/WitchBlade
+Author 			: Alcor
+Skin Author             : Sara                : Fragamite
+                          WitchBlade (weapon) : Alcor
+			  Conversion to q2palette: Alcor
+Email Address           : jlbr@moncourrier.com
+HomePage		: http://members.xoom.com/alcor43/
+			  http://www.student.hig.se/~kp99aln
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+Alcor's Model description       : 
+Tired of woman PPM that are just a pair of breast implants running around?  Well, in that case you shouldn't have downloaded this one!
+This is Lady Sara Pezzini as she looks in her comic book WitchBlade from TopCow Comics.
+
+Other info  :      	
+I tried to keep the body proportion Sara has in the comic books drawn by Michael Turner.  This model is quite complex: long hair, breast implants and custom Vwep.  The way the Vwep works is the bigger your gun, the more spikes recover Sara's body. (-cool! /fragamite)
+
+Sara's skin has been done by my good friend Fragamite (kp99aln@student.hig.se), and I personally think that this skin is really well done. The Witchblade skin has been done by me, it's my first hand-made skin, and I used my brand new Wacom Tablet!
+
+I'm proud of nearly all the animation's, but I think that the overall look is a bit disrespectful of the female image.
+
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+* Play Information *
+New Sounds           : No
+CTF Skins            : No
+VWEP Support         : Yes
+* Construction *
+PolyCount               : 870
+Weapon PC               : 390
+Skin Count              : 1
+Editors used            : StudioMax2.5, CharacterStudio, Photoshop5, CorelPhotoPaint, NST, Q2Modeler
+Known Bugs              : (-the skin /fragamite)
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+* How to use this model *
+Double click on the "WitchBlade.zip" and then select "C:\" the directory is self-built.
+
+* Copyright / Permissions *QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+This model isn't built in a lucrative goal, you must ask me the permission before using any parts of 
+this model for another model...
+

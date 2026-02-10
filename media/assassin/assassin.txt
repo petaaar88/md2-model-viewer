@@ -1,0 +1,17 @@
+The mighty assassin from Hexen II comes to QUAKE2!!!
+
+  This is one of the coolest models i have ever seen, and so i had to 
+convert it, she is bad to the bone and ready to kick butt.  Check out the
+killer sounds!!
+
+  I of course take no credit for creating this model, but Hexen II
+characters unleashing in Quakeworld will be fun.
+
+Kali
+demons@mindspring.com
+
+her directory name should be assassin,  ie Quake2/baseq2/players/assassin
+
+Just unzip the file and you will have everything there; i would have
+made a cooler weapon but the bug PLAGUED Q2 modeling program i was 
+using just couldn't handle it... sigh.

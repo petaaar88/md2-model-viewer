@@ -1,0 +1,2 @@
+Make a dir called wolf under players: 
+\quake2\baseq2\players\wolf

@@ -1,0 +1,39 @@
+GamePro Quake II Skin: Dan Elektro
+========================================================
+Author:		Dan "Dan Elektro" Amrich
+Email:		damrich@gamepro.com
+Web Page:	http://www.gamepro.com/clangamepro
+Files:		GProDanElek.pcx = GamePro Dan Elektro Quake II Skin
+		GProDanElek_i.pcx = GamePro "G" logo
+	
+To install the skin:
+Copy the GProDanElek.pcx and the GProDanElek_i.pcx files into your quake2\baseq2\players\male 
+directory.
+	Example: 	x:\quake2\baseq2\players\male\GProDanElek.pcx
+		 	x:\quake2\baseq2\players\male\GProDanElek_i.pcx
+
+To select the skin:
+Go to Multiplayer -> Player Setup. Select Male for the gender and scroll through the skins until you find your 
+favorite GamePro editor.  :)
+
+Author's comments: 
+Since the goal was to make Dan Elektro's skin look appropriately electrified, I figured a glowing 
+blue/purple/white scheme would do the trick. The bright yellow hair is supposed to represent pure energy. 
+Yeah, it makes me easy to see, but that's a risk I'm willing to take.  Sooner or later, I'm going to get seen 
+anyway, and I'm not a cowardly sniper who hides in the shadows. In other words, don't wear this skin to go 
+campin'.
+	My skin started out with Rampage's armor, which I colorized in Photoshop to get a very dark 
+purple hue. A lot of blurring and smearing between palette swaps led me to the cool bright purple that 
+looks like it glows in GLQuake2. I also used the gradient tool to get the hairline to blend between purple 
+and yellow, then touched it up a pixel at a time. The face is simplistic, and you can just barely see the 
+trademark raised eyebrow and smirk, but after wasting about 2 hours on the mouth and hating every 
+version, I figured, "No matter what you do, a closed smile looks like a line!" and just went with it. In addition 
+to Photoshop 4, I also used NPherno's Skin Tool as a 3D progress guide and to help me isolate problem 
+areas. All told, this one took me about 10 hours. Maybe it doesn't look it, but hey, I'm still learning. 
+	Thanks go to my fellow gamers here at the mag who gave me feedback (especially Hot Rod 
+Todd and Miss Spell). Even more thanks go to the artists who have taken the time to write tutorials and 
+supply palettes for budding Quake II skinners like myself--the help was truly invaluable. Hot Rod Todd and 
+I hope to be able to create skins for all the members of Clan GamePro in time; check the Clan GamePro 
+web page for new ones. Meanwhile, read GamePro and enjoy the skin!
+--Dan Elektro
+

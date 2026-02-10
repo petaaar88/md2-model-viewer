@@ -1,0 +1,28 @@
+  WeaponsFiX Model File: for Quake2 Plugin Player Model.
+  ------------------------------------------------------
+AUTHOR:
+-------
+The KrulL-MaN (KrulL@the-lair.com)
+Quake2: The BodyShop.. (http://bodyshop.logicquest.com)
+
+DESCRIPTION:
+------------
+ This is a Fix to all those Models that Gives you a 'NULL SKIN ERROR..' when
+played in a Quake2 game. It's just a face (3 vertexes..) that is linked to the 
+male weapon skin. Basically it's for those PPM who has their weapon model
+built-in the main, tris.md2 model file.
+ Just copy the weapon.md2 into each directory of the PPM and your done. No need to
+look for a weapon.pcx file, as it uses the Male weapon skin.
+
+CREDIT/PERMISSION:
+------------------
+- The Crow (I_am_The_Crow@HoTMaiL.com) for his original redition/idea for 
+this fix, Thnxz a whole heap man! without your persistent, this would've
+been just a Scrap Heap..
+- you are free to use this fix to any of your Future Original PPM, just
+acknowledge/credit me in your Readme.txt file and Quake2: The BodyShop 
+(http://bodyshop.logicquest.com/) for being so cool to give ya this fix ;))
+
+
+The KrulL-MaN.. 3/9/98
+Q2: The BodyShop..

@@ -1,0 +1,131 @@
+**Welcome to the Cornerian Central Database Unit**
+
+**Enter your login name:**
+_McCloud
+
+**Enter password for user McCloud:**
+_************
+
+Login Successful. Accessing Technical Data for Starfox Model.
+
+
+================================================================
+October 1st, 1998, 4:50 am
+================================================================
+Model Name              : Fox McCloud (StarFox)
+
+installation directory  : quake2/baseq2/players/starfox
+
+Author                  : FoX (Louis-Philippe Guilbert)
+Email Address           : lp.guilbert@videotron.ca
+Homepage		: http://pages.infinit.net/lorenzo
+                          (check it out to see the Peppy Hare model!)
+
+Model description       : "Starfox, we need your help! Andross has
+			  declared war on Stroggos!" Introducing
+			  Fox McCloud, leader of the Starfox team,
+			  ready for deathmatch action. The model is
+			  based on pictures taken from magazine articles,
+			  posters, websites about Starfox. I tried making
+			  it as close as possible to the original model.
+			  (See behindthescenes.jpg)
+			  
+Other info              : I have recently graduated from the National
+			  Animation and Design Center located in Montreal,
+			  PQ, Canada (www.nad.qc.ca), a school dedicated
+			  to 3D videogame artwork. I have made a quake1
+			  PC for my final exam, and this is my 2nd quake
+			  project. Putting this model into Q2 was tough,
+		 	  as all my previous experience was with q1.
+			  (That explains why I used 4 apps just to get
+			  the skin done I guess :) ) By the way I invite
+			  anyone to submit skins or vwep's for it! Just
+			  E-mail me. Comments welcome :)
+
+Additional Credits to   : Id Software, Nintendo for the original idea.
+
+Thanks to               : Kinetix, makers of 3DS Max; the authors of QME,
+			  NST, Qmodeller and Studio MDX for their
+			  kick-ass work. Ridah for the Eraser bots.
+			  the Planetquake network for existing.
+
+================================================================
+* Play Information *
+
+New Sounds              : No (but it would rock)
+CTF Skins               : Of course yes.
+VWEP Support            : Yes. Well, um, uh, read the Bugs section.
+
+* Construction *
+
+Poly Count              : 636 polys
+Vert Count              : 354 Verts
+Skin Count              : 1 skin, plus red and blue ctf skins = 3 (really)
+
+Base                    : New model from scratch (I don't see how I
+			  could've modified the male player to look like
+			  that :P )
+
+Editor used             : 3D Studio Max 2.0 for modeling and animating
+			  Paintshop Pro 5 for the skins
+			  QME, NST, Qmodeller, Studio Mdx for quake-stuff
+
+Known Bugs              : VWEP: this model was not modeled with vwep in
+			  mind. doh. The way the stand animation is set up,
+			  any weapon put in his hand sticks out of the
+			  bounding box by a large amount (too much if you
+			  ask me). So to avoid the dreaded GL diapers
+			  with non-vwep models, I have made vwep files
+			  all containing the same hand gun until I find
+			  a way to resolve this matter.
+			  Also, the skin has 50% wasted space, which is
+			  pretty high, as I said this is my first q2
+			  modeling experience and I am not yet very good
+			  at optimizing skin space. Same with the gun.
+			  Most likely, a new version will be released
+			  when I solve these problems.
+
+Build/Animation time    : Build time, a cool 3 hours and a half. (yay)
+			  Animation time, mmm, a week. (ok)
+                          Time to put into Q2, 1 week and a half. (eek)
+
+* How to use this model *
+
+Unzip, Unrar, Untar, unarj, unwhatever this archive under your
+\quake2\baseq2\players\ folder, under the folder name \starfox\.
+(full path then becomes \quake2\baseq2\players\starfox )
+
+If the model does not show up in the multiplayer setup menu, check to
+make sure there are no files in \quake2\baseq2\players\ , then verify
+if the model file (tris.md2), pcx skin images and vwep md2's are present
+in \starfox\ . Compare with another already-installed model. If this does
+not make it work, go to http://www.planetquake.com/q2pmp, in the
+Development Central, Troubleshooting section for more information and 
+solutions to your problem.
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+You are allowed to use this player model only for personnal purposes.
+If you want to include it in a mod of any kind, or any other use,
+contact me through email, my address is at the beginning of this text.
+This model is not to be sold. Please notify me if you wish to modify it.
+In no event shall the author be liable for damage to your quake2 or computer.
+
+================================================================
+
+**Data stream completed successfully (00193)**
+
+_Logoff
+**Logoff sequence successful**
+**Thank you, have a nice day**
+
+
+
+
+
+
+(You've read so far? Ok here's a scoop, i'm planning to do a Rocko model,
+you know, from Rocko's Modern Life? That show is sooo good. It's already
+in the works, model coming along nicely.)

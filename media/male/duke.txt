@@ -1,0 +1,35 @@
+QUAKE2 SKIN	     	[duke.pcx]                   [1/7/98]
+
+Author:		Mr.Mean
+
+E-Mail:		mrmean666@hotmail.com
+
+Files:		
+
+duke.pcx, duke_i.pcx, duke.txt
+
+Instructions:	
+
+Just unzip all these files to your quake2/baseq2/players/male/                
+directory.
+
+Important:
+ 	
+I am not responsible if you stuff this up, your actions are	   	
+your own and I take no responsability.
+
+Other:  	
+
+This skin is supposed to be Duke Nukem (duh), and is my first attempt at a q2 skin.
+Its mostly a cut and paste job, based on id's claymore skin. I used the aqua pants 
+and the black boots from Patrick Curry's (aka. Millennium mill@ritualistic.com) 
+colored skin pack (mill_q2clrskns.zip). I did the blonde hair and shades myself.
+I used Adobe Photoshop, and Paintshop Pro. I'm sure someone else could do a much
+better duke skin, and probably will....but I didnt want to wait =). I want to see
+Dukes running around all over the place =).
+
+DISCLAIMER:	
+
+Skin authors MAY use this skin as a base for other skins. This		skin is available ONLY for free distribution via BBS, FTP, and		other free electronic means. This skin MAY NOT be included in any		CD-ROM or other product whose sales earn profit for their publishers.
+
+PS: 		I used Gateway's layout for this text file. His email address is		gateway@mobsters.com

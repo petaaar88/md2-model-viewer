@@ -1,0 +1,57 @@
+
+February 22nd 1999
+================================================================
+Model Name              : Barny The Door
+installation directory  : quake2/baseq2/players/barny
+Author                  : ProzaQ the "chilled"
+Email Address           : prozaq@metsys-open.demon.co.uk
+
+Model description       : You know the expression, "Couldn't hit a barn door!" Well,
+                          finally, someone (me) has constructed one for you to wear
+                          to see if the old cliche holds true...
+
+Other info              : A humerous model to play in... While testing, Flatus & I
+                          discovered that you can turn any level into a lumber yard
+                          quite easily...
+
+Additional Credits to   : id Software, makers of 3D Studio & Quake2 model Editor, and
+                          flatus@hehe.com for the sounds.
+
+Thanks to               : Psepha for the inspiration
+                          His Flatulence for sounds and testing
+                          The Who Clucked? CtC Clan for being all-round good-eggs
+                          http://members.tripod.com/WhoClucked
+                          Anyone who can supply me with a cable-modem connection...
+================================================================
+* Play Information *
+
+New Sounds              : YES
+CTF Skins               : YES
+VWEP Support            : YES - via included (dos) batch file
+
+
+* Construction *
+Poly Count              : 264 polys
+Vert Count              : 148 Verts
+Skin Count              : 1 Skin
+Number of Skin Vertices : 310
+Number of Frames        : 198
+Average Triangle Size   : 632
+Base                    : New model
+Editors used            : 3D Studio Max and Quake2 Model Editor v0.83
+Known Bugs              : Wood graining of pine skin shows V pale - hence name...
+Build/Animation time    : Four days
+
+
+* How to use this model *
+
+Simply select Barny as the player model you wish to use in the usual way from the multiplayer
+setup in Quake2.
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Please use/distribute this model as you see fit. Please also feel free to design new skins,
+but I would prefer you leave the models and sounds alone... I would also appreciate a copy of
+any new skins, should you design them... Credits for this model go without saying...

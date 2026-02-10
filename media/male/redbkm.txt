@@ -1,0 +1,14 @@
+Type: 		QUAKE2 SKIN
+Name: 		Zombie-Soldier
+Release Date: 	Jan.12 1998
+Author:		Banded Kray
+E-Mail:		bandedk@nagold.netsurf.de
+	    	
+Files:		redbkm.pcx ; redbkm_i.pcx
+			
+
+Instructions:	Just unzip all these files to your 
+	        quake2/baseq2/players/male directory
+
+Description: 	Zombie-Soldier with Shiny-Red-Armour.
+		

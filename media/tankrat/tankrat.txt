@@ -1,0 +1,45 @@
+Finished July 1999, send March 2000
+TankRat PPM v1.0
+============================================================================
+Model Name              : TankRat
+Installation directory  : quake2/baseq2/players/tankrat
+Author                  : Ryott85
+Email Address           : ryott85@hotmail.com
+Model description       : TankRat is a lovely little rat until it gets night,
+                          'cuz then he crawls into his tank and teleports
+                          himself to the Quake II battlefield and kicks ass.
+Additional thanks to    : My little sister and my friends for beta-testing,
+                          and id for Quake II (and III thank you very much).
+                          Also Acid from the Mr. Karrot PPM for letting me 
+                          know that the Potator was on Polycount.com
+============================================================================
+* Play Information *
+New Sounds              : YES
+CTF Skins               : YES
+VWEP Support            : Nope. Not necessary
+============================================================================
+* Construction *
+Poly Count              : 216
+Vert Count              : 143
+Skin Count              : 4 DM, 2 CTF
+Skin Size               : 256 x 256
+Build time              : Less than 2 days
+Note                    : The weapon.md2 is empty, 'cuz it wasn't
+                          necessary to have an extra gun.
+Editors used            : Modeling - Quake Model Editor (v0.90)
+		          Animation- Quake Model Editor (v0.90)
+		          Skinning - Quake Model Editor (v0.90)
+		          Painting - Paint Shop Pro (v5.01)
+		          Viewing  - Nullsoft JawMD2 (v1.31)
+                                   - Skinview Studio
+Known Bugs              : When walking, you still hear foorsteps, and when
+                          falling into lava you still hear a guy screaming.
+                          Also, the model is kinda small. But that shouldn't
+                          be no problem right?
+============================================================================
+* Copyright / Permissions *
+You may freely copy this model all over the world, as long as you keep this
+text file with it. Please don't change these files without my permission.
+
+QUAKE II(R) and the other named games are registered trademarks of id
+Software, Inc.

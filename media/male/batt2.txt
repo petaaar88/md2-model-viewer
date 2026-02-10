@@ -1,0 +1,11 @@
+
+   Player Name:
+
+	BatterY
+
+   Very brief description
+
+	Uses armor, hair and face from Voodoo, but an almost
+	nude skin. Gl-optimized, skin areas are in sunc with
+	model recesses and rises.
+

@@ -1,0 +1,57 @@
+March 2000
+Potator PPM v1.0
+============================================================================
+Model Name              : The Potator, a.k.a. the mercenary potatoe
+Installation directory  : quake2/baseq2/players/potator
+Author                  : Ryott85
+Email Address           : ryott85@hotmail.com
+Construction note       : Please don't blame me about the animations,
+                          I only have Q2modeller which has no bone
+                          support. Next models by me may be made
+                          with some better tools. For so long,
+                          you'll have to do it with the Potator...
+Model description       : The Potator is a rough cigarette-smoking potatoe
+                          who lives in the small town Sexbeerum. After a
+                          long day of watching tv, the Potator likes
+                          running around with rocket launchers and
+                          chainguns, gunning everything down on his way.
+Additional thanks to    : My little sister and my friends for beta-testing,
+                          and of course id for Quake II, the first really
+                          good game they made since Wolfenstein. Right, the
+                          Doom series were kinda good, but Quake I really
+                          sucks in any case :P
+			  AND QUAKE III KICKS MORE ASS THAN ANYTHING ELSE!!!
+			  (I'm just a little late submitting it, the model
+                          was actually finished in July 1999)
+============================================================================
+* Play Information *
+New Sounds              : YES
+CTF Skins               : YES
+VWEP Support            : Nope
+============================================================================
+* Construction *
+Poly Count              : 305 tris.md2 / 40 weapon.md2
+Vert Count              : 531 tris.md2 / 26 weapon.md2
+Skin Count              : 1 DM, 2 CTF
+Skin Size               : 256x256 tris.md2 / 136x60 weapon.md2
+Base                    : Scratch
+Build time              : About 3 full days
+Editors used            : Modeling - Quake Model Editor (v0.90)
+		          Animation- Quake Model Editor (v0.90)
+		          Skinning - Quake Model Editor (v0.90)
+		          Painting - Paint Shop Pro (v5.01)
+		          Viewing  - Nullsoft JawMD2 (v1.31)
+                                   - Skinview Studio
+Known Bugs              : the Potator's stepping sounds aren't parallel
+                          with his running animations. But, who cares? Also
+                          the Potator is kinda easy to hit, but shorter
+                          than the default male model.
+============================================================================
+* Copyright / Permissions *
+You may freely copy this model all over the world, as long as you keep this
+text file with it. Oh, and whoever changes these files without my
+permission,will be used as an ingredient for a meal of dutch hotchpotch. So
+beware, 'cuz that's disgusting :)
+
+QUAKE II(R) and the other named games are registered trademarks of id
+Software, Inc.

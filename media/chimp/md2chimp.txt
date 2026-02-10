@@ -1,0 +1,48 @@
+
+10/6/1999
+================================================================
+Model Name              : Schlong Chimp
+installation directory  : quake2/baseq2/players/chimp
+Author                  : Schlong Chimp
+Email Address           : chimp@kleider.net
+
+Model description       : He's a chimp with a banana, a big
+                          banana!
+
+Other info              : First Q2 model, made to commemorate my 100,000th
+                          kill as reported by CLQ. ( Schlong ChimpKG )
+
+Additional Credits to   : id Software, and the authors of Q2MDLR and NST
+                          and Zoid for writing CTF.
+
+Thanks to               : Mondo Media ( job ) & Everyone who gave their
+                          two cents about the chimp.
+================================================================
+* Play Information *
+
+New Sounds              : YES
+CTF Skins               : YES
+VWEP Support            : NO ( Maybe later )
+
+
+* Construction *
+Poly Count              : 628 polys
+Vert Count              : 316 Verts
+Skin Count              : 1 Skin ( excluding CTF )
+Base                    : New model
+Editor used             : NSTv09b3,q2mdlr9b,Qtip,Photoshop,3DSMax2.5,Nendo
+Known Bugs              : don't think so... ;}
+Build/Animation time    : 5 days
+
+
+* How to use this model *
+
+Install into <QuakeRoot>\baseq2\players\chimp
+
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Let me know if you use it for anything... other than that I don't mind
+if you use it for non-commercial purposes. (C) Kleider '99 

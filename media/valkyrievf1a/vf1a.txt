@@ -1,0 +1,110 @@
+
+6/12/98
+
+================================================================
+
+Model Name              : Valkyrie VF-1A
+
+installation directory  : quake2/baseq2/players/valkyrie_vf1a
+
+Author                  : Dan Bickell
+
+Skin Author : Dan Bickell (of course)
+
+Email Address           : danbickell@loop.com
+
+
+
+Model description       : This is a VF-1A model Valkyrie, a
+			transforming mech from the popular
+			anime TV series "Macross"
+
+
+Other info              : all standing frames are in battroid mode, 
+			crouching animations are all in gerwalk
+			mode, and the taunt sequence transforms
+			to fighter
+
+			This model is over 900 polys due to it's
+			transforming nature, so it's not recommmended
+			for use on slow systems, as it may reduce the
+			frame rate more than typical plugin players.
+
+			*****This model is based on the earlier Valkyrie 
+			VF-1S ppm, with an alternate head and new
+			skins.  Otherwise, it is exactly the same
+			as the VF-1S.  I went ahead and made the
+			conversions due to popular demand, but I don't
+			have the time to go back in and tweak the 
+			animations.
+
+Additional Credits to   : id Software for making this possible...
+
+
+
+Thanks to               : everybody who dumped so much praise on me
+			for the VF-1S, and who kept bugging me for
+			the other variants.  Here you go :)
+
+================================================================
+
+* Play Information *
+
+
+
+New Sounds              : no.  too bad you can't have custom footstep
+			sounds.
+
+CTF Skins               : yep.
+
+VWEP Support            : no.  Valkyries carry GU-11 gun pods only :)
+
+
+
+
+
+* Construction *
+
+Poly Count              : 905
+
+Vert Count              : 596 Verts
+
+Skin Count              : 5 Skins
+
+Base                    : Valkyrie VF-1S 
+
+Editor used             : Lightwave 3D 5.5, Q2 Modeler 0.9, NST 0.9,
+			Paintshop Pro, Photoshop
+
+Known Bugs              : none
+
+Build/Animation time    : Approx. 20 hrs to convert both new models and 
+			make new skins.
+
+
+
+
+* How to use this model *
+
+Unzip all files to your quake2\baseq2\players\valkyrie_vf1a\ directory, 
+and select at player setup in multiplayer menu.  
+
+
+
+* Copyright / Permissions *
+
+Do whatever you want with it, just give me credit and don't sell it 
+(unless you want to give me my cut)
+
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+
+
+
+
+
+
+
+
+

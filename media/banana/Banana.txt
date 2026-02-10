@@ -1,0 +1,60 @@
+
+[B-insert number here] from the 
+
+B A N A N A 'S in P Y J A M A S  Q U A K E  C L A N 
+
+
+Author:         Dan Ward aka GaratJax[B5]
+Email:          dan@steelkey.com.au
+Web:            http://bip.atnet.net.au
+
+
+This is a clan model so you may be asked to remove it 
+if you use it when playing in Australia , if you are asked by a BiP 
+identified with [B insert number here] at the end of thier name please 
+do :) 
+
+setup
+
+Unzip this stuff into quake2/baseq2/players/nana, otherwise, it doesn't work.
+you should have the following placed in said dir:
+
+tris.md2        banana model
+weapon.md2      his gun model
+bip_i.pcx       the multiplayer select icon
+bip.pcx         skin
+weapon.pcx      gun skin
+banana.txt      this file
+
+
+Extras :
+
+i have included a mesh skin for both the tris and weapon mdl2 
+which will make skinning less of a chore.
+
+: Bugs :
+
+Skin doesnt look 100% great on the left arm but as our clan has
+individual skins i couldnt be bothered f@#$%ing around with it :) 
+
+
+: Discalimer :
+
+Do what you wish with this model as long as its not for
+commercial purposes and you give me a credit. 
+
+
+: Thanks :
+
+Steki from D E C O N S T R U C T who created the best mdl2 so far
+Fule 4.46 believe it or not this banana model was created using
+Fule as a guide :) 
+
+the Mighty Bananas in Pyjama the ultimate quake clan !!!!!!
+
+http://bip.atnet.net.au
+
+Pheww !!! thank god its finally done !!! 
+
+
+

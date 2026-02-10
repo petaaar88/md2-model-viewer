@@ -1,0 +1,39 @@
+Name of skin : Metallica, Female skin
+Date         : February 13th, 1998
+Author       : Ian Bagley
+E-mail       : Bige@Nildram.co.uk
+
+
+Files included
+-----------
+Metallica.pcx
+Metallica_i.pcx
+Metallica.txt
+Metallica.gif
+
+
+About skin
+------
+A female skin based on Ian Waugh's Electroglyde and Gunmetal skins.
+A lot of alteration was needed to make the skin fully metallic, hence
+the name. Sorry to all you headbangers out there, who thought that
+this was something to do with the band Metallica!!
+
+If you like this skin I have several more male and female skins that
+I have created using my existing skins and a bit of imagination.
+
+The Gif file was made using an openGL md2 viewer and is included to
+show how the skin will look in a game.
+
+INSTALLATION
+------------
+Winzip or Pkunzip into your c:\quake2\baseq2\players\Female Dir.
+
+
+NOTES
+-----
+Please distrubute this skin throught the web..
+
+Feel free to use skin as it is. If you wish to amend the skin please
+have the courtesy to E Mail me first. If you distiibute this skin,
+this text file should always be included.

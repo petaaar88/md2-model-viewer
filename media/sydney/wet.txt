@@ -1,0 +1,27 @@
+Name of skin : Wet Suit Lara Croft, skin for Sydney plug in player model
+Date         : May 6, 1998
+Author       : Dion Isgro / Rage [DL]  
+E-mail       : vpi1@ix.netcom.com
+
+
+Files included
+-----------
+Wet.pcx
+Wet_i.pcx
+Wet.txt
+
+About skin
+------
+After the first Lara Croft skin I put together.. Lara2.zip
+I made this one based of the wetsuit she wares in Tomb Raider2.
+
+INSTALLATION
+------------
+Winzip or Pkunzip into your c:\quake2\baseq2\players\sydney  Dir.
+
+Rember U must have the sydney model for this to work!!
+
+NOTES
+-----
+Please distrubute this skin throught the web..
+Feel free to use skin as a base for others.

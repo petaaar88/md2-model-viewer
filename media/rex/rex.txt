@@ -1,0 +1,47 @@
+
+7-19-98
+================================================================
+Model Name              : RECS - Robotically engineered control system
+installation directory  : quake2/baseq2/players/rex
+Author of this model    : Blake 'Ezride' Robinson
+
+Email Address           : kingblake@x-stream.co.uk (this model)
+
+Skin Author             : Blake 'Ezride' Robinson
+
+Model description       : REX, T-Rex... A mechanical dinosaur.
+			  It has some of my best animation in it
+			  (Check out the fluently animated tail!)
+			  (and the taunt animation ;p)
+
+Other info              : none, really.
+
+Additional Credits to   : id Software, 
+                          Quake model editor v.90
+			  3D studio max 1.2 creators, Kinetix
+
+================================================================
+* Play Information *
+
+New Sounds              : No
+CTF Skins               : YES! :D
+VWEP Support            : No
+
+
+* Construction *
+Poly Count              : 700 polys
+Vert Count              : 416 vertices
+Skin Count              : 3 skins
+Base                    : Totally new model
+Editor used             : PSP 5, 3D studio max 1.2, Quake model editor (THE best)
+Known Bugs              : the weapon is a little out of sync in the crouch anims :(
+Build/Animation time    : 2 hours modelling,  2 hours animating, 1/2 hour skinning
+
+* How to use this model *
+ermm.. unzip it to /quake2/baseq2/players/rex and run Q2 :)
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+This model is the property of Blake Robinson and may not be distributed
+commercially without his approval.

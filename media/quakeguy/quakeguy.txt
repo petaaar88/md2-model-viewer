@@ -1,0 +1,25 @@
+This is the Quake player model by Rikki Knight. The player and weapon skin are id softwares.
+
+These files must be in quake2\baseq2\players\quakeguy or they won't work.
+
+Start up a game of Quake 2, and go to the Multiplayer menu.  Choose the Quakeguy model.
+
+Tools used:  Qme
+             Quake 2 modeller 0.83
+             Nst v060
+             The Quake player mdl	
+
+Time spent:  2 days
+
+Homepage:  http://home.swbell.net/wigger/skinframes.htm 
+                  (My skin and models web site)
+
+Bugs: none so far.
+
+email:   wigger@swbell.net
+
+Thanks: to Kray-zee for some advice on modeling.
+
+P.S.: If you guys start transfering skins from Quakeworld for this model, e-mail them to me 
+     so I can put a skin pack up on my skins site. Thanks...
+

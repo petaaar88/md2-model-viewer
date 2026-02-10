@@ -1,0 +1,136 @@
+Type: 		Quake 2 Multiplayer Pluggin Model
+
+Name: 		ai
+                ai ( as in video girl ai ) as far as I know means 'love' in Japanese
+                but then it could be a.i., atrifical intelligence, or both ( some kind of 
+                robot love doll? doh I'm to late for all that aren't I ) or then it good be
+                neither... You decide. Its really easy to spell though ;)
+
+Release Date: 	28th August 1999
+
+Author:		Ian Waugh    
+
+E-Mail:		gundam@btinternet.com or ian.waugh@virgin.net
+
+Homepage: 	No    (I've got a design and its on the things to do list)
+
+Files:		ai        zip       890,202  28/08/99  23:47
+                ( containing these )
+                tris      md2       355,420  24/08/99  23:47
+		weapon    pcx        17,304  24/08/99  23:36
+		ai_i      pcx         1,869  28/08/99  20:38
+		ai        pcx        44,932  28/08/99  18:46
+		ctf_b     pcx        45,357  28/08/99  18:46
+		ctf_b_i   pcx         1,865  28/08/99  20:56
+		ctf_r     pcx        46,035  28/08/99  18:46
+		ctf_r_i   pcx         1,876  28/08/99  20:56
+		weapon    md2        53,012  22/08/99  23:21
+		bump1     wav        6,664   26/08/99  22:38
+		pain25_2  wav        18,002  25/08/99  22:06
+		pain25_1  wav        21,892  25/08/99  22:12
+		pain50_2  wav        16,270  25/08/99  22:08
+		pain50_1  wav        22,782  25/08/99  22:09
+		pain75_2  wav        21,194  25/08/99  22:07
+		pain75_1  wav        30,008  25/08/99  22:17
+		pain100_2 wav        33,294  25/08/99  22:19
+		pain100_3 wav        30,464  25/08/99  22:20
+		jump1     wav        15,042  25/08/99  22:22
+		gurp1     wav        26,318  26/08/99  22:34
+		gurp2     wav        17,502  25/08/99  22:23
+		fall1     wav         7,330  25/08/99  22:26
+		fall2     wav        17,616  25/08/99  22:24
+		drown     wav        66,440  25/08/99  22:42
+		death1    wav        34,770  25/08/99  22:48
+		death2    wav        43,204  25/08/99  22:47
+		death4    wav        28,402  25/08/99  22:44
+		death3    wav        48,568  25/08/99  22:46
+                ai        txt         8,492  28/08/99  22:47
+
+Instructions:	Create a folder   Quake2\baseq2\players\ai
+                and just unzip all of the file into there.
+
+		This model can be freely distributed electronically as long as this text file is included, unmodified.
+		If you wish to  include it in a compilation, Mod or commerical product, please email me first.
+	
+Description: 	She is just a fairly generic anime style girl with idealised human female proportions,
+                long legs, short body, pert chest etc. I hope it isn't to unrealistic. It is not ment to be any
+                one character in particular, but the main skin is based on the pic mentioned below
+                The gun is a sort of large caliber submachine gun thingy, again Shirow influnced. I though it might
+                make a change to give Q2 a charcter a small gun ;)
+                
+Influences:	Most of the things I do  tend to be influenced by Masamune Shirow, Kenichi Sonada and Kia Asamiya, and ai is no exception.
+                The main influnce for the skin is this one particular picture by Masmnue Shirow  (try one of these links to see it )
+                http://www.angelfire.com/ga/hobbes3000/images/ghost6s.jpg 
+                http://x4tech.simplenet.com/intron/shirow11.jpg
+                ai doesn't even come close to doing that masterpiece justice.
+                 
+Model Info:	Vertices   	  : 404
+                Mapping Vertcies  : 573
+		Polygons      	  : 799 tris
+		Skin       	  : 256x256, none attached
+                Wasted skin space : 23%
+
+Weapon Info:	Vertices   	  : 61
+                Mapping Vertcies  : 94
+		Polygons      	  : 173 tris
+		Skin       	  : 128x128. 1 skin attached to the model /baseq2/players/ai/weapon.pcx
+                Wasted skin space : 20%
+
+VWEP:           No
+
+Tools used:  	Mesh			: Inspire 3D 1.0  (Actually model in Max? NEVER i say ;) )
+		Animation and Mapping   : 3D Studio Max R2.5 and Character Studio 2.0 
+					  ( Although Character studio is the best animation software
+                                            I have ever used, I prefer the general Inspire/lightwave way of doing things 
+                                            and I'm really looking forward to Lightwave[6] )
+                                          IOUV 0.7 max script was used to transfer mapping to q2 model editor
+                                          ASCMaker plugging to export from MAX to asc files for Q2 modeler
+		Skins			: NST .92b,  Corel Photopaint 8.0 ( because its better than photoshop ( I'm trying to be contraversial here ) )
+		Compiling		: Quake2 Model Editor .9 	
+		Viewing			: JawMD2, The Skin View mod and MS2 viewer
+
+Sounds:		The sounds are based on the standard ID Software samples, but have been processed to be more kawaii.
+                Many thanks to my brother Dave for the audio work, removing a lot of the noise and clicks, re-pitching 
+                and time stretching them.
+
+                Dave is an audio perfectionist and sample wiz, and he would like me to point out he (only he) considers
+                the sounds a bit poor, because of the raw material he had to work on are of low audio quality. 
+         
+Model Notes:    Ok its my first Q2 model, don't be too rough on me. It is actually my fouth plugin player model, but the last
+                three , MajorK, Etac and ASWAT where for Half-Life. I figured if I ever want to turn this hobby into a
+                paying gig, then I better learn to animate sharpish. Hence I did a Q2 model, really just for anim practice.
+                This is my excuse for not doing lots of skins, orginal sounds and VWEP (not a very good excuse is it ). 
+
+                The model its self has a few problems, a few edges I really should of turned, the fingers do strange things
+                if you look very close. The poly count is high for such a generic figure, ( but if you have vodoo2 or TNT or
+ 		better it is not like you will actually notice the higher number of polys ).
+                Not all of the vertices do a lot of work, it isn't that optimal, the ones halfway down the limbs don't do 
+                much but I put them there to try and prevent to much deformation and give the Character studio bulge editor
+                something to use. The model is a little to square and boxy for all of those polys.
+
+                Mapping again has a couple of minor problem areas, but it does'nt affect it that much. I really should of
+                detached the arms from the body to get more room for the body sides. 
+                Wasted space is a little high, but I prefer something that is easy to skin then soemthing that used
+                every spare pixel of space.
+
+                Animation was a new challenge, I am fairly happy with the results but I really should of done more with legs 
+                they stay planted to the floor to much and aren't very interesting. The run's stride anim is a bit short and
+                the model appears to skate a bit in game.  Plus I did all of the anims as sperate files, not one big one, 
+                this make reaplying bip files after model changes VERY tedious and pretty much rules out VWEP 'cause of the
+                amount of work involved. I could'nt really combine the anims because I used the CS feet stay to much on
+                its own without setting keys like I should of. Stupid. Next model I'll do as one big file.
+
+                Anyway it was a learning experience.
+    
+
+Other:  	I sometimes can be found as "Gundam", late at night on Wireplay, Barry's world and other UK servers, 
+                playing Kingpin, Half Life, TFC, Counterstrike or even Quake2.
+	
+Thanks:		Dave for the work on the sounds
+		The authors of NST, Quake2 Model Editor, IOUV script and ASCMaker pluggin. This model would of not been possible without you.		
+                Cold Fusion, The Q2PMP and 3D The bodyshop for posting my last models and saying nice things about them.
+                Everybody who emailed me about Etac, MajorK and ASWAT. many thanks for the words of encouragment.
+		Every one who has done a Player model before, thanks for the inspiration and now I 
+		really appreciate the work you put in to bring them to life.
+                And not forgettting ID Software for Quake2
+               

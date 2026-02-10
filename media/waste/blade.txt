@@ -1,0 +1,31 @@
+Name of skin : Bobafett, skin for WASTE plug in player model
+Date         : January 31, 1998
+author       : Dion Isgro   
+E-mail       : vpi1@ix.netcom.com
+
+
+Files included
+-----------
+blade.pcx
+blade_i.pcx
+blade.txt
+
+
+About skin
+------
+Blade is the Mortal enemy of Waste.
+He hates every thing..and he comes from the south,
+Cause he sports a confedrate flag
+
+
+INSTALLATION
+------------
+Winzip or Pkunzip into your c:\quake2\baseq2\players\waste  Dir.
+
+u must have the waste plug in player model to use!!!
+
+NOTES
+-----
+Please distrubute this skin throught the web..
+
+Feel free to use skin as a base for others.

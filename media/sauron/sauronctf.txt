@@ -1,0 +1,9 @@
+Just some skins for using the Sauron model with Capture the Flag
+
+put these in your Quake2/baseq2/players/sauron folder
+
+
+"Normal Sauron skin recolored with a few touches from the old
+CTF skins."
+
+Done by C Wolf 13 [cwolf13@hotmail.com]

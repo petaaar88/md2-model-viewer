@@ -1,0 +1,39 @@
+-------------
+Dr. Faustus
+-------------
+
+Name:		Dr. Gabriel Faustus w/ vwep support and sounds
+Author:		Oringal Model and Textures - Paul Interrante
+                Animation and Quake2 Conversion - Brad Grace - roc4u@gte.net
+Email:		thrillkill@vie.com
+
+Time spent:	about 1 week all together
+Editor:		Q2Mdl v.90 - NST .91b - Lightwave - Photoshop
+Description:	Dr. Faustus is a demented, twisted "bear trap for a mouth" plastic surgeon
+		residing in Los Angeles, CA.  He is one of the main combatants in Thrill Kill, a 
+		Sony PlayStation 4 player fighting game to be released this October.
+		
+Installation:
+
+	Unzip all the files into a subdirectory called "DrFaustus"
+	in your players directory.  You can then select DrFaustus in
+	the multiplayer setup menu in Quake 2.  That's all there is to
+	it.
+
+Skins:
+
+	The skin used is the same as the skin used in the Sony PlayStation game.
+
+Comments:
+
+	If you have any comments, I would like to hear them.  Please
+	send them to the email address mentioned above.
+
+What I am currently working on:
+
+	If there is a lot of interest, I may go ahead and do the "Belladonna" character 
+	from Thrill Kill.  She is a hot, sexy, vengeful dominatrix with a cattle prod.  Ouch!
+
+Special thanks to Kray-Zee for his help.
+
+Have fun with the new model!

@@ -1,0 +1,52 @@
+
+<INSERT DATE HERE>
+================================================================
+Model Name              : SkullMech
+installation directory  : quake2/baseq2/players/skullmech
+Author                  : Skullhunter
+Email Address           : Skullhuntr@prodigy.net
+
+Model description       : I never even meant to start this project. SkullMech was just the IRC
+                          bot I built for #nexus a long time ago. He works a lot better as a
+                          PPM. :)
+
+
+Other info              : Nope, except that it's 4:00 AM in the bloody morning here.
+
+Additional Credits to   : ID Software, my wife for not shooting me for spending hours working
+                          on this thing. Definitely EvilBastard, without whose patience, help,
+                          and encouragement, I most likely would have beaten my computer into
+                          scrap with my forehead.
+
+Thanks to               : The #nexus gang, who have all eagerly awaited Mech's completion. It's
+                          done now, are you F&%KING HAPPY?!? :)
+================================================================
+* Play Information *
+
+New Sounds              : Not yet
+CTF Skins               : No.
+VWEP Support            : Working on it.
+
+
+* Construction *
+Poly Count              : 680
+Vert Count              : I think it's 360.
+Skin Count              : Just one right now, be patient.
+Base                    : Totally new model.
+Editor used             : qME, NST, PaintShopPro, Photoshop, alien technology I'm not allowed to
+                          tell you about...  ...oops.
+Known Bugs              : Just those annoying tiny little brown ants that we keep finding in the 
+                          apartment.
+Build/Animation time    : About three months, I think.
+
+* How to use this model *
+
+Unzip all files to wherever you have Quake2,the zip file is set up to make the right directories, 
+and select at player setup in multiplayer menu.  
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+You can use this model as a base for other models, but don't you even think about doing it 
+without giving me credit.

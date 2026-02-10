@@ -1,0 +1,5 @@
+VWEP add-on for SuperMale plug-in player model v1.0
+1998 by Paolo Piselli
+
+This archive only contains the visible weapon models
+for SuperMale.  No skins are included with this arcive.

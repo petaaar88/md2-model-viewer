@@ -1,0 +1,30 @@
+Here is the Uberdog, a genetic experiment designed to produce the 
+most loyal of soldiers.    
+
+files included:
+this text file
+tris.md2
+weapon.md2
+uber.pcx
+uber_i.pcx
+weapon.pcx
+uberpic.gif - a picture of the uberdog
+cowboy.gif - a preview of my next model
+
+
+unzip these files to quake2\baseq2\players\uberdog
+
+A soundpack will be following shortly and vwep support will be added
+when I've got all the other weapons done (currently I have the weapon
+md2's but the skins aren't working).
+
+By all means make some skins for this fellow, especially CTF skins.
+I've come to the conclusion that I'm a better modeller than skinner.
+
+If you are going you want to use this model in a mod, partial or total
+conversion please get my permission first.  Also if you plan to use 
+this model as a base for one of your own please contact me first.
+
+Jude Martin
+jude.martin@virgin.net
+ 

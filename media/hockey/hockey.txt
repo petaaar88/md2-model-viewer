@@ -1,0 +1,97 @@
+16/02/99
+
+================================================================
+
+Model Name              : Mr Hockey
+
+installation directory  : quake2/baseq2/players/hockey
+
+Author                  : James Ferris
+
+Skin Author 		: same as above
+
+Email Address           : ferris@canada.com
+
+Model description       : 
+
+Hey.... He's a hockey player!  The story here is quite simple.... As the war stretches 
+on... and on, the supply of good marines is running out!  Mankind simply does not have 
+an endless supply of top-notch fighting men and women.... and before they trusted their 
+survival to half-assed fighting men and women, they went to the next best sourch of mean,
+lean, nasty combatants.... Hockey players, of course!  They were outfitted with special
+blades on their skates, enabling them to glide across any surface (lava still burns, though!)
+and of course, they traded sticks for guns.... They may be hockey players, but they're not
+stupid!
+
+
+Other info              : 
+
+Mr Hockey is my second QuakeII model so far.... other ideas are in the works, but too 
+little time to work on them means I don't know when the next will be along... Mr Hockey
+is a little simple in his animations, but I think the run and deaths work very well. He
+has two team skins, CTF skins, and three blank coloured skins for you to use as a base 
+for your own fav teams. I had planned to do the 'original six', but that plan got 
+sidetracked and eventually trashed.
+
+
+Additional Credits to   : id for making such a great game.
+
+================================================================
+
+* Play Information *
+
+
+New Sounds              : N
+
+CTF Skins               : Y
+
+VWEP Support            : N
+
+
+
+* Construction *
+
+Poly Count              : <487 polys for tris.md2>
+			  <72 polys for weapon>
+
+Vert Count              : <268 Verts for tris.md2>
+			  <42 Verts for weapon>
+
+Skin Count              : 4 plus 3 base skins (that's 7 total for you math geniuses)
+
+Base                    : New model
+
+Editor used             : 3DS r4 (if its good enough for Paul and the boys...)
+			  qMe for the md2 conversion
+			  Photoshop, Paint Shop Pro
+			  NPherno's skin tool.
+
+Known Bugs              : He's not perfectly centered.... 3DS4 has a few probs with precicion
+			  Other than that, I havn't found any problems yet.  I don't know
+			  what the skins look like without 3D acceleration, but I hope
+			  they work well.  One "bug" with the skin... any logo placed on his
+			  helmet will be backwards on the one side - deal with it.
+
+Build/Animation time    : Uncounted hours.... the longest part is exporting all the frames, 
+			  one by one from 3DS4.
+
+
+
+* How to use this model *
+
+
+unzip it into a "hockey" directory in your baseq2/players directory and bang away!
+
+
+* Copyright / Permissions *
+
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+Photoshop(R) ia a registered trademark of Adobe systems, Inc
+
+
+If you want to play around with Mr. Hockey, go ahead, but give me credit in future
+releases. Thanx
+
+
+

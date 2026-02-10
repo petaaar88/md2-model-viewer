@@ -1,0 +1,35 @@
+This is the 3rd release of this model and by far the best....i finally got the hang of NST and now i can actually lay out a skinmesh that doesnt make the average modeler laugh too hard at me....feel free to make as many skins as you like for the puppy considering it only has 5% wasted space now you can put some detail in there...although my skins suck i am sure some of you can make it kick ass (hint hint)
+
+and remember LEGALIZE MARIJUANA pretty please :p
+
+
+Model Name              : BONG
+installation directory  : quake2/baseq2/players/bong
+Author                  : MaDMiKe
+Email Address           : madmike@mediaone.net
+Model description       : it is a BONG on a skateboard
+Other info              : <OTHER STUFF>
+Additional Credits to   : 
+Thanks to               : UHHHHHH
+================================================================
+* Play Information *
+New Sounds              : YES
+CTF Skins               :no
+VWEP Support            : NO
+* Construction *
+Poly Count              : DUNNO
+Vert Count              : 
+Skin Count              : 3
+Base                    : New 
+model Editor used             : QUAKE2 MODEL EDITOR
+Known Bugs              : NONE THAT I KNOW
+Build/Animation time    : EACH MODEL WAS BUILT WITHIN 24 HOURS
+
+* How to use this model *
+FOR EXAMPLE IF YOU ARE INSTALLING THE X MODEL YOU WOULDJUST UNZIP THE MODEL THE MODEL TO QUAKE2\BASEQ2\PLAYERS\X
+
+* Copyright / Permissions *QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+<Other Legal info about the use of your model>
+
+IT IS MINE...ALL MINE.....BUT FEEL FREE TO DO WITH IT AS YOU WISH...BUT PLEASE ASK PERMISSION FROM ME FIRST

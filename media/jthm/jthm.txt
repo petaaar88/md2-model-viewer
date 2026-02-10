@@ -1,0 +1,78 @@
+04.06.99
+
+================================================================
+Model Name              : Johnny the Homicidal Maniac, v1.0
+installation directory  : quake2/baseq2/players/jthm
+Author                  : Pestilence
+Email Address           : pestilence@psychosis-studios.com
+Web Address		: www.psychosis-studios.com
+
+Model description       : From the pages of Johnny the Homicidal
+			  Maniac comes, uh... Johnny the Homicidal
+			  Maniac. His name more or less says it
+			  all, but if you don't know who he is, or 
+			  or just need the floating bunny head 
+			  explained, feed Jhonen Vasquez's thirst 
+ 			  for power, souls and cash, and pick up a 
+			  copy of the brilliant seven issue series 
+			  (now available in trade paperback form). 
+
+Other info              : This model is officially sanctioned by 
+			  Johnny's creater (and copyright holder),
+			  Jhonen Vasquez.
+                          Also, this is my third model, I'm still 
+			  learning. Help me to learn. Tell me why 
+			  you think the model's a stinky-poo.
+
+Additional Credits to   : id software, Jhonen Vasquez
+
+Thanks to               : Jhonen Vasquez (can you tell I like this
+			  guy?), Kray-Zee, Evil Bastard and
+			  Magarnigal for their LightWave guidance
+================================================================
+
+* Play Information *
+New Sounds              : nope
+CTF Skins               : yep
+VWEP Support            : yep
+
+* Construction *
+Poly Count              : tris-603
+			  weapon-varied (id VWep)
+Vert Count              : tris-331
+			  weapon-varied (id VWep)
+Skin Count              : 5
+
+Base                    : built from scratch (except for the left
+			  hand, which is from my Cammy model)
+
+Editor used             : Modeling:   Lightwave 5.6
+			  Animating:  Lightwave 5.6 + Puppet Master
+			  Skinning:   Npherno's Skin Tool .9b3
+				      Photoshop 4.0.1
+			  Testing:    Skinview 4.3
+
+Known Bugs              : Johnny's shirt tails have a shimmery 
+			  looking effect (especially when using the
+			  CTF skins). I didn't realize it would happen
+ 			  until all the animations were done, so I 
+			  didn't bother re-animating the whole thing.
+			  Animations Death1 and Death2 just don't 
+			  quite look right. Back to the drawing board
+			  on that. 
+			  The model's kinda' skinny, but shouldn't 
+			  prove to be TOO unfair or hard to see 
+			  (especially with id's huge weapons).
+Build/Animation time    : 2 weeks, roughly
+
+* How to use this model *
+Unzip everything here into your Quake2 directory. That's it!
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+Johnny the Homicidal Maniac and Nail Bunny are (C) Jhonen Vasquez and 
+used with permission.  
+Everyone else, don't try to make money off this thing, or Jhonen or I 
+will come after you and put you down. And I don't mean insult you...
+Although we'd probably do that too. If you want to use the model 
+otherwise, please let me know.

@@ -1,0 +1,47 @@
+File Name   : Homerskn.zip
+Version     : 1.0
+Date        : October 27, 1998
+E-mail      : gambit@ratloop.com
+	      or, gambit@idirect.ca
+Author      : Aaron Webster
+
+TYPE OF MOD 
+-----------
+DLL      : No
+Sound    : No
+MDL      : No
+Maps     : No
+Graphics : Yes
+FORMAT
+------
+MD2 format
+
+INSTALLATION
+------------
+unzip all files into your /players/Homer directory overwrite existing ones, older skins have been changed a bit (you probably won't notice)
+
+NOTES
+-----
+This Zip includes
+Regular Homer
+Negotiator Homer
+Wrestling Homer
+Briefs Homer
+CTF Homer(s)
+
+Was gonna do a suit Homer but changed my mind. I'm not doing anymore skins unless someone can find me a decent pic of Homer when he's an astronaught.
+
+
+
+BUGS
+----
+Doubt it...
+
+COPYRIGHT/PERMISSIONS
+----------------------
+Homer Simpson is the property of 20th Century Fox corp. All rights reserved. This patch is not to be sold in any way, and it is for entertainment purposes only. You may distribute this patch unaltered and only if it's unaltered. I take no responsibility for what you do with this file.
+
+
+Special thanks to everyone who sent me Homer pics!
+
+-Aaron

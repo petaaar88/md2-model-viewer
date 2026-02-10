@@ -1,0 +1,14 @@
+This is the Snork Skin Pack!  Unzip to the folder that CONTAINS your Quake 2 folder.  So if 
+your Quake 2 folder is c:\quake2 then unzip to c:\
+
+
+If you don't have the snork player model, get it from http://www.planetquake.com/modeling
+ 
+
+The snork player model was made by KrAy-ZeE (kray-zee@planetquake.com)
+
+
+Thanx to all the people who made the snork model such a success, Planet Quake for hosting 
+my site, and Evil Uncle Harold for the welfare check...
+
+-=KrAy-ZeE=-

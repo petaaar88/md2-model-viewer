@@ -1,0 +1,41 @@
+<8th-August-1998>
+================================================================
+Model Name              : The Space Chickens
+installation directory  : quake2/baseq2/players/chicken
+Author                  : MrSoft (Matthew Stephen)
+Email Address           : mrsoft@softhome.net
+
+Model description       : Chickens that came from space to kill us all!
+                          An elite squad consisting of a mitiary planning expert, a
+                          cyborg, an insane weapons expert and a dum stow-away.
+
+Other info              : They dont like chicken farmers
+
+Additional Credits to   : id Software, MDL, NST, MD2 Viewer and Skinview
+
+Thanks to               : coffee & pizza
+================================================================
+* Play Information *
+
+New Sounds              : YES - (Mostly borrowed and slightly modified)
+CTF Skins               : NO
+VWEP Support            : NO
+
+
+* Construction *
+Poly Count              : 229 polys
+Vert Count              : 95 Verts
+Skin Count              : 2 Skins
+Base                    : New model
+Editor used             : Lightwave and MDL
+Known Bugs              : None that I remember
+Build/Animation time    : 2 Day's (ish - First model I produced)
+
+
+* How to use this model *
+
+Simply install in the directory shown at the top of this readme
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.

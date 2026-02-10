@@ -1,0 +1,21 @@
+               -=[Fat lady Plug n Play Model Sounds]=-
+                 -----------------------------------
+                           by: Malengine
+                   e-mail: d-con420@geocities.com
+
+=[description]=
+-=[and again, a soundpack for a player model- the fat lady
+
+=[Note]=
+-=[this will only work with v3.12 and up. 
+
+=[Instructions]= 
+-=[unzip all the files to the baseq2\players\fat folder (or the  
+-=[folder your fat lady tris.md2 file is in)
+
+
+
+
+
+-=[questions comments? my address is at the top]=-
+ 
