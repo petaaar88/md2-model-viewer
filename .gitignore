@@ -363,6 +363,6 @@ MigrationBackup/
 FodyWeavers.xsd
 
 
-media/
+*.txt
 
 MD2ModelViewer/
