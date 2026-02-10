@@ -75,3 +75,9 @@ media/
 
 - [Irrlicht Engine 1.8.5](https://irrlicht.sourceforge.io/) - OpenGL renderer
 - C++
+
+## Assets
+
+This project uses Quake 2 player models from the community:
+- Downloaded from: http://tastyspleen.net/quake/downloads/all-players.zip
+- Original assets from Quake II by id Software
