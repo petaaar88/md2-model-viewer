@@ -18,6 +18,7 @@ enum
     ID_LOAD_BUTTON,
     ID_WEAPON_CHECKBOX,
     ID_ANIMATION_COMBO,
+    ID_FRAMERATE_COMBO,
     ID_MODEL_PATH_EDIT,
     ID_MODEL_TEX_EDIT,
     ID_WEAPON_PATH_EDIT,
@@ -53,6 +54,10 @@ static const wchar_t* animationNames[] = {
 };
 static const int ANIM_COUNT = 20;
 
+// Framerate options
+static const f32 framerateValues[] = { 10.0f, 20.0f, 30.0f, 60.0f };
+static const int FRAMERATE_COUNT = 4;
+
 // Global pointers
 static IrrlichtDevice* device = nullptr;
 static IVideoDriver* driver = nullptr;
@@ -69,13 +74,14 @@ static IGUIEditBox* editWeaponPath = nullptr;
 static IGUIEditBox* editWeaponTex = nullptr;
 static IGUICheckBox* weaponCheckbox = nullptr;
 static IGUIComboBox* animCombo = nullptr;
+static IGUIComboBox* framerateCombo = nullptr;
 static IGUIButton* btnBrowseWeapon = nullptr;
 static IGUIButton* btnBrowseWeaponTex = nullptr;
 static IGUIStaticText* lblWeaponPath = nullptr;
 static IGUIStaticText* lblWeaponTex = nullptr;
 
-// Track which file dialog is open
-static s32 activeFileDialog = 0;
+// Panel dimensions
+static const s32 PANEL_W = 310;
 
 void setWeaponUIEnabled(bool enabled)
 {
@@ -83,6 +89,23 @@ void setWeaponUIEnabled(bool enabled)
     btnBrowseWeaponTex->setEnabled(enabled);
     editWeaponPath->setEnabled(enabled);
     editWeaponTex->setEnabled(enabled);
+}
+
+f32 getSelectedFramerate()
+{
+    s32 sel = framerateCombo->getSelected();
+    if (sel >= 0 && sel < FRAMERATE_COUNT)
+        return framerateValues[sel];
+    return 10.0f;
+}
+
+void applyAnimationSpeed()
+{
+    f32 speed = getSelectedFramerate();
+    if (playerNode)
+        playerNode->setAnimationSpeed(speed);
+    if (weaponNode)
+        weaponNode->setAnimationSpeed(speed);
 }
 
 void loadModel()
@@ -132,7 +155,6 @@ void loadModel()
     else {
         playerNode->setMD2Animation(EMAT_STAND);
     }
-    playerNode->setAnimationSpeed(40);
     playerNode->setLoopMode(true);
 
     // Load weapon if checkbox is checked
@@ -156,7 +178,6 @@ void loadModel()
                         if (wpnTex)
                             weaponNode->setMaterialTexture(0, wpnTex);
                     }
-                    weaponNode->setAnimationSpeed(40);
                     weaponNode->setMD2Animation(EMAT_STAND);
                     weaponNode->setLoopMode(true);
                 }
@@ -166,6 +187,9 @@ void loadModel()
             }
         }
     }
+
+    // Apply selected framerate
+    applyAnimationSpeed();
 }
 
 class MyEventReceiver : public IEventReceiver
@@ -181,22 +205,18 @@ public:
             if (type == EGET_BUTTON_CLICKED)
             {
                 if (id == ID_BROWSE_MODEL) {
-                    activeFileDialog = ID_FILE_DIALOG_MODEL;
                     guienv->addFileOpenDialog(L"Select MD2 Model", true, 0, ID_FILE_DIALOG_MODEL);
                     return true;
                 }
                 if (id == ID_BROWSE_MODEL_TEX) {
-                    activeFileDialog = ID_FILE_DIALOG_MODEL_TEX;
                     guienv->addFileOpenDialog(L"Select Model Texture", true, 0, ID_FILE_DIALOG_MODEL_TEX);
                     return true;
                 }
                 if (id == ID_BROWSE_WEAPON) {
-                    activeFileDialog = ID_FILE_DIALOG_WEAPON;
                     guienv->addFileOpenDialog(L"Select Weapon MD2", true, 0, ID_FILE_DIALOG_WEAPON);
                     return true;
                 }
                 if (id == ID_BROWSE_WEAPON_TEX) {
-                    activeFileDialog = ID_FILE_DIALOG_WEAPON_TEX;
                     guienv->addFileOpenDialog(L"Select Weapon Texture", true, 0, ID_FILE_DIALOG_WEAPON_TEX);
                     return true;
                 }
@@ -239,12 +259,15 @@ public:
                     if (sel >= 0 && sel < ANIM_COUNT) {
                         playerNode->setMD2Animation((EMD2_ANIMATION_TYPE)sel);
                         playerNode->setLoopMode(true);
-                        // Sync weapon animation
                         if (weaponNode) {
                             weaponNode->setMD2Animation((EMD2_ANIMATION_TYPE)sel);
                             weaponNode->setLoopMode(true);
                         }
                     }
+                    return true;
+                }
+                if (id == ID_FRAMERATE_COMBO) {
+                    applyAnimationSpeed();
                     return true;
                 }
             }
@@ -268,89 +291,150 @@ int main()
     smgr = device->getSceneManager();
     guienv = device->getGUIEnvironment();
 
+    // --- Load a bigger font ---
+    IGUIFont* bigFont = guienv->getFont("libs/irrlicht-1.8.5/media/fonthaettenschweiler.bmp");
+    if (bigFont) {
+        IGUISkin* skin = guienv->getSkin();
+        skin->setFont(bigFont);
+    }
+
     // --- Build GUI panel on the left side ---
-    s32 panelX = 10;
-    s32 y = 10;
-    s32 labelW = 120;
-    s32 editW = 200;
-    s32 btnW = 30;
-    s32 rowH = 25;
-    s32 gap = 5;
+    s32 panelX = 15;
+    s32 y = 15;
+    s32 editW = 210;
+    s32 btnW = 55;
+    s32 rowH = 28;
+    s32 gap = 6;
+
+    // Background panel (a static text with border and background covering the whole panel area)
+    s32 panelH = 590;
+    IGUIStaticText* panelBg = guienv->addStaticText(L"",
+        rect<s32>(5, 5, PANEL_W, panelH), true, true, 0, -1, true);
+    panelBg->setBackgroundColor(SColor(200, 30, 30, 30));
 
     // Title
-    guienv->addStaticText(L"=== MD2 Model Viewer ===",
-        rect<s32>(panelX, y, panelX + 300, y + 20), false, false, 0, -1, false);
-    y += rowH + gap;
+    IGUIStaticText* title = guienv->addStaticText(L"MD2 Model Viewer",
+        rect<s32>(panelX, y, panelX + 280, y + 25), false, false, panelBg, -1, false);
+    title->setOverrideColor(SColor(255, 200, 200, 255));
+    y += 30;
+
+    // Separator line (thin static text with border)
+    guienv->addStaticText(L"",
+        rect<s32>(panelX, y, PANEL_W - 15, y + 1), true, false, panelBg, -1, true)
+        ->setBackgroundColor(SColor(255, 80, 80, 80));
+    y += 8;
 
     // --- Model Path ---
-    guienv->addStaticText(L"Model (.md2):",
-        rect<s32>(panelX, y, panelX + labelW, y + 20), false, false, 0, -1, false);
-    y += 20;
+    IGUIStaticText* lbl;
+    lbl = guienv->addStaticText(L"Model (.md2):",
+        rect<s32>(panelX, y, panelX + 200, y + 22), false, false, panelBg, -1, false);
+    lbl->setOverrideColor(SColor(255, 220, 220, 220));
+    y += 24;
 
     editModelPath = guienv->addEditBox(L"media/alien/tris.md2",
-        rect<s32>(panelX, y, panelX + editW, y + rowH), true, 0, ID_MODEL_PATH_EDIT);
-    guienv->addButton(rect<s32>(panelX + editW + gap, y, panelX + editW + gap + btnW + 20, y + rowH),
-        0, ID_BROWSE_MODEL, L"...", L"Browse for model");
-    y += rowH + gap + 5;
+        rect<s32>(panelX, y, panelX + editW, y + rowH), true, panelBg, ID_MODEL_PATH_EDIT);
+    guienv->addButton(rect<s32>(panelX + editW + gap, y, panelX + editW + gap + btnW, y + rowH),
+        panelBg, ID_BROWSE_MODEL, L"...", L"Browse for model");
+    y += rowH + gap + 4;
 
     // --- Model Texture ---
-    guienv->addStaticText(L"Model Texture:",
-        rect<s32>(panelX, y, panelX + labelW, y + 20), false, false, 0, -1, false);
-    y += 20;
+    lbl = guienv->addStaticText(L"Model Texture:",
+        rect<s32>(panelX, y, panelX + 200, y + 22), false, false, panelBg, -1, false);
+    lbl->setOverrideColor(SColor(255, 220, 220, 220));
+    y += 24;
 
     editModelTex = guienv->addEditBox(L"media/alien/alien.pcx",
-        rect<s32>(panelX, y, panelX + editW, y + rowH), true, 0, ID_MODEL_TEX_EDIT);
-    guienv->addButton(rect<s32>(panelX + editW + gap, y, panelX + editW + gap + btnW + 20, y + rowH),
-        0, ID_BROWSE_MODEL_TEX, L"...", L"Browse for texture");
+        rect<s32>(panelX, y, panelX + editW, y + rowH), true, panelBg, ID_MODEL_TEX_EDIT);
+    guienv->addButton(rect<s32>(panelX + editW + gap, y, panelX + editW + gap + btnW, y + rowH),
+        panelBg, ID_BROWSE_MODEL_TEX, L"...", L"Browse for texture");
     y += rowH + gap + 10;
+
+    // Separator
+    guienv->addStaticText(L"",
+        rect<s32>(panelX, y, PANEL_W - 15, y + 1), true, false, panelBg, -1, true)
+        ->setBackgroundColor(SColor(255, 80, 80, 80));
+    y += 8;
 
     // --- Weapon Checkbox ---
     weaponCheckbox = guienv->addCheckBox(false,
-        rect<s32>(panelX, y, panelX + 200, y + 20), 0, ID_WEAPON_CHECKBOX, L"Load Weapon");
-    y += rowH + gap;
+        rect<s32>(panelX, y, panelX + 22, y + 22), panelBg, ID_WEAPON_CHECKBOX, L"");
+    lbl = guienv->addStaticText(L"Load Weapon",
+        rect<s32>(panelX + 24, y, panelX + 200, y + 22), false, false, panelBg, -1, false);
+    lbl->setOverrideColor(SColor(255, 255, 255, 255));
+    y += 28;
 
     // --- Weapon Path ---
     lblWeaponPath = guienv->addStaticText(L"Weapon (.md2):",
-        rect<s32>(panelX, y, panelX + labelW, y + 20), false, false, 0, -1, false);
-    y += 20;
+        rect<s32>(panelX, y, panelX + 200, y + 22), false, false, panelBg, -1, false);
+    lblWeaponPath->setOverrideColor(SColor(255, 220, 220, 220));
+    y += 24;
 
     editWeaponPath = guienv->addEditBox(L"media/alien/weapon.md2",
-        rect<s32>(panelX, y, panelX + editW, y + rowH), true, 0, ID_WEAPON_PATH_EDIT);
+        rect<s32>(panelX, y, panelX + editW, y + rowH), true, panelBg, ID_WEAPON_PATH_EDIT);
     btnBrowseWeapon = guienv->addButton(
-        rect<s32>(panelX + editW + gap, y, panelX + editW + gap + btnW + 20, y + rowH),
-        0, ID_BROWSE_WEAPON, L"...", L"Browse for weapon model");
-    y += rowH + gap + 5;
+        rect<s32>(panelX + editW + gap, y, panelX + editW + gap + btnW, y + rowH),
+        panelBg, ID_BROWSE_WEAPON, L"...", L"Browse for weapon model");
+    y += rowH + gap + 4;
 
     // --- Weapon Texture ---
     lblWeaponTex = guienv->addStaticText(L"Weapon Texture:",
-        rect<s32>(panelX, y, panelX + labelW, y + 20), false, false, 0, -1, false);
-    y += 20;
+        rect<s32>(panelX, y, panelX + 200, y + 22), false, false, panelBg, -1, false);
+    lblWeaponTex->setOverrideColor(SColor(255, 220, 220, 220));
+    y += 24;
 
     editWeaponTex = guienv->addEditBox(L"media/alien/weapon.pcx",
-        rect<s32>(panelX, y, panelX + editW, y + rowH), true, 0, ID_WEAPON_TEX_EDIT);
+        rect<s32>(panelX, y, panelX + editW, y + rowH), true, panelBg, ID_WEAPON_TEX_EDIT);
     btnBrowseWeaponTex = guienv->addButton(
-        rect<s32>(panelX + editW + gap, y, panelX + editW + gap + btnW + 20, y + rowH),
-        0, ID_BROWSE_WEAPON_TEX, L"...", L"Browse for weapon texture");
+        rect<s32>(panelX + editW + gap, y, panelX + editW + gap + btnW, y + rowH),
+        panelBg, ID_BROWSE_WEAPON_TEX, L"...", L"Browse for weapon texture");
     y += rowH + gap + 10;
 
-    // Disable weapon fields initially (checkbox unchecked)
+    // Disable weapon fields initially
     setWeaponUIEnabled(false);
 
+    // Separator
+    guienv->addStaticText(L"",
+        rect<s32>(panelX, y, PANEL_W - 15, y + 1), true, false, panelBg, -1, true)
+        ->setBackgroundColor(SColor(255, 80, 80, 80));
+    y += 8;
+
     // --- Load Button ---
-    guienv->addButton(rect<s32>(panelX, y, panelX + 260, y + 35),
-        0, ID_LOAD_BUTTON, L"Load Model", L"Load the selected model and texture");
-    y += 45;
+    guienv->addButton(rect<s32>(panelX, y, PANEL_W - 15, y + 38),
+        panelBg, ID_LOAD_BUTTON, L"Load Model", L"Load the selected model and texture");
+    y += 48;
+
+    // Separator
+    guienv->addStaticText(L"",
+        rect<s32>(panelX, y, PANEL_W - 15, y + 1), true, false, panelBg, -1, true)
+        ->setBackgroundColor(SColor(255, 80, 80, 80));
+    y += 8;
+
+    // --- Framerate Selection ---
+    lbl = guienv->addStaticText(L"Animation Speed (FPS):",
+        rect<s32>(panelX, y, panelX + 250, y + 22), false, false, panelBg, -1, false);
+    lbl->setOverrideColor(SColor(255, 220, 220, 220));
+    y += 24;
+
+    framerateCombo = guienv->addComboBox(
+        rect<s32>(panelX, y, PANEL_W - 15, y + rowH), panelBg, ID_FRAMERATE_COMBO);
+    framerateCombo->addItem(L"10 FPS");
+    framerateCombo->addItem(L"20 FPS");
+    framerateCombo->addItem(L"30 FPS");
+    framerateCombo->addItem(L"60 FPS");
+    framerateCombo->setSelected(2); // default 30 FPS
+    y += rowH + gap + 8;
 
     // --- Animation Selection ---
-    guienv->addStaticText(L"Animation:",
-        rect<s32>(panelX, y, panelX + labelW, y + 20), false, false, 0, -1, false);
-    y += 20;
+    lbl = guienv->addStaticText(L"Animation:",
+        rect<s32>(panelX, y, panelX + 200, y + 22), false, false, panelBg, -1, false);
+    lbl->setOverrideColor(SColor(255, 220, 220, 220));
+    y += 24;
 
     animCombo = guienv->addComboBox(
-        rect<s32>(panelX, y, panelX + 260, y + rowH), 0, ID_ANIMATION_COMBO);
+        rect<s32>(panelX, y, PANEL_W - 15, y + rowH), panelBg, ID_ANIMATION_COMBO);
     for (int i = 0; i < ANIM_COUNT; i++)
         animCombo->addItem(animationNames[i]);
-    animCombo->setSelected(0); // STAND
+    animCombo->setSelected(0);
 
     // --- Maya-style camera ---
     ICameraSceneNode* cam = smgr->addCameraSceneNodeMaya(
